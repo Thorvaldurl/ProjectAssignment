@@ -1,0 +1,10 @@
+movieId: 706
+title: Sunset Park
+year: 1996
+url: https://www.imdb.com/title/tt0117784/
+ratingValue: 
+directors: Steve Gomer
+actors: Rhea Perlman, Fredro Starr, Carol Kane, Terrence Howard, Camille Saviola, De'aundre Bonds, Talent Harris, Anthony C. Hall, Antwon Tanner, Shawn Michael Howard
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

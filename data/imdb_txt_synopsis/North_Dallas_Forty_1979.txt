@@ -1,0 +1,10 @@
+movieId: 3506
+title: North Dallas Forty
+year: 1979
+url: https://www.imdb.com/title/tt0079640/
+ratingValue: 
+directors: Ted Kotcheff
+actors: Nick Nolte, Mac Davis, Charles Durning, Dayle Haddon, Bo Svenson, John Matuszak, Steve Forrest, G.D. Spradlin, Dabney Coleman, Savannah Smith Boucher
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8577
+title: Comandante
+year: 2003
+url: https://www.imdb.com/title/tt0342213/
+ratingValue: 
+directors: Oliver Stone
+actors: Fidel Castro, Oliver Stone, Juanita Vera, Ernesto 'Che' Guevara, John F. Kennedy, Richard Nixon, Eva Perón, Janet Reno, Jaume Roures
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

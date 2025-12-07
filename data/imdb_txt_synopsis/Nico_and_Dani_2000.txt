@@ -1,0 +1,10 @@
+movieId: 4147
+title: Nico and Dani
+year: 2000
+url: https://www.imdb.com/title/tt0250478/
+ratingValue: 
+directors: Cesc Gay
+actors: Fernando Ramallo, Jordi Vilches, Marieta Orozco, Esther Nubiola, Chisco Amado, Ana Gracia, Myriam Mézières, Muntsa Alcañiz, Mingo Ràfols, Pau Durà
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

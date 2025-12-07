@@ -1,0 +1,10 @@
+movieId: 4395
+title: Big Deal on Madonna Street
+year: 1958
+url: https://www.imdb.com/title/tt0052216/
+ratingValue: 
+directors: Mario Monicelli
+actors: Vittorio Gassman, Renato Salvatori, Memmo Carotenuto, Rossana Rory, Carla Gravina, Claudia Cardinale, Carlo Pisacane, Tiberio Murgia, Gina Rovere, Gina Amendola
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 176
+title: Living in Oblivion
+year: 1995
+url: https://www.imdb.com/title/tt0113677/
+ratingValue: 
+directors: Tom DiCillo
+actors: Steve Buscemi, Catherine Keener, Dermot Mulroney, Danielle von Zerneck, James Le Gros, Rica Martens, Peter Dinklage, Kevin Corrigan, Hilary Gilford, Robert Wightman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

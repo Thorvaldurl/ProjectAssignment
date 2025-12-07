@@ -1,0 +1,10 @@
+movieId: 8183
+title: Educating Rita
+year: 1983
+url: https://www.imdb.com/title/tt0085478/
+ratingValue: 
+directors: Lewis Gilbert
+actors: Michael Caine, Julie Walters, Michael Williams, Maureen Lipman, Jeananne Crowley, Malcolm Douglas, Godfrey Quigley, Dearbhla Molloy, Patrick Daly, Kim Fortune
+
+synopsis:
+An English working class girl wants to better herself by studying literature. Her assigned Open University professor however has grown so disillusioned with higher education and all it represents that he initially refuses to teach the vibrant and interesting woman at his door. Despite his protests, he finally accedes to her demands and the education of "Rita" begins. This education comes at considerable cost for Rita, who finds herself growing further and further away from the people she has been closest to as she moves closer and closer to a world that promises more than it can deliver. Starring Michael Caine and Julie Walters, who reprises her role from the stage production. Screenplay by Wiley Russell from his play. Directed by Lewis Gilbert. (PG)

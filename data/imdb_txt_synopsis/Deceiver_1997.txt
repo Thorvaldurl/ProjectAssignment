@@ -1,0 +1,10 @@
+movieId: 1671
+title: Deceiver
+year: 1997
+url: https://www.imdb.com/title/tt0119527/
+ratingValue: 
+directors: Jonas Pate, Josh Pate
+actors: Tim Roth, Chris Penn, Michael Rooker, Renée Zellweger, Ellen Burstyn, Rosanna Arquette, Michael Parks, Mark Damon, J.C. Quinn, Jo-Ann Wilhelm
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

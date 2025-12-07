@@ -1,0 +1,10 @@
+movieId: 6308
+title: Legal Eagles
+year: 1986
+url: https://www.imdb.com/title/tt0091396/
+ratingValue: 
+directors: Ivan Reitman
+actors: Robert Redford, Debra Winger, Daryl Hannah, Brian Dennehy, Terence Stamp, Steven Hill, David Clennon, John McMartin, Jennifer Dundas, Roscoe Lee Browne
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

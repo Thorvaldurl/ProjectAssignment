@@ -1,0 +1,10 @@
+movieId: 6070
+title: Tokyo Decadence
+year: 1992
+url: https://www.imdb.com/title/tt0105622/
+ratingValue: 
+directors: Ryû Murakami
+actors: Miho Nikaido, Sayoko Amano, Tenmei Kano, Masahiko Shimada, Yayoi Kusama, Chie Sema, Magayasu Ishihara, Hiroshi Mikami, Nami Nosaki, Kan Mikami
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

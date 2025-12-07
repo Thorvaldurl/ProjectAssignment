@@ -1,0 +1,10 @@
+movieId: 4453
+title: Michael Jordan to the Max
+year: 2000
+url: https://www.imdb.com/title/tt0245280/
+ratingValue: 
+directors: Don Kempf, James D. Stern
+actors: Michael Jordan, Phil Jackson, Doug Collins, Bob Greene, Bob Costas, Dean Smith, Deloris Jordan, Fred Lynch, Walter Iooss Jr., Bill Murray
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

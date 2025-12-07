@@ -1,0 +1,10 @@
+movieId: 1218
+title: The Killer
+year: 1989
+url: https://www.imdb.com/title/tt0097202/
+ratingValue: 
+directors: John Woo
+actors: Chow Yun-Fat, Danny Lee, Sally Yeh, Kong Chu, Kenneth Tsang, Shing Fui-On, Wing-Cho Yip, Ricky Chun-Tong Wong, Barry Wong
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

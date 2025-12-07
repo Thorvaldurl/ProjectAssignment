@@ -1,0 +1,10 @@
+movieId: 1611
+title: My Own Private Idaho
+year: 1991
+url: https://www.imdb.com/title/tt0102494/
+ratingValue: 
+directors: Gus Van Sant
+actors: River Phoenix, Keanu Reeves, James Russo, William Richert, Rodney Harvey, Chiara Caselli, Michael Parker, Jessica Makinson, Flea, Grace Zabriskie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

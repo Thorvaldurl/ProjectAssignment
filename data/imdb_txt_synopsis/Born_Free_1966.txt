@@ -1,0 +1,10 @@
+movieId: 6232
+title: Born Free
+year: 1966
+url: https://www.imdb.com/title/tt0060182/
+ratingValue: 
+directors: James Hill, Tom McGowan
+actors: Virginia McKenna, Bill Travers, Geoffrey Keen, Peter Lukoye, Omar Chambati, Bill Godden, Bryan Epsom, Robert Cheetham, Robert S. Young
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

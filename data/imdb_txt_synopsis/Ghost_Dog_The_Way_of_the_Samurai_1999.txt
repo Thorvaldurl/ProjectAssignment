@@ -1,0 +1,10 @@
+movieId: 3328
+title: Ghost Dog: The Way of the Samurai
+year: 1999
+url: https://www.imdb.com/title/tt0165798/
+ratingValue: 
+directors: Jim Jarmusch
+actors: Forest Whitaker, John Tormey, Cliff Gorman, Dennis Liu, Frank Minucci, Richard Portnow, Tricia Vessey, Henry Silva, Gene Ruffini, Frank Adonis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

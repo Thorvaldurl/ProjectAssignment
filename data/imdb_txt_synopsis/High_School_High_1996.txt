@@ -1,0 +1,10 @@
+movieId: 833
+title: High School High
+year: 1996
+url: https://www.imdb.com/title/tt0116531/
+ratingValue: 
+directors: Hart Bochner
+actors: Jon Lovitz, Tia Carrere, Louise Fletcher, Mekhi Phifer, Malinda Williams, Guillermo Diaz, Lexie Bigham, Gil Espinoza, John Neville, Brian Hooks
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

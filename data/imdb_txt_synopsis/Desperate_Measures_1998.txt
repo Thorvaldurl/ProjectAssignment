@@ -1,0 +1,10 @@
+movieId: 1598
+title: Desperate Measures
+year: 1998
+url: https://www.imdb.com/title/tt0118966/
+ratingValue: 
+directors: Barbet Schroeder
+actors: Michael Keaton, Andy Garcia, Brian Cox, Marcia Gay Harden, Erik King, Efrain Figueroa, Joseph Cross, Janel Moloney, Richard Riehle, Tracey Walter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

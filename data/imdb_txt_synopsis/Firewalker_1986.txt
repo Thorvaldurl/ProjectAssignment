@@ -1,0 +1,10 @@
+movieId: 2477
+title: Firewalker
+year: 1986
+url: https://www.imdb.com/title/tt0091055/
+ratingValue: 
+directors: J. Lee Thompson
+actors: Chuck Norris, Louis Gossett Jr., Melody Anderson, Will Sampson, Sonny Landham, John Rhys-Davies, Ian Abercrombie, Richard Lee-Sung, Zaide Silvia Gutiérrez, Álvaro Carcaño
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

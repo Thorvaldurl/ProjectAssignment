@@ -1,0 +1,10 @@
+movieId: 1014
+title: Pollyanna
+year: 1960
+url: https://www.imdb.com/title/tt0054195/
+ratingValue: 
+directors: David Swift
+actors: Hayley Mills, Jane Wyman, Richard Egan, Karl Malden, Nancy Olson, Adolphe Menjou, Donald Crisp, Agnes Moorehead, Kevin Corcoran, James Drury
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 631
+title: All Dogs Go to Heaven 2
+year: 1996
+url: https://www.imdb.com/title/tt0115509/
+ratingValue: 
+directors: Larry Leker, Paul Sabella
+actors: Ernest Borgnine, Bebe Neuwirth, Charlie Sheen, Hamilton Camp, Steve Mackall, Dan Castellaneta, Dom DeLuise, Tony Jay, Jim Cummings
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

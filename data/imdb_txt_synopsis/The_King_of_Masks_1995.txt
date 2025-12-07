@@ -1,0 +1,10 @@
+movieId: 2609
+title: The King of Masks
+year: 1995
+url: https://www.imdb.com/title/tt0115669/
+ratingValue: 
+directors: Tian-Ming Wu
+actors: Xu Zhu, Renying Zhou, Zhigang Zhao, Li Chen, Jiannan Dong, Zhaoji Jia, Hong Pan, Gaoqi Tang, Zhonghe Tian
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

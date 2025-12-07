@@ -1,0 +1,10 @@
+movieId: 7748
+title: Pierrot le fou
+year: 1965
+url: https://www.imdb.com/title/tt0059592/
+ratingValue: 
+directors: Jean-Luc Godard
+actors: Jean-Paul Belmondo, Anna Karina, Graziella Galvani, Aicha Abadir, Henri Attal, Pascal Aubier, Maurice Auzel, Raymond Devos, Roger Dutoit
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

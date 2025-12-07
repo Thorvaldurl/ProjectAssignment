@@ -1,0 +1,10 @@
+movieId: 5440
+title: She Wore a Yellow Ribbon
+year: 1949
+url: https://www.imdb.com/title/tt0041866/
+ratingValue: 
+directors: John Ford
+actors: John Wayne, Joanne Dru, John Agar, Ben Johnson, Harry Carey Jr., Victor McLaglen, Mildred Natwick, George O'Brien, Arthur Shields, Michael Dugan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

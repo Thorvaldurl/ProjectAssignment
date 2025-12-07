@@ -1,0 +1,10 @@
+movieId: 4641
+title: Ghost World
+year: 2001
+url: https://www.imdb.com/title/tt0162346/
+ratingValue: 
+directors: Terry Zwigoff
+actors: Thora Birch, Scarlett Johansson, Steve Buscemi, Brad Renfro, Illeana Douglas, Bob Balaban, Stacey Travis, Charles C. Stevenson Jr., Dave Sheridan, Tom McGowan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

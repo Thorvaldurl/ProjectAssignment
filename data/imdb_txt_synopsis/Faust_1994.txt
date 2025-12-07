@@ -1,0 +1,10 @@
+movieId: 1151
+title: Faust
+year: 1994
+url: https://www.imdb.com/title/tt0109781/
+ratingValue: 
+directors: Jan Svankmajer
+actors: Petr Cepek, Jan Kraus, Vladimír Kudla, Antonin Zacpal, Jirí Suchý, Viktorie Knotková, Jana Mézlová, Miluse Straková, Josef Fiala, Martin Radimecký, Ervín Tomendál
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

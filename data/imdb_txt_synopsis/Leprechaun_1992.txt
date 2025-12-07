@@ -1,0 +1,10 @@
+movieId: 7117
+title: Leprechaun
+year: 1992
+url: https://www.imdb.com/title/tt0107387/
+ratingValue: 
+directors: Mark Jones
+actors: Warwick Davis, Jennifer Aniston, Ken Olandt, Mark Holton, Robert Hy Gorman, Shay Duffin, John Sanderford, John Voldstad, Pamela Mant, William Newman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

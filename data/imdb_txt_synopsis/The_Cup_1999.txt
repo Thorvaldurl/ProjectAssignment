@@ -1,0 +1,10 @@
+movieId: 3241
+title: The Cup
+year: 1999
+url: https://www.imdb.com/title/tt0201840/
+ratingValue: 
+directors: Khyentse Norbu
+actors: Orgyen Tobgyal, Neten Chokling, Jamyang Lodro, Lama Chonjor, Lama Godhi, Thinley Nudi, Kunsang, Kunsang Nyima, Pema Tshundup
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

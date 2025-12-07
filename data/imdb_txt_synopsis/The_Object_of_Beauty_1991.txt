@@ -1,0 +1,10 @@
+movieId: 5455
+title: The Object of Beauty
+year: 1991
+url: https://www.imdb.com/title/tt0102573/
+ratingValue: 
+directors: Michael Lindsay-Hogg
+actors: John Malkovich, Andie MacDowell, Lolita Davidovich, Rudi Davies, Joss Ackland, Bill Paterson, Ricci Harnett, Peter Riegert, Jack Shepherd, Rosemary Martin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

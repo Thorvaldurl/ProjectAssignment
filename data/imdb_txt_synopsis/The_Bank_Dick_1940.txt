@@ -1,0 +1,10 @@
+movieId: 3929
+title: The Bank Dick
+year: 1940
+url: https://www.imdb.com/title/tt0032234/
+ratingValue: 
+directors: Edward F. Cline
+actors: W.C. Fields, Cora Witherspoon, Una Merkel, Evelyn Del Rio, Jessie Ralph, Franklin Pangborn, Shemp Howard, Dick Purcell, Grady Sutton, Russell Hicks
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,12 @@
+movieId: 791
+title: The Last Klezmer: Leopold Kozlowski, His Life and Music
+year: 1994
+url: https://www.imdb.com/title/tt0113610/
+ratingValue: 
+directors: Yale Strom
+actors: Leopold Kozlowski
+
+synopsis:
+It looks like we don't have any plot for this title yet. Be the first to contribute.
+
+© 1990- 2025 by IMDb.com, Inc.

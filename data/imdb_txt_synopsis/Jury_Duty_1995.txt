@@ -1,0 +1,10 @@
+movieId: 174
+title: Jury Duty
+year: 1995
+url: https://www.imdb.com/title/tt0113500/
+ratingValue: 
+directors: John Fortenberry
+actors: Pauly Shore, Tia Carrere, Stanley Tucci, Brian Doyle-Murray, Abe Vigoda, Charles Napier, Richard Edson, Richard Riehle, Alex Datcher, Richard T. Jones
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

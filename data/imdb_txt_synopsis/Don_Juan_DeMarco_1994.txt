@@ -1,0 +1,10 @@
+movieId: 224
+title: Don Juan DeMarco
+year: 1994
+url: https://www.imdb.com/title/tt0112883/
+ratingValue: 
+directors: Jeremy Leven
+actors: Marlon Brando, Johnny Depp, Faye Dunaway, Géraldine Pailhas, Bob Dishy, Rachel Ticotin, Talisa Soto, Marita Geraghty, Richard C. Sarafian, Tresa Hughes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

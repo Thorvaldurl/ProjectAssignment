@@ -1,0 +1,10 @@
+movieId: 7815
+title: True Stories
+year: 1986
+url: https://www.imdb.com/title/tt0092117/
+ratingValue: 
+directors: David Byrne
+actors: John Goodman, Annie McEnroe, Jo Harvey Allen, Spalding Gray, Alix Elias, Roebuck 'Pops' Staples, Tito Larriva, John Ingle, Matthew Posey, David Byrne
+
+synopsis:
+A much larger than life portrayal of "those wacky Texans" when entertainment hits the masses. . David Byrne knows about as much about Texas as I do of England. David always bring a rare insight to the sub-conscious! Thank you VH1C for bringing this wonderful film back to us!

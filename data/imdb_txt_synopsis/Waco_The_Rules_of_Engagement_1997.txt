@@ -1,0 +1,10 @@
+movieId: 6667
+title: Waco: The Rules of Engagement
+year: 1997
+url: https://www.imdb.com/title/tt0120472/
+ratingValue: 
+directors: William Gazecki
+actors: Dan Gifford, Jim Cavanaugh, Dick DeGuerin, Clive Doyle, Jack Harwell, Jeff Jamar, Joseph Penno, Dick J. Reavis, Chuck Schumer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

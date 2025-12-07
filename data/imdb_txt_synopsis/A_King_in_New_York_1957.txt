@@ -1,0 +1,10 @@
+movieId: 3640
+title: A King in New York
+year: 1957
+url: https://www.imdb.com/title/tt0050598/
+ratingValue: 
+directors: Charles Chaplin
+actors: Charles Chaplin, Maxine Audley, Jerry Desmonde, Oliver Johnston, Dawn Addams, Sidney James, Joan Ingram, Michael Chaplin, John McLaren, Phil Brown
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7045
+title: The Witches
+year: 1990
+url: https://www.imdb.com/title/tt0100944/
+ratingValue: 
+directors: Nicolas Roeg
+actors: Anjelica Huston, Mai Zetterling, Jasen Fisher, Rowan Atkinson, Bill Paterson, Brenda Blethyn, Charlie Potter, Anne Lambton, Jane Horrocks, Sukie Smith
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

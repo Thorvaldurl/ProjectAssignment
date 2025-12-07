@@ -1,0 +1,10 @@
+movieId: 6753
+title: Secondhand Lions
+year: 2003
+url: https://www.imdb.com/title/tt0327137/
+ratingValue: 
+directors: Tim McCanlies
+actors: Michael Caine, Robert Duvall, Haley Joel Osment, Kyra Sedgwick, Nicky Katt, Josh Lucas, Michael O'Neill, Deirdre O'Connell, Eric Balfour, Christian Kane
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

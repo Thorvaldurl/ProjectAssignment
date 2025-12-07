@@ -1,0 +1,10 @@
+movieId: 1928
+title: Cimarron
+year: 1931
+url: https://www.imdb.com/title/tt0021746/
+ratingValue: 
+directors: Wesley Ruggles
+actors: Richard Dix, Irene Dunne, Estelle Taylor, Nance O'Neil, William Collier Jr., Roscoe Ates, George E. Stone, Stanley Fields, Robert McWade, Edna May Oliver
+
+synopsis:
+A recreation of the famous Oklahoma Land Rush of the late 1880s.

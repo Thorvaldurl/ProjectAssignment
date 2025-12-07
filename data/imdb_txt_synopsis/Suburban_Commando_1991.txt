@@ -1,0 +1,10 @@
+movieId: 5597
+title: Suburban Commando
+year: 1991
+url: https://www.imdb.com/title/tt0103003/
+ratingValue: 
+directors: Burt Kennedy
+actors: Hulk Hogan, Christopher Lloyd, Shelley Duvall, Larry Miller, William Ball, Jo Ann Dearing, Jack Elam, Roy Dotrice, Michael Faustino, Tony Longo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

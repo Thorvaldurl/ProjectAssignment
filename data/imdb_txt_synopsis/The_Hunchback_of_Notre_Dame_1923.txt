@@ -1,0 +1,10 @@
+movieId: 25746
+title: The Hunchback of Notre Dame
+year: 1923
+url: https://www.imdb.com/title/tt0014142/
+ratingValue: 
+directors: Wallace Worsley
+actors: Lon Chaney, Patsy Ruth Miller, Norman Kerry, Kate Lester, Winifred Bryson, Nigel De Brulier, Brandon Hurst, Ernest Torrence, Tully Marshall, Harry von Meter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

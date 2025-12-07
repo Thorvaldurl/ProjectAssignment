@@ -1,0 +1,10 @@
+movieId: 433
+title: Clean Slate
+year: 1994
+url: https://www.imdb.com/title/tt0109443/
+ratingValue: 
+directors: Mick Jackson
+actors: Dana Carvey, Valeria Golino, James Earl Jones, Kevin Pollak, Michael Gambon, Michael Murphy, Jayne Brook, Vyto Ruginis, Olivia d'Abo, Angela Paton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

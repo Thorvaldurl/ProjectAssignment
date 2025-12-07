@@ -1,0 +1,10 @@
+movieId: 7716
+title: The Lonely Guy
+year: 1984
+url: https://www.imdb.com/title/tt0087635/
+ratingValue: 
+directors: Arthur Hiller
+actors: Steve Martin, Charles Grodin, Judith Ivey, Steve Lawrence, Robyn Douglass, Merv Griffin, Joyce Brothers, Candi Brough, Randi Brough, Julie Payne
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

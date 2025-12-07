@@ -1,0 +1,10 @@
+movieId: 6417
+title: Live Wire
+year: 1992
+url: https://www.imdb.com/title/tt0104743/
+ratingValue: 
+directors: Christian Duguay
+actors: Pierce Brosnan, Ron Silver, Ben Cross, Lisa Eilbacher, Tony Plana, Al Waxman, Brent Jennings, Philip Baker Hall, Michael St. Gerard, Clement von Franckenstein
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5338
+title: Full Moon in Blue Water
+year: 1988
+url: https://www.imdb.com/title/tt0095186/
+ratingValue: 
+directors: Peter Masterson
+actors: Gene Hackman, Teri Garr, Burgess Meredith, Elias Koteas, Kevin Cooney, David Doty, Gil Glasgow, Becky Ann Baker, Marietta Marich, Alexandra Masterson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

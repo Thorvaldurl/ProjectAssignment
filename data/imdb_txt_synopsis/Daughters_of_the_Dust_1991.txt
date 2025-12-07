@@ -1,0 +1,10 @@
+movieId: 3374
+title: Daughters of the Dust
+year: 1991
+url: https://www.imdb.com/title/tt0104057/
+ratingValue: 
+directors: Julie Dash
+actors: Cora Lee Day, Alva Rogers, Barbara O, Trula Hoosier, Umar Abdurrahamn, Cheryl Lynn Bruce, Tommy Redmond Hicks, Marcus Humphrey, Bernard Wilson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

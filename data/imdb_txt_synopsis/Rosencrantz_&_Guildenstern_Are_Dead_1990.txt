@@ -1,0 +1,10 @@
+movieId: 1243
+title: Rosencrantz & Guildenstern Are Dead
+year: 1990
+url: https://www.imdb.com/title/tt0100519/
+ratingValue: 
+directors: Tom Stoppard
+actors: Gary Oldman, Tim Roth, Richard Dreyfuss, Livio Badurina, Tomislav Maretic, Mare Mlacnik, Serge Soric, Mladen Vasary, Zeljko Vukmirica
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

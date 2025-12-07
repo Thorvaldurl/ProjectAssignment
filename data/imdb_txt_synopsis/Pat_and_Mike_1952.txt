@@ -1,0 +1,10 @@
+movieId: 7705
+title: Pat and Mike
+year: 1952
+url: https://www.imdb.com/title/tt0045012/
+ratingValue: 
+directors: George Cukor
+actors: Spencer Tracy, Katharine Hepburn, Aldo Ray, William Ching, Sammy White, George Mathews, Gussie Moran, Babe Didrikson Zaharias, Don Budge, Alice Marble
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

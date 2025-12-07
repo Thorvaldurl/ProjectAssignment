@@ -1,0 +1,10 @@
+movieId: 3819
+title: Tampopo
+year: 1985
+url: https://www.imdb.com/title/tt0092048/
+ratingValue: 
+directors: Jûzô Itami
+actors: Tsutomu Yamazaki, Nobuko Miyamoto, Kôji Yakusho, Ken Watanabe, Rikiya Yasuoka, Kinzô Sakura, Yoshi Katô, Hideji Ôtaki, Fukumi Kuroda, Setsuko Shinoi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

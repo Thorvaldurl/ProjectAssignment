@@ -1,0 +1,10 @@
+movieId: 4962
+title: Texas Rangers
+year: 2001
+url: https://www.imdb.com/title/tt0193560/
+ratingValue: 
+directors: Steve Miner
+actors: James Van Der Beek, Rachael Leigh Cook, Ashton Kutcher, Dylan McDermott, Usher, Tom Skerritt, Randy Travis, Leonor Varela, Brian Martell, Alfred Molina
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 250
+title: Heavyweights
+year: 1995
+url: https://www.imdb.com/title/tt0110006/
+ratingValue: 
+directors: Steven Brill
+actors: David Goldman, Joseph Wayne Miller, Cody Burger, Allen Covert, Tim Blake Nelson, Nancy Ringham, Seth St. Laurent, Bobby Fain, Tom McGowan, Aaron Schwartz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

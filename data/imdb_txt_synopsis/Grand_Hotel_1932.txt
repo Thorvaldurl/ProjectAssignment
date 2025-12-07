@@ -1,0 +1,10 @@
+movieId: 1929
+title: Grand Hotel
+year: 1932
+url: https://www.imdb.com/title/tt0022958/
+ratingValue: 
+directors: Edmund Goulding
+actors: Greta Garbo, John Barrymore, Joan Crawford, Wallace Beery, Lionel Barrymore, Lewis Stone, Jean Hersholt, Robert McWade, Purnell Pratt, Ferdinand Gottschalk
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

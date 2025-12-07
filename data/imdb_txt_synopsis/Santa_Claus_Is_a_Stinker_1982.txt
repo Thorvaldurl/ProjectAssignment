@@ -1,0 +1,10 @@
+movieId: 6119
+title: Santa Claus Is a Stinker
+year: 1982
+url: https://www.imdb.com/title/tt0084555/
+ratingValue: 
+directors: Jean-Marie Poiré
+actors: Anémone, Josiane Balasko, Marie-Anne Chazel, Christian Clavier, Gérard Jugnot, Thierry Lhermitte, Bruno Moynot, Martin Lamotte, Jacques François, Michel Blanc
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

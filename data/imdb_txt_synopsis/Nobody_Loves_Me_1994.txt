@@ -1,0 +1,10 @@
+movieId: 106
+title: Nobody Loves Me
+year: 1994
+url: https://www.imdb.com/title/tt0110251/
+ratingValue: 
+directors: Doris Dörrie
+actors: Maria Schrader, Pierre Sanoussi-Bliss, Michael von Au, Elisabeth Trissenaar, Ingo Naujoks, Joachim Król, Peggy Parnass, Lorose Keller, Anya Hoffmann, Erwin Grosche
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

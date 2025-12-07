@@ -1,0 +1,10 @@
+movieId: 1757
+title: Fallen Angels
+year: 1995
+url: https://www.imdb.com/title/tt0112913/
+ratingValue: 
+directors: Wong Kar-Wai
+actors: Leon Lai, Michelle Reis, Takeshi Kaneshiro, Charlie Yeung, Karen Mok, Fai-Hung Chan, Man-Lei Chan, Toru Saito, To-Hoi Kong
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

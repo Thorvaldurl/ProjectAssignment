@@ -1,0 +1,10 @@
+movieId: 1480
+title: Smilla's Sense of Snow
+year: 1997
+url: https://www.imdb.com/title/tt0120152/
+ratingValue: 
+directors: Bille August
+actors: Jens Jørgen Fleischer, Julia Ormond, Agga Olsen, Patrick Field, Matthew Marsh, Gabriel Byrne, Jim Broadbent, Tom Wilkinson, Charlotte Bradley, Richard Harris
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3756
+title: The Golden Bowl
+year: 2000
+url: https://www.imdb.com/title/tt0200669/
+ratingValue: 
+directors: James Ivory
+actors: Kate Beckinsale, James Fox, Anjelica Huston, Nick Nolte, Jeremy Northam, Madeleine Potter, Uma Thurman, Nicholas Day, Peter Eyre, Nickolas Grace
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

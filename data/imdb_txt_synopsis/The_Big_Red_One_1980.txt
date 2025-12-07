@@ -1,0 +1,10 @@
+movieId: 4826
+title: The Big Red One
+year: 1980
+url: https://www.imdb.com/title/tt0080437/
+ratingValue: 
+directors: Samuel Fuller
+actors: Lee Marvin, Mark Hamill, Robert Carradine, Bobby Di Cicco, Kelly Ward, Stéphane Audran, Siegfried Rauch, Serge Marquand, Charles Macaulay, Alain Doutey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

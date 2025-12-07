@@ -1,0 +1,10 @@
+movieId: 393
+title: Street Fighter
+year: 1994
+url: https://www.imdb.com/title/tt0111301/
+ratingValue: 
+directors: Steven E. de Souza
+actors: Jean-Claude Van Damme, Raul Julia, Ming-Na Wen, Damian Chapa, Kylie Minogue, Simon Callow, Byron Mann, Roshan Seth, Andrew Bryniarski, Grand L. Bush
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

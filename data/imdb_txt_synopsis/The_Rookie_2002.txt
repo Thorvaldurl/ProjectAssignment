@@ -1,0 +1,10 @@
+movieId: 5267
+title: The Rookie
+year: 2002
+url: https://www.imdb.com/title/tt0265662/
+ratingValue: 
+directors: John Lee Hancock
+actors: Dennis Quaid, Rachel Griffiths, Jay Hernandez, Beth Grant, Angus T. Jones, Brian Cox, Rick Gonzalez, Chad Lindberg, Angelo Spizzirri, Royce D. Applegate
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

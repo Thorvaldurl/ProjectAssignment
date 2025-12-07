@@ -1,0 +1,9 @@
+movieId: 49286
+title: The Holiday
+year: 2006
+url: https://www.imdb.com/title/tt0457939/
+ratingValue: 
+directors: Nancy Meyers
+actors: Cameron Diaz, Kate Winslet, Jude Law, Jack Black, Eli Wallach, Edward Burns, Rufus Sewell, Miffy Englefield, Emma Pritchard, Sarah Parish
+
+synopsis:

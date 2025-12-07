@@ -1,0 +1,10 @@
+movieId: 1379
+title: Young Guns II
+year: 1990
+url: https://www.imdb.com/title/tt0100994/
+ratingValue: 
+directors: Geoff Murphy
+actors: Emilio Estevez, Kiefer Sutherland, Lou Diamond Phillips, Christian Slater, William Petersen, Alan Ruck, R.D. Call, James Coburn, Balthazar Getty, Jack Kehoe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

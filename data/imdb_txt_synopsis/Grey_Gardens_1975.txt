@@ -1,0 +1,10 @@
+movieId: 8264
+title: Grey Gardens
+year: 1975
+url: https://www.imdb.com/title/tt0073076/
+ratingValue: 
+directors: Ellen Hovde, Albert Maysles, David Maysles, Muffie Meyer
+actors: Edith 'Little Edie' Bouvier Beale, Edith Bouvier Beale, Brooks Hyers, Norman Vincent Peale, Jack Helmuth, Albert Maysles, David Maysles, Jerry Torre, Lois Wright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

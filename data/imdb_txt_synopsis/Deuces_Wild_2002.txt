@@ -1,0 +1,10 @@
+movieId: 5347
+title: Deuces Wild
+year: 2002
+url: https://www.imdb.com/title/tt0231448/
+ratingValue: 
+directors: Scott Kalvert
+actors: Stephen Dorff, Brad Renfro, Fairuza Balk, Norman Reedus, Max Perlich, Drea de Matteo, Vincent Pastore, Frankie Muniz, Balthazar Getty, Nancy Cassaro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

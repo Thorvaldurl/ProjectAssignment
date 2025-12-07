@@ -1,0 +1,10 @@
+movieId: 7932
+title: Dark Days
+year: 2000
+url: https://www.imdb.com/title/tt0235327/
+ratingValue: 
+directors: Marc Singer
+actors: Marc Singer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

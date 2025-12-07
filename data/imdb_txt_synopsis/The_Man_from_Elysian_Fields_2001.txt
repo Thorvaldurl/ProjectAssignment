@@ -1,0 +1,10 @@
+movieId: 5635
+title: The Man from Elysian Fields
+year: 2001
+url: https://www.imdb.com/title/tt0265307/
+ratingValue: 
+directors: George Hickenlooper
+actors: Andy Garcia, Mick Jagger, Julianna Margulies, Olivia Williams, James Coburn, Michael Des Barres, Richard Bradford, Anjelica Huston, Xander Berkeley, Sherman Howard
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

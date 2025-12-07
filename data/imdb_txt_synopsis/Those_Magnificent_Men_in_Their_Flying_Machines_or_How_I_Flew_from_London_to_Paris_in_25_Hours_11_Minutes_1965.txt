@@ -1,0 +1,10 @@
+movieId: 7394
+title: Those Magnificent Men in Their Flying Machines or How I Flew from London to Paris in 25 Hours 11 Minutes
+year: 1965
+url: https://www.imdb.com/title/tt0059797/
+ratingValue: 
+directors: Ken Annakin
+actors: Stuart Whitman, Sarah Miles, James Fox, Alberto Sordi, Robert Morley, Gert Fröbe, Jean-Pierre Cassel, Irina Demick, Eric Sykes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3952
+title: The Contender
+year: 2000
+url: https://www.imdb.com/title/tt0208874/
+ratingValue: 
+directors: Rod Lurie
+actors: Gary Oldman, Joan Allen, Jeff Bridges, Christian Slater, Sam Elliott, William Petersen, Saul Rubinek, Philip Baker Hall, Mike Binder, Robin Thomas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

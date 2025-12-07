@@ -1,0 +1,10 @@
+movieId: 7812
+title: Babylon 5: Thirdspace (TV Movie 1998)
+year: 1998
+url: https://www.imdb.com/title/tt0121804/
+ratingValue: 
+directors: Jesús Salvador Treviño
+actors: Bruce Boxleitner, Claudia Christian, Mira Furlan, Richard Biggs, Jeff Conaway, Stephen Furst, Patricia Tallman, Clyde Kusatsu, Shari Belafonte, William Sanderson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

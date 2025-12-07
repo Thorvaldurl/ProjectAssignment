@@ -1,0 +1,10 @@
+movieId: 1082
+title: The Candidate
+year: 1972
+url: https://www.imdb.com/title/tt0068334/
+ratingValue: 
+directors: Michael Ritchie
+actors: Robert Redford, Peter Boyle, Melvyn Douglas, Don Porter, Allen Garfield, Karen Carlson, Quinn K. Redeker, Morgan Upton, Michael Lerner, Kenneth Tobey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

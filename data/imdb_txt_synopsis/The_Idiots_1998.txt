@@ -1,0 +1,10 @@
+movieId: 3569
+title: The Idiots
+year: 1998
+url: https://www.imdb.com/title/tt0154421/
+ratingValue: 
+directors: Lars von Trier
+actors: Bodil Jørgensen, Jens Albinus, Anne Louise Hassing, Troels Lyby, Nikolaj Lie Kaas, Louise Mieritz, Henrik Prip, Luis Mesonero, Knud Romer Jørgensen, Trine Michelsen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

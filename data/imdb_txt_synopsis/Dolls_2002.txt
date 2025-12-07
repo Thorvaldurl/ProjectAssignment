@@ -1,0 +1,10 @@
+movieId: 8327
+title: Dolls
+year: 2002
+url: https://www.imdb.com/title/tt0330229/
+ratingValue: 
+directors: Takeshi Kitano
+actors: Miho Kanno, Hidetoshi Nishijima, Tatsuya Mihashi, Chieko Matsubara, Kyôko Fukada, Tsutomu Takeshige, Kayoko Kishimoto, Kanji Tsuda, Yûko Daike, Ren Ôsugi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

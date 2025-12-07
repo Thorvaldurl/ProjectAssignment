@@ -1,0 +1,10 @@
+movieId: 8832
+title: Warriors of Heaven and Earth
+year: 2003
+url: https://www.imdb.com/title/tt0374330/
+ratingValue: 
+directors: Ping He
+actors: Wen Jiang, Kiichi Nakai, Xueqi Wang, Wei Zhao, Bagen Hasi, Tao Ho, Linian Lu, Deshun Wang, Haibin Li
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

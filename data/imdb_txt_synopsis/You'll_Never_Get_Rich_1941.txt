@@ -1,0 +1,10 @@
+movieId: 6912
+title: You'll Never Get Rich
+year: 1941
+url: https://www.imdb.com/title/tt0034409/
+ratingValue: 
+directors: Sidney Lanfield
+actors: Fred Astaire, Rita Hayworth, Robert Benchley, John Hubbard, Osa Massen, Frieda Inescort, Guinn 'Big Boy' Williams, Donald MacBride, Cliff Nazarro, Marjorie Gateson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

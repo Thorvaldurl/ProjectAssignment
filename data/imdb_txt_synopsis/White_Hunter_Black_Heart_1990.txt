@@ -1,0 +1,10 @@
+movieId: 6817
+title: White Hunter Black Heart
+year: 1990
+url: https://www.imdb.com/title/tt0100928/
+ratingValue: 
+directors: Clint Eastwood
+actors: Clint Eastwood, Jeff Fahey, Charlotte Cornwell, Norman Lumsden, George Dzundza, Edward Tudor-Pole, Roddy Maude-Roxby, Richard Warwick, John Rapley, Catherine Neilson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

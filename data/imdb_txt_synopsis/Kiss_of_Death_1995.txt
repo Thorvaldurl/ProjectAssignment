@@ -1,0 +1,10 @@
+movieId: 259
+title: Kiss of Death
+year: 1995
+url: https://www.imdb.com/title/tt0113552/
+ratingValue: 
+directors: Barbet Schroeder
+actors: David Caruso, Samuel L. Jackson, Nicolas Cage, Helen Hunt, Kathryn Erbe, Stanley Tucci, Michael Rapaport, Ving Rhames, Philip Baker Hall, Anthony Heald
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

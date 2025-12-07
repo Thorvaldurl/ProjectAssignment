@@ -1,0 +1,10 @@
+movieId: 1007
+title: The Apple Dumpling Gang
+year: 1975
+url: https://www.imdb.com/title/tt0072653/
+ratingValue: 
+directors: Norman Tokar
+actors: Bill Bixby, Susan Clark, Don Knotts, Tim Conway, David Wayne, Slim Pickens, Harry Morgan, John McGiver, Don Knight, Clay O'Brien
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

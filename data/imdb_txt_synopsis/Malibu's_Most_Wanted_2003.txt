@@ -1,0 +1,10 @@
+movieId: 6298
+title: Malibu's Most Wanted
+year: 2003
+url: https://www.imdb.com/title/tt0328099/
+ratingValue: 
+directors: John Whitesell
+actors: Jamie Kennedy, Taye Diggs, Anthony Anderson, Regina Hall, Blair Underwood, Damien Dante Wayans, Ryan O'Neal, Bo Derek, Jeffrey Tambor, Kal Penn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

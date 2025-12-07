@@ -1,0 +1,10 @@
+movieId: 618
+title: Two Much
+year: 1995
+url: https://www.imdb.com/title/tt0118001/
+ratingValue: 
+directors: Fernando Trueba
+actors: Antonio Banderas, Melanie Griffith, Daryl Hannah, Danny Aiello, Joan Cusack, Eli Wallach, Gabino Diego, Austin Pendleton, Allan Rich, Vincent Schiavelli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

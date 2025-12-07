@@ -1,0 +1,10 @@
+movieId: 6978
+title: Slacker
+year: 1990
+url: https://www.imdb.com/title/tt0102943/
+ratingValue: 
+directors: Richard Linklater
+actors: Richard Linklater, Rudy Basquez, Jean Caffeine, Jan Hockey, Stephan Hockey, Mark James, Samuel Dietert, Bob Boyd, Terrence Kirk
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

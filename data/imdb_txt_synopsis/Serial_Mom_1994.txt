@@ -1,0 +1,10 @@
+movieId: 532
+title: Serial Mom
+year: 1994
+url: https://www.imdb.com/title/tt0111127/
+ratingValue: 
+directors: John Waters
+actors: Kathleen Turner, Sam Waterston, Ricki Lake, Matthew Lillard, Scott Morgan, Walt MacPherson, Justin Whalin, Patricia Dunnock, Lonnie Horsey, Mink Stole
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

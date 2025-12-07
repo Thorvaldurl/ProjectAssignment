@@ -1,0 +1,10 @@
+movieId: 5968
+title: Miami Blues
+year: 1990
+url: https://www.imdb.com/title/tt0100143/
+ratingValue: 
+directors: George Armitage
+actors: Alec Baldwin, Cecilia Pérez-Cervera, Georgie Cranford, Edward Saxon, José Pérez, Obba Babatundé, Fred Ward, Jennifer Jason Leigh, Charles Napier, Matt Ingersoll
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

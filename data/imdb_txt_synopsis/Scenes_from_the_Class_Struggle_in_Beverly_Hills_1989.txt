@@ -1,0 +1,10 @@
+movieId: 4660
+title: Scenes from the Class Struggle in Beverly Hills
+year: 1989
+url: https://www.imdb.com/title/tt0098261/
+ratingValue: 
+directors: Paul Bartel
+actors: Jacqueline Bisset, Ray Sharkey, Mary Woronov, Robert Beltran, Ed Begley Jr., Wallace Shawn, Arnetia Walker, Paul Bartel, Paul Mazursky, Edith Diaz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

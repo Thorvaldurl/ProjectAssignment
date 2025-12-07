@@ -1,0 +1,10 @@
+movieId: 166
+title: The Doom Generation
+year: 1995
+url: https://www.imdb.com/title/tt0112887/
+ratingValue: 
+directors: Gregg Araki
+actors: James Duval, Rose McGowan, Johnathon Schaech, Cress Williams, Skinny Puppy, Dustin Nguyen, Margaret Cho, Lauren Tewes, Christopher Knight, Nicky Katt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

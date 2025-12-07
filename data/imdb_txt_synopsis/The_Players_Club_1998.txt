@@ -1,0 +1,10 @@
+movieId: 1825
+title: The Players Club
+year: 1998
+url: https://www.imdb.com/title/tt0119905/
+ratingValue: 
+directors: Ice Cube
+actors: LisaRaye McCoy, Dick Anthony Williams, Judyann Elder, Chrystale Wilson, Adele Givens, Bernie Mac, Anthony Johnson, Jimmy Woodard, Montae Russell, Oren Williams
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

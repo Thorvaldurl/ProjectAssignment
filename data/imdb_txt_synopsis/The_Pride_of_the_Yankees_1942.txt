@@ -1,0 +1,10 @@
+movieId: 5644
+title: The Pride of the Yankees
+year: 1942
+url: https://www.imdb.com/title/tt0035211/
+ratingValue: 
+directors: Sam Wood
+actors: Gary Cooper, Teresa Wright, Babe Ruth, Walter Brennan, Dan Duryea, Elsa Janssen, Ludwig Stössel, Virginia Gilmore, Bill Dickey, Ernie Adams
+
+synopsis:
+The life of Yankee baseball great Lou Gehrig known as the 'Iron Horse' from his childhood, through his baseball career, battle with amyotrophic lateral sclerosis to his final tribute where he declared that he was "the luckiest man on the face of the earth." Rpundly cited for a lack of realistic baseball scenes and the Cary Coopers lack of athletic ability. Cooper was righthanded and Gehrig was lefthanded. When the filmed the baseball action scenes they reversed the film.

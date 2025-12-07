@@ -1,0 +1,10 @@
+movieId: 118
+title: If Lucy Fell
+year: 1996
+url: https://www.imdb.com/title/tt0116606/
+ratingValue: 
+directors: Eric Schaeffer
+actors: Sarah Jessica Parker, Eric Schaeffer, Ben Stiller, Elle Macpherson, James Rebhorn, Robert John Burke, David Thornton, Bill Sage, Dominic Chianese, Scarlett Johansson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

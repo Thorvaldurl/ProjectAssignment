@@ -1,0 +1,10 @@
+movieId: 72
+title: Kicking and Screaming
+year: 1995
+url: https://www.imdb.com/title/tt0113537/
+ratingValue: 
+directors: Noah Baumbach
+actors: Josh Hamilton, Samuel Gould, Catherine Kellner, Jonathan Baumbach, John Lehr, Olivia d'Abo, Peter Czernin, Carlos Jacott, Chris Eigeman, Eric Stoltz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

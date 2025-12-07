@@ -1,0 +1,10 @@
+movieId: 6375
+title: Gigantic (A Tale of Two Johns)
+year: 2002
+url: https://www.imdb.com/title/tt0304081/
+ratingValue: 
+directors: AJ Schnack
+actors: John Flansburgh, John Linnell, Gina Arnold, Michael Azerrad, Adam Bernstein, David Bither, Frank Black, Linwood Boomer, Brian Cohen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

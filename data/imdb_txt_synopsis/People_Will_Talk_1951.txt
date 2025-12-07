@@ -1,0 +1,10 @@
+movieId: 7211
+title: People Will Talk
+year: 1951
+url: https://www.imdb.com/title/tt0043915/
+ratingValue: 
+directors: Joseph L. Mankiewicz
+actors: Cary Grant, Jeanne Crain, Finlay Currie, Hume Cronyn, Walter Slezak, Sidney Blackmer, Basil Ruysdael, Katherine Locke, Parley Baer, Bonnie Barlowe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

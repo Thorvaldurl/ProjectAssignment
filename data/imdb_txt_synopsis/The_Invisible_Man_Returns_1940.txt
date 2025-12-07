@@ -1,0 +1,10 @@
+movieId: 9008
+title: The Invisible Man Returns
+year: 1940
+url: https://www.imdb.com/title/tt0032635/
+ratingValue: 
+directors: Joe May
+actors: Cedric Hardwicke, Vincent Price, Nan Grey, John Sutton, Cecil Kellaway, Alan Napier, Forrester Harvey, Ernie Adams, Jimmy Aubrey, Walter Bacon
+
+synopsis:
+Framed and convicted for murder Geoffrey Radcliffe (Vincent Price) believes that the real culprit is someone closely associated with the colliery where the murder was committed. Radcliffe convinces his friend Doctor Frank Griffin (John Sutton) to inject him with the invisibility serum that his father Jack Griffin had created. Griffin does so but warns Radcliffe that the earlier invisible man went insane under the drug. Once he is invisible Radcliffe goes to his fiancée Helen Manson (Nan Grey) to assure her of his intentions and the young woman notices the changes taking place in his demeanor. Radcliffe uncovers the truth by kidnapping Richard Cobb (Cedric Hardwicke) and in a final confrontation and shootout with the police the truth comes out but at a high cost to everyone.

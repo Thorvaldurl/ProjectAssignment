@@ -1,0 +1,10 @@
+movieId: 938
+title: Gigi
+year: 1958
+url: https://www.imdb.com/title/tt0051658/
+ratingValue: 
+directors: Vincente Minnelli, Charles Walters
+actors: Leslie Caron, Maurice Chevalier, Louis Jourdan, Hermione Gingold, Eva Gabor, Jacques Bergerac, Isabel Jeans, John Abbott, Marie-Hélène Arnaud, Jack Ary
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

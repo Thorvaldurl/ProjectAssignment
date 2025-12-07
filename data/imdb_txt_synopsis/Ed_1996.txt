@@ -1,0 +1,10 @@
+movieId: 619
+title: Ed
+year: 1996
+url: https://www.imdb.com/title/tt0116165/
+ratingValue: 
+directors: Bill Couturié
+actors: Matt LeBlanc, Gene Ross, Paul Hewitt, Sage Allen, Stan Ivar, Jim O'Heir, Rick Johnson, Valente Rodriguez, Jack Warden, Bill Cobbs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

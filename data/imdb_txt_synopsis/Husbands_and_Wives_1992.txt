@@ -1,0 +1,10 @@
+movieId: 5339
+title: Husbands and Wives
+year: 1992
+url: https://www.imdb.com/title/tt0104466/
+ratingValue: 
+directors: Woody Allen
+actors: Nick Metropolis, Woody Allen, Mia Farrow, Sydney Pollack, Judy Davis, Jeffrey Kurland, Bruce Jay Friedman, Cristi Conaway, Timothy Jerome, Rebecca Glenn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

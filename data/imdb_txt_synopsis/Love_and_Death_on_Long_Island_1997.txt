@@ -1,0 +1,10 @@
+movieId: 1794
+title: Love and Death on Long Island
+year: 1997
+url: https://www.imdb.com/title/tt0119574/
+ratingValue: 
+directors: Richard Kwietniowski
+actors: John Hurt, Jason Priestley, Fiona Loewi, Sheila Hancock, Harvey Atkin, Maury Chaykin, Gawn Grainger, Elizabeth Quinn, Linda Busby, Bill Leadbitter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7835
+title: Song of the Thin Man
+year: 1947
+url: https://www.imdb.com/title/tt0039853/
+ratingValue: 
+directors: Edward Buzzell
+actors: William Powell, Myrna Loy, Keenan Wynn, Dean Stockwell, Phillip Reed, Patricia Morison, Leon Ames, Gloria Grahame, Jayne Meadows, Ralph Morgan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

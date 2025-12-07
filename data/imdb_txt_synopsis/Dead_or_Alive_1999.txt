@@ -1,0 +1,10 @@
+movieId: 8142
+title: Dead or Alive
+year: 1999
+url: https://www.imdb.com/title/tt0221111/
+ratingValue: 
+directors: Takashi Miike
+actors: Riki Takeuchi, Shô Aikawa, Renji Ishibashi, Hitoshi Ozawa, Shingo Tsurumi, Kaoru Sugita, Duncan, Shû Ehara, Sei Hiraizumi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

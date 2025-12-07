@@ -1,0 +1,10 @@
+movieId: 4439
+title: Christiane F.
+year: 1981
+url: https://www.imdb.com/title/tt0082176/
+ratingValue: 
+directors: Uli Edel
+actors: Natja Brunckhorst, Thomas Haustein, Jens Kuphal, Rainer Woelk, Jan Georg Effler, Christiane Reichelt, Daniela Jaeger, Kerstin Richter, David Bowie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

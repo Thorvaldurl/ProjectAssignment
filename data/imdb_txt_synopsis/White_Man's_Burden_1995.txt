@@ -1,0 +1,10 @@
+movieId: 209
+title: White Man's Burden
+year: 1995
+url: https://www.imdb.com/title/tt0114928/
+ratingValue: 
+directors: Desmond Nakano
+actors: John Travolta, Harry Belafonte, Kelly Lynch, Margaret Avery, Tom Bower, Andrew Lawrence, Bumper Robinson, Tom Wright, Sheryl Lee Ralph, Judith Drake
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

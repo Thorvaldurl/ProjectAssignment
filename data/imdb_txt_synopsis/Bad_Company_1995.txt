@@ -1,0 +1,10 @@
+movieId: 384
+title: Bad Company
+year: 1995
+url: https://www.imdb.com/title/tt0112443/
+ratingValue: 
+directors: Damian Harris
+actors: Ellen Barkin, Laurence Fishburne, Frank Langella, Michael Beach, Gia Carides, David Ogden Stiers, Daniel Hugh Kelly, Spalding Gray, James Hong, Tegan West
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

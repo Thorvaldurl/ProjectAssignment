@@ -1,0 +1,10 @@
+movieId: 7584
+title: Woman of the Year
+year: 1942
+url: https://www.imdb.com/title/tt0035567/
+ratingValue: 
+directors: George Stevens
+actors: Spencer Tracy, Katharine Hepburn, Fay Bainter, Reginald Owen, Minor Watson, William Bendix, Gladys Blake, Dan Tobin, Roscoe Karns, William Tannen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

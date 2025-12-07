@@ -1,0 +1,10 @@
+movieId: 7212
+title: I Was a Male War Bride
+year: 1949
+url: https://www.imdb.com/title/tt0041498/
+ratingValue: 
+directors: Howard Hawks
+actors: Cary Grant, Ann Sheridan, Marion Marshall, Randy Stuart, Bill Neff, King Donovan, Charles B. Fitzsimons, Robert J. Stevenson, Otto Waldis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

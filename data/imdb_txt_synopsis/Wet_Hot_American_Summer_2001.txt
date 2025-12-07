@@ -1,0 +1,10 @@
+movieId: 4649
+title: Wet Hot American Summer
+year: 2001
+url: https://www.imdb.com/title/tt0243655/
+ratingValue: 
+directors: David Wain
+actors: Janeane Garofalo, David Hyde Pierce, Michael Showalter, Marguerite Moreau, Paul Rudd, Zak Orth, Christopher Meloni, A.D. Miles, Molly Shannon, Gideon Jacobs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

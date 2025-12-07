@@ -1,0 +1,10 @@
+movieId: 790
+title: Un été inoubliable
+year: 1994
+url: https://www.imdb.com/title/tt0111546/
+ratingValue: 
+directors: Lucian Pintilie
+actors: Kristin Scott Thomas, Claudiu Bleont, Olga Tudorache, George Constantin, Ion Pavlescu, Marcel Iures, Razvan Vasilescu, Cornel Scripcaru, Tamara Cretulescu, Carmen Ungureanu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 101
+title: Bottle Rocket
+year: 1996
+url: https://www.imdb.com/title/tt0115734/
+ratingValue: 
+directors: Wes Anderson
+actors: Luke Wilson, Owen Wilson, Ned Dowd, Shea Fowler, Haley Miller, Robert Musgrave, Andrew Wilson, Brian Tenenbaum, Jenni Tooley, Temple Nash
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

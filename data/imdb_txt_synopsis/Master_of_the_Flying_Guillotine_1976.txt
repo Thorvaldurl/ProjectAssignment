@@ -1,0 +1,10 @@
+movieId: 7899
+title: Master of the Flying Guillotine
+year: 1976
+url: https://www.imdb.com/title/tt0072913/
+ratingValue: 
+directors: Jimmy Wang Yu
+actors: Jimmy Wang Yu, Kang Chin, Chun-Erh Lung, Liu Chia-Yung, Chien-Po Tsen, Fei Lung, Yung-Sheng Wang, Hou-Chiang Chi, Ming Fei Wang
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

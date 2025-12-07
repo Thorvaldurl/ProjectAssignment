@@ -1,0 +1,10 @@
+movieId: 823
+title: The Collector
+year: 1967
+url: https://www.imdb.com/title/tt0061495/
+ratingValue: 
+directors: Éric Rohmer
+actors: Patrick Bauchau, Haydée Politoff, Daniel Pommereulle, Alain Jouffroy, Mijanou Bardot, Annik Morice, Dennis Berry, Seymour Hertzberg, Néstor Almendros, Patrice De Bailliencourt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

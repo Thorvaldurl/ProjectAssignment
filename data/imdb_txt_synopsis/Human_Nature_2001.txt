@@ -1,0 +1,10 @@
+movieId: 5298
+title: Human Nature
+year: 2001
+url: https://www.imdb.com/title/tt0219822/
+ratingValue: 
+directors: Michel Gondry
+actors: Patricia Arquette, Rhys Ifans, Tim Robbins, Ken Magee, Sy Richardson, David Warshofsky, Hilary Duff, Stanley DeSantis, Peter Dinklage, Toby Huss
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

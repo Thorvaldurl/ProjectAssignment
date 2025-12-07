@@ -1,0 +1,10 @@
+movieId: 6981
+title: Ordet
+year: 1955
+url: https://www.imdb.com/title/tt0048452/
+ratingValue: 
+directors: Carl Theodor Dreyer
+actors: Hanne Aagesen, Kirsten Andreasen, Sylvia Eckhausen, Birgitte Federspiel, Ejner Federspiel, Ann Elisabeth Groth, Emil Hass Christensen, Cay Kristiansen, Preben Lerdorff Rye
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

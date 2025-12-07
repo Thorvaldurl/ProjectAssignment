@@ -1,0 +1,10 @@
+movieId: 7181
+title: Ship of Fools
+year: 1965
+url: https://www.imdb.com/title/tt0059712/
+ratingValue: 
+directors: Stanley Kramer
+actors: Vivien Leigh, Simone Signoret, José Ferrer, Lee Marvin, Oskar Werner, Elizabeth Ashley, George Segal, José Greco, Michael Dunn, Charles Korvin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

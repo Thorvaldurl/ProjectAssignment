@@ -1,0 +1,10 @@
+movieId: 1582
+title: Wild America
+year: 1997
+url: https://www.imdb.com/title/tt0120512/
+ratingValue: 
+directors: William Dear
+actors: Jonathan Taylor Thomas, Devon Sawa, Scott Bairstow, Frances Fisher, Jamey Sheridan, Tracey Walter, Don Stroud, Zack Ward, Claudia Stedelin, Anastasia Spivey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

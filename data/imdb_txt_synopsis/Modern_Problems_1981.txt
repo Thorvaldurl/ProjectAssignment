@@ -1,0 +1,10 @@
+movieId: 5768
+title: Modern Problems
+year: 1981
+url: https://www.imdb.com/title/tt0082763/
+ratingValue: 
+directors: Ken Shapiro
+actors: Chevy Chase, Patti D'Arbanville, Dabney Coleman, Mary Kay Place, Nell Carter, Brian Doyle-Murray, Mitch Kreindel, Arthur Sellers, Sandy Helberg, Neil Thompson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

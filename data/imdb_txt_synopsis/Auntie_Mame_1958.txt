@@ -1,0 +1,10 @@
+movieId: 3548
+title: Auntie Mame
+year: 1958
+url: https://www.imdb.com/title/tt0051383/
+ratingValue: 
+directors: Morton DaCosta
+actors: Rosalind Russell, Forrest Tucker, Coral Browne, Fred Clark, Roger Smith, Patric Knowles, Peggy Cass, Jan Handzlik, Joanna Barnes, Pippa Scott
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

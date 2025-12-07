@@ -1,0 +1,10 @@
+movieId: 824
+title: Kaspar Hauser
+year: 1993
+url: https://www.imdb.com/title/tt0110246/
+ratingValue: 
+directors: Peter Sehr
+actors: André Eisermann, Udo Samel, Jeremy Clyde, Katharina Thalbach, Cécile Paoli, Hansa Czypionka, Hermann Beyer, Dieter Mann, Johannes Silberschneider, Peter Lohmeyer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

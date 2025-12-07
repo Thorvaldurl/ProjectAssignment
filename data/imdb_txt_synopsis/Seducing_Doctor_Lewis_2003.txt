@@ -1,0 +1,10 @@
+movieId: 8121
+title: Seducing Doctor Lewis
+year: 2003
+url: https://www.imdb.com/title/tt0366532/
+ratingValue: 
+directors: Jean-François Pouliot
+actors: Raymond Bouchard, Dominik Dagenais, Guy-Daniel Tremblay, Nadia Drouin, Rita Lafontaine, Roc Lafortune, Réal Bossé, Guy Vaillancourt, Lucie Laurier, Pierre Collin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

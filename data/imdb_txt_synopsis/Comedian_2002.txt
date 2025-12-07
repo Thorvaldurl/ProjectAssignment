@@ -1,0 +1,10 @@
+movieId: 5670
+title: Comedian
+year: 2002
+url: https://www.imdb.com/title/tt0328962/
+ratingValue: 
+directors: Christian Charles
+actors: Jerry Seinfeld, Greg Giraldo, Sherrod Small, Jim Norton, Allan Havey, Colin Quinn, Cynthia Koury, Orny Adams, George Wallace, Robert Klein
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

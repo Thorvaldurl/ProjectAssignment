@@ -1,0 +1,10 @@
+movieId: 1806
+title: Paulie
+year: 1998
+url: https://www.imdb.com/title/tt0125454/
+ratingValue: 
+directors: John Roberts
+actors: Gena Rowlands, Tony Shalhoub, Cheech Marin, Bruce Davison, Trini Alvarado, Jay Mohr, Buddy Hackett, Hallie Eisenberg, Matt Craven, Bill Cobbs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

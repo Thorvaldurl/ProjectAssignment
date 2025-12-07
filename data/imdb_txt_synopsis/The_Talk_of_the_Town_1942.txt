@@ -1,0 +1,10 @@
+movieId: 6228
+title: The Talk of the Town
+year: 1942
+url: https://www.imdb.com/title/tt0035417/
+ratingValue: 
+directors: George Stevens
+actors: Cary Grant, Jean Arthur, Ronald Colman, Edgar Buchanan, Glenda Farrell, Charles Dingle, Emma Dunn, Rex Ingram, Leonid Kinskey, Tom Tyler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

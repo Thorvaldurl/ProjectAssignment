@@ -1,0 +1,10 @@
+movieId: 7888
+title: How to Succeed in Business Without Really Trying
+year: 1967
+url: https://www.imdb.com/title/tt0061791/
+ratingValue: 
+directors: David Swift
+actors: Robert Morse, Michele Lee, Rudy Vallee, Anthony 'Scooter' Teague, Maureen Arthur, John Myhers, Carol Worthington, Kathryn Reynolds, Ruth Kobart, Sammy Smith
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

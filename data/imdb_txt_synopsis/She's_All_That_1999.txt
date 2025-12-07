@@ -1,0 +1,10 @@
+movieId: 2485
+title: She's All That
+year: 1999
+url: https://www.imdb.com/title/tt0160862/
+ratingValue: 
+directors: Robert Iscove
+actors: Freddie Prinze Jr., Rachael Leigh Cook, Matthew Lillard, Paul Walker, Jodi Lyn O'Keefe, Kevin Pollak, Anna Paquin, Kieran Culkin, Elden Henson, Usher
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

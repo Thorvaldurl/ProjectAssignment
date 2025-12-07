@@ -1,0 +1,10 @@
+movieId: 53
+title: Lamerica
+year: 1994
+url: https://www.imdb.com/title/tt0110299/
+ratingValue: 
+directors: Gianni Amelio
+actors: Enrico Lo Verso, Michele Placido, Piro Milkani, Carmelo Di Mazzarelli, Elida Janushi, Sefer Pema, Idajet Sejdia, Marieta Ljarja, Elina Ndreu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

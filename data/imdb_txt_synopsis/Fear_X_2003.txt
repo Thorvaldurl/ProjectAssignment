@@ -1,0 +1,10 @@
+movieId: 8506
+title: Fear X
+year: 2003
+url: https://www.imdb.com/title/tt0289944/
+ratingValue: 
+directors: Nicolas Winding Refn
+actors: John Turturro, Deborah Kara Unger, Stephen Eric McIntyre, William Allen Young, Gene Davis, Mark Houghton, Jacqueline Ramel, James Remar, Nadia Litz, Amanda Ooms
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

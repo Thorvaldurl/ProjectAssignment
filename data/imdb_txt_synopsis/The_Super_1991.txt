@@ -1,0 +1,10 @@
+movieId: 8720
+title: The Super
+year: 1991
+url: https://www.imdb.com/title/tt0103007/
+ratingValue: 
+directors: Rod Daniel
+actors: Joe Pesci, Vincent Gardenia, Madolyn Smith Osborne, Rubén Blades, Stacey Travis, Carole Shelley, Kenny Blank, Paul Benjamin, Beatrice Winde, Bhubeshi Bodibe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

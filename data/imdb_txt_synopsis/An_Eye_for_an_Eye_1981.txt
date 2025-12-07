@@ -1,0 +1,10 @@
+movieId: 4946
+title: An Eye for an Eye
+year: 1981
+url: https://www.imdb.com/title/tt0082350/
+ratingValue: 
+directors: Steve Carver
+actors: Chuck Norris, Christopher Lee, Richard Roundtree, Matt Clark, Mako, Maggie Cooper, Rosalind Chao, Professor Toru Tanaka, Stuart Pankin, Terry Kiser
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1216
+title: The Big Blue
+year: 1988
+url: https://www.imdb.com/title/tt0095250/
+ratingValue: 
+directors: Luc Besson
+actors: Rosanna Arquette, Jean-Marc Barr, Jean Reno, Paul Shenar, Sergio Castellitto, Jean Bouise, Marc Duret, Griffin Dunne, Andréas Voutsinas, Valentina Vargas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

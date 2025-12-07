@@ -1,0 +1,10 @@
+movieId: 538
+title: Six Degrees of Separation
+year: 1993
+url: https://www.imdb.com/title/tt0108149/
+ratingValue: 
+directors: Fred Schepisi
+actors: Stockard Channing, Will Smith, Donald Sutherland, Ian McKellen, Mary Beth Hurt, Bruce Davison, Richard Masur, Anthony Michael Hall, Heather Graham, Eric Thal
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

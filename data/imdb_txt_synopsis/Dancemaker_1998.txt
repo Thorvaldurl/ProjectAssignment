@@ -1,0 +1,10 @@
+movieId: 2538
+title: Dancemaker
+year: 1998
+url: https://www.imdb.com/title/tt0175550/
+ratingValue: 
+directors: Matthew Diamond
+actors: Andrew Asnes, Rachel Berman Benz, Patrick Corbin, Ross Kramberg, Thomas Patrick, Paul Taylor, Ted Thomas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

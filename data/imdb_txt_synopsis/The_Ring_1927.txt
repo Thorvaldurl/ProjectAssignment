@@ -1,0 +1,10 @@
+movieId: 2226
+title: The Ring
+year: 1927
+url: https://www.imdb.com/title/tt0018328/
+ratingValue: 
+directors: Alfred Hitchcock
+actors: Carl Brisson, Lillian Hall-Davis, Ian Hunter, Forrester Harvey, Harry Terry, Gordon Harker, Eugene Corri, Charles Farrell, Clare Greet, Lawrence Hanray
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

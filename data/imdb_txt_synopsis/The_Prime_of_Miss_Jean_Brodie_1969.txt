@@ -1,0 +1,10 @@
+movieId: 8754
+title: The Prime of Miss Jean Brodie
+year: 1969
+url: https://www.imdb.com/title/tt0064840/
+ratingValue: 
+directors: Ronald Neame
+actors: Maggie Smith, Robert Stephens, Pamela Franklin, Gordon Jackson, Celia Johnson, Diane Grayson, Jane Carr, Shirley Steedman, Lavinia Lang, Antoinette Biggerstaff
+
+synopsis:
+In 1932 Miss Jean Brodie, a middle-aged spinster, teaches at Edinburgh's exclusive Marcia Blaine School. A romantic devoted to art and music, as well as a fascist sympathizer, Miss Brodie belittles those who do not share her enthusiasms. From her students she recruits a coterie, including the attractive Jenny; the impressionable Mary McGregor, a wealthy orphan; and the subtle Sandy, who proves to be her nemesis. Courted by Lowther, a retiring music instructor at whose ancestral home she spends the weekends, Miss Brodie carries on an affair with Lloyd, an earthy art teacher and the father of a large Catholic family. Miss Brodie's antagonist is the humorless headmistress, Miss MacKay, who repeatedly attempts to dismiss her. Jealous of Miss Brodie's eulogies to Jenny's beauty and stung by the teacher's indifferent prediction that she will make a superior secret service agent, Sandy takes Lloyd as her lover. When she discovers that his portrait of her resembles Miss Brodie, she breaks with the artist, assuring him that he is an aging mediocrity. Learning that Mary's brother has run off to Spain, Miss Brodie assumes that he has joined Franco's forces and encourages her to join him. En route to Spain, her train is bombed and Mary is killed. At a school convocation Lloyd informs Miss Brodie of Lowther's impending marriage to the chemistry teacher, Miss Lockhart. Shortly thereafter, Miss Brodie is dismissed for propagandizing in the classroom. Stunned, she asks Sandy who has betrayed her. Sandy spitefully proclaims her liaison with Lloyd and reveals her treachery, citing as justification the absurdity of Mary's death.

@@ -1,0 +1,10 @@
+movieId: 546
+title: Super Mario Bros.
+year: 1993
+url: https://www.imdb.com/title/tt0108255/
+ratingValue: 
+directors: Annabel Jankel, Rocky Morton
+actors: Bob Hoskins, John Leguizamo, Dennis Hopper, Samantha Mathis, Fisher Stevens, Richard Edson, Fiona Shaw, Dana Kaminski, Mojo Nixon, Gianni Russo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

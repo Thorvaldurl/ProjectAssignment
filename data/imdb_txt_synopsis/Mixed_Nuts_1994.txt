@@ -1,0 +1,10 @@
+movieId: 275
+title: Mixed Nuts
+year: 1994
+url: https://www.imdb.com/title/tt0110538/
+ratingValue: 
+directors: Nora Ephron
+actors: Steve Martin, Madeline Kahn, Robert Klein, Anthony LaPaglia, Juliette Lewis, Rob Reiner, Adam Sandler, Liev Schreiber, Rita Wilson, Parker Posey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

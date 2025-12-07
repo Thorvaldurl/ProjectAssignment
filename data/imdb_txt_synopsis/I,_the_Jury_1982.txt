@@ -1,0 +1,10 @@
+movieId: 6086
+title: I, the Jury
+year: 1982
+url: https://www.imdb.com/title/tt0084112/
+ratingValue: 
+directors: Richard T. Heffron
+actors: Armand Assante, Barbara Carrera, Laurene Landon, Alan King, Geoffrey Lewis, Paul Sorvino, Judson Scott, Barry Snider, Julia Barr, Jessica James
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

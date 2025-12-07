@@ -1,0 +1,10 @@
+movieId: 1677
+title: Critical Care
+year: 1997
+url: https://www.imdb.com/title/tt0118901/
+ratingValue: 
+directors: Sidney Lumet
+actors: James Spader, Kyra Sedgwick, Helen Mirren, Anne Bancroft, Albert Brooks, Jeffrey Wright, Margo Martindale, Wallace Shawn, Philip Bosco, Colm Feore
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

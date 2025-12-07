@@ -1,0 +1,10 @@
+movieId: 1581
+title: Out to Sea
+year: 1997
+url: https://www.imdb.com/title/tt0119848/
+ratingValue: 
+directors: Martha Coolidge
+actors: Jack Lemmon, Walter Matthau, Dyan Cannon, Gloria DeHaven, Brent Spiner, Elaine Stritch, Hal Linden, Donald O'Connor, Edward Mulhare, Rue McClanahan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5041
+title: Fire and Ice
+year: 1983
+url: https://www.imdb.com/title/tt0085542/
+ratingValue: 
+directors: Ralph Bakshi
+actors: Randy Norton, Cynthia Leake, Steve Sandor, Sean Hannon, Leo Gordon, William Ostrander, Eileen O'Neill, Elizabeth Lloyd Shaw, Micky Morton
+
+synopsis:
+The evil ice lord Nekron and his mother Juliana seek to conquer the known world, ravaging the land and all people in their way with their ice glacier as they approach Fire Keep, a volcanic kingdom and the last stronghold against them. Juliana's sub-human ape men kidnap King Jarol's daughter, the beautiful virgin Princess Teegra, prompting the young warrior Larn, last a tribe killed by Nekron and his forces, to go on a desperate quest for her. Larn's only ally is the mysterious warrior Darkwolf.

@@ -1,0 +1,10 @@
+movieId: 512
+title: The Puppet Masters
+year: 1994
+url: https://www.imdb.com/title/tt0111003/
+ratingValue: 
+directors: Stuart Orme
+actors: Donald Sutherland, Eric Thal, Julie Warner, Keith David, Will Patton, Richard Belzer, Tom Mason, Yaphet Kotto, Gerry Bamman, Sam Anderson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

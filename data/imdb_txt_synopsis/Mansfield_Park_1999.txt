@@ -1,0 +1,10 @@
+movieId: 3079
+title: Mansfield Park
+year: 1999
+url: https://www.imdb.com/title/tt0178737/
+ratingValue: 
+directors: Patricia Rozema
+actors: Hannah Taylor Gordon, Talya Gordon, Lindsay Duncan, Bruce Byron, James Purefoy, Sheila Gish, Harold Pinter, Elizabeth Eaton, Elizabeth Earl
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

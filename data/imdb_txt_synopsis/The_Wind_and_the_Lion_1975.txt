@@ -1,0 +1,10 @@
+movieId: 7205
+title: The Wind and the Lion
+year: 1975
+url: https://www.imdb.com/title/tt0073906/
+ratingValue: 
+directors: John Milius
+actors: Sean Connery, Candice Bergen, Brian Keith, John Huston, Geoffrey Lewis, Steve Kanaly, Vladek Sheybal, Nadim Sawalha, Roy Jenson, Deborah Baxter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

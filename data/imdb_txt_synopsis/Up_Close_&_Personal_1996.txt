@@ -1,0 +1,10 @@
+movieId: 140
+title: Up Close & Personal
+year: 1996
+url: https://www.imdb.com/title/tt0118055/
+ratingValue: 
+directors: Jon Avnet
+actors: Robert Redford, Michelle Pfeiffer, Stockard Channing, Joe Mantegna, Kate Nelligan, Glenn Plummer, James Rebhorn, Scott Bryce, Raymond Cruz, Dedee Pfeiffer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

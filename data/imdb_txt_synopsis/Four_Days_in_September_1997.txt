@@ -1,0 +1,10 @@
+movieId: 1759
+title: Four Days in September
+year: 1997
+url: https://www.imdb.com/title/tt0119815/
+ratingValue: 
+directors: Bruno Barreto
+actors: Alan Arkin, Fernanda Torres, Pedro Cardoso, Luiz Fernando Guimarães, Cláudia Abreu, Nelson Dantas, Matheus Nachtergaele, Marco Ricca, Maurício Gonçalves
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

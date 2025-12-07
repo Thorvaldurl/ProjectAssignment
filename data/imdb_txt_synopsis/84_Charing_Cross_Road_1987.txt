@@ -1,0 +1,10 @@
+movieId: 5404
+title: 84 Charing Cross Road
+year: 1987
+url: https://www.imdb.com/title/tt0090570/
+ratingValue: 
+directors: David Hugh Jones
+actors: Anne Bancroft, Anthony Hopkins, Judi Dench, Jean De Baer, Maurice Denham, Eleanor David, Mercedes Ruehl, Daniel Gerroll, Wendy Morgan, Ian McNeice
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

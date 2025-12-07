@@ -1,0 +1,10 @@
+movieId: 3821
+title: Nutty Professor II: The Klumps
+year: 2000
+url: https://www.imdb.com/title/tt0144528/
+ratingValue: 
+directors: Peter Segal
+actors: Eddie Murphy, Janet Jackson, Larry Miller, John Ales, Richard Gant, Anna Maria Horsford, Melinda McGraw, Jamal Mixon, Gabriel Williams
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

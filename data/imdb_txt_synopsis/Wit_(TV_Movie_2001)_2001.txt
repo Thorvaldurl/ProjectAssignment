@@ -1,0 +1,10 @@
+movieId: 7572
+title: Wit (TV Movie 2001)
+year: 2001
+url: https://www.imdb.com/title/tt0243664/
+ratingValue: 
+directors: Mike Nichols
+actors: Emma Thompson, Christopher Lloyd, Eileen Atkins, Audra McDonald, Jonathan M. Woodward, Harold Pinter, Rebecca Laurie, Su Lin Looi, Raffaello Degruttola, Miquel Brown
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

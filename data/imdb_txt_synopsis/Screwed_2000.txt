@@ -1,0 +1,10 @@
+movieId: 3596
+title: Screwed
+year: 2000
+url: https://www.imdb.com/title/tt0156323/
+ratingValue: 
+directors: Scott Alexander, Larry Karaszewski
+actors: Norm MacDonald, Dave Chappelle, Elaine Stritch, Danny DeVito, Daniel Benzali, Sherman Hemsley, Sarah Silverman, Malcolm Stewart, Lochlyn Munro, Brent Chapman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

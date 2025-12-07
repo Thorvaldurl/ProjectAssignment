@@ -1,0 +1,10 @@
+movieId: 4422
+title: Cries & Whispers
+year: 1972
+url: https://www.imdb.com/title/tt0069467/
+ratingValue: 
+directors: Ingmar Bergman
+actors: Harriet Andersson, Kari Sylwan, Ingrid Thulin, Liv Ullmann, Anders Ek, Inga Gill, Erland Josephson, Henning Moritzen, Georg Årlin, Ingmar Bergman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

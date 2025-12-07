@@ -1,0 +1,10 @@
+movieId: 7382
+title: I'm Not Scared
+year: 2003
+url: https://www.imdb.com/title/tt0326977/
+ratingValue: 
+directors: Gabriele Salvatores
+actors: Aitana Sánchez-Gijón, Dino Abbrescia, Giorgio Careccia, Riccardo Zinna, Michele Vasca, Susi Sánchez, Antonella Stefanucci, Diego Abatantuono, Giuseppe Cristiano
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

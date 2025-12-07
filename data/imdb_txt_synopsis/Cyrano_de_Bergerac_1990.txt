@@ -1,0 +1,10 @@
+movieId: 1277
+title: Cyrano de Bergerac
+year: 1990
+url: https://www.imdb.com/title/tt0099334/
+ratingValue: 
+directors: Jean-Paul Rappeneau
+actors: Gérard Depardieu, Anne Brochet, Vincent Perez, Jacques Weber, Roland Bertin, Philippe Morier-Genoud, Pierre Maguelon, Josiane Stoléru, Anatole Delalande, Alain Rimoux
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

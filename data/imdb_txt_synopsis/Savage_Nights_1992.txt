@@ -1,0 +1,10 @@
+movieId: 526
+title: Savage Nights
+year: 1992
+url: https://www.imdb.com/title/tt0105032/
+ratingValue: 
+directors: Cyril Collard
+actors: Cyril Collard, Romane Bohringer, Carlos López, Corine Blue, Claude Winter, René-Marc Bini, Maria Schneider, Clémentine Célarié, Laura Favali, Denis D'Arcangelo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

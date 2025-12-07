@@ -1,0 +1,10 @@
+movieId: 2497
+title: Message in a Bottle
+year: 1999
+url: https://www.imdb.com/title/tt0139462/
+ratingValue: 
+directors: Luis Mandoki
+actors: Kevin Costner, Robin Wright, Paul Newman, John Savage, Illeana Douglas, Robbie Coltrane, Jesse James, Bethel Leslie, Tom Aldredge, Viveka Davis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

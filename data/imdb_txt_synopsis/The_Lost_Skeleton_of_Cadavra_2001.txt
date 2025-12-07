@@ -1,0 +1,10 @@
+movieId: 7266
+title: The Lost Skeleton of Cadavra
+year: 2001
+url: https://www.imdb.com/title/tt0307109/
+ratingValue: 
+directors: Larry Blamire
+actors: Fay Masterson, Andrew Parks, Susan McConnell, Brian Howe, Jennifer Blaire, Larry Blamire, Dan Conroy, Robert Deveau, Darrin Reed
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

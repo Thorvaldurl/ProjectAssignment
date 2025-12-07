@@ -1,0 +1,10 @@
+movieId: 6095
+title: Dragon Lord
+year: 1982
+url: https://www.imdb.com/title/tt0084266/
+ratingValue: 
+directors: Jackie Chan
+actors: Jackie Chan, Mars, Michael Wai-Man Chan, Shirley Yim, In-shik Hwang, Feng Tien, Paul Chang Chung, Kang-Yeh Cheng, Wah Cheung, Ma Chin-Ku
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

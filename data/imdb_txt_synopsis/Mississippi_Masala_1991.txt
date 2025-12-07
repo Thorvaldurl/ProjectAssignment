@@ -1,0 +1,10 @@
+movieId: 6466
+title: Mississippi Masala
+year: 1991
+url: https://www.imdb.com/title/tt0102456/
+ratingValue: 
+directors: Mira Nair
+actors: Denzel Washington, Sarita Choudhury, Roshan Seth, Sharmila Tagore, Charles S. Dutton, Joe Seneca, Ranjit Chowdhry, Mohan Gokhale, Mohan Agashe, Tico Wells
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

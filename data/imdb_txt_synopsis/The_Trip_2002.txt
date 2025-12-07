@@ -1,0 +1,10 @@
+movieId: 6342
+title: The Trip
+year: 2002
+url: https://www.imdb.com/title/tt0250067/
+ratingValue: 
+directors: Miles Swain
+actors: Larry Sullivan, Steve Braun, Ray Baker, James Handy, Faith Salie, Dennis Bailey, Alexis Arquette, Sirena Irwin, Zoe 'Joshua Tree' Logan, Jill St. John
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

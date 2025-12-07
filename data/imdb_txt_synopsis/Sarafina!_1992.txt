@@ -1,0 +1,10 @@
+movieId: 3711
+title: Sarafina!
+year: 1992
+url: https://www.imdb.com/title/tt0105316/
+ratingValue: 
+directors: Darrell Roodt
+actors: Leleti Khumalo, Whoopi Goldberg, Miriam Makeba, John Kani, Dumisani Dlamini, Mbongeni Ngema, Sipho Kunene, Tertius Meintjes, Robert Whitehead, Somizi Mhlongo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

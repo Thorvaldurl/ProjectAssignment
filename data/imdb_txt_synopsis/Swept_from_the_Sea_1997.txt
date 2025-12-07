@@ -1,0 +1,10 @@
+movieId: 1656
+title: Swept from the Sea
+year: 1997
+url: https://www.imdb.com/title/tt0120257/
+ratingValue: 
+directors: Beeban Kidron
+actors: Rachel Weisz, Vincent Perez, Ian McKellen, Kathy Bates, Joss Ackland, Tony Haygarth, Fiona Victory, Tom Bell, Zoë Wanamaker, William Scott-Masson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

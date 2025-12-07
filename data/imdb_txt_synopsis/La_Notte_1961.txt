@@ -1,0 +1,10 @@
+movieId: 4325
+title: La Notte
+year: 1961
+url: https://www.imdb.com/title/tt0054130/
+ratingValue: 
+directors: Michelangelo Antonioni
+actors: Marcello Mastroianni, Jeanne Moreau, Monica Vitti, Bernhard Wicki, Rosy Mazzacurati, Maria Pia Luzi, Guido A. Marsan, Vittorio Bertolini, Vincenzo Corbella, Ugo Fortunati
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

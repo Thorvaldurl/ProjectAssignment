@@ -1,0 +1,10 @@
+movieId: 1503
+title: 8 Heads in a Duffel Bag
+year: 1997
+url: https://www.imdb.com/title/tt0118541/
+ratingValue: 
+directors: Tom Schulman
+actors: Joe Pesci, Andy Comeau, Kristy Swanson, George Hamilton, Dyan Cannon, David Spade, Todd Louiso, Anthony Mangano, Joe Basile, Ernestine Mercer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

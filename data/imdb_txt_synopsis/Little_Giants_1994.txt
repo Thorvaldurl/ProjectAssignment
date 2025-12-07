@@ -1,0 +1,10 @@
+movieId: 6559
+title: Little Giants
+year: 1994
+url: https://www.imdb.com/title/tt0110364/
+ratingValue: 
+directors: Duwayne Dunham
+actors: Rick Moranis, Ed O'Neill, Shawna Waldron, Devon Sawa, Todd Bosley, Michael Zwiener, Danny Pritchett, Troy Simmons, Sam Horrigan, Joey Simmrin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

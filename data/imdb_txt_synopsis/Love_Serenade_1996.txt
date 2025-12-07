@@ -1,0 +1,10 @@
+movieId: 1585
+title: Love Serenade
+year: 1996
+url: https://www.imdb.com/title/tt0116930/
+ratingValue: 
+directors: Shirley Barrett
+actors: Miranda Otto, Rebecca Frith, George Shevtsov, John Alansu, Jessica Napier, Jill McWilliam, Ryan Jackson, Sabrina Norris
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

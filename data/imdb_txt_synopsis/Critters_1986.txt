@@ -1,0 +1,10 @@
+movieId: 4492
+title: Critters
+year: 1986
+url: https://www.imdb.com/title/tt0090887/
+ratingValue: 
+directors: Stephen Herek
+actors: Dee Wallace, M. Emmet Walsh, Billy Green Bush, Scott Grimes, Nadine Van der Velde, Don Keith Opper, Billy Zane, Ethan Phillips, Terrence Mann, Jeremy Lawrence
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

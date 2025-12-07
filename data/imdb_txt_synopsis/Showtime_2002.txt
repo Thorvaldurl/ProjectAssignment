@@ -1,0 +1,10 @@
+movieId: 5220
+title: Showtime
+year: 2002
+url: https://www.imdb.com/title/tt0284490/
+ratingValue: 
+directors: Tom Dey
+actors: Robert De Niro, Rachael Harris, Eddie Murphy, Zaid Farid, Alex Borstein, Holly Mandel, Marshall Manesh, Nestor Serrano, T.J. Cross, Yasiin Bey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

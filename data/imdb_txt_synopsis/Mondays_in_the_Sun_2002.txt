@@ -1,0 +1,10 @@
+movieId: 6571
+title: Mondays in the Sun
+year: 2002
+url: https://www.imdb.com/title/tt0319769/
+ratingValue: 
+directors: Fernando León de Aranoa
+actors: Javier Bardem, Luis Tosar, José Ángel Egido, Nieve de Medina, Enrique Villén, Celso Bugallo, Joaquín Climent, Aida Folch, Serge Riaboukine, Laura Domínguez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

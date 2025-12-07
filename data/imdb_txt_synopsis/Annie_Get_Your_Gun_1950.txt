@@ -1,0 +1,10 @@
+movieId: 25959
+title: Annie Get Your Gun
+year: 1950
+url: https://www.imdb.com/title/tt0042200/
+ratingValue: 
+directors: George Sidney, Busby Berkeley
+actors: Betty Hutton, Howard Keel, Louis Calhern, J. Carrol Naish, Edward Arnold, Keenan Wynn, Benay Venuta, Clinton Sundberg, Dorothy Abbott, Bette Arlen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

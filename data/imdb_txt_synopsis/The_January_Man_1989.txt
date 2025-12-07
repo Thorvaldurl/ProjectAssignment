@@ -1,0 +1,10 @@
+movieId: 4610
+title: The January Man
+year: 1989
+url: https://www.imdb.com/title/tt0097613/
+ratingValue: 
+directors: Pat O'Connor
+actors: Kevin Kline, Susan Sarandon, Mary Elizabeth Mastrantonio, Harvey Keitel, Danny Aiello, Rod Steiger, Alan Rickman, Faye Grant, Kenneth Welsh, Jayne Haynes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

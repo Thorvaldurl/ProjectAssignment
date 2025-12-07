@@ -1,0 +1,10 @@
+movieId: 7924
+title: Stray Dog
+year: 1949
+url: https://www.imdb.com/title/tt0041699/
+ratingValue: 
+directors: Akira Kurosawa
+actors: Toshirô Mifune, Takashi Shimura, Keiko Awaji, Eiko Miyoshi, Noriko Sengoku, Noriko Honma, Reikichi Kawamura, Eijirô Tôno, Yasushi Nagata, Isao Kimura
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

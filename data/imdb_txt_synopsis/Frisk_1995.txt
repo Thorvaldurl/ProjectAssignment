@@ -1,0 +1,10 @@
+movieId: 636
+title: Frisk
+year: 1995
+url: https://www.imdb.com/title/tt0113122/
+ratingValue: 
+directors: Todd Verow
+actors: Michael Gunther, Craig Chester, Michael Stock, Raoul O'Connell, Jaie Laplante, Parker Posey, James Lyons, Alexis Arquette, Michael Waite
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5742
+title: First Monday in October
+year: 1981
+url: https://www.imdb.com/title/tt0082382/
+ratingValue: 
+directors: Ronald Neame
+actors: Walter Matthau, Jill Clayburgh, Barnard Hughes, Jan Sterling, James Stephens, Joshua Bryant, Wiley Harker, F.J. O'Neil, Charles Lampkin, Lew Palter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

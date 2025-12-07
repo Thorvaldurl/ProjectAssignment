@@ -1,0 +1,10 @@
+movieId: 1848
+title: The Borrowers
+year: 1997
+url: https://www.imdb.com/title/tt0118755/
+ratingValue: 
+directors: Peter Hewitt
+actors: John Goodman, Mark Williams, Jim Broadbent, Celia Imrie, Flora Newbigin, Tom Felton, Raymond Pickard, Bradley Pierce, Aden Gillett, Doon Mackichan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

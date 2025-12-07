@@ -1,0 +1,10 @@
+movieId: 2470
+title: Crocodile Dundee
+year: 1986
+url: https://www.imdb.com/title/tt0090555/
+ratingValue: 
+directors: Peter Faiman
+actors: Paul Hogan, Linda Kozlowski, John Meillon, David Gulpilil, Ritchie Singer, Maggie Blinco, Steve Rackman, Gerry Skilton, Terry Gill, Peter Turnbull
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

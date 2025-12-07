@@ -1,0 +1,10 @@
+movieId: 5224
+title: Promises
+year: 2001
+url: https://www.imdb.com/title/tt0282864/
+ratingValue: 
+directors: Carlos Bolado, B.Z. Goldberg, Justine Shapiro
+actors: Moishe Bar Am, B.Z. Goldberg, Shlomo Green, Sanabel Hassan, Faraj Adnan Hassan Husein, Mahmoud Mazen Mahmoud Izhiman, Daniel Solan, Yarko Solan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

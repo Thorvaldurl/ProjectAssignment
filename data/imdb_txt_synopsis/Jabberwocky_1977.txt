@@ -1,0 +1,10 @@
+movieId: 4911
+title: Jabberwocky
+year: 1977
+url: https://www.imdb.com/title/tt0076221/
+ratingValue: 
+directors: Terry Gilliam
+actors: Michael Palin, Harry H. Corbett, John Le Mesurier, Warren Mitchell, Max Wall, Rodney Bewes, John Bird, Bernard Bresslaw, Antony Carrick, Peter Cellier
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

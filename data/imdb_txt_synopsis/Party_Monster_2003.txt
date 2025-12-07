@@ -1,0 +1,10 @@
+movieId: 6705
+title: Party Monster
+year: 2003
+url: https://www.imdb.com/title/tt0320244/
+ratingValue: 
+directors: Fenton Bailey, Randy Barbato
+actors: Seth Green, Macaulay Culkin, Diana Scarwid, Dillon Woolley, Marilyn Manson, Dylan McDermott, Mia Kirshner, Wilmer Valderrama, Elliot Kriss, Janis Dardaris
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

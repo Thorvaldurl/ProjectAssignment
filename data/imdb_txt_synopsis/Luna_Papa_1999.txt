@@ -1,0 +1,10 @@
+movieId: 8454
+title: Luna Papa
+year: 1999
+url: https://www.imdb.com/title/tt0170259/
+ratingValue: 
+directors: Bakhtyar Khudojnazarov
+actors: Chulpan Khamatova, Moritz Bleibtreu, Ato Mukhamedzhanov, Merab Ninidze, Polina Raykina, Nikolay Fomenko, Lola Mirzorakhimova, Sherali Abdulkajsov, Dinmukhamet Akhimov
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

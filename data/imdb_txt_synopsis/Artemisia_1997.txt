@@ -1,0 +1,10 @@
+movieId: 1695
+title: Artemisia
+year: 1997
+url: https://www.imdb.com/title/tt0123385/
+ratingValue: 
+directors: Agnès Merlet
+actors: Michel Serrault, Valentina Cervi, Predrag 'Miki' Manojlovic, Luca Zingaretti, Emmanuelle Devos, Frédéric Pierrot, Maurice Garrel, Brigitte Catillon, Yann Trégouët, Jacques Nolot
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

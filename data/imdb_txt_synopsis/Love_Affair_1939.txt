@@ -1,0 +1,10 @@
+movieId: 6837
+title: Love Affair
+year: 1939
+url: https://www.imdb.com/title/tt0031593/
+ratingValue: 
+directors: Leo McCarey
+actors: Irene Dunne, Charles Boyer, Maria Ouspenskaya, Lee Bowman, Astrid Allwyn, Maurice Moscovitch, Mary Bayless, Scotty Beckett, Ferike Boros
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

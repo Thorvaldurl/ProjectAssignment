@@ -1,0 +1,10 @@
+movieId: 7083
+title: Sweet Dreams
+year: 1985
+url: https://www.imdb.com/title/tt0090110/
+ratingValue: 
+directors: Karel Reisz
+actors: Jessica Lange, Ed Harris, Ann Wedgeworth, David Clennon, James Staley, Gary Basaraba, John Goodman, P.J. Soles, Terri Gardner, Caitlin Kelch
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

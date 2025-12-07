@@ -1,0 +1,16 @@
+movieId: 2212
+title: The Man Who Knew Too Much
+year: 1934
+url: https://www.imdb.com/title/tt0025452/
+ratingValue: 
+directors: Alfred Hitchcock
+actors: Leslie Banks, Edna Best, Peter Lorre, Frank Vosper, Hugh Wakefield, Nova Pilbeam, Pierre Fresnay, Cicely Oates, D.A. Clarke-Smith, George Curzon
+
+synopsis:
+Thrilling Hitchcockian adventure
+where Banks & Best run into intrigue
+as their daughter is kidnapped, so
+that they will not reveal information that has come into their possesion.
+Sinister characters led by Lorre make sure they cannot approach the authorities. Thrilling climax for
+even those of us jaded by decades
+of thrillers produced since this gem was produced

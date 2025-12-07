@@ -1,0 +1,10 @@
+movieId: 8119
+title: Crossroads
+year: 1986
+url: https://www.imdb.com/title/tt0090888/
+ratingValue: 
+directors: Walter Hill
+actors: Ralph Macchio, Joe Seneca, Jami Gertz, Joe Morton, Robert Judd, Steve Vai, Dennis Lipscomb, Harry Carey Jr., John Hancock, Allan Arbus
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

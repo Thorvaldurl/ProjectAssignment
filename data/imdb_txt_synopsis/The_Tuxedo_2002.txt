@@ -1,0 +1,10 @@
+movieId: 5621
+title: The Tuxedo
+year: 2002
+url: https://www.imdb.com/title/tt0290095/
+ratingValue: 
+directors: Kevin Donovan
+actors: Jackie Chan, Jennifer Love Hewitt, Jason Isaacs, Debi Mazar, Ritchie Coster, Peter Stormare, Mia Cottet, Romany Malco, Daniel Kash, Jody Racicot
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

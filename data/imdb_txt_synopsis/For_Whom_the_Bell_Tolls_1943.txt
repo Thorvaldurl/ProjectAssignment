@@ -1,0 +1,10 @@
+movieId: 897
+title: For Whom the Bell Tolls
+year: 1943
+url: https://www.imdb.com/title/tt0035896/
+ratingValue: 
+directors: Sam Wood
+actors: Gary Cooper, Ingrid Bergman, Akim Tamiroff, Arturo de Córdova, Vladimir Sokoloff, Mikhail Rasumny, Fortunio Bonanova, Eric Feldary, Victor Varconi, Katina Paxinou
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

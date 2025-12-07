@@ -1,0 +1,10 @@
+movieId: 2056
+title: In Search of the Castaways
+year: 1962
+url: https://www.imdb.com/title/tt0056095/
+ratingValue: 
+directors: Robert Stevenson
+actors: Maurice Chevalier, Hayley Mills, George Sanders, Wilfrid Hyde-White, Michael Anderson Jr., Antonio Cifariello, Keith Hamshere, Wilfrid Brambell, Jack Gwillim, Ronald Fraser
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

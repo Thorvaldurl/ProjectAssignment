@@ -1,0 +1,10 @@
+movieId: 7050
+title: Follow the Fleet
+year: 1936
+url: https://www.imdb.com/title/tt0027630/
+ratingValue: 
+directors: Mark Sandrich
+actors: Fred Astaire, Ginger Rogers, Randolph Scott, Harriet Nelson, Astrid Allwyn, Betty Grable, Harry Beresford, Russell Hicks, Brooks Benedict, Ray Mayer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

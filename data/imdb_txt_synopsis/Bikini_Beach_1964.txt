@@ -1,0 +1,10 @@
+movieId: 3922
+title: Bikini Beach
+year: 1964
+url: https://www.imdb.com/title/tt0057887/
+ratingValue: 
+directors: William Asher
+actors: Frankie Avalon, Annette Funicello, Martha Hyer, Don Rickles, Harvey Lembeck, John Ashley, Jody McCrea, Candy Johnson, Danielle Aubry, Meredith MacRae
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1946
+title: Marty
+year: 1955
+url: https://www.imdb.com/title/tt0048356/
+ratingValue: 
+directors: Delbert Mann
+actors: Ernest Borgnine, Betsy Blair, Esther Minciotti, Augusta Ciolli, Joe Mantell, Karen Steele, Jerry Paris, James Bell, Joe Bell, John Beradino
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

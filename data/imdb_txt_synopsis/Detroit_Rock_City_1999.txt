@@ -1,0 +1,10 @@
+movieId: 2772
+title: Detroit Rock City
+year: 1999
+url: https://www.imdb.com/title/tt0165710/
+ratingValue: 
+directors: Adam Rifkin
+actors: Giuseppe Andrews, James DeBello, Edward Furlong, Sam Huntington, Lin Shaye, Melanie Lynskey, Natasha Lyonne, Miles Dougal, Nick Scotti, Emmanuelle Chriqui
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

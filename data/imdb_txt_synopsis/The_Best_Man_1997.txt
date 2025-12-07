@@ -1,0 +1,10 @@
+movieId: 2156
+title: The Best Man
+year: 1997
+url: https://www.imdb.com/title/tt0133413/
+ratingValue: 
+directors: Pupi Avati
+actors: Diego Abatantuono, Inés Sastre, Dario Cantarelli, Cinzia Mascoli, Valeria D'Obici, Mario Erpichini, Ada Maria Serra Zanetti, Ugo Conti, Nini Salerno
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

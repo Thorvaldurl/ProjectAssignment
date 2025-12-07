@@ -1,0 +1,10 @@
+movieId: 146
+title: The Amazing Panda Adventure
+year: 1995
+url: https://www.imdb.com/title/tt0112342/
+ratingValue: 
+directors: Christopher Cain
+actors: Stephen Lang, Ryan Slater, Yi Ding, Wang Fei, Zhou Jian Zhong, Yao Er Ga, O Mi Jia Can, Cheu Gang, He Yu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

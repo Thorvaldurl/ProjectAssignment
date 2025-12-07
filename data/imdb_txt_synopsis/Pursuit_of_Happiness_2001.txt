@@ -1,0 +1,10 @@
+movieId: 8131
+title: Pursuit of Happiness
+year: 2001
+url: https://www.imdb.com/title/tt0243508/
+ratingValue: 
+directors: John Putch
+actors: Frank Whaley, Annabeth Gish, Amy Jo Johnson, Patrick Van Horn, Cress Williams, Liz Vassey, Alex Hyde-White, Dawn Eason, Jenn Gross, Jean Stapleton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

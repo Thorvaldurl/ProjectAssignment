@@ -1,0 +1,10 @@
+movieId: 8844
+title: Camera Buff
+year: 1979
+url: https://www.imdb.com/title/tt0078763/
+ratingValue: 
+directors: Krzysztof Kieslowski
+actors: Jerzy Stuhr, Malgorzata Zabkowska, Ewa Pokas, Stefan Czyzewski, Jerzy Nowak, Tadeusz Bradecki, Marek Litewka, Boguslaw Sobczuk, Krzysztof Zanussi, Andrzej Jurga
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

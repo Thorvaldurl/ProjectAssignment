@@ -1,0 +1,10 @@
+movieId: 5604
+title: The Man in the White Suit
+year: 1951
+url: https://www.imdb.com/title/tt0044876/
+ratingValue: 
+directors: Alexander Mackendrick
+actors: Alec Guinness, Joan Greenwood, Cecil Parker, Michael Gough, Ernest Thesiger, Howard Marion-Crawford, Henry Mollison, Vida Hope, Patric Doonan, Duncan Lamont
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

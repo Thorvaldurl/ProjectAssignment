@@ -1,0 +1,10 @@
+movieId: 3668
+title: Romeo and Juliet
+year: 1968
+url: https://www.imdb.com/title/tt0063518/
+ratingValue: 
+directors: Franco Zeffirelli
+actors: Leonard Whiting, Olivia Hussey, John McEnery, Milo O'Shea, Pat Heywood, Robert Stephens, Michael York, Bruce Robinson, Paul Hardwick, Natasha Parry
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

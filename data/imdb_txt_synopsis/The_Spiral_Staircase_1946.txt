@@ -1,0 +1,10 @@
+movieId: 3849
+title: The Spiral Staircase
+year: 1946
+url: https://www.imdb.com/title/tt0038975/
+ratingValue: 
+directors: Robert Siodmak
+actors: Dorothy McGuire, George Brent, Ethel Barrymore, Kent Smith, Rhonda Fleming, Gordon Oliver, Elsa Lanchester, Sara Allgood, Rhys Williams, James Bell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

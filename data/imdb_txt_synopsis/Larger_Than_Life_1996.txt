@@ -1,0 +1,10 @@
+movieId: 813
+title: Larger Than Life
+year: 1996
+url: https://www.imdb.com/title/tt0116823/
+ratingValue: 
+directors: Howard Franklin
+actors: Jerry Adler, Bill Murray, Richard Alan Baker, Richie Allan, Kimberly Thornton, Anita Gillette, Maureen Mueller, Jeremy Piven, Alex Neiwerth, Alfa-Betty Olsen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

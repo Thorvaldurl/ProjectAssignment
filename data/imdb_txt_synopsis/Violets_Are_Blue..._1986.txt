@@ -1,0 +1,10 @@
+movieId: 2415
+title: Violets Are Blue...
+year: 1986
+url: https://www.imdb.com/title/tt0092173/
+ratingValue: 
+directors: Jack Fisk
+actors: Sissy Spacek, Kevin Kline, Bonnie Bedelia, John Kellogg, Jim Standiford, Augusta Dabney, Kate McGregor-Stewart, Adrian Sparks, Annalee Jefferies, Mike Starr
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

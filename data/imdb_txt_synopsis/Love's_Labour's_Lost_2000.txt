@@ -1,0 +1,10 @@
+movieId: 3719
+title: Love's Labour's Lost
+year: 2000
+url: https://www.imdb.com/title/tt0182295/
+ratingValue: 
+directors: Kenneth Branagh
+actors: Alessandro Nivola, Alicia Silverstone, Natascha McElhone, Kenneth Branagh, Carmen Ejogo, Matthew Lillard, Adrian Lester, Emily Mortimer, Richard Briers, Geraldine McEwan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

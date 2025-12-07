@@ -1,0 +1,10 @@
+movieId: 25947
+title: Unfaithfully Yours
+year: 1948
+url: https://www.imdb.com/title/tt0040919/
+ratingValue: 
+directors: Preston Sturges
+actors: Rex Harrison, Linda Darnell, Rudy Vallee, Barbara Lawrence, Kurt Kreuger, Lionel Stander, Edgar Kennedy, Al Bridge, Julius Tannen, Torben Meyer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

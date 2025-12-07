@@ -1,0 +1,10 @@
+movieId: 4263
+title: Days of Wine and Roses
+year: 1962
+url: https://www.imdb.com/title/tt0055895/
+ratingValue: 
+directors: Blake Edwards
+actors: Jack Lemmon, Lee Remick, Charles Bickford, Jack Klugman, Alan Hewitt, Tom Palmer, Debbie Megowan, Maxine Stuart, Jack Albertson, Leon Alton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

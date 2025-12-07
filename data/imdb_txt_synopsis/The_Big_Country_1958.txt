@@ -1,0 +1,10 @@
+movieId: 3368
+title: The Big Country
+year: 1958
+url: https://www.imdb.com/title/tt0051411/
+ratingValue: 
+directors: William Wyler
+actors: Gregory Peck, Jean Simmons, Carroll Baker, Charlton Heston, Burl Ives, Charles Bickford, Alfonso Bedoya, Chuck Connors, Chuck Hayward, Buff Brady
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 65
+title: Bio-Dome
+year: 1996
+url: https://www.imdb.com/title/tt0115683/
+ratingValue: 
+directors: Jason Bloom
+actors: William Atherton, Denise Dowse, Dara Tomanovich, Kevin West, Kylie Minogue, Pauly Shore, Stephen Baldwin, Joey Lauren Adams, Teresa Hill, Patricia Hearst
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2331
+title: Living Out Loud
+year: 1998
+url: https://www.imdb.com/title/tt0120722/
+ratingValue: 
+directors: Richard LaGravenese
+actors: Holly Hunter, Danny DeVito, Queen Latifah, Martin Donovan, Richard Schiff, Elias Koteas, Suzanne Shepherd, Mariangela Pino, Eddie Cibrian, Clark Anderson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

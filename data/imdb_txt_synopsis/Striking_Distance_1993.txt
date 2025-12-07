@@ -1,0 +1,10 @@
+movieId: 544
+title: Striking Distance
+year: 1993
+url: https://www.imdb.com/title/tt0108238/
+ratingValue: 
+directors: Rowdy Herrington
+actors: Bruce Willis, Sarah Jessica Parker, Dennis Farina, Tom Sizemore, Brion James, Robert Pastorelli, Timothy Busfield, John Mahoney, Andre Braugher, Tom Atkins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

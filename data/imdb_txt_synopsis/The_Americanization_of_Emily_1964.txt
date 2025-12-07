@@ -1,0 +1,10 @@
+movieId: 8190
+title: The Americanization of Emily
+year: 1964
+url: https://www.imdb.com/title/tt0057840/
+ratingValue: 
+directors: Arthur Hiller
+actors: James Garner, Julie Andrews, Melvyn Douglas, James Coburn, Joyce Grenfell, Edward Binns, Liz Fraser, Keenan Wynn, William Windom, John Crawford
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

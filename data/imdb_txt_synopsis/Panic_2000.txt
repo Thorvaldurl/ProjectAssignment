@@ -1,0 +1,10 @@
+movieId: 4055
+title: Panic
+year: 2000
+url: https://www.imdb.com/title/tt0194218/
+ratingValue: 
+directors: Henry Bromell
+actors: William H. Macy, John Ritter, Neve Campbell, Donald Sutherland, Tracey Ullman, Barbara Bain, David Dorfman, Tina Lifford, Bix Barnaba, Nicholle Tom
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

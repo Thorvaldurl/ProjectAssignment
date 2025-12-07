@@ -1,0 +1,10 @@
+movieId: 3295
+title: Raining Stones
+year: 1993
+url: https://www.imdb.com/title/tt0107920/
+ratingValue: 
+directors: Ken Loach
+actors: Bruce Jones, Julie Brown, Gemma Phoenix, Ricky Tomlinson, Tom Hickey, Mike Fallon, Ronnie Ravey, Lee Brennan, Karen Henthorn, Christine Abbott
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

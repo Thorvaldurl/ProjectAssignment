@@ -1,0 +1,10 @@
+movieId: 7440
+title: Paper Clips
+year: 2004
+url: https://www.imdb.com/title/tt0380615/
+ratingValue: 
+directors: Elliot Berlin, Joe Fab
+actors: Tom Bosley, Casey Condra, Cassie Crabtree, Kay Fab, Rachel Gleitman, Mary Jane Higdon, Linda Hooper, Bernard Igielski, George Jacobs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

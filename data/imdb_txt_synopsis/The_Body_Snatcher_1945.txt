@@ -1,0 +1,10 @@
+movieId: 1337
+title: The Body Snatcher
+year: 1945
+url: https://www.imdb.com/title/tt0037549/
+ratingValue: 
+directors: Robert Wise
+actors: Boris Karloff, Bela Lugosi, Henry Daniell, Edith Atwater, Russell Wade, Paula Corday, Sharyn Moffett, Donna Lee, Ted Billings, Bobby Burns
+
+synopsis:
+A gruesome tale of a reality of 19th Century medicine. Karloff portrays Mr. Gray, a dubious supplier of human cadavers for medical experimentation. When the task of digging up newly interred corpses becomes tedious and dangerous, Mr. Gray turns to other methods portending disaster.

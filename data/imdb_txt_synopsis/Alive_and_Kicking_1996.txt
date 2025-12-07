@@ -1,0 +1,10 @@
+movieId: 1642
+title: Alive and Kicking
+year: 1996
+url: https://www.imdb.com/title/tt0116631/
+ratingValue: 
+directors: Nancy Meckler
+actors: Jason Flemyng, Antony Sher, Dorothy Tutin, Anthony Higgins, Bill Nighy, Philip Voss, Diane Parish, Aiden Waters, Natalie Roles, Frederick Stuart
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6196
+title: Cradle 2 the Grave
+year: 2003
+url: https://www.imdb.com/title/tt0306685/
+ratingValue: 
+directors: Andrzej Bartkowiak
+actors: Jet Li, DMX, Anthony Anderson, Kelly Hu, Tom Arnold, Mark Dacascos, Gabrielle Union, Michael Jace, Drag-On, Paige Hurd
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

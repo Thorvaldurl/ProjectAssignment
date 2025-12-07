@@ -1,0 +1,10 @@
+movieId: 2742
+title: Ménage
+year: 1986
+url: https://www.imdb.com/title/tt0092068/
+ratingValue: 
+directors: Bertrand Blier
+actors: Gérard Depardieu, Michel Blanc, Miou-Miou, Michel Creton, Jean-François Stévenin, Mylène Demongeot, Caroline Silhol, Jean-Yves Berteloot, Bruno Cremer, Jean-Pierre Marielle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

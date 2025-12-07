@@ -1,0 +1,10 @@
+movieId: 2885
+title: Guinevere
+year: 1999
+url: https://www.imdb.com/title/tt0160338/
+ratingValue: 
+directors: Audrey Wells
+actors: Sarah Polley, Stephen Rea, Jean Smart, Gina Gershon, Paul Dooley, Carrie Preston, Tracy Letts, Emily Procter, Sharon McNight, Gedde Watanabe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1412
+title: Some Mother's Son
+year: 1996
+url: https://www.imdb.com/title/tt0117690/
+ratingValue: 
+directors: Terry George
+actors: Helen Mirren, Fionnula Flanagan, Aidan Gillen, David O'Hara, John Lynch, Tom Hollander, Tim Woodward, Ciarán Hinds, Geraldine O'Rawe, Gerard McSorley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

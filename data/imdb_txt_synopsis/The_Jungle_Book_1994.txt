@@ -1,0 +1,10 @@
+movieId: 362
+title: The Jungle Book
+year: 1994
+url: https://www.imdb.com/title/tt0110213/
+ratingValue: 
+directors: Stephen Sommers
+actors: Jason Scott Lee, Cary Elwes, Lena Headey, Sam Neill, John Cleese, Jason Flemyng, Stefan Kalipha, Ron Donachie, Anirudh Agarwal, Faran Tahir
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

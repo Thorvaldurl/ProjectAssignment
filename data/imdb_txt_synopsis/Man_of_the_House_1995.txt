@@ -1,0 +1,10 @@
+movieId: 274
+title: Man of the House
+year: 1995
+url: https://www.imdb.com/title/tt0113755/
+ratingValue: 
+directors: James Orr
+actors: Chevy Chase, Farrah Fawcett, Jonathan Taylor Thomas, George Wendt, David Shiner, Art LaFleur, Richard Portnow, Richard Foronjy, Peter Appel, Chief Leonard George
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

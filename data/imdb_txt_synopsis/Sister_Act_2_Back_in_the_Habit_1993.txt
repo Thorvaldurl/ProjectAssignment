@@ -1,0 +1,10 @@
+movieId: 3248
+title: Sister Act 2: Back in the Habit
+year: 1993
+url: https://www.imdb.com/title/tt0108147/
+ratingValue: 
+directors: Bill Duke
+actors: Whoopi Goldberg, Kathy Najimy, Barnard Hughes, Mary Wickes, James Coburn, Michael Jeter, Wendy Makkena, Sheryl Lee Ralph, Robert Pastorelli, Thomas Gottschalk
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

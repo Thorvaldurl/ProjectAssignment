@@ -1,0 +1,10 @@
+movieId: 5348
+title: Hollywood Ending
+year: 2002
+url: https://www.imdb.com/title/tt0278823/
+ratingValue: 
+directors: Woody Allen
+actors: Téa Leoni, Bob Dorian, Ivan Martin, Gregg Edelman, George Hamilton, Treat Williams, Woody Allen, Debra Messing, Neal Huff, Mark Rydell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

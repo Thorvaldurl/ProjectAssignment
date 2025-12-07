@@ -1,0 +1,10 @@
+movieId: 8650
+title: Long Day's Journey Into Night
+year: 1962
+url: https://www.imdb.com/title/tt0056196/
+ratingValue: 
+directors: Sidney Lumet
+actors: Katharine Hepburn, Ralph Richardson, Jason Robards, Dean Stockwell, Jeanne Barr
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

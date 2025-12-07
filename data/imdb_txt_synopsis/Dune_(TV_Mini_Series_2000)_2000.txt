@@ -1,0 +1,10 @@
+movieId: 7842
+title: Dune (TV Mini Series 2000)
+year: 2000
+url: https://www.imdb.com/title/tt0142032/
+ratingValue: 
+directors: 
+actors: William Hurt, Alec Newman, Saskia Reeves, James Watson, Jan Vlasák, P.H. Moriarty, Robert Russell, Laura Burton, Ian McNeice
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

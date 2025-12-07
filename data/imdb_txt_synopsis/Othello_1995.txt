@@ -1,0 +1,10 @@
+movieId: 26
+title: Othello
+year: 1995
+url: https://www.imdb.com/title/tt0114057/
+ratingValue: 
+directors: Oliver Parker
+actors: Laurence Fishburne, Irène Jacob, Kenneth Branagh, Nathaniel Parker, Michael Maloney, Anna Patrick, Nicholas Farrell, Indra Ové, Michael Sheen, André Oumansky
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

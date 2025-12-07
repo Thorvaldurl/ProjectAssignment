@@ -1,0 +1,10 @@
+movieId: 4773
+title: Haiku Tunnel
+year: 2001
+url: https://www.imdb.com/title/tt0273253/
+ratingValue: 
+directors: Jacob Kornbluth, Josh Kornbluth
+actors: Josh Kornbluth, Warren Keith, Sarah Overman, Leah Alperin, Jacob Kornbluth, Stephen Muller, Linda Norton, Helen Shumaker, Amy Resnick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

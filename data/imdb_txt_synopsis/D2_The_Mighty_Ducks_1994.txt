@@ -1,0 +1,10 @@
+movieId: 2042
+title: D2: The Mighty Ducks
+year: 1994
+url: https://www.imdb.com/title/tt0109520/
+ratingValue: 
+directors: Sam Weisman
+actors: Emilio Estevez, Kathryn Erbe, Michael Tucker, Jan Rubes, Carsten Norgaard, Maria Ellingsen, Joshua Jackson, Elden Henson, Shaun Weiss, Matt Doherty
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

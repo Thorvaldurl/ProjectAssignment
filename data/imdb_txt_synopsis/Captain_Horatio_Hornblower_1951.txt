@@ -1,0 +1,10 @@
+movieId: 3406
+title: Captain Horatio Hornblower
+year: 1951
+url: https://www.imdb.com/title/tt0043379/
+ratingValue: 
+directors: Raoul Walsh
+actors: Gregory Peck, Virginia Mayo, Robert Beatty, Moultrie Kelsall, Denis O'Dea, James Kenney, Terence Morgan, James Robertson Justice, Richard Hearne, Michael Dolan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

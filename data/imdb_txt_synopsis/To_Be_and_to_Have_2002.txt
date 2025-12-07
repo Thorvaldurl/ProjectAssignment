@@ -1,0 +1,10 @@
+movieId: 6772
+title: To Be and to Have
+year: 2002
+url: https://www.imdb.com/title/tt0318202/
+ratingValue: 
+directors: Nicolas Philibert
+actors: Georges Lopez, Alizé, Axel Thouvenin, Guillaume, Jessie, Johan, Johann, Jonathan, Julien
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

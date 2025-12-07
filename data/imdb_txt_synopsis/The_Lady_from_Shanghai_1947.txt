@@ -1,0 +1,10 @@
+movieId: 25940
+title: The Lady from Shanghai
+year: 1947
+url: https://www.imdb.com/title/tt0040525/
+ratingValue: 
+directors: Orson Welles
+actors: Rita Hayworth, Orson Welles, Everett Sloane, Glenn Anders, Ted de Corsia, Erskine Sanford, Gus Schilling, Carl Frank, Louis Merrill, Evelyn Ellis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

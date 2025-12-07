@@ -1,0 +1,10 @@
+movieId: 5672
+title: Pokemon 4Ever: Celebi - Voice of the Forest
+year: 2001
+url: https://www.imdb.com/title/tt0313487/
+ratingValue: 
+directors: 
+actors: Rica Matsumoto, Veronica Taylor, Rachael Lillis, Ikue Ôtani, Unshô Ishizuka, Eric Stuart, Madeleine Blaustein, Mayumi Izuka, Yûji Ueda, Tomokazu Seki, Megumi Hayashibara
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

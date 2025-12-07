@@ -1,0 +1,10 @@
+movieId: 4738
+title: Happy Accidents
+year: 2000
+url: https://www.imdb.com/title/tt0208196/
+ratingValue: 
+directors: Brad Anderson
+actors: Marisa Tomei, Vincent D'Onofrio, Holland Taylor, Mick Weber, Nadia Dajani, Tamara Jenkins, Cara Buono, Lianna Pai, Neal Huff, Sam Seder
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1051
+title: Trees Lounge
+year: 1996
+url: https://www.imdb.com/title/tt0117958/
+ratingValue: 
+directors: Steve Buscemi
+actors: Carol Kane, Mark Boone Junior, Steve Buscemi, Bronson Dudley, Anthony LaPaglia, Michael Buscemi, Elizabeth Bracco, John Ventimiglia, Steven Randazzo, Suzanne Shepherd
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

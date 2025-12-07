@@ -1,0 +1,10 @@
+movieId: 8254
+title: Arizona Dream
+year: 1993
+url: https://www.imdb.com/title/tt0106307/
+ratingValue: 
+directors: Emir Kusturica
+actors: Johnny Depp, Jerry Lewis, Faye Dunaway, Lili Taylor, Vincent Gallo, Paulina Porizkova, Michael J. Pollard, Candyce Mason, Alexia Rane, Polly du Pont Noonan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3769
+title: Thunderbolt and Lightfoot
+year: 1974
+url: https://www.imdb.com/title/tt0072288/
+ratingValue: 
+directors: Michael Cimino
+actors: Clint Eastwood, Jeff Bridges, Geoffrey Lewis, Catherine Bach, Gary Busey, Jack Dodson, Eugene Elman, Burton Gilliam, Roy Jenson, Claudia Lennear
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

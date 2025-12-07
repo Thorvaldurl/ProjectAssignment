@@ -1,0 +1,10 @@
+movieId: 7206
+title: My Uncle
+year: 1958
+url: https://www.imdb.com/title/tt0050706/
+ratingValue: 
+directors: Jacques Tati
+actors: Jean-Pierre Zola, Adrienne Servantie, Lucien Frégis, Betty Schneider, Jean-François Martial, Dominique Marie, Yvonne Arnaud, Adelaide Danieli, Alain Bécourt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

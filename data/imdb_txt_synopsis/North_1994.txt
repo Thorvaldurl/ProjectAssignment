@@ -1,0 +1,10 @@
+movieId: 505
+title: North
+year: 1994
+url: https://www.imdb.com/title/tt0110687/
+ratingValue: 
+directors: Rob Reiner
+actors: Elijah Wood, Jason Alexander, Julia Louis-Dreyfus, Marc Shaiman, Jussie Smollett, Taylor Fry, Alana Austin, Peg Shirley, Chuck Cooper, Alan Zweibel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

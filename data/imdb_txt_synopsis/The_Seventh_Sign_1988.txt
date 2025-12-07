@@ -1,0 +1,10 @@
+movieId: 2263
+title: The Seventh Sign
+year: 1988
+url: https://www.imdb.com/title/tt0096073/
+ratingValue: 
+directors: Carl Schultz
+actors: Demi Moore, Michael Biehn, Jürgen Prochnow, Peter Friedman, Manny Jacobs, John Taylor, Lee Garlington, Akosua Busia, Harry Basil, Arnold Johnson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

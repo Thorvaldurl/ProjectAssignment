@@ -1,0 +1,10 @@
+movieId: 8911
+title: Raise Your Voice
+year: 2004
+url: https://www.imdb.com/title/tt0361696/
+ratingValue: 
+directors: Sean McNamara
+actors: Hilary Duff, Oliver James, David Keith, Dana Davis, Johnny Lewis, Rita Wilson, Lauren C. Mayhew, Kat Dennings, Jason Ritter, Rebecca De Mornay
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

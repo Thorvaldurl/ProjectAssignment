@@ -1,0 +1,10 @@
+movieId: 6204
+title: The Meteor Man
+year: 1993
+url: https://www.imdb.com/title/tt0107563/
+ratingValue: 
+directors: Robert Townsend
+actors: Robert Townsend, Marla Gibbs, Eddie Griffin, Robert Guillaume, James Earl Jones, Roy Fegan, Cynthia Belgrave, Marilyn Coleman, Don Cheadle, Bobby McGee
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

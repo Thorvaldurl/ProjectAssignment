@@ -1,0 +1,10 @@
+movieId: 194
+title: Smoke
+year: 1995
+url: https://www.imdb.com/title/tt0114478/
+ratingValue: 
+directors: Wayne Wang
+actors: Giancarlo Esposito, José Zúñiga, Stephen Gevedon, Harvey Keitel, Jared Harris, William Hurt, Daniel Auster, Harold Perrineau, Deirdre O'Connell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

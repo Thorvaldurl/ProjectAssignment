@@ -1,0 +1,10 @@
+movieId: 802
+title: Phenomenon
+year: 1996
+url: https://www.imdb.com/title/tt0117333/
+ratingValue: 
+directors: Jon Turteltaub
+actors: John Travolta, Kyra Sedgwick, Forest Whitaker, Robert Duvall, Jeffrey DeMunn, Richard Kiley, David Gallagher, Ashley Buccille, Tony Genaro, Sean O'Bryan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

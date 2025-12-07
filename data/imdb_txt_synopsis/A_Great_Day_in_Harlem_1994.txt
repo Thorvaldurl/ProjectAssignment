@@ -1,0 +1,10 @@
+movieId: 602
+title: A Great Day in Harlem
+year: 1994
+url: https://www.imdb.com/title/tt0109934/
+ratingValue: 
+directors: Jean Bach
+actors: Quincy Jones, Dizzy Gillespie, Sonny Rollins, Buck Clayton, Art Blakey, Hank Jones, Art Farmer, Johnny Griffin, Milt Hinton, Chubby Jackson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

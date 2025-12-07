@@ -1,0 +1,10 @@
+movieId: 4047
+title: Gettysburg
+year: 1993
+url: https://www.imdb.com/title/tt0107007/
+ratingValue: 
+directors: Ron Maxwell
+actors: Tom Berenger, Martin Sheen, Stephen Lang, Richard Jordan, Andrew Prine, Cooper Huckabee, Patrick Gorman, Bo Brinkman, James Lancaster, William Morgan Sheppard
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

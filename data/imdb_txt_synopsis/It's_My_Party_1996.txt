@@ -1,0 +1,10 @@
+movieId: 685
+title: It's My Party
+year: 1996
+url: https://www.imdb.com/title/tt0113443/
+ratingValue: 
+directors: Randal Kleiser
+actors: Margaret Cho, Bruce Davison, Lee Grant, Devon Gummersall, Gregory Harrison, Marlee Matlin, Roddy McDowall, Olivia Newton-John, Bronson Pinchot, Paul Regina
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

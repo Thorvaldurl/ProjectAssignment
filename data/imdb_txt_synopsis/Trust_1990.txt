@@ -1,0 +1,10 @@
+movieId: 1236
+title: Trust
+year: 1990
+url: https://www.imdb.com/title/tt0103130/
+ratingValue: 
+directors: Hal Hartley
+actors: Adrienne Shelly, Martin Donovan, Rebecca Nelson, John MacKay, Edie Falco, Gary Sauer, Matt Malloy, Suzanne Costollos, Jeff Howard, Karen Sillas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

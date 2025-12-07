@@ -1,0 +1,10 @@
+movieId: 2071
+title: And the Band Played On (TV Movie 1993)
+year: 1993
+url: https://www.imdb.com/title/tt0106273/
+ratingValue: 
+directors: Roger Spottiswoode
+actors: Matthew Modine, Alan Alda, Patrick Bauchau, Nathalie Baye, Christian Clemenson, David Clennon, Phil Collins, Bud Cort, Alex Courtney, David Dukes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4989
+title: How High
+year: 2001
+url: https://www.imdb.com/title/tt0278488/
+ratingValue: 
+directors: Jesse Dylan
+actors: Method Man, Redman, Obba Babatundé, Mike Epps, Anna Maria Horsford, Fred Willard, Jeffrey Jones, Hector Elizondo, Lark Voorhies, Al Shearer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

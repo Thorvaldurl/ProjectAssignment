@@ -1,0 +1,10 @@
+movieId: 8601
+title: Zero for Conduct
+year: 1933
+url: https://www.imdb.com/title/tt0024803/
+ratingValue: 
+directors: Jean Vigo
+actors: Jean Dasté, Robert le Flon, Du Verron, Delphin, Léon Larive, Madame Émile, Louis de Gonzague, Raphaël Diligent, Louis Lefebvre
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

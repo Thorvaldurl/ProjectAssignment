@@ -1,0 +1,9 @@
+movieId: 26283
+title: Charley Varrick
+year: 1973
+url: https://www.imdb.com/title/tt0069865/
+ratingValue: 
+directors: Don Siegel
+actors: Walter Matthau, Joe Don Baker, Felicia Farr, Andrew Robinson, Sheree North, Norman Fell, Benson Fong, Woodrow Parfrey, William Schallert, Jacqueline Scott
+
+synopsis:

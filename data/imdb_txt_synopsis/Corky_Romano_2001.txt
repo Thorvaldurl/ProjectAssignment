@@ -1,0 +1,10 @@
+movieId: 4845
+title: Corky Romano
+year: 2001
+url: https://www.imdb.com/title/tt0250310/
+ratingValue: 
+directors: Rob Pritts
+actors: Chris Kattan, Vinessa Shaw, Peter Falk, Peter Berg, Chris Penn, Fred Ward, Richard Roundtree, Matthew Glave, Roger Fan, Dave Sheridan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2322
+title: Soldier
+year: 1998
+url: https://www.imdb.com/title/tt0120157/
+ratingValue: 
+directors: Paul W.S. Anderson
+actors: Kurt Russell, Jason Scott Lee, Jason Isaacs, Connie Nielsen, Sean Pertwee, Jared Thorne, Taylor Thorne, Mark Bringelson, Gary Busey, K.K. Dodds
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

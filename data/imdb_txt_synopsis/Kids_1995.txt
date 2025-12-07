@@ -1,0 +1,10 @@
+movieId: 175
+title: Kids
+year: 1995
+url: https://www.imdb.com/title/tt0113540/
+ratingValue: 
+directors: Larry Clark
+actors: Leo Fitzpatrick, Sarah Henderson, Justin Pierce, Joseph Chan, Johnathan Staci Kim, Adriane Brown, Sajan Bhagat, Billy Valdes, Billy Waldeman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

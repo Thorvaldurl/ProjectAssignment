@@ -1,0 +1,10 @@
+movieId: 237
+title: Forget Paris
+year: 1995
+url: https://www.imdb.com/title/tt0113097/
+ratingValue: 
+directors: Billy Crystal
+actors: Billy Crystal, Debra Winger, Joe Mantegna, Cynthia Stevenson, Richard Masur, Julie Kavner, William Hickey, Robert Costanzo, John Spencer, Tom Wright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6588
+title: And Now Ladies & Gentlemen
+year: 2002
+url: https://www.imdb.com/title/tt0283883/
+ratingValue: 
+directors: Claude Lelouch
+actors: Jeremy Irons, Patricia Kaas, Thierry Lhermitte, Alessandra Martines, Claudia Cardinale, Jean-Marie Bigard, Ticky Holgado, Yvan Attal, Amidou, Sylvie Loeillet
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

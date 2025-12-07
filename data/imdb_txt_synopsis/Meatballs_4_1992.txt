@@ -1,0 +1,10 @@
+movieId: 3043
+title: Meatballs 4
+year: 1992
+url: https://www.imdb.com/title/tt0104837/
+ratingValue: 
+directors: Bob Logan
+actors: Corey Feldman, Jack Nance, Sarah Douglas, Bojesse Christopher, Brad Grunberg, J. Trevor Edmond, Paige French, John Mendoza, Bentley Mitchum, Deborah Tucker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

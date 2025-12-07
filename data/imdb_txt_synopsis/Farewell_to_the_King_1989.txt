@@ -1,0 +1,10 @@
+movieId: 4594
+title: Farewell to the King
+year: 1989
+url: https://www.imdb.com/title/tt0097334/
+ratingValue: 
+directors: John Milius
+actors: Nick Nolte, Nigel Havers, Frank McRae, Gerry Lopez, Marilyn Tokuda, Chang Wing Choy, Aki Aleong, Marius Weyers, William Wise, Wayne Pygram
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

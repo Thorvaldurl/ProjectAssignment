@@ -1,0 +1,10 @@
+movieId: 4877
+title: Better Than Sex
+year: 2000
+url: https://www.imdb.com/title/tt0236019/
+ratingValue: 
+directors: Jonathan Teplitzky
+actors: David Wenham, Susie Porter, Kris McQuade, Simon Bossell, Catherine McClements, Imelda Corcoran, Dina Gillespie, Emily Saunders, Laura Keneally, Leah Vandenberg
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

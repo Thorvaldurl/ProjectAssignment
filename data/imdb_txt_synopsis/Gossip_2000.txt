@@ -1,0 +1,10 @@
+movieId: 3553
+title: Gossip
+year: 2000
+url: https://www.imdb.com/title/tt0176783/
+ratingValue: 
+directors: Davis Guggenheim
+actors: James Marsden, Lena Headey, Norman Reedus, Kate Hudson, Eric Bogosian, Edward James Olmos, Joshua Jackson, Sharon Lawrence, Marisa Coughlan, Kwok-Wing Leung
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

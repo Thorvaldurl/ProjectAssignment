@@ -1,0 +1,10 @@
+movieId: 1175
+title: Delicatessen
+year: 1991
+url: https://www.imdb.com/title/tt0101700/
+ratingValue: 
+directors: Marc Caro, Jean-Pierre Jeunet
+actors: Pascal Benezech, Dominique Pinon, Marie-Laure Dougnac, Jean-Claude Dreyfus, Karin Viard, Ticky Holgado, Anne-Marie Pisani, Boban Janevski, Mikael Todde, Edith Ker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

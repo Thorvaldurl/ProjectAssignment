@@ -1,0 +1,10 @@
+movieId: 4374
+title: Let It Snow
+year: 1999
+url: https://www.imdb.com/title/tt0212517/
+ratingValue: 
+directors: Adam Marcus
+actors: Kipp Marcus, Alice Dylan, Bernadette Peters, Larry Pine, Henry Simmons, Judith Malina, Miriam Shor, Michael Ornstein, Season Oglesby, Debra Sullivan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

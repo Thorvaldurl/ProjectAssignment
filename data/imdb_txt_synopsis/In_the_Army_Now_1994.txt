@@ -1,0 +1,10 @@
+movieId: 473
+title: In the Army Now
+year: 1994
+url: https://www.imdb.com/title/tt0110123/
+ratingValue: 
+directors: Daniel Petrie Jr.
+actors: Pauly Shore, Andy Dick, Lori Petty, David Alan Grier, Esai Morales, Lynn Whitfield, Art LaFleur, Fabiana Udenio, Glenn Morshower, Beau Billingslea
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

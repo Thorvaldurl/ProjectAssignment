@@ -1,0 +1,10 @@
+movieId: 8035
+title: The Stendhal Syndrome
+year: 1996
+url: https://www.imdb.com/title/tt0117658/
+ratingValue: 
+directors: Dario Argento
+actors: Asia Argento, Thomas Kretschmann, Marco Leonardi, Luigi Diberti, Paolo Bonacelli, Julien Lambroschini, John Quentin, Franco Diogene, Lucia Stara, Sonia Topazio
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

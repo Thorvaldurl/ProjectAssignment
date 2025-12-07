@@ -1,0 +1,10 @@
+movieId: 1938
+title: The Lost Weekend
+year: 1945
+url: https://www.imdb.com/title/tt0037884/
+ratingValue: 
+directors: Billy Wilder
+actors: Ray Milland, Jane Wyman, Phillip Terry, Howard Da Silva, Doris Dowling, Frank Faylen, Mary Young, Anita Sharp-Bolster, Lilian Fontaine, Frank Orth
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

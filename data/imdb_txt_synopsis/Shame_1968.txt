@@ -1,0 +1,10 @@
+movieId: 7936
+title: Shame
+year: 1968
+url: https://www.imdb.com/title/tt0063611/
+ratingValue: 
+directors: Ingmar Bergman
+actors: Liv Ullmann, Max von Sydow, Sigge Fürst, Gunnar Björnstrand, Birgitta Valberg, Hans Alfredson, Ingvar Kjellson, Frank Sundström, Ulf Johansson, Vilgot Sjöman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

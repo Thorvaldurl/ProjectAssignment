@@ -1,0 +1,10 @@
+movieId: 1447
+title: Gridlock'd
+year: 1997
+url: https://www.imdb.com/title/tt0119225/
+ratingValue: 
+directors: Vondie Curtis-Hall
+actors: Tim Roth, Tupac Shakur, Thandiwe Newton, Charles Fleischer, Howard Hesseman, James Pickens Jr., John Sayles, Eric Payne, Tom Towles, Tom Wright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

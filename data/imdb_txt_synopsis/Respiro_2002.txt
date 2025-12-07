@@ -1,0 +1,10 @@
+movieId: 6376
+title: Respiro
+year: 2002
+url: https://www.imdb.com/title/tt0286516/
+ratingValue: 
+directors: Emanuele Crialese
+actors: Valeria Golino, Vincenzo Amato, Francesco Casisa, Veronica D'Agostino, Filippo Pucillo, Muzzi Loffredo, Elio Germano, Avy Marciano, Giuseppe del Volgo, Matteo Solina
+
+synopsis:
+A small island can create the beauty and bring the beast on oneself. Grazia's in love with life and her kids but she starts loosing her mind and her oldest son will do anything in his power to believe she's not insane.

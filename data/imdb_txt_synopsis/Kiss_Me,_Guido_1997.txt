@@ -1,0 +1,10 @@
+movieId: 1612
+title: Kiss Me, Guido
+year: 1997
+url: https://www.imdb.com/title/tt0119465/
+ratingValue: 
+directors: Tony Vitale
+actors: Nick Scotti, Anthony Barrile, Anthony DeSando, Craig Chester, Domenick Lombardozzi, Molly Price, Christopher Lawford, David Deblinger, John Tormey, Antonia Rey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

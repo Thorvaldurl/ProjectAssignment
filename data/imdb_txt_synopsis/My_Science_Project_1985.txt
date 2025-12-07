@@ -1,0 +1,10 @@
+movieId: 2615
+title: My Science Project
+year: 1985
+url: https://www.imdb.com/title/tt0089652/
+ratingValue: 
+directors: Jonathan R. Betuel
+actors: John Stockwell, Danielle von Zerneck, Fisher Stevens, Raphael Sbarge, Richard Masur, Barry Corbin, Ann Wedgeworth, Dennis Hopper, Candace Silvers, Beau Dremann
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 775
+title: Spirits of the Dead
+year: 1968
+url: https://www.imdb.com/title/tt0063715/
+ratingValue: 
+directors: Federico Fellini, Louis Malle, Roger Vadim
+actors: Brigitte Bardot, Alain Delon, Jane Fonda, Terence Stamp, James Robertson Justice, Salvo Randone, Françoise Prévost, Peter Fonda, Marlène Alexandre
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

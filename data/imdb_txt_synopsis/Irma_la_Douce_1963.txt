@@ -1,0 +1,10 @@
+movieId: 3076
+title: Irma la Douce
+year: 1963
+url: https://www.imdb.com/title/tt0057187/
+ratingValue: 
+directors: Billy Wilder
+actors: Jack Lemmon, Shirley MacLaine, Lou Jacobi, Bruce Yarnell, Herschel Bernardi, Hope Holiday, Joan Shawlee, Grace Lee Whitney, Paul Dubov, Howard McNear
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

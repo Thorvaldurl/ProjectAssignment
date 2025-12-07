@@ -1,0 +1,10 @@
+movieId: 6415
+title: Intervista
+year: 1987
+url: https://www.imdb.com/title/tt0093267/
+ratingValue: 
+directors: Federico Fellini
+actors: Sergio Rubini, Antonella Ponziani, Maurizio Mein, Paola Liguori, Lara Wendel, Antonio Cantafora, Nadia Ottaviani, Anita Ekberg, Marcello Mastroianni, Maria Teresa Battaglia
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

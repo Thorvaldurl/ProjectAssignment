@@ -1,0 +1,10 @@
+movieId: 354
+title: Cobb
+year: 1994
+url: https://www.imdb.com/title/tt0109450/
+ratingValue: 
+directors: Ron Shelton
+actors: Tommy Lee Jones, Robert Wuhl, Lolita Davidovich, Ned Bellamy, Scott Burkholder, Allan Malamud, Bill Caplan, Jeff Fellenzer, Doug Krikorian, Gavin Smith
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6816
+title: Three O'Clock High
+year: 1987
+url: https://www.imdb.com/title/tt0094138/
+ratingValue: 
+directors: Phil Joanou
+actors: Casey Siemaszko, Annie Ryan, Richard Tyson, Stacey Glick, Jonathan Wise, Jeffrey Tambor, Philip Baker Hall, John P. Ryan, Liza Morrow, Scott Tiler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

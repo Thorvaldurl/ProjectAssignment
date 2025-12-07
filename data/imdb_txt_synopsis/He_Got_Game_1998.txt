@@ -1,0 +1,10 @@
+movieId: 1840
+title: He Got Game
+year: 1998
+url: https://www.imdb.com/title/tt0124718/
+ratingValue: 
+directors: Spike Lee
+actors: Denzel Washington, Ray Allen, Milla Jovovich, Rosario Dawson, Hill Harper, Zelda Harris, Ned Beatty, Jim Brown, Joseph Lyle Taylor, Bill Nunn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4252
+title: The Circle
+year: 2000
+url: https://www.imdb.com/title/tt0255094/
+ratingValue: 
+directors: Jafar Panahi
+actors: Nargess Mamizadeh, Maryiam Palvin Almani, Mojgan Faramarzi, Elham Saboktakin, Monir Arab, Maedeh Tahmasebi, Maryam Shayegan, Khadijeh Moradi, Negar Ghadyani
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

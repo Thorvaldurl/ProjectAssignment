@@ -1,0 +1,10 @@
+movieId: 2861
+title: For Love of the Game
+year: 1999
+url: https://www.imdb.com/title/tt0126916/
+ratingValue: 
+directors: Sam Raimi
+actors: Kevin Costner, Kelly Preston, John C. Reilly, Jena Malone, Brian Cox, J.K. Simmons, Vin Scully, Steve Lyons, Carmine Giovinazzo, Bill E. Rogers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

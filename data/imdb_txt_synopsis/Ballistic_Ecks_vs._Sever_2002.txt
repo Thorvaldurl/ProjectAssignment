@@ -1,0 +1,10 @@
+movieId: 5609
+title: Ballistic: Ecks vs. Sever
+year: 2002
+url: https://www.imdb.com/title/tt0308208/
+ratingValue: 
+directors: Wych Kaosayananda
+actors: Antonio Banderas, Lucy Liu, Gregg Henry, Ray Park, Talisa Soto, Miguel Sandoval, Terry Chen, Roger Cross, Sandrine Holt, Steve Bacic
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

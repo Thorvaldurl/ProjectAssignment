@@ -1,0 +1,10 @@
+movieId: 4802
+title: Operation Petticoat
+year: 1959
+url: https://www.imdb.com/title/tt0053143/
+ratingValue: 
+directors: Blake Edwards
+actors: Cary Grant, Tony Curtis, Joan O'Brien, Dina Merrill, Gene Evans, Dick Sargent, Virginia Gregg, Robert F. Simon, Robert Gist, Gavin MacLeod
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

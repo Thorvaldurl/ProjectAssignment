@@ -1,0 +1,10 @@
+movieId: 906
+title: Gaslight
+year: 1944
+url: https://www.imdb.com/title/tt0036855/
+ratingValue: 
+directors: George Cukor
+actors: Charles Boyer, Ingrid Bergman, Joseph Cotten, May Whitty, Angela Lansbury, Barbara Everest, Emil Rameau, Edmund Breon, Halliwell Hobbes, Tom Stevenson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

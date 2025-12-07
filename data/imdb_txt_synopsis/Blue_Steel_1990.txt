@@ -1,0 +1,10 @@
+movieId: 5961
+title: Blue Steel
+year: 1990
+url: https://www.imdb.com/title/tt0099160/
+ratingValue: 
+directors: Kathryn Bigelow
+actors: Jamie Lee Curtis, Ron Silver, Clancy Brown, Elizabeth Peña, Louise Fletcher, Philip Bosco, Kevin Dunn, Richard Jenkins, Markus Flanagan, Mary Mara
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

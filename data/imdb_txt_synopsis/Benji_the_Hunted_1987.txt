@@ -1,0 +1,10 @@
+movieId: 3673
+title: Benji the Hunted
+year: 1987
+url: https://www.imdb.com/title/tt0092638/
+ratingValue: 
+directors: Joe Camp
+actors: Benjean, Frank Inn, Red Steagall, Nancy Francis, Joe Camp, Steve Zanolini, Mike Francis, Ben Vaughn, Karen Thorndike
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

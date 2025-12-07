@@ -1,0 +1,10 @@
+movieId: 8500
+title: Godzilla vs. Mechagodzilla
+year: 1974
+url: https://www.imdb.com/title/tt0071565/
+ratingValue: 
+directors: Jun Fukuda
+actors: Masaaki Daimon, Kazuya Aoyama, Reiko Tajima, Akihiko Hirata, Hiromi Matsushita, Hiroshi Koizumi, Masao Imafuku, Bellbella Lin, Shin Kishida, Gorô Mutsumi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

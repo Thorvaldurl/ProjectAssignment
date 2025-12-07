@@ -1,0 +1,10 @@
+movieId: 2695
+title: The Boys
+year: 1998
+url: https://www.imdb.com/title/tt0139898/
+ratingValue: 
+directors: Rowan Woods
+actors: David Wenham, Toni Collette, Lynette Curran, John Polson, Jeanette Cronin, Anthony Hayes, Anna Lise Phillips, Pete Smith, Sal Sharah, Lawrence Woodward
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

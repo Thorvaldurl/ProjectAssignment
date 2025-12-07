@@ -1,0 +1,10 @@
+movieId: 4125
+title: Leonard Part 6
+year: 1987
+url: https://www.imdb.com/title/tt0093405/
+ratingValue: 
+directors: Paul Weiland
+actors: Bill Cosby, Tom Courtenay, Joe Don Baker, Moses Gunn, Pat Colbert, Gloria Foster, Victoria Rowell, Anna Thomson, David Maier, Grace Zabriskie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

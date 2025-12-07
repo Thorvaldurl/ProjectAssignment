@@ -1,0 +1,10 @@
+movieId: 6344
+title: 101 Reykjavík
+year: 2000
+url: https://www.imdb.com/title/tt0237993/
+ratingValue: 
+directors: Baltasar Kormákur
+actors: Victoria Abril, Hilmir Snær Guðnason, Hanna María Karlsdóttir, Þrúður Vilhjálmsdóttir, Baltasar Kormákur, Ólafur Darri Ólafsson, Þröstur Leó Gunnarsson, Eyvindur Erlendsson, Halldóra Björnsdóttir
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

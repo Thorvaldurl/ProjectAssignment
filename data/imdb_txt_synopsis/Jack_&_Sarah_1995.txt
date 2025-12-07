@@ -1,0 +1,10 @@
+movieId: 638
+title: Jack & Sarah
+year: 1995
+url: https://www.imdb.com/title/tt0113448/
+ratingValue: 
+directors: Tim Sullivan
+actors: Richard E. Grant, Samantha Mathis, Judi Dench, Eileen Atkins, Cherie Lunghi, Imogen Stubbs, David Swift, Kate Hardie, Laurent Grévill, Ian McKellen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

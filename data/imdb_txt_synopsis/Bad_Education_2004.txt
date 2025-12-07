@@ -1,0 +1,10 @@
+movieId: 8973
+title: Bad Education
+year: 2004
+url: https://www.imdb.com/title/tt0275491/
+ratingValue: 
+directors: Pedro Almodóvar
+actors: Gael García Bernal, Fele Martínez, Daniel Giménez Cacho, Lluís Homar, Francisco Maestre, Francisco Boira, Juan Fernández, Nacho Pérez, Raúl García Forneiro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

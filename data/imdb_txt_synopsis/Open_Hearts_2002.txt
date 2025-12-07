@@ -1,0 +1,10 @@
+movieId: 6192
+title: Open Hearts
+year: 2002
+url: https://www.imdb.com/title/tt0315543/
+ratingValue: 
+directors: Susanne Bier
+actors: Mads Mikkelsen, Sonja Richter, Nikolaj Lie Kaas, Paprika Steen, Stine Bjerregaard, Birthe Neumann, Niels Olsen, Ulf Pilgaard, Ronnie Lorenzen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

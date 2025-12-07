@@ -1,0 +1,10 @@
+movieId: 9
+title: Sudden Death
+year: 1995
+url: https://www.imdb.com/title/tt0114576/
+ratingValue: 
+directors: Peter Hyams
+actors: Jean-Claude Van Damme, Powers Boothe, Raymond J. Barry, Whittni Wright, Ross Malinger, Dorian Harewood, Kate McNeil, Michael Gaston, Audra Lindley, Brian Delate
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

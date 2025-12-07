@@ -1,0 +1,10 @@
+movieId: 5780
+title: Polyester
+year: 1981
+url: https://www.imdb.com/title/tt0082926/
+ratingValue: 
+directors: John Waters
+actors: Divine, Tab Hunter, Edith Massey, David Samson, Mary Garlington, Ken King, Mink Stole, Joni Ruth White, Hans Kramm, Stiv Bators
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

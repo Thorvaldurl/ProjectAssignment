@@ -1,0 +1,10 @@
+movieId: 4466
+title: Above the Law
+year: 1988
+url: https://www.imdb.com/title/tt0094602/
+ratingValue: 
+directors: Andrew Davis
+actors: Steven Seagal, Pam Grier, Henry Silva, Ron Dean, Daniel Faraldo, Sharon Stone, Miguel Nino, Nicholas Kusenko, Joe Greco, Chelcie Ross
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 203
+title: To Wong Foo, Thanks for Everything! Julie Newmar
+year: 1995
+url: https://www.imdb.com/title/tt0114682/
+ratingValue: 
+directors: Beeban Kidron
+actors: Wesley Snipes, Patrick Swayze, John Leguizamo, Stockard Channing, Blythe Danner, Arliss Howard, Jason London, Chris Penn, Melinda Dillon, Beth Grant
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

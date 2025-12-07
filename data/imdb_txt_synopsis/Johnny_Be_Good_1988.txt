@@ -1,0 +1,10 @@
+movieId: 4516
+title: Johnny Be Good
+year: 1988
+url: https://www.imdb.com/title/tt0095409/
+ratingValue: 
+directors: Bud S. Smith
+actors: Anthony Michael Hall, Robert Downey Jr., Paul Gleason, Uma Thurman, Steve James, Seymour Cassel, Michael Greene, Marshall Bell, Deborah May, Michael Alldredge
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

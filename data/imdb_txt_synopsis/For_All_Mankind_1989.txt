@@ -1,0 +1,10 @@
+movieId: 3338
+title: For All Mankind
+year: 1989
+url: https://www.imdb.com/title/tt0097372/
+ratingValue: 
+directors: Al Reinert
+actors: Jim Lovell, Russell Schweickart, Eugene Cernan, Mike Collins, Charles Conrad, Richard Gordon, Alan Bean, Jack Swigert, Stuart Roosa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

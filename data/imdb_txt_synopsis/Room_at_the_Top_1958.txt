@@ -1,0 +1,10 @@
+movieId: 3171
+title: Room at the Top
+year: 1958
+url: https://www.imdb.com/title/tt0053226/
+ratingValue: 
+directors: Jack Clayton
+actors: Simone Signoret, Laurence Harvey, Heather Sears, Donald Wolfit, Donald Houston, Hermione Baddeley, Allan Cuthbertson, Raymond Huntley, John Westbrook, Ambrosine Phillpotts
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

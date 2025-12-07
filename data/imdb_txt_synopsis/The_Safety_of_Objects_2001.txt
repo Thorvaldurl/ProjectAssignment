@@ -1,0 +1,10 @@
+movieId: 6217
+title: The Safety of Objects
+year: 2001
+url: https://www.imdb.com/title/tt0256359/
+ratingValue: 
+directors: Rose Troche
+actors: Glenn Close, Dermot Mulroney, Jessica Campbell, Patricia Clarkson, Joshua Jackson, Moira Kelly, Robert Klein, Timothy Olyphant, Mary Kay Place, Kristen Stewart
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

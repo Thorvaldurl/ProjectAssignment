@@ -1,0 +1,10 @@
+movieId: 2016
+title: The Apple Dumpling Gang Rides Again
+year: 1979
+url: https://www.imdb.com/title/tt0078790/
+ratingValue: 
+directors: Vincent McEveety
+actors: Tim Conway, Don Knotts, Tim Matheson, Kenneth Mars, Elyssa Davalos, Jack Elam, Robert Pine, Harry Morgan, Ruth Buzzi, Audrey Totter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

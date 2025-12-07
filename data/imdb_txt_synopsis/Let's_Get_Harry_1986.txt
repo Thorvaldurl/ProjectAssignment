@@ -1,0 +1,10 @@
+movieId: 3389
+title: Let's Get Harry
+year: 1986
+url: https://www.imdb.com/title/tt0091400/
+ratingValue: 
+directors: Stuart Rosenberg, Alan Smithee
+actors: Fidel Abrego, Jere Burns, Gary Busey, Cecile Callan, Terry Camilleri, Elpidia Carrillo, Matt Clark, Rodolfo De Alejandre, Robert Duvall, Javier Estrada
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

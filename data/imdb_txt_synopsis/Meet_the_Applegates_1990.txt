@@ -1,0 +1,10 @@
+movieId: 8425
+title: Meet the Applegates
+year: 1990
+url: https://www.imdb.com/title/tt0100129/
+ratingValue: 
+directors: Michael Lehmann
+actors: Ed Begley Jr., Stockard Channing, Dabney Coleman, Bobby Jacoby, Camille Cooper, Glenn Shadix, Susan Barnes, Adam Biesk, Savannah Smith Boucher, Roger Aaron Brown
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

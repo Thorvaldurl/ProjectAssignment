@@ -1,0 +1,10 @@
+movieId: 3955
+title: The Ladies Man
+year: 2000
+url: https://www.imdb.com/title/tt0213790/
+ratingValue: 
+directors: Reginald Hudlin
+actors: Tim Meadows, Karyn Parsons, Billy Dee Williams, John Witherspoon, Jill Talley, Lee Evans, Will Ferrell, Sofia Milos, Eugene Levy, David Huband
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

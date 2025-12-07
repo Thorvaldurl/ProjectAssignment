@@ -1,0 +1,10 @@
+movieId: 7264
+title: Un couple épatant
+year: 2002
+url: https://www.imdb.com/title/tt0234940/
+ratingValue: 
+directors: Lucas Belvaux
+actors: Ornella Muti, François Morel, Valérie Mairesse, Dominique Blanc, Gilbert Melki, Lucas Belvaux, Catherine Frot, Bernard Mazzinghi, Raphaële Godin, Patrick Depeyrrat
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

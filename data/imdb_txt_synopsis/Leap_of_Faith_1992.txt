@@ -1,0 +1,10 @@
+movieId: 6850
+title: Leap of Faith
+year: 1992
+url: https://www.imdb.com/title/tt0104695/
+ratingValue: 
+directors: Richard Pearce
+actors: Steve Martin, Debra Winger, Lolita Davidovich, Liam Neeson, Lukas Haas, Meat Loaf, Philip Seymour Hoffman, M.C. Gainey, LaChanze, Delores Hall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

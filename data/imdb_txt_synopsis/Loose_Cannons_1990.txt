@@ -1,0 +1,10 @@
+movieId: 6560
+title: Loose Cannons
+year: 1990
+url: https://www.imdb.com/title/tt0100053/
+ratingValue: 
+directors: Bob Clark
+actors: Dan Aykroyd, Gene Hackman, Dom DeLuise, Ronny Cox, Nancy Travis, Robert Prosky, Paul Koslo, Dick O'Neill, Jan Tríska, Leon Rippy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

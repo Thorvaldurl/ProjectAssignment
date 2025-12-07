@@ -1,0 +1,10 @@
+movieId: 4695
+title: Who'll Stop the Rain
+year: 1978
+url: https://www.imdb.com/title/tt0078490/
+ratingValue: 
+directors: Karel Reisz
+actors: Nick Nolte, Tuesday Weld, Michael Moriarty, Anthony Zerbe, Richard Masur, Ray Sharkey, Gail Strickland, Charles Haid, David Opatoshu, Joaquín Martínez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

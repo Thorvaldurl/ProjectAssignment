@@ -1,0 +1,10 @@
+movieId: 3951
+title: Two Family House
+year: 2000
+url: https://www.imdb.com/title/tt0202641/
+ratingValue: 
+directors: Raymond De Felitta
+actors: Michael Rispoli, Kelly Macdonald, Kathrine Narducci, Kevin Conway, Matt Servitto, Michele Santopietro, Louis Guss, Rosemary De Angelis, Anthony Arkin, Saul Stein
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

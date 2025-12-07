@@ -1,0 +1,10 @@
+movieId: 1699
+title: The Butcher Boy
+year: 1997
+url: https://www.imdb.com/title/tt0118804/
+ratingValue: 
+directors: Neil Jordan
+actors: Eamonn Owens, Sean McGinley, Peter Gowen, Alan Boyle, Andrew Fullerton, Fiona Shaw, Aisling O'Sullivan, Stephen Rea, John Kavanagh, Rosaleen Linehan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

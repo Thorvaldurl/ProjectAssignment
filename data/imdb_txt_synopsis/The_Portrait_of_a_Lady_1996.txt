@@ -1,0 +1,10 @@
+movieId: 1417
+title: The Portrait of a Lady
+year: 1996
+url: https://www.imdb.com/title/tt0117364/
+ratingValue: 
+directors: Jane Campion
+actors: Nicole Kidman, John Malkovich, Barbara Hershey, Mary-Louise Parker, Martin Donovan, Shelley Winters, Richard E. Grant, Shelley Duvall, Christian Bale, Viggo Mortensen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

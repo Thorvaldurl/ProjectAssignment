@@ -1,0 +1,10 @@
+movieId: 2483
+title: The Day of the Beast
+year: 1995
+url: https://www.imdb.com/title/tt0112922/
+ratingValue: 
+directors: Álex de la Iglesia
+actors: Álex Angulo, Armando De Razza, Santiago Segura, Terele Pávez, Nathalie Seseña, Maria Grazia Cucinotta, Gianni Ippoliti, Jaime Blanch, David Pinilla, Antonio Dechent
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

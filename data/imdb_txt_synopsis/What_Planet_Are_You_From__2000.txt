@@ -1,0 +1,10 @@
+movieId: 3326
+title: What Planet Are You From?
+year: 2000
+url: https://www.imdb.com/title/tt0181151/
+ratingValue: 
+directors: Mike Nichols
+actors: Garry Shandling, Annette Bening, John Goodman, Greg Kinnear, Ben Kingsley, Judy Greer, Danny Zorn, Harmony Smith, Richard Jenkins, Linda Fiorentino
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

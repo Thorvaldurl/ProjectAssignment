@@ -1,0 +1,10 @@
+movieId: 1117
+title: The Eighth Day
+year: 1996
+url: https://www.imdb.com/title/tt0116581/
+ratingValue: 
+directors: Jaco Van Dormael
+actors: Daniel Auteuil, Pascal Duquenne, Miou-Miou, Henri Garcin, Isabelle Sadoyan, Michele Maes, Fabienne Loriaux, Alice van Dormael, Juliette Van Dormael
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

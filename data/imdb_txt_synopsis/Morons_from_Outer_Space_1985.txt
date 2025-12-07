@@ -1,0 +1,10 @@
+movieId: 4952
+title: Morons from Outer Space
+year: 1985
+url: https://www.imdb.com/title/tt0089622/
+ratingValue: 
+directors: Mike Hodges
+actors: Joanne Pearce, Jimmy Nail, Paul Bown, James Sikking, Dinsdale Landen, Tristram Jellinek, George Innes, Mel Smith, Griff Rhys Jones, John Joyce
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

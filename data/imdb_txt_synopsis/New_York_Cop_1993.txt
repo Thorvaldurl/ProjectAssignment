@@ -1,0 +1,10 @@
+movieId: 284
+title: New York Cop
+year: 1993
+url: https://www.imdb.com/title/tt0117169/
+ratingValue: 
+directors: Tôru Murakawa
+actors: Tôru Nakamura, Chad McQueen, Mira Sorvino, Conan Lee, Andreas Katsulas, Tony Sirico, Manny Perez, Jon Seda, Manny Siverio, Larry Romano
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

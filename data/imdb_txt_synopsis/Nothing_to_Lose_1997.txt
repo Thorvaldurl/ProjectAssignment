@@ -1,0 +1,10 @@
+movieId: 7048
+title: Nothing to Lose
+year: 1997
+url: https://www.imdb.com/title/tt0119807/
+ratingValue: 
+directors: Steve Oedekerk
+actors: Martin Lawrence, Tim Robbins, John C. McGinley, Giancarlo Esposito, Kelly Preston, Michael McKean, Rebecca Gayheart, Susan Barnes, Irma P. Hall, Samaria Graham
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

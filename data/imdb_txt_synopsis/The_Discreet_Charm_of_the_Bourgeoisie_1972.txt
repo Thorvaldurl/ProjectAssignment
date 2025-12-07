@@ -1,0 +1,10 @@
+movieId: 6666
+title: The Discreet Charm of the Bourgeoisie
+year: 1972
+url: https://www.imdb.com/title/tt0068361/
+ratingValue: 
+directors: Luis Buñuel
+actors: Fernando Rey, Paul Frankeur, Delphine Seyrig, Bulle Ogier, Stéphane Audran, Jean-Pierre Cassel, Julien Bertheau, Milena Vukotic, Maria Gabriella Maione, Claude Piéplu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7669
+title: Pride and Prejudice (TV Mini Series 1995)
+year: 1995
+url: https://www.imdb.com/title/tt0112130/
+ratingValue: 
+directors: 
+actors: Jennifer Ehle, Colin Firth, Susannah Harker, Julia Sawalha, Alison Steadman, Benjamin Whitrow, Crispin Bonham-Carter, Polly Maberly, Lucy Briers
+
+synopsis:
+There are individual synopses for the 6 episodes: Episode 1: Episode 2: Episode 3: Episode 4: Episode 5: Episode 6:

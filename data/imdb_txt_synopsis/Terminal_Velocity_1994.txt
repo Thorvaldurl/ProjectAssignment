@@ -1,0 +1,10 @@
+movieId: 548
+title: Terminal Velocity
+year: 1994
+url: https://www.imdb.com/title/tt0111400/
+ratingValue: 
+directors: Deran Sarafian
+actors: Charlie Sheen, Nastassja Kinski, James Gandolfini, Christopher McDonald, Gary Bullock, Hans Howes, Melvin Van Peebles, Suli McCullough, Cathryn de Prume, Richard Sarafian Jr.
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

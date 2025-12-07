@@ -1,0 +1,10 @@
+movieId: 6812
+title: The Rookie
+year: 1990
+url: https://www.imdb.com/title/tt0100514/
+ratingValue: 
+directors: Clint Eastwood
+actors: Clint Eastwood, Charlie Sheen, Raul Julia, Sonia Braga, Tom Skerritt, Lara Flynn Boyle, Pepe Serna, Marco Rodríguez, Pete Randall, Donna Mitchell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

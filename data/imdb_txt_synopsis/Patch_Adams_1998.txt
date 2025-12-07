@@ -1,0 +1,10 @@
+movieId: 2431
+title: Patch Adams
+year: 1998
+url: https://www.imdb.com/title/tt0129290/
+ratingValue: 
+directors: Tom Shadyac
+actors: Robin Williams, Daniel London, Monica Potter, Philip Seymour Hoffman, Bob Gunton, Josef Sommer, Irma P. Hall, Frances Lee McCain, Harve Presnell, Daniella Kuhn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

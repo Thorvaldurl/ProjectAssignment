@@ -1,0 +1,10 @@
+movieId: 564
+title: Chasers
+year: 1994
+url: https://www.imdb.com/title/tt0109403/
+ratingValue: 
+directors: Dennis Hopper
+actors: Tom Berenger, William McNamara, Erika Eleniak, Crispin Glover, Matthew Glave, Grand L. Bush, Dean Stockwell, Bitty Schram, Gary Busey, Seymour Cassel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

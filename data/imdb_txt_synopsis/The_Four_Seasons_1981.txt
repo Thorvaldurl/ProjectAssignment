@@ -1,0 +1,10 @@
+movieId: 5745
+title: The Four Seasons
+year: 1981
+url: https://www.imdb.com/title/tt0082405/
+ratingValue: 
+directors: Alan Alda
+actors: Alan Alda, Carol Burnett, Len Cariou, Sandy Dennis, Rita Moreno, Jack Weston, Bess Armstrong, Elizabeth Alda, Beatrice Alda, Robert Hitt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

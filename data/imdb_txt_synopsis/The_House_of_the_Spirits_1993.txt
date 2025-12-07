@@ -1,0 +1,10 @@
+movieId: 469
+title: The House of the Spirits
+year: 1993
+url: https://www.imdb.com/title/tt0107151/
+ratingValue: 
+directors: Bille August
+actors: Maria Conchita Alonso, António Assunção, Julie Balloo, Frank Baker, Antonio Banderas, João Cabral, Carlos César, Sarita Choudhury, Rogério Claro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

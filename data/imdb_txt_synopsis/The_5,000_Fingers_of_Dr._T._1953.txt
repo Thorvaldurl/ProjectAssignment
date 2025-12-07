@@ -1,0 +1,10 @@
+movieId: 4294
+title: The 5,000 Fingers of Dr. T.
+year: 1953
+url: https://www.imdb.com/title/tt0045464/
+ratingValue: 
+directors: Roy Rowland
+actors: Peter Lind Hayes, Mary Healy, Hans Conried, Tommy Rettig, Jack Heasley, Robert Heasley, Noel Cravat, George Chakiris, Alan Aric
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

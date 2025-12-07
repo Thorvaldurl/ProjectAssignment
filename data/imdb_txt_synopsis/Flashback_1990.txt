@@ -1,0 +1,10 @@
+movieId: 5657
+title: Flashback
+year: 1990
+url: https://www.imdb.com/title/tt0099581/
+ratingValue: 
+directors: Franco Amurri
+actors: Dennis Hopper, Kiefer Sutherland, Carol Kane, Paul Dooley, Cliff De Young, Richard Masur, Michael McKean, Kathleen York, Tom O'Brien, Eric Lorentz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

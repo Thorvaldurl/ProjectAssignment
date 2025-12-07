@@ -1,0 +1,10 @@
+movieId: 7301
+title: Diary of a Country Priest
+year: 1951
+url: https://www.imdb.com/title/tt0042619/
+ratingValue: 
+directors: Robert Bresson
+actors: Claude Laydu, Jean Riveyre, Adrien Borel, Rachel Bérendt, Nicole Maurey, Nicole Ladmiral, Martine Lemaire, Antoine Balpêtré, Jean Danet
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

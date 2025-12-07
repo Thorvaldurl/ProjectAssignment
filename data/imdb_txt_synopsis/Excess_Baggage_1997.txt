@@ -1,0 +1,10 @@
+movieId: 1605
+title: Excess Baggage
+year: 1997
+url: https://www.imdb.com/title/tt0119086/
+ratingValue: 
+directors: Marco Brambilla
+actors: Alicia Silverstone, Benicio Del Toro, Christopher Walken, Jack Thompson, Harry Connick Jr., Nicholas Turturro, Michael Bowen, Robert Wisden, Leland Orser, Sally Kirkland
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

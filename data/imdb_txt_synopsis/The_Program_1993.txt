@@ -1,0 +1,10 @@
+movieId: 511
+title: The Program
+year: 1993
+url: https://www.imdb.com/title/tt0107889/
+ratingValue: 
+directors: David S. Ward
+actors: James Caan, Halle Berry, Omar Epps, Craig Sheffer, Kristy Swanson, Abraham Benrubi, Duane Davis, Jon Pennell, Joey Lauren Adams, J.C. Quinn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

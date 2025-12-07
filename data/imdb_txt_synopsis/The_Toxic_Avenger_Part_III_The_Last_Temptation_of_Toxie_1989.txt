@@ -1,0 +1,10 @@
+movieId: 3695
+title: The Toxic Avenger Part III: The Last Temptation of Toxie
+year: 1989
+url: https://www.imdb.com/title/tt0098502/
+ratingValue: 
+directors: Michael Herz, Lloyd Kaufman
+actors: Ron Fazio, John Altamura, Phoebe Legere, Rick Collins, Lisa Gaye, Jessica Dublin, Tsutomu Sekine, Michael J. Kaplan, Traci Mann
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

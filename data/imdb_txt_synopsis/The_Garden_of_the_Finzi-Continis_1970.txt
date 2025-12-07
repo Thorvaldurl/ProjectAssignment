@@ -1,0 +1,10 @@
+movieId: 4424
+title: The Garden of the Finzi-Continis
+year: 1970
+url: https://www.imdb.com/title/tt0065777/
+ratingValue: 
+directors: Vittorio De Sica
+actors: Lino Capolicchio, Dominique Sanda, Fabio Testi, Romolo Valli, Helmut Berger, Camillo Cesarei, Inna Alexeieff, Katina Morisani, Barbara Pilavin, Michael Berger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

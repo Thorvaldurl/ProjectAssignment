@@ -1,0 +1,10 @@
+movieId: 3852
+title: The Tao of Steve
+year: 2000
+url: https://www.imdb.com/title/tt0234853/
+ratingValue: 
+directors: Jenniphr Goodman
+actors: Donal Logue, Ayelet Kaznelson, John Hines, John Harrington Bland, Jessica Gormley, Mercedes Herrero, Cheryl Anne Jaroslaw, Nina Jaroslaw, David Aaron Baker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

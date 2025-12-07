@@ -1,0 +1,10 @@
+movieId: 1902
+title: Dream for an Insomniac
+year: 1996
+url: https://www.imdb.com/title/tt0116141/
+ratingValue: 
+directors: Tiffanie DeBartolo
+actors: Ione Skye, Jennifer Aniston, Mackenzie Astin, Michael Landes, Seymour Cassel, Sean San Jose, Michael Sterk, Leslie Stevens, Robert Kelker-Kelly, Robert Ernst
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

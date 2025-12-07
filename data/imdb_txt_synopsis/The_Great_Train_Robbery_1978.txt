@@ -1,0 +1,10 @@
+movieId: 6990
+title: The Great Train Robbery
+year: 1978
+url: https://www.imdb.com/title/tt0079240/
+ratingValue: 
+directors: Michael Crichton
+actors: Sean Connery, Donald Sutherland, Lesley-Anne Down, Alan Webb, Malcolm Terris, Robert Lang, Michael Elphick, Wayne Sleep, Pamela Salem, Gabrielle Lloyd
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

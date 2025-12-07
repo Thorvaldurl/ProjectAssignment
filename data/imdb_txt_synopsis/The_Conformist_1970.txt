@@ -1,0 +1,10 @@
+movieId: 2925
+title: The Conformist
+year: 1970
+url: https://www.imdb.com/title/tt0065571/
+ratingValue: 
+directors: Bernardo Bertolucci
+actors: Jean-Louis Trintignant, Stefania Sandrelli, Gastone Moschin, Dominique Sanda, Pierre Clémenti, Enzo Tarascio, José Quaglio, Fosco Giachetti, Yvonne Sanson, Milly
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

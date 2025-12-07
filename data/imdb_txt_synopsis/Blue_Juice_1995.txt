@@ -1,0 +1,10 @@
+movieId: 1318
+title: Blue Juice
+year: 1995
+url: https://www.imdb.com/title/tt0112537/
+ratingValue: 
+directors: Carl Prechezer
+actors: Sean Pertwee, Catherine Zeta-Jones, Steven Mackintosh, Ewan McGregor, Peter Gunn, Heathcote Williams, Colette Brown, Michelle Chadwick, Keith Allen, Robin Soans
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

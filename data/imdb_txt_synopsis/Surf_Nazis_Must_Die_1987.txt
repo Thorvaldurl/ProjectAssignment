@@ -1,0 +1,10 @@
+movieId: 2164
+title: Surf Nazis Must Die
+year: 1987
+url: https://www.imdb.com/title/tt0094077/
+ratingValue: 
+directors: Peter George
+actors: Gail Neely, Robert Harden, Barry Brenner, Dawn Wildsmith, Michael Sonye, Joel Hile, Ryan Fegley, Gene Mitchell, Tom Shell, Bobbie Bresee
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

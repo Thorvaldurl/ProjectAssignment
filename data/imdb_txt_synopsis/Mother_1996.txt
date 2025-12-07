@@ -1,0 +1,10 @@
+movieId: 1414
+title: Mother
+year: 1996
+url: https://www.imdb.com/title/tt0117091/
+ratingValue: 
+directors: Albert Brooks
+actors: Paul Collins, Laura Weekes, Albert Brooks, John C. McGinley, Debbie Reynolds, Richard Assad, Joey Naber, Vanessa Williams, Lisa Kudrow, Rob Morrow
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,9 @@
+movieId: 26350
+title: The Passenger
+year: 1975
+url: https://www.imdb.com/title/tt0073580/
+ratingValue: 
+directors: Michelangelo Antonioni
+actors: Jack Nicholson, Maria Schneider, Jenny Runacre, Ian Hendry, Steven Berkoff, Ambroise Bia, José María Caffarel, James Campbell, Manfred Spies, Jean-Baptiste Tiémélé
+
+synopsis:

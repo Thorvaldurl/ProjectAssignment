@@ -1,0 +1,10 @@
+movieId: 6506
+title: Fulltime Killer
+year: 2001
+url: https://www.imdb.com/title/tt0286635/
+ratingValue: 
+directors: Johnnie To, Ka-Fai Wai
+actors: Andy Lau, Takashi Sorimachi, Simon Yam, Kelly Lin, Cherrie Ying, Suet Lam, Teddy Lin, Adam Chung-Tai Chan, Rocky Lai, Roderick Lam
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

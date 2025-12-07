@@ -1,0 +1,10 @@
+movieId: 2623
+title: Trippin'
+year: 1999
+url: https://www.imdb.com/title/tt0160298/
+ratingValue: 
+directors: David Raynr
+actors: Deon Richmond, Donald Faison, Guy Torry, Maia Campbell, Aloma Wright, Harold Sylvester, Cleavon McClendon, Bill Henderson, Michael Warren, Countess Vaughn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

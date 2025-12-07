@@ -1,0 +1,10 @@
+movieId: 1361
+title: Paradise Lost: The Child Murders at Robin Hood Hills
+year: 1996
+url: https://www.imdb.com/title/tt0117293/
+ratingValue: 
+directors: Joe Berlinger, Bruce Sinofsky
+actors: Tony Brooks, Diana Davis, Terry Wood, Dick Clay, Jenna Newton, Gary Gitchell, Tommy Stacy, Melissa Byers, Todd Moore
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

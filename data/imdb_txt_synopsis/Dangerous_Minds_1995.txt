@@ -1,0 +1,10 @@
+movieId: 31
+title: Dangerous Minds
+year: 1995
+url: https://www.imdb.com/title/tt0112792/
+ratingValue: 
+directors: John N. Smith
+actors: Michelle Pfeiffer, George Dzundza, Courtney B. Vance, Robin Bartlett, Beatrice Winde, John Neville, Lorraine Toussaint, Renoly Santiago, Wade Dominguez, Bruklin Harris
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

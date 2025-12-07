@@ -1,0 +1,10 @@
+movieId: 429
+title: Cabin Boy
+year: 1994
+url: https://www.imdb.com/title/tt0109361/
+ratingValue: 
+directors: Adam Resnick
+actors: Chris Elliott, Ritch Brinkley, James Gammon, Brian Doyle-Murray, Brion James, Melora Walters, I.M. Hobson, Alex Nevil, David Henry Sterry, Bob Elliott
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

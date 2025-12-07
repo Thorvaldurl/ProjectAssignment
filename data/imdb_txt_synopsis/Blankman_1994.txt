@@ -1,0 +1,10 @@
+movieId: 5053
+title: Blankman
+year: 1994
+url: https://www.imdb.com/title/tt0109288/
+ratingValue: 
+directors: Mike Binder
+actors: Damon Wayans, David Alan Grier, Robin Givens, Christopher Lawford, Lynne Thigpen, Jon Polito, Nick Corello, Jason Alexander, Harris Peet, Joseph Vassallo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

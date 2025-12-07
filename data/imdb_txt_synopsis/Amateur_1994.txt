@@ -1,0 +1,10 @@
+movieId: 149
+title: Amateur
+year: 1994
+url: https://www.imdb.com/title/tt0109093/
+ratingValue: 
+directors: Hal Hartley
+actors: Isabelle Huppert, Martin Donovan, Elina Löwensohn, Damian Young, Chuck Montgomery, Dave Simonds, Pamela Stewart, Erica Gimpel, Jan Leslie Harding, Terry Alexander
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

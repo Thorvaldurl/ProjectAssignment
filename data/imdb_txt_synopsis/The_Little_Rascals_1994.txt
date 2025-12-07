@@ -1,0 +1,10 @@
+movieId: 575
+title: The Little Rascals
+year: 1994
+url: https://www.imdb.com/title/tt0110366/
+ratingValue: 
+directors: Penelope Spheeris
+actors: Travis Tedford, Kevin Jamal Woods, Jordan Warkol, Zachary Mabry, Ross Bagley, Courtland Mead, Sam Saletta, Blake Collins, Blake Ewing, Juliette Brewer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4197
+title: Real Life
+year: 1979
+url: https://www.imdb.com/title/tt0079781/
+ratingValue: 
+directors: Albert Brooks
+actors: Dick Haynes, Albert Brooks, Matthew Tobin, J.A. Preston, Mort Lindsey, Joseph Schaffler, Phyllis Quinn, James Ritz, Clifford Einstein
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

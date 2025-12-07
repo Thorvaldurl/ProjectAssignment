@@ -1,0 +1,10 @@
+movieId: 4523
+title: The Milagro Beanfield War
+year: 1988
+url: https://www.imdb.com/title/tt0095638/
+ratingValue: 
+directors: Robert Redford
+actors: Rubén Blades, Richard Bradford, Sonia Braga, Julie Carmen, James Gammon, Melanie Griffith, John Heard, Carlos Riquelme, Daniel Stern, Chick Vennera
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

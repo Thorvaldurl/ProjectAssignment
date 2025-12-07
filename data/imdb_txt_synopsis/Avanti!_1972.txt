@@ -1,0 +1,10 @@
+movieId: 6573
+title: Avanti!
+year: 1972
+url: https://www.imdb.com/title/tt0068240/
+ratingValue: 
+directors: Billy Wilder
+actors: Jack Lemmon, Juliet Mills, Clive Revill, Edward Andrews, Gianfranco Barra, Franco Angrisano, Pippo Franco, Franco Acampora, Giselda Castrini, Raffaele Mottola
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

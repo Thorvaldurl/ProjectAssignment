@@ -1,0 +1,10 @@
+movieId: 1863
+title: Major League: Back to the Minors
+year: 1998
+url: https://www.imdb.com/title/tt0120742/
+ratingValue: 
+directors: John Warren
+actors: Scott Bakula, Corbin Bernsen, Dennis Haysbert, Takaaki Ishibashi, Jensen Daggett, Eric Bruskotter, Walton Goggins, Ted McGinley, Kenny Johnson, Judson Mills
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

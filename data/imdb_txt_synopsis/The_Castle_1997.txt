@@ -1,0 +1,10 @@
+movieId: 2618
+title: The Castle
+year: 1997
+url: https://www.imdb.com/title/tt0118826/
+ratingValue: 
+directors: Rob Sitch
+actors: Michael Caton, Anne Tenney, Stephen Curry, Anthony Simcoe, Sophie Lee, Wayne Hope, Tiriel Mora, Eric Bana, Charles 'Bud' Tingwell, Robyn Nevin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1190
+title: Tie Me Up! Tie Me Down!
+year: 1989
+url: https://www.imdb.com/title/tt0101026/
+ratingValue: 
+directors: Pedro Almodóvar
+actors: Victoria Abril, Antonio Banderas, Loles León, María Barranco, Rossy de Palma, Julieta Serrano, Francisco Rabal, Lola Cardona, Montse García Romeu, Emiliano Redondo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

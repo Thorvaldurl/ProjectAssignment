@@ -1,0 +1,10 @@
+movieId: 4190
+title: Elmer Gantry
+year: 1960
+url: https://www.imdb.com/title/tt0053793/
+ratingValue: 
+directors: Richard Brooks
+actors: Burt Lancaster, Jean Simmons, Arthur Kennedy, Dean Jagger, Shirley Jones, Patti Page, Edward Andrews, John McIntire, Hugh Marlowe, Joe Maross
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8979
+title: "American Experience" Guerrilla: The Taking of Patty Hearst (TV Episode 2004)
+year: 2004
+url: https://www.imdb.com/title/tt0390299/
+ratingValue: 
+directors: Robert Stone
+actors: Russ Little, Michael Bortin, Timothy Findley, Dan Grove, Ludlow Kramer, John Lester, Marcus Foster, Catherine Hearst, Patricia Hearst
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

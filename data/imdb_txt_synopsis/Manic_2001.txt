@@ -1,0 +1,10 @@
+movieId: 6329
+title: Manic
+year: 2001
+url: https://www.imdb.com/title/tt0252684/
+ratingValue: 
+directors: Jordan Melamed
+actors: Joseph Gordon-Levitt, Maggie Baird, Don Cheadle, Blayne Weaver, Lydell M. Cheshier, Roxie Fuller, Bree Nogueira, Kathy Paradise, Elden Henson, Cody Lightning
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

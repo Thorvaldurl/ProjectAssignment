@@ -1,0 +1,10 @@
+movieId: 1423
+title: Hearts & Minds
+year: 1995
+url: https://www.imdb.com/title/tt0116506/
+ratingValue: 
+directors: Ralph Ziman
+actors: Danny Keogh, Patrick Shai, Seputla Sebogodi, Brian O'Shaughnessy, Dick Reineke, Nico Liebenberg, Cosmos Tshabalala, Bruce Mvecane, Mpho Matsopola
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

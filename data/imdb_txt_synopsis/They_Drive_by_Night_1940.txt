@@ -1,0 +1,10 @@
+movieId: 7219
+title: They Drive by Night
+year: 1940
+url: https://www.imdb.com/title/tt0033149/
+ratingValue: 
+directors: Raoul Walsh
+actors: George Raft, Ann Sheridan, Ida Lupino, Humphrey Bogart, Gale Page, Alan Hale, Roscoe Karns, John Litel, George Tobias, Eddie Acuff
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

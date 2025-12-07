@@ -1,0 +1,10 @@
+movieId: 5380
+title: The Importance of Being Earnest
+year: 2002
+url: https://www.imdb.com/title/tt0278500/
+ratingValue: 
+directors: Oliver Parker
+actors: Rupert Everett, Colin Firth, Frances O'Connor, Reese Witherspoon, Judi Dench, Tom Wilkinson, Anna Massey, Edward Fox, Patrick Godfrey, Charles Kay
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

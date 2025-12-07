@@ -1,0 +1,10 @@
+movieId: 2304
+title: Love Is the Devil: Study for a Portrait of Francis Bacon
+year: 1998
+url: https://www.imdb.com/title/tt0119577/
+ratingValue: 
+directors: John Maybury
+actors: Derek Jacobi, Daniel Craig, Tilda Swinton, Anne Lambton, Adrian Scarborough, Karl Johnson, Annabel Brooks, Richard Newbould, Ariel de Ravenel, Tallulah
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

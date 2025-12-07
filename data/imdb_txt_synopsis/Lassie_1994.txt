@@ -1,0 +1,10 @@
+movieId: 484
+title: Lassie
+year: 1994
+url: https://www.imdb.com/title/tt0110305/
+ratingValue: 
+directors: Daniel Petrie
+actors: Tom Guiry, Helen Slater, Jon Tenney, Brittany Boyd, Frederic Forrest, Richard Farnsworth, Michelle Williams, Joe Inscoe, Yvonne Erickson, Clayton Barclay Jones
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

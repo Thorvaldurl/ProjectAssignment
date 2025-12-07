@@ -1,0 +1,10 @@
+movieId: 4260
+title: The Visit
+year: 2000
+url: https://www.imdb.com/title/tt0199129/
+ratingValue: 
+directors: Jordan Walker-Pearlman
+actors: Obba Babatundé, Charmin Lee White, Terrell, Enoh Essien, Christopher Babers, Jascha Washington, Drew Renkewitz, Tim DeZarn, Hill Harper
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

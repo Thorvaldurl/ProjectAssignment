@@ -1,0 +1,10 @@
+movieId: 3537
+title: Where the Money Is
+year: 2000
+url: https://www.imdb.com/title/tt0149367/
+ratingValue: 
+directors: Marek Kanievska
+actors: Paul Newman, Linda Fiorentino, Dermot Mulroney, Susan Barnes, Anne Pitoniak, Bruce MacVittie, Irma St. Paule, Michel Perron, Dorothy Gordon, Rita Tuckett
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

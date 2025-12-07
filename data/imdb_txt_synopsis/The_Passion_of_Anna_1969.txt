@@ -1,0 +1,10 @@
+movieId: 7328
+title: The Passion of Anna
+year: 1969
+url: https://www.imdb.com/title/tt0064793/
+ratingValue: 
+directors: Ingmar Bergman
+actors: Max von Sydow, Liv Ullmann, Bibi Andersson, Erland Josephson, Erik Hell, Sigge Fürst, m. fl., Ingmar Bergman, Britta Brunius
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

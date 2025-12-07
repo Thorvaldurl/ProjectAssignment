@@ -1,0 +1,10 @@
+movieId: 3573
+title: Carnosaur 2
+year: 1995
+url: https://www.imdb.com/title/tt0112634/
+ratingValue: 
+directors: Louis Morneau
+actors: John Savage, Cliff De Young, Don Stroud, Rick Dean, Ryan Thomas Johnson, Arabella Holzbog, Miguel A. Núñez Jr., Neith Hunter, Guy Boyd, Michael McDonald
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

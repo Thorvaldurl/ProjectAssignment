@@ -1,0 +1,10 @@
+movieId: 156
+title: Blue in the Face
+year: 1995
+url: https://www.imdb.com/title/tt0112541/
+ratingValue: 
+directors: Paul Auster, Harvey Wang, Wayne Wang
+actors: Lou Reed, Michael J. Fox, Roseanne Barr, Mel Gorham, Jim Jarmusch, Lily Tomlin, Jared Harris, Giancarlo Esposito, Malik Yoba, José Zúñiga
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

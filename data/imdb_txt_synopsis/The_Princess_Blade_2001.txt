@@ -1,0 +1,10 @@
+movieId: 6597
+title: The Princess Blade
+year: 2001
+url: https://www.imdb.com/title/tt0310149/
+ratingValue: 
+directors: Shinsuke Satô
+actors: Hideaki Itô, Yumiko Shaku, Shirô Sano, Yôichi Numata, Kyûsaku Shimada, Yôko Chôsokabe, Yôko Maki, Naomasa Musaka, Yutaka Matsushige, Shintarô Sonooka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

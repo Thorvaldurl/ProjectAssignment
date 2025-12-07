@@ -1,0 +1,10 @@
+movieId: 3865
+title: The Original Kings of Comedy
+year: 2000
+url: https://www.imdb.com/title/tt0236388/
+ratingValue: 
+directors: Spike Lee
+actors: Steve Harvey, D.L. Hughley, Cedric The Entertainer, Bernie Mac
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

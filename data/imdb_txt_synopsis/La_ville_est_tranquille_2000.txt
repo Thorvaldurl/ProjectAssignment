@@ -1,0 +1,10 @@
+movieId: 4883
+title: La ville est tranquille
+year: 2000
+url: https://www.imdb.com/title/tt0234988/
+ratingValue: 
+directors: Robert Guédiguian
+actors: Ariane Ascaride, Jean-Pierre Darroussin, Gérard Meylan, Jacques Boudet, Christine Brücher, Jacques Pieiller, Pascale Roberts, Julie-Marie Parmentier, Pierre Banderet, Alex Ogou
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

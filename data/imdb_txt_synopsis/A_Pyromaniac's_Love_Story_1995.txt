@@ -1,0 +1,10 @@
+movieId: 295
+title: A Pyromaniac's Love Story
+year: 1995
+url: https://www.imdb.com/title/tt0114210/
+ratingValue: 
+directors: Joshua Brand
+actors: William Baldwin, John Leguizamo, Sadie Frost, Erika Eleniak, Michael Lerner, Joan Plowright, Armin Mueller-Stahl, Mike Starr, Julio Oscar Mechoso, Floyd Vivino
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

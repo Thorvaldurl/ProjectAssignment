@@ -1,0 +1,10 @@
+movieId: 2364
+title: Godzilla 1985
+year: 1985
+url: https://www.imdb.com/title/tt0087344/
+ratingValue: 
+directors: Kôji Hashimoto, R.J. Kizer, Ishirô Honda, Toshio Masuda, Shûe Matsubayashi, Shirô Moritani
+actors: Raymond Burr, Keiju Kobayashi, Ken Tanaka, Yasuko Sawaguchi, Shin Takuma, Warren J. Kemmerling, James Hess, Travis Swords, Eitarô Ozawa, Taketoshi Naitô
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

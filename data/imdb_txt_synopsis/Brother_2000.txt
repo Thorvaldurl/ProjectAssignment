@@ -1,0 +1,10 @@
+movieId: 4640
+title: Brother
+year: 2000
+url: https://www.imdb.com/title/tt0222851/
+ratingValue: 
+directors: Takeshi Kitano
+actors: Takeshi Kitano, Omar Epps, Claude Maki, Masaya Katô, Susumu Terajima, Royale Watkins, Lombardo Boyar, Ren Ôsugi, Ryô Ishibashi, James Shigeta
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

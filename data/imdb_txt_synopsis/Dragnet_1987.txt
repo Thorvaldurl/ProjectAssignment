@@ -1,0 +1,10 @@
+movieId: 7102
+title: Dragnet
+year: 1987
+url: https://www.imdb.com/title/tt0092925/
+ratingValue: 
+directors: Tom Mankiewicz
+actors: Dan Aykroyd, Tom Hanks, Christopher Plummer, Harry Morgan, Alexandra Paul, Jack O'Halloran, Elizabeth Ashley, Dabney Coleman, Kathleen Freeman, Bruce Gray
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

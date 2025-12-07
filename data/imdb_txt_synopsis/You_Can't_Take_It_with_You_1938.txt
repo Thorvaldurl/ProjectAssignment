@@ -1,0 +1,10 @@
+movieId: 1934
+title: You Can't Take It with You
+year: 1938
+url: https://www.imdb.com/title/tt0030993/
+ratingValue: 
+directors: Frank Capra
+actors: Jean Arthur, Lionel Barrymore, James Stewart, Edward Arnold, Mischa Auer, Ann Miller, Spring Byington, Samuel S. Hinds, Donald Meek, H.B. Warner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

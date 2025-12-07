@@ -1,0 +1,10 @@
+movieId: 310
+title: Rent-a-Kid (TV Movie 1995)
+year: 1995
+url: https://www.imdb.com/title/tt0114268/
+ratingValue: 
+directors: Fred Gerber
+actors: Leslie Nielsen, Christopher Lloyd, Matt McCoy, Sherry Miller, Amos Crawley, Cody Jones, Tabitha Lupien, Tony Rosato, Lisa LaCroix, Kevin Hicks
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

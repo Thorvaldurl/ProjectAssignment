@@ -1,0 +1,10 @@
+movieId: 5591
+title: Monkey Trouble
+year: 1994
+url: https://www.imdb.com/title/tt0110557/
+ratingValue: 
+directors: Franco Amurri
+actors: Finster, Thora Birch, Harvey Keitel, Mimi Rogers, Christopher McDonald, Adrian Johnson, Julian Johnson, Kevin Scannell, Alison Elliott, Robert Miranda
+
+synopsis:
+a little girl befriends a monkey who turns out to be a theft so she decides to keep dodger inside her backpack

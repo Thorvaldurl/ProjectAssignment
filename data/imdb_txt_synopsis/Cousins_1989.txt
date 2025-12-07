@@ -1,0 +1,10 @@
+movieId: 5077
+title: Cousins
+year: 1989
+url: https://www.imdb.com/title/tt0097116/
+ratingValue: 
+directors: Joel Schumacher
+actors: Ted Danson, Sean Young, Isabella Rossellini, William Petersen, Lloyd Bridges, Norma Aleandro, Keith Coogan, Gina DeAngeles, George Coe, Katharine Isabelle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

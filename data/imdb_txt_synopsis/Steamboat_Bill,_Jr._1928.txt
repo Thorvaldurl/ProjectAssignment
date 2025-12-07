@@ -1,0 +1,10 @@
+movieId: 25769
+title: Steamboat Bill, Jr.
+year: 1928
+url: https://www.imdb.com/title/tt0019421/
+ratingValue: 
+directors: Charles Reisner, Buster Keaton
+actors: Buster Keaton, Tom McGuire, Ernest Torrence, Tom Lewis, Marion Byron, James T. Mack, Ford West
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

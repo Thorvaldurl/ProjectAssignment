@@ -1,0 +1,10 @@
+movieId: 5080
+title: Slackers
+year: 2002
+url: https://www.imdb.com/title/tt0240900/
+ratingValue: 
+directors: Dewey Nicks
+actors: Devon Sawa, Jason Segel, Michael C. Maronna, Jason Schwartzman, Jaime King, Laura Prepon, Travis Davis, Jim Rash, Nat Faxon, Don Michaelson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

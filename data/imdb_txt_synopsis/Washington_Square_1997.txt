@@ -1,0 +1,10 @@
+movieId: 1650
+title: Washington Square
+year: 1997
+url: https://www.imdb.com/title/tt0120481/
+ratingValue: 
+directors: Agnieszka Holland
+actors: Jennifer Jason Leigh, Albert Finney, Maggie Smith, Ben Chaplin, Judith Ivey, Arthur Laupus, Jennifer Garner, Robert Stanton, Betsy Brantley, Nancy Daly
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

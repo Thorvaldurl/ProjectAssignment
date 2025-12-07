@@ -1,0 +1,10 @@
+movieId: 5664
+title: Brown Sugar
+year: 2002
+url: https://www.imdb.com/title/tt0297037/
+ratingValue: 
+directors: Rick Famuyiwa
+actors: Taye Diggs, Sanaa Lathan, Yasiin Bey, Nicole Ari Parker, Boris Kodjoe, Queen Latifah, Wendell Pierce, Erik Weiner, Reg Wyns, Melissa Martinez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

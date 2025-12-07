@@ -1,0 +1,10 @@
+movieId: 3051
+title: Anywhere But Here
+year: 1999
+url: https://www.imdb.com/title/tt0149691/
+ratingValue: 
+directors: Wayne Wang
+actors: Susan Sarandon, Natalie Portman, Hart Bochner, Eileen Ryan, Ray Baker, John Diehl, Shawn Hatosy, Bonnie Bedelia, Faran Tahir, Shishir Kurup
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

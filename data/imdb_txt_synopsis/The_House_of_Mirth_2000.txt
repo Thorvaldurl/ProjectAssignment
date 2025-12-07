@@ -1,0 +1,10 @@
+movieId: 4024
+title: The House of Mirth
+year: 2000
+url: https://www.imdb.com/title/tt0200720/
+ratingValue: 
+directors: Terence Davies
+actors: Gillian Anderson, Dan Aykroyd, Eleanor Bron, Terry Kinney, Anthony LaPaglia, Laura Linney, Jodhi May, Elizabeth McGovern, Eric Stoltz, Penny Downie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

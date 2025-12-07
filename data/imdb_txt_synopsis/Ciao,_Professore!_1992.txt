@@ -1,0 +1,10 @@
+movieId: 573
+title: Ciao, Professore!
+year: 1992
+url: https://www.imdb.com/title/tt0107225/
+ratingValue: 
+directors: Lina Wertmüller
+actors: Paolo Villaggio, Isa Danieli, Gigio Morra, Sergio Solli, Ester Carloni, Paolo Bonacelli, Pierfrancesco Borruto, Annarita D'Auria, Maria Esposito
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

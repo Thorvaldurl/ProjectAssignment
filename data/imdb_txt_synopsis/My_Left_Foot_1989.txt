@@ -1,0 +1,10 @@
+movieId: 1185
+title: My Left Foot
+year: 1989
+url: https://www.imdb.com/title/tt0097937/
+ratingValue: 
+directors: Jim Sheridan
+actors: Daniel Day-Lewis, Brenda Fricker, Alison Whelan, Kirsten Sheridan, Declan Croghan, Eanna MacLiam, Marie Conmee, Cyril Cusack, Phelim Drew, Ruth McCabe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

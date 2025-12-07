@@ -1,0 +1,10 @@
+movieId: 5452
+title: Look Who's Talking Now
+year: 1993
+url: https://www.imdb.com/title/tt0107438/
+ratingValue: 
+directors: Tom Ropelewski
+actors: John Travolta, Kirstie Alley, David Gallagher, Tabitha Lupien, Lysette Anthony, Olympia Dukakis, Danny DeVito, Diane Keaton, George Segal, Charles Barkley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

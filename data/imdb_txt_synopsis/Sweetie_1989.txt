@@ -1,0 +1,10 @@
+movieId: 4671
+title: Sweetie
+year: 1989
+url: https://www.imdb.com/title/tt0098725/
+ratingValue: 
+directors: Jane Campion
+actors: Geneviève Lemon, Karen Colston, Tom Lycos, Jon Darling, Dorothy Barry, Michael Lake, Andre Pataczek, Jean Hadgraft, Paul Livingston
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

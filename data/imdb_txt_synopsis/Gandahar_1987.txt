@@ -1,0 +1,10 @@
+movieId: 3687
+title: Gandahar
+year: 1987
+url: https://www.imdb.com/title/tt0095525/
+ratingValue: 
+directors: René Laloux
+actors: Pierre-Marie Escourrou, Catherine Chevallier, Georges Wilson, Anny Duperey, Jean-Pierre Ducos, Christine Paris, Zaïra Benbadis, Claude Degliame, Olivier Cruveiller
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

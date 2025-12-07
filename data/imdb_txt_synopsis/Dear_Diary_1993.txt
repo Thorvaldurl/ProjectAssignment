@@ -1,0 +1,10 @@
+movieId: 583
+title: Dear Diary
+year: 1993
+url: https://www.imdb.com/title/tt0109382/
+ratingValue: 
+directors: Nanni Moretti
+actors: Nanni Moretti, Renato Carpentieri, Antonio Neiwiller, Claudia Della Seta, Lorenzo Alessandri, Raffaella Lebboroni, Marco Paolini, Moni Ovadia, Riccardo Zinna
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8605
+title: Taxi 3
+year: 2003
+url: https://www.imdb.com/title/tt0295721/
+ratingValue: 
+directors: Gérard Krawczyk
+actors: Samy Naceri, Frédéric Diefenthal, Bernard Farcy, Bai Ling, Emma Wiklund, Marion Cotillard, Edouard Montoute, Jean-Christophe Bouvet, Léon-Pierre Mondini, Bernard Llopis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

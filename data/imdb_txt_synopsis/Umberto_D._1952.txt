@@ -1,0 +1,10 @@
+movieId: 6611
+title: Umberto D.
+year: 1952
+url: https://www.imdb.com/title/tt0045274/
+ratingValue: 
+directors: Vittorio De Sica
+actors: Carlo Battisti, Maria Pia Casilio, Lina Gennari, Ileana Simova, Elena Rea, Memmo Carotenuto, De Silva, Alberto Albani Barbieri, Pasquale Campagnola, Riccardo Ferri
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

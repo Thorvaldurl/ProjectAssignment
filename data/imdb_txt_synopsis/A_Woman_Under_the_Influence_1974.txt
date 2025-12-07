@@ -1,0 +1,10 @@
+movieId: 7071
+title: A Woman Under the Influence
+year: 1974
+url: https://www.imdb.com/title/tt0072417/
+ratingValue: 
+directors: John Cassavetes
+actors: Peter Falk, Gena Rowlands, Fred Draper, Lady Rowlands, Katherine Cassavetes, Matthew Labyorteaux, Matthew Cassel, Christina Grisanti, George Dunn, Mario Gallo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

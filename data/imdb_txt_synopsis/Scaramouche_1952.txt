@@ -1,0 +1,10 @@
+movieId: 6527
+title: Scaramouche
+year: 1952
+url: https://www.imdb.com/title/tt0045125/
+ratingValue: 
+directors: George Sidney
+actors: Stewart Granger, Eleanor Parker, Janet Leigh, Mel Ferrer, Henry Wilcoxon, Nina Foch, Richard Anderson, Robert Coote, Lewis Stone, Elisabeth Risdon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

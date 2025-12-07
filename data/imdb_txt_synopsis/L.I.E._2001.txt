@@ -1,0 +1,10 @@
+movieId: 4765
+title: L.I.E.
+year: 2001
+url: https://www.imdb.com/title/tt0242587/
+ratingValue: 
+directors: Michael Cuesta
+actors: Paul Dano, Bruce Altman, Billy Kay, James Costa, Tony Michael Donnelly, Michelle Carano, Tatiana Burgos, Brian Cox, B. Constance Barry
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

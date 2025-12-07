@@ -1,0 +1,10 @@
+movieId: 959
+title: Of Human Bondage
+year: 1934
+url: https://www.imdb.com/title/tt0025586/
+ratingValue: 
+directors: John Cromwell
+actors: Leslie Howard, Bette Davis, Frances Dee, Kay Johnson, Reginald Denny, Alan Hale, Reginald Sheffield, Reginald Owen, Desmond Roberts, Charles Coleman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

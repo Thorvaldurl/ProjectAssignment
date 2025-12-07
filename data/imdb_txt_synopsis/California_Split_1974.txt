@@ -1,0 +1,10 @@
+movieId: 26313
+title: California Split
+year: 1974
+url: https://www.imdb.com/title/tt0071269/
+ratingValue: 
+directors: Robert Altman
+actors: George Segal, Elliott Gould, Ann Prentiss, Gwen Welles, Edward Walsh, Joseph Walsh, Bert Remsen, Barbara London, Barbara Ruick, Jay Fletcher
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

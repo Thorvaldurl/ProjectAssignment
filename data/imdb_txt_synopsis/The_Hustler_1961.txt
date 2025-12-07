@@ -1,0 +1,10 @@
+movieId: 3468
+title: The Hustler
+year: 1961
+url: https://www.imdb.com/title/tt0054997/
+ratingValue: 
+directors: Robert Rossen
+actors: Paul Newman, Jackie Gleason, Piper Laurie, George C. Scott, Myron McCormick, Murray Hamilton, Michael Constantine, Stefan Gierasch, Clifford A. Pellow, Jake LaMotta
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

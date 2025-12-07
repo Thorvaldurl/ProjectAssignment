@@ -1,0 +1,10 @@
+movieId: 2271
+title: Permanent Midnight
+year: 1998
+url: https://www.imdb.com/title/tt0120788/
+ratingValue: 
+directors: David Veloz
+actors: Ben Stiller, Maria Bello, Jay Paulson, Spencer Garrett, Owen Wilson, Elizabeth Hurley, Lourdes Benedicto, Fred Willard, Chauncey Leopardi, Mary Thompson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

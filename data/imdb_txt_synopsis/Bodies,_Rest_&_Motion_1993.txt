@@ -1,0 +1,10 @@
+movieId: 6510
+title: Bodies, Rest & Motion
+year: 1993
+url: https://www.imdb.com/title/tt0106447/
+ratingValue: 
+directors: Michael Steinberg
+actors: Phoebe Cates, Bridget Fonda, Tim Roth, Eric Stoltz, Alicia Witt, Sandra Ellis Lafferty, Sidney Dawson, Jon Proudstar, Scott Johnson, Kezbah Weidner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

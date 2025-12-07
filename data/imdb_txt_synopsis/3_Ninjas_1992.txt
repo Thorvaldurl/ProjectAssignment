@@ -1,0 +1,10 @@
+movieId: 4748
+title: 3 Ninjas
+year: 1992
+url: https://www.imdb.com/title/tt0103596/
+ratingValue: 
+directors: Jon Turteltaub
+actors: Victor Wong, Michael Treanor, Max Elliott Slade, Chad Power, Rand Kingsley, Alan McRae, Margarita Franco, Kate Sargeant, Joel Swetow, Professor Toru Tanaka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

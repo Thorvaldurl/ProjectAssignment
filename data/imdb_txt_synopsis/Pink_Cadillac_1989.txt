@@ -1,0 +1,10 @@
+movieId: 4635
+title: Pink Cadillac
+year: 1989
+url: https://www.imdb.com/title/tt0098097/
+ratingValue: 
+directors: Buddy Van Horn
+actors: Clint Eastwood, Bernadette Peters, Timothy Carhart, Tiffany Gail Robinson, Angela Louise Robinson, John Dennis Johnston, Michael Des Barres, Jimmie F. Skaggs, Bill Moseley, Michael Champion
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

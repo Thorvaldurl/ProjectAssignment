@@ -1,0 +1,10 @@
+movieId: 1845
+title: Zero Effect
+year: 1998
+url: https://www.imdb.com/title/tt0120906/
+ratingValue: 
+directors: Jake Kasdan
+actors: Bill Pullman, Ben Stiller, Ryan O'Neal, Kim Dickens, Angela Featherstone, Hugh Ross, Sarah DeVincentis, Matt O'Toole, Michele Mariana, Robert Katims
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

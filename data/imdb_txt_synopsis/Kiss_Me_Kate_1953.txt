@@ -1,0 +1,10 @@
+movieId: 6358
+title: Kiss Me Kate
+year: 1953
+url: https://www.imdb.com/title/tt0045963/
+ratingValue: 
+directors: George Sidney
+actors: Kathryn Grayson, Howard Keel, Ann Miller, Keenan Wynn, Bobby Van, Tommy Rall, James Whitmore, Kurt Kasznar, Bob Fosse, Ron Randell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

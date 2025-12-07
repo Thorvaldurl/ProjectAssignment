@@ -1,0 +1,10 @@
+movieId: 4615
+title: Last Exit to Brooklyn
+year: 1989
+url: https://www.imdb.com/title/tt0097714/
+ratingValue: 
+directors: Uli Edel
+actors: Stephen Lang, Jennifer Jason Leigh, Burt Young, Peter Dobson, Jerry Orbach, Stephen Baldwin, Jason Andrews, James Lorinz, Sam Rockwell, Maia Danziger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

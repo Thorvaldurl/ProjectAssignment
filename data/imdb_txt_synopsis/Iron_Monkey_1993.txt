@@ -1,0 +1,10 @@
+movieId: 4846
+title: Iron Monkey
+year: 1993
+url: https://www.imdb.com/title/tt0108148/
+ratingValue: 
+directors: Yuen Woo-Ping
+actors: Rongguang Yu, Donnie Yen, Jean Wang, Sze-Man Tsang, Shun-Yee Yuen, James Wong, Shi-Kwan Yen, Fai Lee, Hou Hsiao
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

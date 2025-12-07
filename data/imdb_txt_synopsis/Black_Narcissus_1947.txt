@@ -1,0 +1,10 @@
+movieId: 8338
+title: Black Narcissus
+year: 1947
+url: https://www.imdb.com/title/tt0039192/
+ratingValue: 
+directors: Michael Powell, Emeric Pressburger
+actors: Deborah Kerr, Flora Robson, Jenny Laird, Judith Furse, Kathleen Byron, Esmond Knight, Sabu, David Farrar, Jean Simmons, May Hallatt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

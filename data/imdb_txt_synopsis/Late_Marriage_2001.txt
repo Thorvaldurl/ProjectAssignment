@@ -1,0 +1,10 @@
+movieId: 6202
+title: Late Marriage
+year: 2001
+url: https://www.imdb.com/title/tt0287471/
+ratingValue: 
+directors: Dover Koshashvili
+actors: Lior Ashkenazi, Ronit Elkabetz, Moni Moshonov, Lili Koshashvili, Aya Steinovitz, Rozina Cambos, Simon Chen, Sapir Kugman, Dina Doron, Leonid Kanevskiy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

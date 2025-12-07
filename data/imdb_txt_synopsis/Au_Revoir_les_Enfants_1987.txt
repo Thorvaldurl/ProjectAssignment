@@ -1,0 +1,10 @@
+movieId: 8128
+title: Au Revoir les Enfants
+year: 1987
+url: https://www.imdb.com/title/tt0092593/
+ratingValue: 
+directors: Louis Malle
+actors: Gaspard Manesse, Raphael Fejtö, Francine Racette, Stanislas Carré de Malberg, Philippe Morier-Genoud, François Berléand, François Négret, Peter Fitz, Pascal Rivet, Benoît Henriet
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

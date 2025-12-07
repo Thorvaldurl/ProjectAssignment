@@ -1,0 +1,10 @@
+movieId: 3920
+title: Faraway, So Close!
+year: 1993
+url: https://www.imdb.com/title/tt0107209/
+ratingValue: 
+directors: Wim Wenders
+actors: Otto Sander, Peter Falk, Horst Buchholz, Mikhail Gorbachev, Nastassja Kinski, Heinz Rühmann, Bruno Ganz, Solveig Dommartin, Rüdiger Vogler, Lou Reed
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

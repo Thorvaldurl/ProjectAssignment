@@ -1,0 +1,10 @@
+movieId: 7053
+title: Roberta
+year: 1935
+url: https://www.imdb.com/title/tt0026942/
+ratingValue: 
+directors: William A. Seiter
+actors: Irene Dunne, Fred Astaire, Ginger Rogers, Randolph Scott, Helen Westley, Claire Dodd, Victor Varconi, Luis Alberni, Ferdinand Munier, Torben Meyer
+
+synopsis:
+Parisian couturier and deposed Russian princess Stephanie (Irene Dunne) has her hands full when her partner dies, leaving half of their business to American football player John Kent (Randolph Scott). Kent knows nothing about fashion, but sparks fly as the two try to learn to run a company together. Fred Astaire and Ginger Rogers supply some fantastic dance numbers to standards including "Smoke Gets in Your Eyes" and "I'll Be Hard to Handle."

@@ -1,0 +1,10 @@
+movieId: 1355
+title: Nightwatch
+year: 1997
+url: https://www.imdb.com/title/tt0119791/
+ratingValue: 
+directors: Ole Bornedal
+actors: Anais Evans, Ewan McGregor, Nick Nolte, Erich Anderson, Josh Brolin, Lauren Graham, Patricia Arquette, Lonny Chapman, Scott Burkholder, Brad Dourif
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,12 @@
+movieId: 4783
+title: The Endurance
+year: 2000
+url: https://www.imdb.com/title/tt0264578/
+ratingValue: 
+directors: George Butler
+actors: Liam Neeson, Julian Ayer, John Blackborow, David Cale, John Henry Cox, Mary Crean O'Brien, Tom Crean, Steven Crossley, Brian d'Arcy James
+
+synopsis:
+The Endurance, 2002
+Donald M Hayes
+August 1, 1914 Ernest Shackleton sailed down the Thames on the Endurance, with the intent of crossing the Antarctic from the Weddell Sea, one of the most dangerous seas on the planet, to the Ross Sea. The goal of reaching the South Pole had already been achieved by Roald Amundsen in December, 1911. In December, 1914, the Endurance encountered ice packs before reaching 60º South - 400 miles north of Antarctica; an omen. The plan was to land at Vahsel Bay, which had never been done. In January, 1915, the iced pack took control of the ship. They were carried past Vahsel Bay, and north, away from Antarctica. After a few weeks Shackleton was resigned to the fact that there would be no landing. Now Shackleton's only goal was to get his men home safely. For ten months the ice floe took them north, and by October the ice began to crush the Endurance. The Endurance sank, and the men made camp on the ice. April, 1916, Shackleton ordered his men into the three life boats, and after seven days they reached Elephant Island. Shackleton knew that there was no way that his men would be rescued - he had to go for help. Leaving twenty-two men on Elephant Island, Shackleton took five in a twenty-two foot boat to sail to South Georgia, seven-hundred miles away. It has been called "the greatest open boat journey in history." It required that they cross what is considered to be the most tempestuous ocean in the world. With the help of only a sextant they found South Georgia. Although nearly exhausted, they then had to cross a mountain range to reach the Norwegian whaling station of Stromness - a thirty-six hour slog without sleep. The whalers loaned Shackleton a ship and crew, and after three abortive attempts he rescued the men on Elephant Island. Not a man was lost. They arrived in Punta Arenas on September 3, 1916. The crew returned to England in May, 1917.

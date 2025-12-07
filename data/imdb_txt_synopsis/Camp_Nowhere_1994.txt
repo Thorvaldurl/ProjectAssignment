@@ -1,0 +1,10 @@
+movieId: 6625
+title: Camp Nowhere
+year: 1994
+url: https://www.imdb.com/title/tt0109369/
+ratingValue: 
+directors: Jonathan Prince
+actors: John Putch, Peter Scolari, Romy Walthall, Jonathan Jackson, Joshua Gibran Mayweather, Andrew Keegan, Devin Oatway, Kellen McLaughlin, Brian Wagner, Marnette Patterson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

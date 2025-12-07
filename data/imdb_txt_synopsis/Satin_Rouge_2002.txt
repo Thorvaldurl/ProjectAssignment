@@ -1,0 +1,10 @@
+movieId: 5537
+title: Satin Rouge
+year: 2002
+url: https://www.imdb.com/title/tt0300453/
+ratingValue: 
+directors: Raja Amari
+actors: Hiam Abbass, Hend El Fahem, Maher Kamoun, Monia Hichri, Faouzia Badr, Nadra Lamloum, Abou Moez El Fazaa, Salah Miled, Lassad Arouss
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6433
+title: Man with a Movie Camera
+year: 1929
+url: https://www.imdb.com/title/tt0019760/
+ratingValue: 
+directors: Dziga Vertov
+actors: Mikhail Kaufman, Elizaveta Svilova
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

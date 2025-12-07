@@ -1,0 +1,10 @@
+movieId: 4080
+title: Baby Boom
+year: 1987
+url: https://www.imdb.com/title/tt0092605/
+ratingValue: 
+directors: Charles Shyer
+actors: Diane Keaton, Sam Shepard, Harold Ramis, Kristina Kennedy, Michelle Kennedy, Sam Wanamaker, James Spader, Pat Hingle, Britt Leach, Linda Ellerbee
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 211
+title: The Browning Version
+year: 1994
+url: https://www.imdb.com/title/tt0109340/
+ratingValue: 
+directors: Mike Figgis
+actors: Albert Finney, Greta Scacchi, Matthew Modine, Julian Sands, Michael Gambon, Ben Silverstone, Jim Sturgess, Joseph Beattie, Marc Bolton, Tom Havelock
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

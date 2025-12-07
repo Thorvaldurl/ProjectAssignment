@@ -1,0 +1,10 @@
+movieId: 4086
+title: The Big Easy
+year: 1986
+url: https://www.imdb.com/title/tt0092654/
+ratingValue: 
+directors: Jim McBride
+actors: Dennis Quaid, Ellen Barkin, Ned Beatty, John Goodman, Lisa Jane Persky, Ebbe Roe Smith, Tom O'Brien, Charles Ludlam, Grace Zabriskie, Marc Lawrence
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

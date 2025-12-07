@@ -1,0 +1,10 @@
+movieId: 6782
+title: Leningrad Cowboys Go America
+year: 1989
+url: https://www.imdb.com/title/tt0097728/
+ratingValue: 
+directors: Aki Kaurismäki
+actors: Matti Pellonpää, Kari Väänänen, Sakke Järvenpää, Heikki Keskinen, Pimme Korhonen, Sakari Kuosmanen, Puka Oinonen, Silu Seppälä, Mauri Sumén, Mato Valtonen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

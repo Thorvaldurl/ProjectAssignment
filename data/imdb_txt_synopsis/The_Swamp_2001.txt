@@ -1,0 +1,10 @@
+movieId: 4825
+title: The Swamp
+year: 2001
+url: https://www.imdb.com/title/tt0240419/
+ratingValue: 
+directors: Lucrecia Martel
+actors: Mercedes Morán, Graciela Borges, Martín Adjemián, Leonora Balcarce, Silvia Baylé, Sofia Bertolotto, Juan Cruz Bordeu, Noelia Bravo Herrera, Maria Micol Ellero, Andrea López
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

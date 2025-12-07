@@ -1,0 +1,10 @@
+movieId: 4871
+title: Focus
+year: 2001
+url: https://www.imdb.com/title/tt0246628/
+ratingValue: 
+directors: Neal Slavin
+actors: William H. Macy, Laura Dern, David Paymer, Meat Loaf, Kay Hawtrey, Michael Copeman, Kenneth Welsh, Joseph Ziegler, Arlene Meadows, Peter Oldring
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

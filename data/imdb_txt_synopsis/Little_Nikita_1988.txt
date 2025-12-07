@@ -1,0 +1,10 @@
+movieId: 4521
+title: Little Nikita
+year: 1988
+url: https://www.imdb.com/title/tt0095532/
+ratingValue: 
+directors: Richard Benjamin
+actors: Sidney Poitier, River Phoenix, Richard Jenkins, Caroline Kava, Richard Bradford, Richard Lynch, Loretta Devine, Lucy Deakins, Jerry Hardin, Albert Fortell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

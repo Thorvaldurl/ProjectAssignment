@@ -1,0 +1,10 @@
+movieId: 1398
+title: In Love and War
+year: 1996
+url: https://www.imdb.com/title/tt0116621/
+ratingValue: 
+directors: Richard Attenborough
+actors: Mackenzie Astin, Margot Steinberg, Sandra Bullock, Alan Bennett, Ingrid Lacey, Terence Sach, Carlo Croccolo, Tara Hugo, Gigi Vivan, Giuseppe Bonato
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

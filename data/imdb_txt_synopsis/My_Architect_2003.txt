@@ -1,0 +1,10 @@
+movieId: 6945
+title: My Architect
+year: 2003
+url: https://www.imdb.com/title/tt0373175/
+ratingValue: 
+directors: Nathaniel Kahn
+actors: Edmund Bacon, Edwina Pattison Daniels, Balkrishna Doshi, Frank Gehry, Philip Johnson, Louis Kahn, Nathaniel Kahn, Sue Ann Kahn, Haym Richard Katz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

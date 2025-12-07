@@ -1,0 +1,10 @@
+movieId: 2014
+title: Freaky Friday
+year: 1976
+url: https://www.imdb.com/title/tt0076054/
+ratingValue: 
+directors: Gary Nelson
+actors: Barbara Harris, Jodie Foster, John Astin, Patsy Kelly, Dick Van Patten, Vicki Schreck, Sorrell Booke, Alan Oppenheimer, Ruth Buzzi, Kaye Ballard
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

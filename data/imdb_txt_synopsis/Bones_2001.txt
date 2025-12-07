@@ -1,0 +1,10 @@
+movieId: 4852
+title: Bones
+year: 2001
+url: https://www.imdb.com/title/tt0166110/
+ratingValue: 
+directors: Ernest R. Dickerson
+actors: Snoop Dogg, Pam Grier, Michael T. Weiss, Clifton Powell, Ricky Harris, Bianca Lawson, Khalil Kain, Merwin Mondesir, Sean Amsing, Katharine Isabelle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

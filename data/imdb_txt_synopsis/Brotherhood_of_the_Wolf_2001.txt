@@ -1,0 +1,10 @@
+movieId: 5026
+title: Brotherhood of the Wolf
+year: 2001
+url: https://www.imdb.com/title/tt0237534/
+ratingValue: 
+directors: Christophe Gans
+actors: Samuel Le Bihan, Mark Dacascos, Jérémie Renier, Vincent Cassel, Émilie Dequenne, Monica Bellucci, Jacques Perrin, Christian Marc, Karin Kriström, Philippe Nahon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

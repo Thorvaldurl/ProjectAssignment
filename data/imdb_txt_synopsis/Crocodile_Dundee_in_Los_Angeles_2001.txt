@@ -1,0 +1,10 @@
+movieId: 4254
+title: Crocodile Dundee in Los Angeles
+year: 2001
+url: https://www.imdb.com/title/tt0231402/
+ratingValue: 
+directors: Simon Wincer
+actors: Paul Hogan, Linda Kozlowski, Jere Burns, Jonathan Banks, Alec Wilson, Gerry Skilton, Steve Rackman, Serge Negus, Aida Turturro, Paul Rodriguez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

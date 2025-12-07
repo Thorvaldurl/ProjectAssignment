@@ -1,0 +1,10 @@
+movieId: 2471
+title: Crocodile Dundee II
+year: 1988
+url: https://www.imdb.com/title/tt0092493/
+ratingValue: 
+directors: John Cornell
+actors: Paul Hogan, Linda Kozlowski, John Meillon, Ernie Dingo, Steve Rackman, Gerry Skilton, Gus Mercurio, Jim Holt, Alec Wilson, Maggie Blinco
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6295
+title: Chasing Papi
+year: 2003
+url: https://www.imdb.com/title/tt0323572/
+ratingValue: 
+directors: Linda Mendoza
+actors: Roselyn Sanchez, Sofía Vergara, Jaci Velasquez, Eduardo Verástegui, Lisa Vidal, Freddy Rodríguez, D.L. Hughley, Maria Conchita Alonso, Walter Mercado, Carlos Ponce
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7925
+title: The Hidden Fortress
+year: 1958
+url: https://www.imdb.com/title/tt0051808/
+ratingValue: 
+directors: Akira Kurosawa
+actors: Toshirô Mifune, Minoru Chiaki, Kamatari Fujiwara, Susumu Fujita, Takashi Shimura, Misa Uehara, Eiko Miyoshi, Toshiko Higuchi, Yû Fujiki, Yoshio Tsuchiya
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

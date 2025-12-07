@@ -1,0 +1,10 @@
+movieId: 4355
+title: Youngblood
+year: 1986
+url: https://www.imdb.com/title/tt0092272/
+ratingValue: 
+directors: Peter Markle
+actors: Rob Lowe, Cynthia Gibb, Patrick Swayze, Ed Lauter, Jim Youngs, Eric Nesterenko, George J. Finn, Fionnula Flanagan, Ken James, Peter Faussett
+
+synopsis:
+Ontario, 1986; the struggling hometown Hamilton Mustangs are in need of a new lease on life. Thankfully, a hot, young, American prospect , by the name of Dean Youngblood, is coming to town to show the world his moves. Yet, there's trouble brewing for the newcomer; Racki of the Thunder Bay Bombers is out for blood and the coaches daughter is out for love, which could spell disaster for his chances of ever making it to the pros. Whether it's "tea time" with Ms. McGill or the crazy antics of Derek Sutton, you're certainly in for a treat with this fantastic film full of dekes, jean jackets and sexual tension thicker than maple syrup sucked from the teet of the mother tree in Quebec.

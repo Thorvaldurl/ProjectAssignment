@@ -1,0 +1,10 @@
+movieId: 3846
+title: Easy Money
+year: 1983
+url: https://www.imdb.com/title/tt0085470/
+ratingValue: 
+directors: James Signorelli
+actors: Rodney Dangerfield, Joe Pesci, Geraldine Fitzgerald, Candice Azzara, Val Avery, Tom Noonan, Taylor Negron, Lili Haydn, Jeffrey Jones, Tom Ewell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

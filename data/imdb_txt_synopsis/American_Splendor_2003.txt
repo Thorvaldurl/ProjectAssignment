@@ -1,0 +1,10 @@
+movieId: 6620
+title: American Splendor
+year: 2003
+url: https://www.imdb.com/title/tt0305206/
+ratingValue: 
+directors: Shari Springer Berman, Robert Pulcini
+actors: Chris Ambrose, Joey Krajcar, Josh Hutcherson, Cameron Carter, Daniel Tay, Mary Faktor, Paul Giamatti, Harvey Pekar, Shari Springer Berman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

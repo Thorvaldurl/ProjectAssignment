@@ -1,0 +1,10 @@
+movieId: 4323
+title: The Horse Soldiers
+year: 1959
+url: https://www.imdb.com/title/tt0052902/
+ratingValue: 
+directors: John Ford
+actors: John Wayne, William Holden, Constance Towers, Judson Pratt, Hoot Gibson, Ken Curtis, Willis Bouchey, Bing Russell, O.Z. Whitehead, Hank Worden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

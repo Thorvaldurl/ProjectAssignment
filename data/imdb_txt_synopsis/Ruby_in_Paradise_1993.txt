@@ -1,0 +1,10 @@
+movieId: 523
+title: Ruby in Paradise
+year: 1993
+url: https://www.imdb.com/title/tt0108000/
+ratingValue: 
+directors: Victor Nunez
+actors: Ashley Judd, Todd Field, Bentley Mitchum, Allison Dean, Dorothy Lyman, Betsy Douds, Felicia Hernández, Divya Satia, Bobby Barnes, Sharon M. Lewis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

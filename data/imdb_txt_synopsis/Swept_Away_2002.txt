@@ -1,0 +1,10 @@
+movieId: 5675
+title: Swept Away
+year: 2002
+url: https://www.imdb.com/title/tt0291502/
+ratingValue: 
+directors: Guy Ritchie
+actors: Bruce Greenwood, Madonna, Elizabeth Banks, Michael Beattie, Jeanne Tripplehorn, David Thornton, Yorgo Voyagis, Ricardo Perna, Adriano Giannini, George Antoni
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

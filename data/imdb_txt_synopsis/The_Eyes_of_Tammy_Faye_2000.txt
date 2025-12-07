@@ -1,0 +1,10 @@
+movieId: 3859
+title: The Eyes of Tammy Faye
+year: 2000
+url: https://www.imdb.com/title/tt0233687/
+ratingValue: 
+directors: Fenton Bailey, Randy Barbato
+actors: RuPaul, Tammy Faye Bakker, Virginia Fairchild, Johnny Grover, Oral Roberts, Jim Bakker, Mel White, Jay Bakker, Tammy Sue Bakker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

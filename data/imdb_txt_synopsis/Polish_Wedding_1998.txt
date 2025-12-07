@@ -1,0 +1,10 @@
+movieId: 2007
+title: Polish Wedding
+year: 1998
+url: https://www.imdb.com/title/tt0119910/
+ratingValue: 
+directors: Theresa Connelly
+actors: Claire Danes, Jon Bradford, Lena Olin, Ramsey Krull, Gabriel Byrne, Daniel Lapaine, Rachel Morrin, Rebecca Morrin, Mili Avital, Steven Petrarca
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

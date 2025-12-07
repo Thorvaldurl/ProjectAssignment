@@ -1,0 +1,10 @@
+movieId: 85
+title: Angels and Insects
+year: 1995
+url: https://www.imdb.com/title/tt0112365/
+ratingValue: 
+directors: Philip Haas
+actors: Mark Rylance, Kristin Scott Thomas, Patsy Kensit, Jeremy Kemp, Douglas Henshall, Annette Badland, Chris Larkin, Anna Massey, Saskia Wickham, Lindsay Thomas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6789
+title: The Apartment
+year: 1996
+url: https://www.imdb.com/title/tt0115561/
+ratingValue: 
+directors: Gilles Mimouni
+actors: Romane Bohringer, Vincent Cassel, Jean-Philippe Écoffey, Monica Bellucci, Sandrine Kiberlain, Olivier Granier, Paul Pavel, Nelly Alard, Bruno Leonelli, Tateo Isaizaki
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

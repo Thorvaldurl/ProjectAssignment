@@ -1,0 +1,10 @@
+movieId: 1679
+title: Chairman of the Board
+year: 1997
+url: https://www.imdb.com/title/tt0118836/
+ratingValue: 
+directors: Alex Zamm
+actors: Scott 'Carrot Top' Thompson, Courtney Thorne-Smith, Larry Miller, Raquel Welch, Mystro Clark, Jack Plotnick, Jack Warden, Estelle Harris, Bill Erwin, M. Emmet Walsh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

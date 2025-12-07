@@ -1,0 +1,10 @@
+movieId: 5884
+title: Chopper Chicks in Zombietown
+year: 1989
+url: https://www.imdb.com/title/tt0103959/
+ratingValue: 
+directors: Dan Hoskins
+actors: Jamie Rose, Catherine Carlen, Lycia Naff, Vicki Frederick, Kristina Loggia, Gretchen Palmer, Nina von Arx, Whitney Reis, Ed Gale, Don Calfa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

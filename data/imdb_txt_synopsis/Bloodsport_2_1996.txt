@@ -1,0 +1,10 @@
+movieId: 667
+title: Bloodsport 2
+year: 1996
+url: https://www.imdb.com/title/tt0112536/
+ratingValue: 
+directors: Alan Mehrez, Philip Tan
+actors: Daniel Bernhardt, Pat Morita, Donald Gibb, James Hong, Lori Lynn Dickerson, Philip Tan, Ong Soo Han, Nicholas Hill, Ron Hall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

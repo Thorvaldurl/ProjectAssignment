@@ -1,0 +1,10 @@
+movieId: 3598
+title: Hamlet
+year: 2000
+url: https://www.imdb.com/title/tt0171359/
+ratingValue: 
+directors: Michael Almereyda
+actors: Ethan Hawke, Kyle MacLachlan, Diane Venora, Sam Shepard, Bill Murray, Liev Schreiber, Julia Stiles, Karl Geary, Paula Malcomson, Steve Zahn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

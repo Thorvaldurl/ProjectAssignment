@@ -1,0 +1,10 @@
+movieId: 2896
+title: Alvarez Kelly
+year: 1966
+url: https://www.imdb.com/title/tt0060095/
+ratingValue: 
+directors: Edward Dmytryk
+actors: William Holden, Richard Widmark, Janice Rule, Patrick O'Neal, Victoria Shaw, Roger C. Carmel, Richard Rust, Arthur Franz, Don 'Red' Barry, Duke Hobbie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

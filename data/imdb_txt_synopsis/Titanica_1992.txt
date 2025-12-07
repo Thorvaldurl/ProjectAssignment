@@ -1,0 +1,10 @@
+movieId: 4864
+title: Titanica
+year: 1992
+url: https://www.imdb.com/title/tt0105601/
+ratingValue: 
+directors: Stephen Low
+actors: Steven Biel, Steve Blasco, Daniel Allen Butler, Frank Goldsmith, Eva Hart, Emory Kristof, Paul Louden-Brown, Leonard Nimoy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

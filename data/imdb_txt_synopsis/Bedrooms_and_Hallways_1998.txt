@@ -1,0 +1,10 @@
+movieId: 2837
+title: Bedrooms and Hallways
+year: 1998
+url: https://www.imdb.com/title/tt0126810/
+ratingValue: 
+directors: Rose Troche
+actors: Kevin McKidd, Julie Graham, Simon Callow, Con O'Neill, Harriet Walter, Christopher Fulford, James Purefoy, Jennifer Ehle, Tom Hollander, Hugo Weaving
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

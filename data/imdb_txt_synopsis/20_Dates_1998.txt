@@ -1,0 +1,10 @@
+movieId: 2492
+title: 20 Dates
+year: 1998
+url: https://www.imdb.com/title/tt0138987/
+ratingValue: 
+directors: Myles Berkowitz
+actors: Myles Berkowitz, Elisabeth Wagner, Richard Arlook, Tia Carrere, Robert McKee, Elie Samaha, Tom Ardavany, Emily Arlook, Rachel Arlook
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

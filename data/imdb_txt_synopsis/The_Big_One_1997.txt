@@ -1,0 +1,10 @@
+movieId: 1827
+title: The Big One
+year: 1997
+url: https://www.imdb.com/title/tt0124295/
+ratingValue: 
+directors: Michael Moore
+actors: Michael Moore, Elaine Bly, Dan Burns, Chip Carter, Bill Clinton, Jim Czarnecki, Brian Danitz, Robert Dornan, Joel Feick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

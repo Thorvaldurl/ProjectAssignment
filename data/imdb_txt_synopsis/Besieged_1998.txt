@@ -1,0 +1,10 @@
+movieId: 2630
+title: Besieged
+year: 1998
+url: https://www.imdb.com/title/tt0149723/
+ratingValue: 
+directors: Bernardo Bertolucci
+actors: Thandiwe Newton, David Thewlis, Claudio Santamaria, John C. Ojwang, Massimo De Rossi, Cyril Nri, Paul Osul, Veronica Lazar, Gian Franco Mazzoni
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

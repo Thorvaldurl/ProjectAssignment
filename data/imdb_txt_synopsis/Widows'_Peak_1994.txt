@@ -1,0 +1,10 @@
+movieId: 452
+title: Widows' Peak
+year: 1994
+url: https://www.imdb.com/title/tt0111712/
+ratingValue: 
+directors: John Irvin
+actors: Mia Farrow, Joan Plowright, Natasha Richardson, Adrian Dunbar, Jim Broadbent, Anne Kent, John Kavanagh, Rynagh O'Grady, Gerard McSorley, Michael James Ford
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

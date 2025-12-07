@@ -1,0 +1,10 @@
+movieId: 8518
+title: Anna Christie
+year: 1930
+url: https://www.imdb.com/title/tt0020641/
+ratingValue: 
+directors: Clarence Brown
+actors: Greta Garbo, Charles Bickford, George F. Marion, Marie Dressler, James T. Mack, Lee Phelps, Jack Baxley, Roberta Gregory, Jack McHugh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

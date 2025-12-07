@@ -1,0 +1,10 @@
+movieId: 3674
+title: For the Love of Benji
+year: 1977
+url: https://www.imdb.com/title/tt0076044/
+ratingValue: 
+directors: Joe Camp
+actors: Benjean, Art Vasil, Allen Fiuzat, Patsy Garrett, Cynthia Smith, Ed Nelson, Catherine McClenry, Anassis Vassilakidis, Dean Goss
+
+synopsis:
+While en route to a vacation in Greece with his family, a passenger "borrows" Benji for just long enough to tattoo a mysterious message on his paw. Separated from family in Athens, Benji finds himself on the run from an assortment of international spies searching for the message in another exciting Benji adventure.

@@ -1,0 +1,10 @@
+movieId: 8714
+title: Night and Day
+year: 1946
+url: https://www.imdb.com/title/tt0038776/
+ratingValue: 
+directors: Michael Curtiz
+actors: Cary Grant, Alexis Smith, Monty Woolley, Ginny Simms, Jane Wyman, Eve Arden, Victor Francen, Alan Hale, Dorothy Malone, Tom D'Andrea
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

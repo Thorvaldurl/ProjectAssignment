@@ -1,0 +1,10 @@
+movieId: 7302
+title: The Thief of Bagdad
+year: 1924
+url: https://www.imdb.com/title/tt0015400/
+ratingValue: 
+directors: Raoul Walsh
+actors: Douglas Fairbanks, Snitz Edwards, Charles Belcher, Julanne Johnston, Sôjin Kamiyama, Anna May Wong, Brandon Hurst, Tote Du Crow, Noble Johnson, Sam Baker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7706
+title: Animal Crackers
+year: 1930
+url: https://www.imdb.com/title/tt0020640/
+ratingValue: 
+directors: Victor Heerman
+actors: The Marx Brothers, Groucho Marx, Harpo Marx, Chico Marx, Zeppo Marx, Lillian Roth, Margaret Dumont, Louis Sorin, Hal Thompson, Margaret Irving
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

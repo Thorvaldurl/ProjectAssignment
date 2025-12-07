@@ -1,0 +1,10 @@
+movieId: 6280
+title: A Man Apart
+year: 2003
+url: https://www.imdb.com/title/tt0266465/
+ratingValue: 
+directors: F. Gary Gray
+actors: Vin Diesel, Larenz Tate, Timothy Olyphant, Geno Silva, Jacqueline Obradors, Steve Eastin, Juan Fernández, Jeff Kober, Marco Rodríguez, Mike Moroff
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

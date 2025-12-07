@@ -1,0 +1,10 @@
+movieId: 1990
+title: Prom Night IV: Deliver Us from Evil
+year: 1991
+url: https://www.imdb.com/title/tt0105179/
+ratingValue: 
+directors: Clay Borris
+actors: Nicole de Boer, J.H. Wyman, Joy Tanner, Alle Ghadban, Kenneth McGregor, Jimmy Carver, Brock Simpson, Krista Bulmer, Phil Morrison
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

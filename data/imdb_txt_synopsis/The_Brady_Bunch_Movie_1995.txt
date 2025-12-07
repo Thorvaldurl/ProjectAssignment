@@ -1,0 +1,10 @@
+movieId: 585
+title: The Brady Bunch Movie
+year: 1995
+url: https://www.imdb.com/title/tt0112572/
+ratingValue: 
+directors: Betty Thomas
+actors: Shelley Long, Gary Cole, Christine Taylor, Christopher Daniel Barnes, Jennifer Elise Cox, Paul Sutera, Olivia Hack, Jesse Lee Soffer, Henriette Mantel, David Graf
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1937
+title: Going My Way
+year: 1944
+url: https://www.imdb.com/title/tt0036872/
+ratingValue: 
+directors: Leo McCarey
+actors: Bing Crosby, Barry Fitzgerald, Frank McHugh, James Brown, Gene Lockhart, Jean Heather, Porter Hall, Fortunio Bonanova, Eily Malyon, The Robert Mitchell Boy Choir
+
+synopsis:
+Parish life at Saint Dominic's includes gossip, youth mischief, and a rather shady landlord, but new curate Father Charles "Chuck" O'Malley (Bing Crosby) seems to land on his feet. As older Father Fitzgibbon (Barry Fitzgerald) watches Father O'Malley in action, he feels his days as pastor of his flock may be numbered. The two priests must find "modern" ways to deal with an age-old problem ministering to the people in an economically disadvantaged neighborhood. O'Malley, for his part, must deal with an interrupted romantic relationship from his past with opera star Genevieve Linden (Rise Stevens) and Carol James (Jean Heather), a "wayward" aspiring singer. Father O'Malley and his friend Father Timothy O'Dowd (Frank McHugh) take the elderly Fitzgibbon to play golf. The old priest calls a golf course "a pool room outdoors." Father Fitzgibbon goes to ask the bishop if he is being replaced. He becomes ill and speaks to Chuck of the 45 years since he was in the "old country." Father Fitzgibbon says his mother in Ireland is over 90. O'Malley makes the neighborhood boys into a choir. He gives the youth leader, Tony Scaponi, (Stanley Clements) his St. Louis Browns baseball jacket. Just as all the pieces of the plot seem to have fallen into place, the parish church is damaged in a massive fire. On Christmas Eve the people gather in a temporary church. Father O'Malley transferred to a new assignment, the new assistant is Father O'Dowd. Prior to the Mass, Mrs. Fitzgibbon totters in the embrace her beloved son. Father O'Malley quietly slips away.

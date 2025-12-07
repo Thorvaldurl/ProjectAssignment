@@ -1,0 +1,10 @@
+movieId: 5636
+title: Welcome to Collinwood
+year: 2002
+url: https://www.imdb.com/title/tt0271259/
+ratingValue: 
+directors: Anthony Russo, Joe Russo
+actors: William H. Macy, Isaiah Washington, Sam Rockwell, Michael Jeter, Luis Guzmán, John Buck Jr., Patricia Clarkson, Andy Davoli, Brett C. Leonard, Frank O'Donnell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

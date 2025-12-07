@@ -1,0 +1,10 @@
+movieId: 7564
+title: Kwaidan
+year: 1964
+url: https://www.imdb.com/title/tt0058279/
+ratingValue: 
+directors: Masaki Kobayashi
+actors: Michiyo Aratama, Misako Watanabe, Rentarô Mikuni, Kenjirô Ishiyama, Ranko Akagi, Fumie Kitahara, Kappei Matsumoto, Yoshiko Ieda, Otome Tsukimiya, Kenzô Tanaka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

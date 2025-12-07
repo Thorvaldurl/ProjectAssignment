@@ -1,0 +1,10 @@
+movieId: 7190
+title: Jane Eyre
+year: 1970
+url: https://www.imdb.com/title/tt0065911/
+ratingValue: 
+directors: Delbert Mann
+actors: George C. Scott, Susannah York, Ian Bannen, Rachel Kempson, Nyree Dawn Porter, Jack Hawkins, Kenneth Griffith, Peter Copley, Clive Morton, Fanny Rowe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

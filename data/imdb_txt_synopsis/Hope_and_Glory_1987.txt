@@ -1,0 +1,10 @@
+movieId: 4117
+title: Hope and Glory
+year: 1987
+url: https://www.imdb.com/title/tt0093209/
+ratingValue: 
+directors: John Boorman
+actors: Sebastian Rice-Edwards, Geraldine Muir, Sarah Miles, David Hayman, Sammi Davis, Derrick O'Connor, Susan Wooldridge, Jean-Marc Barr, Ian Bannen, Annie Leon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

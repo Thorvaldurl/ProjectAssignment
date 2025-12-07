@@ -1,0 +1,10 @@
+movieId: 5454
+title: Mo' Money
+year: 1992
+url: https://www.imdb.com/title/tt0104897/
+ratingValue: 
+directors: Peter MacDonald
+actors: Damon Wayans, Stacey Dash, Joe Santos, John Diehl, Harry Lennix, Marlon Wayans, Mark Beltzman, Quincy Wong, Kevin Casey, Larry Brandenburg
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

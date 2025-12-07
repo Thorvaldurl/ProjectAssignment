@@ -1,0 +1,10 @@
+movieId: 7753
+title: Tuesdays with Morrie (TV Movie 1999)
+year: 1999
+url: https://www.imdb.com/title/tt0207805/
+ratingValue: 
+directors: Mick Jackson
+actors: Jack Lemmon, Hank Azaria, Wendy Moniz, Caroline Aaron, Bonnie Bartlett, John Carroll Lynch, Cloud Michaels, Terri Hanauer, Kyle Sullivan, Charles Homet
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8456
+title: Investigation of a Citizen Above Suspicion
+year: 1970
+url: https://www.imdb.com/title/tt0065889/
+ratingValue: 
+directors: Elio Petri
+actors: Gian Maria Volontè, Florinda Bolkan, Gianni Santuccio, Orazio Orlando, Sergio Tramonti, Arturo Dominici, Aldo Rendine, Massimo Foschi, Aleka Paizi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

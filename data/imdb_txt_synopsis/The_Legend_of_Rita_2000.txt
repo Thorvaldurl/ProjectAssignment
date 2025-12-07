@@ -1,0 +1,10 @@
+movieId: 4074
+title: The Legend of Rita
+year: 2000
+url: https://www.imdb.com/title/tt0234805/
+ratingValue: 
+directors: Volker Schlöndorff
+actors: Bibiana Beglau, Martin Wuttke, Nadja Uhl, Harald Schrott, Alexander Beyer, Jenny Schily, Mario Irrek, Franca Kastein, Thomas Arnold, Dietrich Körner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

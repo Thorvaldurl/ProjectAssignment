@@ -1,0 +1,10 @@
+movieId: 5486
+title: Who Is Cletis Tout?
+year: 2001
+url: https://www.imdb.com/title/tt0246500/
+ratingValue: 
+directors: Chris Ver Wiel
+actors: Christian Slater, Tim Allen, Portia de Rossi, Richard Dreyfuss, Billy Connolly, Peter MacNeill, Bill MacDonald, Elias Zarou, Richard Chevolleau, RuPaul
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

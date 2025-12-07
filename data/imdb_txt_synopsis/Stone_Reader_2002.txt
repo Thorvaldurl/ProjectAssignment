@@ -1,0 +1,10 @@
+movieId: 6195
+title: Stone Reader
+year: 2002
+url: https://www.imdb.com/title/tt0324080/
+ratingValue: 
+directors: Mark Moskowitz
+actors: Carl Brandt, Frank Conroy, Bruce Dobler, Robert C.S. Downs, Robert Ellis, Leslie Fiedler, Ed Gorman, Robert Gottlieb, John Kashiwabara
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

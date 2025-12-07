@@ -1,0 +1,10 @@
+movieId: 1332
+title: The Believers
+year: 1987
+url: https://www.imdb.com/title/tt0092632/
+ratingValue: 
+directors: John Schlesinger
+actors: Martin Sheen, Helen Shaver, Harley Cross, Robert Loggia, Elizabeth Wilson, Harris Yulin, Lee Richardson, Richard Masur, Carla Pinza, Jimmy Smits
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

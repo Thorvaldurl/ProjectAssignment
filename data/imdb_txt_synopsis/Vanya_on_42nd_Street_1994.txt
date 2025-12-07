@@ -1,0 +1,10 @@
+movieId: 334
+title: Vanya on 42nd Street
+year: 1994
+url: https://www.imdb.com/title/tt0111590/
+ratingValue: 
+directors: Louis Malle
+actors: Phoebe Brand, Lynn Cohen, George Gaynes, Jerry Mayer, Julianne Moore, Larry Pine, Brooke Smith, Wallace Shawn, Andre Gregory, Madhur Jaffrey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

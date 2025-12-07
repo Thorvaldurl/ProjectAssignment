@@ -1,0 +1,10 @@
+movieId: 1238
+title: Local Hero
+year: 1983
+url: https://www.imdb.com/title/tt0085859/
+ratingValue: 
+directors: Bill Forsyth
+actors: Burt Lancaster, Peter Riegert, Fulton Mackay, Denis Lawson, Norman Chancer, Peter Capaldi, Rikki Fulton, Alex Norton, Jenny Seagrove, Jennifer Black
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

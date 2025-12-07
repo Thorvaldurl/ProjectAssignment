@@ -1,0 +1,10 @@
+movieId: 461
+title: Go Fish
+year: 1994
+url: https://www.imdb.com/title/tt0109913/
+ratingValue: 
+directors: Rose Troche
+actors: V.S. Brodie, Guinevere Turner, T. Wendy McMillan, Migdalia Melendez, Anastasia Sharp, Mary Garvey, Jennifer Allen, Walter Youngblood, Danielia Falcon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

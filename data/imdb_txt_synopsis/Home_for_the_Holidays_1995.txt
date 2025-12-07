@@ -1,0 +1,10 @@
+movieId: 57
+title: Home for the Holidays
+year: 1995
+url: https://www.imdb.com/title/tt0113321/
+ratingValue: 
+directors: Jodie Foster
+actors: Holly Hunter, Robert Downey Jr., Anne Bancroft, Charles Durning, Dylan McDermott, Geraldine Chaplin, Steve Guttenberg, Cynthia Stevenson, Claire Danes, Emily Ann Lloyd
+
+synopsis:
+This story is a real imbroglio with a lot of character development and complicated relationships between diverse adult family members at the annual big dinner event. We learn about the family member and their numerous frailties and conflicts and wonder can they ever get along or will disaster ensue. will Holly Hunter have romance with her gay bros friend? There is the usual family football game in yard. Many things go awry. Secrets revealed. People get upset. People grow.

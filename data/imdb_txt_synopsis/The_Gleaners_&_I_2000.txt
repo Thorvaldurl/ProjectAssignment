@@ -1,0 +1,10 @@
+movieId: 4237
+title: The Gleaners & I
+year: 2000
+url: https://www.imdb.com/title/tt0247380/
+ratingValue: 
+directors: Agnès Varda
+actors: Jean La Planche, Bodan Litnanski, Agnès Varda, François Wertheimer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5373
+title: The Cranes Are Flying
+year: 1957
+url: https://www.imdb.com/title/tt0050634/
+ratingValue: 
+directors: Mikhail Kalatozov
+actors: Tatyana Samoylova, Aleksey Batalov, Vasiliy Merkurev, Aleksandr Shvorin, Svetlana Kharitonova, Konstantin Kadochnikov, Valentin Zubkov, Antonina Bogdanova, Boris Kokovkin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

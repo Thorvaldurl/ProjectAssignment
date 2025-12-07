@@ -1,0 +1,10 @@
+movieId: 5202
+title: My American Uncle
+year: 1980
+url: https://www.imdb.com/title/tt0081176/
+ratingValue: 
+directors: Alain Resnais
+actors: Gérard Depardieu, Nicole Garcia, Roger Pierre, Nelly Borgeaud, Pierre Arditi, Gérard Darrieu, Philippe Laudenbach, Marie Dubois, Henri Laborit, Bernard Malaterre
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

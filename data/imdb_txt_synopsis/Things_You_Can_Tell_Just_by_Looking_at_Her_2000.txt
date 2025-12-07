@@ -1,0 +1,10 @@
+movieId: 7038
+title: Things You Can Tell Just by Looking at Her
+year: 2000
+url: https://www.imdb.com/title/tt0210358/
+ratingValue: 
+directors: Rodrigo García
+actors: Glenn Close, Cameron Diaz, Calista Flockhart, Kathy Baker, Amy Brenneman, Valeria Golino, Holly Hunter, Matt Craven, Gregory Hines, Miguel Sandoval
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

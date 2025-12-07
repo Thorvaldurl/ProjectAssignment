@@ -1,0 +1,10 @@
+movieId: 6528
+title: Start the Revolution Without Me
+year: 1970
+url: https://www.imdb.com/title/tt0066402/
+ratingValue: 
+directors: Bud Yorkin
+actors: Gene Wilder, Donald Sutherland, Hugh Griffith, Jack MacGowran, Billie Whitelaw, Victor Spinetti, Ewa Aulin, Helen Fraser, Rosalind Knight, Harry Fowler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

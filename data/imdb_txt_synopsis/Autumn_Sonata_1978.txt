@@ -1,0 +1,10 @@
+movieId: 2131
+title: Autumn Sonata
+year: 1978
+url: https://www.imdb.com/title/tt0077711/
+ratingValue: 
+directors: Ingmar Bergman
+actors: Ingrid Bergman, Liv Ullmann, Lena Nyman, Halvar Björk, Marianne Aminoff, Arne Bang-Hansen, Gunnar Björnstrand, Erland Josephson, Georg Løkkeberg, Mimi Pollak
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

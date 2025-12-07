@@ -1,0 +1,10 @@
+movieId: 7460
+title: Coffee and Cigarettes
+year: 2003
+url: https://www.imdb.com/title/tt0379217/
+ratingValue: 
+directors: Jim Jarmusch
+actors: Roberto Benigni, Steven Wright, Joie Lee, Cinqué Lee, Steve Buscemi, Iggy Pop, Tom Waits, Joseph Rigano, Vinny Vella
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

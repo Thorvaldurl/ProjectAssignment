@@ -1,0 +1,10 @@
+movieId: 4977
+title: Kandahar
+year: 2001
+url: https://www.imdb.com/title/tt0283431/
+ratingValue: 
+directors: Mohsen Makhmalbaf
+actors: Ike Aykut Ogut, Nelofer Pazira, Hassan Tantai, Sadou Teymouri, Hoyatala Hakimi, Fahim Fazli, Monica Hankievich, Noam Morgensztern, Zahra Shafahi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

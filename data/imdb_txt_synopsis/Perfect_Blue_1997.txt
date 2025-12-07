@@ -1,0 +1,10 @@
+movieId: 2810
+title: Perfect Blue
+year: 1997
+url: https://www.imdb.com/title/tt0156887/
+ratingValue: 
+directors: Satoshi Kon
+actors: Junko Iwao, Rica Matsumoto, Shinpachi Tsuji, Masaaki Ôkura, Yôsuke Akimoto, Yoku Shioya, Hideyuki Hori, Emi Shinohara, Masashi Ebara
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

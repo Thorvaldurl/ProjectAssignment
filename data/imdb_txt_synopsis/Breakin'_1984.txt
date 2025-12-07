@@ -1,0 +1,10 @@
+movieId: 6349
+title: Breakin'
+year: 1984
+url: https://www.imdb.com/title/tt0086998/
+ratingValue: 
+directors: Joel Silberg
+actors: Lucinda Dickey, Adolfo Quinones, Michael Chambers, Ben Lokey, Christopher McDonald, Phineas Newborn III, Bruno Falcon, Popin Pete, Ana Sánchez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

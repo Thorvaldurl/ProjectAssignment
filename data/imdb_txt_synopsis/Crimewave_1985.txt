@@ -1,0 +1,10 @@
+movieId: 6804
+title: Crimewave
+year: 1985
+url: https://www.imdb.com/title/tt0088967/
+ratingValue: 
+directors: Sam Raimi
+actors: Louise Lasser, Paul L. Smith, Brion James, Sheree J. Wilson, Edward R. Pressman, Bruce Campbell, Reed Birney, Richard Bright, Antonio Fargas, Hamid Dana
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

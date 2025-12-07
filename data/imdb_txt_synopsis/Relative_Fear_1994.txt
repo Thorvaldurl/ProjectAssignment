@@ -1,0 +1,10 @@
+movieId: 311
+title: Relative Fear
+year: 1994
+url: https://www.imdb.com/title/tt0110965/
+ratingValue: 
+directors: George Mihalka
+actors: Darlanne Fluegel, Martin Neufeld, James Brolin, Denise Crosby, M. Emmet Walsh, Matthew Dupuis, Bruce Dinsmore, Linda Sorensen, Jason Blicker, Liz MacRae
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

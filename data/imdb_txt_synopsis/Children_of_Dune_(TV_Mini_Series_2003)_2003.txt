@@ -1,0 +1,10 @@
+movieId: 7841
+title: Children of Dune (TV Mini Series 2003)
+year: 2003
+url: https://www.imdb.com/title/tt0287839/
+ratingValue: 
+directors: 
+actors: Alec Newman, Daniela Amavia, James McAvoy, Jessica Brooks, Alice Krige, Edward Atterton, P.H. Moriarty, Julie Cox, Susan Sarandon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

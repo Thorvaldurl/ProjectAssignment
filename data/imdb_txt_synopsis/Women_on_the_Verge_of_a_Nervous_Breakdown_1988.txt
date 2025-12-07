@@ -1,0 +1,10 @@
+movieId: 3067
+title: Women on the Verge of a Nervous Breakdown
+year: 1988
+url: https://www.imdb.com/title/tt0095675/
+ratingValue: 
+directors: Pedro Almodóvar
+actors: Carmen Maura, Antonio Banderas, Julieta Serrano, María Barranco, Rossy de Palma, Kiti Mánver, Guillermo Montesinos, Chus Lampreave, Eduardo Calvo, Loles León
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

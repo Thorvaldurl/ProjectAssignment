@@ -1,0 +1,10 @@
+movieId: 725
+title: The Great White Hype
+year: 1996
+url: https://www.imdb.com/title/tt0116448/
+ratingValue: 
+directors: Reginald Hudlin
+actors: Samuel L. Jackson, Jeff Goldblum, Peter Berg, Corbin Bernsen, Jon Lovitz, Cheech Marin, John Rhys-Davies, Salli Richardson-Whitfield, Jamie Foxx, Rocky Carroll
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

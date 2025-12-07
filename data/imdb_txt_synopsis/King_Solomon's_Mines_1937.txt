@@ -1,0 +1,10 @@
+movieId: 4800
+title: King Solomon's Mines
+year: 1937
+url: https://www.imdb.com/title/tt0029081/
+ratingValue: 
+directors: Geoffrey Barkas, Robert Stevenson
+actors: Paul Robeson, Cedric Hardwicke, Roland Young, John Loder, Anna Lee, Arthur Sinclair, Robert Adams, Arthur Goullet, Tony Wane
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

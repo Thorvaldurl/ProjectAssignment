@@ -1,0 +1,10 @@
+movieId: 4312
+title: Himalaya
+year: 1999
+url: https://www.imdb.com/title/tt0210727/
+ratingValue: 
+directors: Michel Debats, Eric Valli
+actors: Thilen Lhondup, Gurgon Kyap, Lhakpa Tsamchoe, Karma Wangel, Karma Tensing, Labrang Tundup, Jampa Kalsang Tamang, Tsering Dorjee, Rapke Gurung
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

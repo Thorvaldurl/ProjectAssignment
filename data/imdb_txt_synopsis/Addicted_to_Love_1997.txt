@@ -1,0 +1,10 @@
+movieId: 1541
+title: Addicted to Love
+year: 1997
+url: https://www.imdb.com/title/tt0118556/
+ratingValue: 
+directors: Griffin Dunne
+actors: Meg Ryan, Matthew Broderick, Kelly Preston, Tchéky Karyo, Maureen Stapleton, Nesbitt Blaisdell, Remak Ramsay, Lee Wilkof, Dominick Dunne, Susan Forristal
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

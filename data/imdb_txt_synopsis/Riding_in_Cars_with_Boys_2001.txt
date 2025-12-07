@@ -1,0 +1,10 @@
+movieId: 4867
+title: Riding in Cars with Boys
+year: 2001
+url: https://www.imdb.com/title/tt0200027/
+ratingValue: 
+directors: Penny Marshall
+actors: Drew Barrymore, Steve Zahn, Adam Garcia, Brittany Murphy, James Woods, Lorraine Bracco, Rosie Perez, Sara Gilbert, Peter Facinelli, Mika Boorem
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

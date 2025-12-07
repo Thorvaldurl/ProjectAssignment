@@ -1,0 +1,10 @@
+movieId: 7649
+title: Babylon 5: In the Beginning (TV Movie 1998)
+year: 1998
+url: https://www.imdb.com/title/tt0120711/
+ratingValue: 
+directors: Michael Vejar
+actors: Bruce Boxleitner, Mira Furlan, Richard Biggs, Andreas Katsulas, Peter Jurasik, Theodore Bikel, Reiner Schöne, Michael O'Hare, Robin Atkin Downes, J. Patrick McCormack
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

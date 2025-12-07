@@ -1,0 +1,10 @@
+movieId: 4524
+title: Moon Over Parador
+year: 1988
+url: https://www.imdb.com/title/tt0095654/
+ratingValue: 
+directors: Paul Mazursky
+actors: Richard Dreyfuss, Raul Julia, Sonia Braga, Jonathan Winters, Fernando Rey, Sammy Davis Jr., Michael Greene, Polly Holliday, Milton Gonçalves, Charo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3597
+title: Whipped
+year: 2000
+url: https://www.imdb.com/title/tt0174336/
+ratingValue: 
+directors: Peter M. Cohen
+actors: Amanda Peet, Brian Van Holt, Jonathan Abrahams, Zorie Barber, Judah Domke, Callie Thorne, Montse Viader, Linda Udd, Doug MacHugh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

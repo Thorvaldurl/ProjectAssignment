@@ -1,0 +1,10 @@
+movieId: 3496
+title: Madame Sousatzka
+year: 1988
+url: https://www.imdb.com/title/tt0095564/
+ratingValue: 
+directors: John Schlesinger
+actors: Shirley MacLaine, Peggy Ashcroft, Twiggy, Shabana Azmi, Leigh Lawson, Geoffrey Bayldon, Lee Montague, Robert Rietty, Navin Chowdhry, Greg Ellis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

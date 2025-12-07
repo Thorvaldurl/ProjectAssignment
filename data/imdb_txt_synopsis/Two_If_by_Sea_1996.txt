@@ -1,0 +1,10 @@
+movieId: 64
+title: Two If by Sea
+year: 1996
+url: https://www.imdb.com/title/tt0118002/
+ratingValue: 
+directors: Bill Bennett
+actors: Denis Leary, Sandra Bullock, Stephen Dillane, Yaphet Kotto, Mike Starr, Jonathan Tucker, Wayne Robson, Michael Badalucco, Lenny Clarke, Jonny Fido
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

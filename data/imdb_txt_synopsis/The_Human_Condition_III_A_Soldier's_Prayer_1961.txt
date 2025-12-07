@@ -1,0 +1,10 @@
+movieId: 26073
+title: The Human Condition III: A Soldier's Prayer
+year: 1961
+url: https://www.imdb.com/title/tt0055233/
+ratingValue: 
+directors: Masaki Kobayashi
+actors: Tatsuya Nakadai, Michiyo Aratama, Tamao Nakamura, Yûsuke Kawazu, Chishû Ryû, Taketoshi Naitô, Kyôko Kishida, Reiko Hitomi, Keijirô Morozumi, Kôji Kiyomura
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

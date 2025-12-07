@@ -1,0 +1,10 @@
+movieId: 8385
+title: Lover Come Back
+year: 1961
+url: https://www.imdb.com/title/tt0055100/
+ratingValue: 
+directors: Delbert Mann
+actors: Rock Hudson, Doris Day, Tony Randall, Edie Adams, Jack Oakie, Jack Kruschen, Ann B. Davis, Howard St. John, Joe Flynn, Jack Albertson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

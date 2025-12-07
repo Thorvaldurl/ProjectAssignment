@@ -1,0 +1,10 @@
+movieId: 5929
+title: The Party 2
+year: 1982
+url: https://www.imdb.com/title/tt0083686/
+ratingValue: 
+directors: Claude Pinoteau
+actors: Claude Brasseur, Brigitte Fossey, Sophie Marceau, Lambert Wilson, Pierre Cosso, Alexandre Sterling, Sheila O'Connor, Alexandra Gonin, Jean-Philippe Léonard, Jean Leuvrais
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

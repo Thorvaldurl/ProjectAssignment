@@ -1,0 +1,10 @@
+movieId: 8364
+title: Baadasssss!
+year: 2003
+url: https://www.imdb.com/title/tt0367790/
+ratingValue: 
+directors: Mario Van Peebles
+actors: Mario Van Peebles, Joy Bryant, T.K. Carter, Terry Crews, Ossie Davis, David Alan Grier, Nia Long, Paul Rodriguez, Saul Rubinek, Vincent Schiavelli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

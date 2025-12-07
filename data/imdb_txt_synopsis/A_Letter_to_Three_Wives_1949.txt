@@ -1,0 +1,10 @@
+movieId: 25952
+title: A Letter to Three Wives
+year: 1949
+url: https://www.imdb.com/title/tt0041587/
+ratingValue: 
+directors: Joseph L. Mankiewicz
+actors: Jeanne Crain, Linda Darnell, Ann Sothern, Kirk Douglas, Paul Douglas, Barbara Lawrence, Jeffrey Lynn, Connie Gilchrist, Florence Bates, Hobart Cavanaugh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

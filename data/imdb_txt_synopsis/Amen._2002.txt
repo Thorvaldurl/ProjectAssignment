@@ -1,0 +1,10 @@
+movieId: 6041
+title: Amen.
+year: 2002
+url: https://www.imdb.com/title/tt0280653/
+ratingValue: 
+directors: Costa-Gavras
+actors: Mathieu Kassovitz, Ulrich Tukur, Ulrich Mühe, Michel Duchaussoy, Ion Caramitru, Marcel Iures, Friedrich von Thun, Antje Schmidt, Hanns Zischler, Sebastian Koch
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

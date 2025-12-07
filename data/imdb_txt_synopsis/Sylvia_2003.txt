@@ -1,0 +1,10 @@
+movieId: 6883
+title: Sylvia
+year: 2003
+url: https://www.imdb.com/title/tt0325055/
+ratingValue: 
+directors: Christine Jeffs
+actors: David Birkin, Alison Bruce, Amira Casar, Daniel Craig, Blythe Danner, Lucy Davenport, Julian Firth, Jeremy Fowlds, Michael Gambon, Sarah Guyler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

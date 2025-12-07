@@ -1,0 +1,10 @@
+movieId: 579
+title: La scorta
+year: 1993
+url: https://www.imdb.com/title/tt0108059/
+ratingValue: 
+directors: Ricky Tognazzi
+actors: Claudio Amendola, Enrico Lo Verso, Carlo Cecchi, Ricky Memphis, Tony Sperandeo, Lorenza Indovina, Ugo Conti, Rita Savagnone, Giovanni Alamia
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

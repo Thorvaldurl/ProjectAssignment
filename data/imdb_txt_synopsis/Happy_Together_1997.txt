@@ -1,0 +1,10 @@
+movieId: 7486
+title: Happy Together
+year: 1997
+url: https://www.imdb.com/title/tt0118845/
+ratingValue: 
+directors: Wong Kar-Wai
+actors: Leslie Cheung, Tony Leung Chiu-wai, Chang Chen, Gregory Dayton, Shirley Kwan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

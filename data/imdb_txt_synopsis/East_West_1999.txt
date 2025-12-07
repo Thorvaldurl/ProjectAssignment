@@ -1,0 +1,10 @@
+movieId: 3357
+title: East/West
+year: 1999
+url: https://www.imdb.com/title/tt0181530/
+ratingValue: 
+directors: Régis Wargnier
+actors: Oleg Menshikov, Sandrine Bonnaire, Catherine Deneuve, Sergey Bodrov, Ruben Tapiero, Erwan Baynaud, Grigori Manoukov, Tatyana Dogileva, Bogdan Stupka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

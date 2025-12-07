@@ -1,0 +1,10 @@
+movieId: 2512
+title: The Ballad of Narayama
+year: 1983
+url: https://www.imdb.com/title/tt0084390/
+ratingValue: 
+directors: Shôhei Imamura
+actors: Ken Ogata, Sumiko Sakamoto, Tonpei Hidari, Aki Takejô, Shôichi Ozawa, Fujio Tokita, Sanshô Shinsui, Seiji Kurasaki, Junko Takada
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

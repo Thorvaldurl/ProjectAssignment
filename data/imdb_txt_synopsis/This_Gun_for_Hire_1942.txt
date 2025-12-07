@@ -1,0 +1,10 @@
+movieId: 8765
+title: This Gun for Hire
+year: 1942
+url: https://www.imdb.com/title/tt0035432/
+ratingValue: 
+directors: Frank Tuttle
+actors: Veronica Lake, Robert Preston, Laird Cregar, Alan Ladd, Tully Marshall, Marc Lawrence, Olin Howland, Roger Imhof, Pamela Blake, Frank Ferguson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

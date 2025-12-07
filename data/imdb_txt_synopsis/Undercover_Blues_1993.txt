@@ -1,0 +1,10 @@
+movieId: 6314
+title: Undercover Blues
+year: 1993
+url: https://www.imdb.com/title/tt0108442/
+ratingValue: 
+directors: Herbert Ross
+actors: Kathleen Turner, Dennis Quaid, Fiona Shaw, Stanley Tucci, Larry Miller, Obba Babatundé, Tom Arnold, Park Overall, Ralph Brown, Jan Tríska
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

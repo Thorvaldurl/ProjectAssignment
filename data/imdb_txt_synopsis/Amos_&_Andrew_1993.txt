@@ -1,0 +1,10 @@
+movieId: 1440
+title: Amos & Andrew
+year: 1993
+url: https://www.imdb.com/title/tt0106266/
+ratingValue: 
+directors: E. Max Frye
+actors: Samuel L. Jackson, Michael Lerner, Margaret Colin, Nicolas Cage, Dabney Coleman, Brad Dourif, Chelcie Ross, I.M. Hobson, Jeff Blumenkrantz, Todd Weeks
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

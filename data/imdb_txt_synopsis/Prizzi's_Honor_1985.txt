@@ -1,0 +1,10 @@
+movieId: 3685
+title: Prizzi's Honor
+year: 1985
+url: https://www.imdb.com/title/tt0089841/
+ratingValue: 
+directors: John Huston
+actors: Jack Nicholson, Kathleen Turner, Robert Loggia, John Randolph, William Hickey, Lee Richardson, Michael Lombard, Anjelica Huston, George Santopietro, Lawrence Tierney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

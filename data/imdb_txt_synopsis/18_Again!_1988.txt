@@ -1,0 +1,10 @@
+movieId: 4462
+title: 18 Again!
+year: 1988
+url: https://www.imdb.com/title/tt0094593/
+ratingValue: 
+directors: Paul Flaherty
+actors: George Burns, Charlie Schlatter, Tony Roberts, Anita Morris, Miriam Flynn, Jennifer Runyon, Red Buttons, George DiCenzo, Bernard Fox, Kenneth Tigar
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

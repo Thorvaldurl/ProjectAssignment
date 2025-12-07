@@ -1,0 +1,10 @@
+movieId: 3559
+title: Limelight
+year: 1952
+url: https://www.imdb.com/title/tt0044837/
+ratingValue: 
+directors: Charles Chaplin
+actors: Charles Chaplin, Claire Bloom, Nigel Bruce, Buster Keaton, Sydney Chaplin, Norman Lloyd, Andre Eglevsky, Melissa Hayden, Marjorie Bennett, Wheeler Dryden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3327
+title: Beyond the Mat
+year: 1999
+url: https://www.imdb.com/title/tt0218043/
+ratingValue: 
+directors: Barry W. Blaustein
+actors: Barry W. Blaustein, Vince McMahon, Jim Ross, Jim Bell, Darren Drozdov, Roland Alexander, Tony Jones, Michael Modest, Terry Funk, Mick Foley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

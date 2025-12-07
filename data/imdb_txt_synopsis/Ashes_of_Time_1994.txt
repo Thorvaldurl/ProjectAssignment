@@ -1,0 +1,10 @@
+movieId: 757
+title: Ashes of Time
+year: 1994
+url: https://www.imdb.com/title/tt0109688/
+ratingValue: 
+directors: Wong Kar-Wai
+actors: Brigitte Lin, Leslie Cheung, Maggie Cheung, Tony Leung Chiu-wai, Jacky Cheung, Tony Ka Fai Leung, Li Bai, Carina Lau, Charlie Yeung, Joey Wang
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

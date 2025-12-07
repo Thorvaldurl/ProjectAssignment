@@ -1,0 +1,10 @@
+movieId: 1661
+title: Switchback
+year: 1997
+url: https://www.imdb.com/title/tt0119210/
+ratingValue: 
+directors: Jeb Stuart
+actors: Claudia Stedelin, Ian Nelson, Brent Hinkley, R. Lee Ermey, Walton Goggins, Ted Levine, Louis Schaefer, William Fichtner, Jared Leto, Robert L. Somers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

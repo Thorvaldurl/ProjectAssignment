@@ -1,0 +1,10 @@
+movieId: 5446
+title: Rabbit-Proof Fence
+year: 2002
+url: https://www.imdb.com/title/tt0252444/
+ratingValue: 
+directors: Phillip Noyce
+actors: Everlyn Sampi, Tianna Sansbury, Laura Monaghan, David Gulpilil, Ningali Lawford, Myarn Lawford, Deborah Mailman, Jason Clarke, Kenneth Branagh, Natasha Wanganeen
+
+synopsis:
+Rabbit-Proof Fence is a 2002 Australian drama (directed by Phillip Noyce) film based on the book Follow the Rabbit-Proof Fence by Doris Pilkington Garimara. It concerns the author's mother, and two other young mixed-race Aboriginal girls, who ran away from the Moore River Native Settlement, north of Perth, in order to return to their Aboriginal families, after being placed there in 1931. The film follows the girls as they trek/walk for nine weeks along 1,500 miles (2414km) of the Australian rabbit-proof fence to return to their community at Jigalong while being tracked by a white authority figure and a black tracker.

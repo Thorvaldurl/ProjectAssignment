@@ -1,0 +1,10 @@
+movieId: 7150
+title: Stuck on You
+year: 2003
+url: https://www.imdb.com/title/tt0338466/
+ratingValue: 
+directors: Bobby Farrelly, Peter Farrelly
+actors: Matt Damon, Greg Kinnear, Eva Mendes, Wen Yann Shih, Pat Crawford Brown, Ray 'Rocket' Valliere, Tommy Songin, Terence Bernie Hines, Cher, Jackie Flynn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

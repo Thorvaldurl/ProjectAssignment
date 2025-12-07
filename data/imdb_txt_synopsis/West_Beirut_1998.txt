@@ -1,0 +1,10 @@
+movieId: 2839
+title: West Beirut
+year: 1998
+url: https://www.imdb.com/title/tt0157183/
+ratingValue: 
+directors: Ziad Doueiri
+actors: Rami Doueiri, Naamar Sahli, Mohamad Chamas, Rola Al Amin, Carmen Lebbos, Joseph Bou Nassar, Liliane Nemri, Leïla Karam, Mahmoud Mabsout
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

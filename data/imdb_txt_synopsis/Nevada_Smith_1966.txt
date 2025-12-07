@@ -1,0 +1,10 @@
+movieId: 6386
+title: Nevada Smith
+year: 1966
+url: https://www.imdb.com/title/tt0060748/
+ratingValue: 
+directors: Henry Hathaway
+actors: Steve McQueen, Karl Malden, Brian Keith, Arthur Kennedy, Suzanne Pleshette, Raf Vallone, Janet Margolin, Pat Hingle, Howard Da Silva, Martin Landau
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

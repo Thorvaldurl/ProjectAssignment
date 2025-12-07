@@ -1,0 +1,10 @@
+movieId: 4750
+title: 3 Ninjas: Knuckle Up
+year: 1995
+url: https://www.imdb.com/title/tt0112255/
+ratingValue: 
+directors: Shin Sang-ok
+actors: Victor Wong, Charles Napier, Michael Treanor, Max Elliott Slade, Chad Power, Crystle Lightning, Patrick Kilpatrick, Don Shanks, Sheldon Peters Wolfchild, Nick Ramus
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

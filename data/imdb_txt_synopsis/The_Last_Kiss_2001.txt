@@ -1,0 +1,10 @@
+movieId: 5503
+title: The Last Kiss
+year: 2001
+url: https://www.imdb.com/title/tt0265930/
+ratingValue: 
+directors: Gabriele Muccino
+actors: Stefano Accorsi, Giovanna Mezzogiorno, Stefania Sandrelli, Claudio Santamaria, Giorgio Pasotti, Marco Cocci, Pierfrancesco Favino, Sabrina Impacciatore, Regina Orioli, Susanna Javicoli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

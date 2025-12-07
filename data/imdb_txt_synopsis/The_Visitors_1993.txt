@@ -1,0 +1,10 @@
+movieId: 718
+title: The Visitors
+year: 1993
+url: https://www.imdb.com/title/tt0108500/
+ratingValue: 
+directors: Jean-Marie Poiré
+actors: Christian Clavier, Jean Reno, Valérie Lemercier, Marie-Anne Chazel, Christian Bujeau, Isabelle Nanty, Gérard Séty, Didier Pain, Jean-Paul Muel, Arielle Sémenoff
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

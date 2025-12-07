@@ -1,0 +1,10 @@
+movieId: 6299
+title: Winged Migration
+year: 2001
+url: https://www.imdb.com/title/tt0301727/
+ratingValue: 
+directors: Jacques Cluzaud, Michel Debats, Jacques Perrin
+actors: Jacques Perrin, Philippe Labro
+
+synopsis:
+This beautiful film is not what it appears. It is a combination of fiction and documentary--documentary where wild birds were filmed, but staged where the feathered actors appear. And all was storyboarded and scheduled as best as could be managed during the four years of work it took to film it. The real story behind the film and the "people" of the French title "Le Peuple Migrateur" is told by the documentary "The Making of" that appears on the DVD. The humans are unseen in the film but fly with the actors they hand-raised from eggs and imprinted on themselves and their machines so they would stay with the people and follow directions ("Allez! Allez!"). The producer, who narrates the commentary on the DVD, describes the planning and making of this film as the fulfillment of a "dream," a dream to fly with the birds. This film gives hints of the extraordinary lengths to which this dream took its dreamers only in the seemingly impossible shots in which the viewer is at eye level with high-flying birds. Otherwise--except for the almost obviously staged plot elements where birds land in particular places in which they interact with machinery, vehicles, and people who do not speak--it appears to be a nature documentary, which it partly is.

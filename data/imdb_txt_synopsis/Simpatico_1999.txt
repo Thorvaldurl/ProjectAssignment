@@ -1,0 +1,10 @@
+movieId: 3162
+title: Simpatico
+year: 1999
+url: https://www.imdb.com/title/tt0174204/
+ratingValue: 
+directors: Matthew Warchus
+actors: Nick Nolte, Jeff Bridges, Sharon Stone, Catherine Keener, Albert Finney, Shawn Hatosy, Kimberly Williams-Paisley, Liam Waite, Whit Crawford, Bob Harter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

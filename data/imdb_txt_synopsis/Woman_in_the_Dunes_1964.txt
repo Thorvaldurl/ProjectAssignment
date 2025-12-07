@@ -1,0 +1,10 @@
+movieId: 3224
+title: Woman in the Dunes
+year: 1964
+url: https://www.imdb.com/title/tt0058625/
+ratingValue: 
+directors: Hiroshi Teshigahara
+actors: Eiji Okada, Kyôko Kishida, Kôji Mitsui, Hiroko Itô, Sen Yano, Ginzô Sekiguchi, Robert Dunham, Kiyohiko Ichihara, Hideo Kanze, Hiroyuki Nishimoto
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

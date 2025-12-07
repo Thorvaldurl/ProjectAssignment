@@ -1,0 +1,10 @@
+movieId: 1662
+title: Gang Related
+year: 1997
+url: https://www.imdb.com/title/tt0118900/
+ratingValue: 
+directors: Jim Kouf
+actors: Jim Belushi, Tupac Shakur, Lela Rochon, Dennis Quaid, James Earl Jones, David Paymer, Wendy Crewson, Gary Cole, Terrence 'T.C.' Carson, Brad Greenquist
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

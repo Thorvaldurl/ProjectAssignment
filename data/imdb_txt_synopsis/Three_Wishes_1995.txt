@@ -1,0 +1,10 @@
+movieId: 201
+title: Three Wishes
+year: 1995
+url: https://www.imdb.com/title/tt0114663/
+ratingValue: 
+directors: Martha Coolidge
+actors: Patrick Swayze, Mary Elizabeth Mastrantonio, Joseph Mazzello, Seth Mumy, David Marshall Grant, Jay O. Sanders, Michael O'Keefe, John Diehl, Diane Venora, David Zahorsky
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4840
+title: The Last Metro
+year: 1980
+url: https://www.imdb.com/title/tt0080610/
+ratingValue: 
+directors: François Truffaut
+actors: Catherine Deneuve, Gérard Depardieu, Jean Poiret, Andréa Ferréol, Paulette Dubost, Jean-Louis Richard, Sabine Haudepin, Maurice Risch, Heinz Bennent, Christian Baltauss
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

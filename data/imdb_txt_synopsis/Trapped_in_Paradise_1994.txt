@@ -1,0 +1,10 @@
+movieId: 7041
+title: Trapped in Paradise
+year: 1994
+url: https://www.imdb.com/title/tt0111477/
+ratingValue: 
+directors: George Gallo
+actors: Nicolas Cage, Richard B. Shull, Jon Lovitz, Dana Carvey, Jack Heller, Mike Steiner, Greg Ellwand, Kirk Dunn, Blanca Jansuzian, Florence Stanley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

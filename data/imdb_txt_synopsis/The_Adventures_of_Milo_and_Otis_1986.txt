@@ -1,0 +1,10 @@
+movieId: 2846
+title: The Adventures of Milo and Otis
+year: 1986
+url: https://www.imdb.com/title/tt0097050/
+ratingValue: 
+directors: Masanori Hata
+actors: Dudley Moore, Chatran, Kyôko Koizumi, Pû, Shigeru Tsuyuki
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

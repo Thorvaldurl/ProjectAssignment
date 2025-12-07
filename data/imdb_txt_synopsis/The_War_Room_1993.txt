@@ -1,0 +1,10 @@
+movieId: 556
+title: The War Room
+year: 1993
+url: https://www.imdb.com/title/tt0108515/
+ratingValue: 
+directors: Chris Hegedus, D.A. Pennebaker
+actors: James Carville, George Stephanopoulos, Heather Beckel, Paul Begala, Bob Boorstin, Mike Donilon, Jeff Eller, Stanley Greenberg, Mandy Grunwald, Harold Ickes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

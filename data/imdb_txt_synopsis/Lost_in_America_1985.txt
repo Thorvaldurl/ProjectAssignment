@@ -1,0 +1,10 @@
+movieId: 4276
+title: Lost in America
+year: 1985
+url: https://www.imdb.com/title/tt0089504/
+ratingValue: 
+directors: Albert Brooks
+actors: Albert Brooks, Julie Hagerty, Sylvia Farrel, Tina Kincaid, Candy Ann Brown, Maggie Roswell, Hans Wagner, Brandy Rubin, Michael Greene, Tom Tarpey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

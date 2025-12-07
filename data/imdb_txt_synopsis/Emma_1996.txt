@@ -1,0 +1,10 @@
+movieId: 838
+title: Emma
+year: 1996
+url: https://www.imdb.com/title/tt0116191/
+ratingValue: 
+directors: Douglas McGrath
+actors: Gwyneth Paltrow, James Cosmo, Greta Scacchi, Alan Cumming, Denys Hawthorne, Sophie Thompson, Jeremy Northam, Toni Collette, Kathleen Byron, Phyllida Law
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

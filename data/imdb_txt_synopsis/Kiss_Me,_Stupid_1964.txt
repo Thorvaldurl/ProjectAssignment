@@ -1,0 +1,10 @@
+movieId: 6578
+title: Kiss Me, Stupid
+year: 1964
+url: https://www.imdb.com/title/tt0058265/
+ratingValue: 
+directors: Billy Wilder
+actors: Dean Martin, Kim Novak, Ray Walston, Felicia Farr, Cliff Osmond, Barbara Pepper, Skip Ward, Doro Merande, Bobo Lewis, Tom Nolan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

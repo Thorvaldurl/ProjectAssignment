@@ -1,0 +1,10 @@
+movieId: 4155
+title: Sweet November
+year: 2001
+url: https://www.imdb.com/title/tt0230838/
+ratingValue: 
+directors: Pat O'Connor
+actors: Keanu Reeves, Charlize Theron, Jason Isaacs, Greg Germann, Liam Aiken, Robert Joy, Lauren Graham, Michael Rosenbaum, Frank Langella, Jason Kravits
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

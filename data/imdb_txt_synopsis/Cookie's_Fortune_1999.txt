@@ -1,0 +1,10 @@
+movieId: 2583
+title: Cookie's Fortune
+year: 1999
+url: https://www.imdb.com/title/tt0126250/
+ratingValue: 
+directors: Robert Altman
+actors: Glenn Close, Julianne Moore, Liv Tyler, Chris O'Donnell, Charles S. Dutton, Patricia Neal, Ned Beatty, Courtney B. Vance, Donald Moffat, Lyle Lovett
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

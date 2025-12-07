@@ -1,0 +1,10 @@
+movieId: 3165
+title: Boiling Point
+year: 1993
+url: https://www.imdb.com/title/tt0106455/
+ratingValue: 
+directors: James B. Harris
+actors: Wesley Snipes, Dennis Hopper, Lolita Davidovich, Viggo Mortensen, Seymour Cassel, Jonathan Banks, Christine Elise, Tony Lo Bianco, Valerie Perrine, James Tolkan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

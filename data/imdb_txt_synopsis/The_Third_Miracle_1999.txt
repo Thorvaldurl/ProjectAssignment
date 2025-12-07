@@ -1,0 +1,10 @@
+movieId: 3183
+title: The Third Miracle
+year: 1999
+url: https://www.imdb.com/title/tt0174268/
+ratingValue: 
+directors: Agnieszka Holland
+actors: Sofia Polanska, Pavol Simon, Ivan Lukac, Patrik Minar, Michael Rispoli, Kenny Robinson, Rony Clanton, Ed Harris, Angela Fusco
+
+synopsis:
+A skeptical Bishop sends a broken priest as Postulator to investigate the possible beatification of a simple, devout woman whose death caused a statue of the Virgin Mary to bleed upon and cure a girl with terminal lupus. The politically weary priest unknowingly embarks on a spiritual journey that rebuilds his shattered faith and life. Summary written by Jim Norman {jnorman1@qwest.net}

@@ -1,0 +1,10 @@
+movieId: 6856
+title: Yankee Doodle Dandy
+year: 1942
+url: https://www.imdb.com/title/tt0035575/
+ratingValue: 
+directors: Michael Curtiz
+actors: James Cagney, Joan Leslie, Walter Huston, Richard Whorf, Irene Manning, George Tobias, Rosemary DeCamp, Jeanne Cagney, Frances Langford, George Barbier
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

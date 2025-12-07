@@ -1,0 +1,10 @@
+movieId: 6123
+title: Sans Soleil
+year: 1983
+url: https://www.imdb.com/title/tt0084628/
+ratingValue: 
+directors: Chris Marker
+actors: Amilcar Cabral, Florence Delay, Arielle Dombasle, Riyoko Ikeda, Charlotte Kerr, Kim Novak, Alexandra Stewart, James Stewart, Bin Akao
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

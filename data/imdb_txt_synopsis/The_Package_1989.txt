@@ -1,0 +1,10 @@
+movieId: 4632
+title: The Package
+year: 1989
+url: https://www.imdb.com/title/tt0098051/
+ratingValue: 
+directors: Andrew Davis
+actors: Gene Hackman, Joanna Cassidy, Tommy Lee Jones, John Heard, Dennis Franz, Pam Grier, Kevin Crowley, Ron Dean, Nathan Davis, Chelcie Ross
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8713
+title: The New Adventures of Pippi Longstocking
+year: 1988
+url: https://www.imdb.com/title/tt0093744/
+ratingValue: 
+directors: Ken Annakin
+actors: Tami Erin, David Seaman, Cory Crow, Eileen Brennan, Dennis Dugan, Dianne Hull, George DiCenzo, J.D. Dickinson, Chub Bailly, Dick Van Patten
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8195
+title: L'Avventura
+year: 1960
+url: https://www.imdb.com/title/tt0053619/
+ratingValue: 
+directors: Michelangelo Antonioni
+actors: Gabriele Ferzetti, Monica Vitti, Lea Massari, Dominique Blanchar, Renzo Ricci, James Addams, Dorothy De Poliolo, Lelio Luttazzi, Giovanni Petrucci, Esmeralda Ruspoli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

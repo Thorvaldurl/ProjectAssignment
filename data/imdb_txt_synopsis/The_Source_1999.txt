@@ -1,0 +1,10 @@
+movieId: 2813
+title: The Source
+year: 1999
+url: https://www.imdb.com/title/tt0181833/
+ratingValue: 
+directors: Chuck Workman
+actors: Johnny Depp, Dennis Hopper, John Turturro, Allen Ginsberg, Philip Glass, Robert Creeley, Ann Charters, George Steade, David Amram, William S. Burroughs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

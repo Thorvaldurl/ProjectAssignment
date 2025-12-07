@@ -1,0 +1,10 @@
+movieId: 956
+title: Penny Serenade
+year: 1941
+url: https://www.imdb.com/title/tt0034012/
+ratingValue: 
+directors: George Stevens
+actors: Irene Dunne, Cary Grant, Beulah Bondi, Edgar Buchanan, Ann Doran, Eva Lee Kuney, Leonard Willey, Wallis Clark, Walter Soderling, Jane Biffle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

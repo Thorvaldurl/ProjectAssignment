@@ -1,0 +1,10 @@
+movieId: 3341
+title: Born Yesterday
+year: 1950
+url: https://www.imdb.com/title/tt0042276/
+ratingValue: 
+directors: George Cukor
+actors: Judy Holliday, Broderick Crawford, William Holden, Howard St. John, Frank Otto, Larry Oliver, Barbara Brown, Grandon Rhodes, Claire Carleton, Chet Brandenburg
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

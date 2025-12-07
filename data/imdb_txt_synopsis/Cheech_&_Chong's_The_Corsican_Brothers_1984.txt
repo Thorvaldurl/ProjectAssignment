@@ -1,0 +1,10 @@
+movieId: 5428
+title: Cheech & Chong's: The Corsican Brothers
+year: 1984
+url: https://www.imdb.com/title/tt0087042/
+ratingValue: 
+directors: Tommy Chong, Cheech Marin
+actors: Cheech Marin, Tommy Chong, Roy Dotrice, Shelby Chong, Rikki Marin, Edie McClurg, Robbi Chong, Rae Dawn Chong, Albert Simono
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4527
+title: A Night in the Life of Jimmy Reardon
+year: 1988
+url: https://www.imdb.com/title/tt0095736/
+ratingValue: 
+directors: William Richert
+actors: River Phoenix, Ann Magnuson, Meredith Salenger, Ione Skye, Louanne, Matthew Perry, Paul Koslo, Jane Hallaren, Jason Court, James Deuter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

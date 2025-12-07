@@ -1,0 +1,10 @@
+movieId: 96
+title: A Midwinter's Tale
+year: 1995
+url: https://www.imdb.com/title/tt0113403/
+ratingValue: 
+directors: Kenneth Branagh
+actors: Richard Briers, Hetta Charnley, Joan Collins, Nicholas Farrell, Mark Hadfield, Gerard Horan, Celia Imrie, Michael Maloney, Jennifer Saunders, Julia Sawalha
+
+synopsis:
+An unemployed actor directs an unlikely group in an English church's production of "Hamlet."

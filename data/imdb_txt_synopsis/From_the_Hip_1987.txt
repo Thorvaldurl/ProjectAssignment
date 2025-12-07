@@ -1,0 +1,10 @@
+movieId: 2751
+title: From the Hip
+year: 1987
+url: https://www.imdb.com/title/tt0093051/
+ratingValue: 
+directors: Bob Clark
+actors: Judd Nelson, Elizabeth Perkins, John Hurt, Darren McGavin, Dan Monahan, David Alan Grier, Nancy Marchand, Allan Arbus, Edward Winter, Richard Zobel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3858
+title: Cecil B. Demented
+year: 2000
+url: https://www.imdb.com/title/tt0173716/
+ratingValue: 
+directors: John Waters
+actors: Melanie Griffith, Stephen Dorff, Alicia Witt, Adrian Grenier, Lawrence Gilliard Jr., Maggie Gyllenhaal, Jack Noseworthy, Mink Stole, Ricki Lake, Patricia Hearst
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

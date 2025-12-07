@@ -1,0 +1,10 @@
+movieId: 424
+title: Blue Chips
+year: 1994
+url: https://www.imdb.com/title/tt0109305/
+ratingValue: 
+directors: William Friedkin
+actors: Nick Nolte, Mary McDonnell, J.T. Walsh, Ed O'Neill, Alfre Woodard, Bob Cousy, Shaquille O'Neal, Penny Hardaway, Matt Nover, Cylk Cozart
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

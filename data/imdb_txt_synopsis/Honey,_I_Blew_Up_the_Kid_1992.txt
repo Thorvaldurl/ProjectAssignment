@@ -1,0 +1,10 @@
+movieId: 2053
+title: Honey, I Blew Up the Kid
+year: 1992
+url: https://www.imdb.com/title/tt0104437/
+ratingValue: 
+directors: Randal Kleiser
+actors: Rick Moranis, Marcia Strassman, Robert Oliveri, Daniel Shalikar, Joshua Shalikar, Lloyd Bridges, John Shea, Keri Russell, Ron Canada, Amy O'Neill
+
+synopsis:
+Three years post the initial events, Wayne Szalinski relocates to Nevada with his wife Diane and their kids. Their elder son Nick is now a teenager, Amy is prepping for college, and their youngest, Adam, is two. Diane takes Amy to college, leaving Wayne and Nick with Adam. They head to Sterling Labs where Wayne has an enlarging version of his shrink ray. While testing it on Adam's toy, Big Bunny, Adam is accidentally zapped and starts growing. Back home, electrical waves from a microwave make Adam and Big Bunny grow to seven feet. Wayne and Nick try reversing it in the lab but get kicked out by Wayne's colleague, Dr. Hendrickson. Diane returns to find the house in chaos and together they attempt shrinking Adam with the original shrink ray from a warehouse. Meanwhile, babysitter Mandy faints upon seeing giant Adam, and Nick, who likes her, stops her from alerting the neighbors. Adam grows to fourteen feet and escapes. Nick and Mandy search for Adam but are detained while Adam is confined in a truck. Wayne and Diane encounter Hendrickson and a US Marshal at home. Hendrickson hopes Sterling, the chairman, will fire Wayne, but Sterling fires Hendrickson instead. Meanwhile, Adam grows to fifty feet from power lines exposure, escapes, and heads to Las Vegas with Nick and Mandy in his pocket. Adam, now over a hundred feet tall, causes panic in Las Vegas. Wayne's attempts to control Adam fail, and Hendrickson fires tranquilizers at him. Diane, enlarged by Wayne's original machine, calms Adam and helps shrink them both. Post-shrinkage, Wayne and Diane discover Nick and Mandy have also shrunk. They find the tiny duo sharing a romantic moment, and are left puzzled about the oversized Big Bunny.

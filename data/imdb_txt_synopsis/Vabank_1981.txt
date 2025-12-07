@@ -1,0 +1,10 @@
+movieId: 5912
+title: Vabank
+year: 1981
+url: https://www.imdb.com/title/tt0083271/
+ratingValue: 
+directors: Juliusz Machulski
+actors: Jan Machulski, Leonard Pietraszak, Witold Pyrkosz, Ewa Szykulska, Krzysztof Kiersznowski, Zdzislaw Kuzniar, Józef Para, Elzbieta Zajacówna, Jacek Chmielnik, Zofia Charewicz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

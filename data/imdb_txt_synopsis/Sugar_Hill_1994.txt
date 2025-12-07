@@ -1,0 +1,10 @@
+movieId: 6055
+title: Sugar Hill
+year: 1994
+url: https://www.imdb.com/title/tt0107079/
+ratingValue: 
+directors: Leon Ichaso
+actors: Wesley Snipes, Khandi Alexander, DeVaughn Nixon, Marquise Wilson, O.L. Duke, Clarence Williams III, Abe Vigoda, Anthony Thomas, Michael Wright, John Pittman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

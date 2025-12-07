@@ -1,0 +1,10 @@
+movieId: 283
+title: New Jersey Drive
+year: 1995
+url: https://www.imdb.com/title/tt0113967/
+ratingValue: 
+directors: Nick Gomez
+actors: Shar-Ron Corley, Gabriel Casseus, Saul Stein, Gwen McGee, Andre Moore, Donald Faison, Conrad Meertins Jr., Devin Eggleston, Koran C. Thomas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

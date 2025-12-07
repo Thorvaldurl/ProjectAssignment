@@ -1,0 +1,10 @@
+movieId: 7745
+title: The Scent of Green Papaya
+year: 1993
+url: https://www.imdb.com/title/tt0107617/
+ratingValue: 
+directors: Anh Hung Tran
+actors: Nu Yên-Khê Tran, Man San Lu, Thi Loc Truong, Anh Hoa Nguyen, Hoa Hoi Vuong, Ngoc Trung Tran, Vantha Talisman, Keo Souvannavong, Van Oanh Nguyen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

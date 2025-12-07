@@ -1,0 +1,10 @@
+movieId: 1015
+title: Homeward Bound: The Incredible Journey
+year: 1993
+url: https://www.imdb.com/title/tt0107131/
+ratingValue: 
+directors: Duwayne Dunham
+actors: Don Alder, Ed Bernard, Kevin Chevalia, Anne Christianson, Ted D'Arms, Woody Eney, Kim Greist, Rich Hawkins, Robert Hays
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

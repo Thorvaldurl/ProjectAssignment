@@ -1,0 +1,10 @@
+movieId: 4215
+title: Revenge of the Nerds II: Nerds in Paradise
+year: 1987
+url: https://www.imdb.com/title/tt0093857/
+ratingValue: 
+directors: Joe Roth
+actors: Robert Carradine, Curtis Armstrong, Larry B. Scott, Timothy Busfield, Courtney Thorne-Smith, Andrew Cassese, Donald Gibb, Bradley Whitford, Ed Lauter, Barry Sobel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

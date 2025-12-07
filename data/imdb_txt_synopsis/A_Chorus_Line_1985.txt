@@ -1,0 +1,10 @@
+movieId: 6345
+title: A Chorus Line
+year: 1985
+url: https://www.imdb.com/title/tt0088915/
+ratingValue: 
+directors: Richard Attenborough
+actors: Michael Blevins, Yamil Borges, Jan Gan Boyd, Sharon Brown, Gregg Burge, Michael Douglas, Cameron English, Tony Fields, Nicole Fosse, Vicki Frederick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

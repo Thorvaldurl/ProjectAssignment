@@ -1,0 +1,10 @@
+movieId: 7357
+title: Peyton Place
+year: 1957
+url: https://www.imdb.com/title/tt0050839/
+ratingValue: 
+directors: Mark Robson
+actors: Lana Turner, Lee Philips, Lloyd Nolan, Arthur Kennedy, Russ Tamblyn, Terry Moore, Hope Lange, Diane Varsi, David Nelson, Barry Coe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

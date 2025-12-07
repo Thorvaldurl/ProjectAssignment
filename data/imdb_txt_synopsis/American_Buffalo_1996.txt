@@ -1,0 +1,10 @@
+movieId: 806
+title: American Buffalo
+year: 1996
+url: https://www.imdb.com/title/tt0115530/
+ratingValue: 
+directors: Michael Corrente
+actors: Dustin Hoffman, Dennis Franz, Sean Nelson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

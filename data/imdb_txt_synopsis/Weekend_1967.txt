@@ -1,0 +1,10 @@
+movieId: 7749
+title: Weekend
+year: 1967
+url: https://www.imdb.com/title/tt0062480/
+ratingValue: 
+directors: Jean-Luc Godard
+actors: Mireille Darc, Jean Yanne, Jean-Pierre Kalfon, Yves Afonso, Yves Beneyton, Juliet Berto, Michèle Breton, Michel Cournot, Lex De Bruijn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

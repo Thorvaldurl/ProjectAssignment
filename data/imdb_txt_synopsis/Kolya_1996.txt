@@ -1,0 +1,10 @@
+movieId: 1446
+title: Kolya
+year: 1996
+url: https://www.imdb.com/title/tt0116790/
+ratingValue: 
+directors: Jan Sverák
+actors: Zdenek Sverák, Andrey Khalimon, Libuse Safránková, Ondrej Vetchý, Stella Zázvorková, Ladislav Smoljak, Irina Bezrukova, Silvia Suvadová, Liliyan Malkina, Karel Hermánek
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

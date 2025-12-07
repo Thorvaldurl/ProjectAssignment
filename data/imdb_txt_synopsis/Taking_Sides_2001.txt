@@ -1,0 +1,10 @@
+movieId: 6706
+title: Taking Sides
+year: 2001
+url: https://www.imdb.com/title/tt0260414/
+ratingValue: 
+directors: István Szabó
+actors: Harvey Keitel, Stellan Skarsgård, Moritz Bleibtreu, Birgit Minichmayr, Ulrich Tukur, Oleg Tabakov, Hanns Zischler, Armin Rohde, R. Lee Ermey, August Zirner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

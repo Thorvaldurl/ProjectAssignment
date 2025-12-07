@@ -1,0 +1,10 @@
+movieId: 3672
+title: Benji
+year: 1974
+url: https://www.imdb.com/title/tt0071206/
+ratingValue: 
+directors: Joe Camp
+actors: Patsy Garrett, Allen Fiuzat, Cynthia Smith, Peter Breck, Frances Bavier, Terry Carter, Edgar Buchanan, Tom Lester, Christopher Connelly, Deborah Walley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

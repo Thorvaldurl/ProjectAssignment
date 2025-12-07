@@ -1,0 +1,10 @@
+movieId: 7934
+title: Zelig
+year: 1983
+url: https://www.imdb.com/title/tt0086637/
+ratingValue: 
+directors: Woody Allen
+actors: Woody Allen, Mia Farrow, Patrick Horgan, John Buckwalter, Marvin Chatinover, Stanley Swerdlow, Paul Nevens, Howard Erskine, George Hamlin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8782
+title: Thunderbirds
+year: 2004
+url: https://www.imdb.com/title/tt0167456/
+ratingValue: 
+directors: Jonathan Frakes
+actors: Brady Corbet, Debora Weston, Soren Fulton, Lou Hirsch, Alex Barringer, Demetri Goritsas, Genie Francis, Philip Winchester, Deobia Oparei, Bill Paxton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

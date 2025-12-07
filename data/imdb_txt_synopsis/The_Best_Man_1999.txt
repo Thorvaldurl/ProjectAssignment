@@ -1,0 +1,10 @@
+movieId: 2975
+title: The Best Man
+year: 1999
+url: https://www.imdb.com/title/tt0168501/
+ratingValue: 
+directors: Malcolm D. Lee
+actors: Taye Diggs, Nia Long, Morris Chestnut, Harold Perrineau, Terrence Howard, Sanaa Lathan, Monica Calhoun, Melissa De Sousa, Victoria Dillard, Regina Hall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

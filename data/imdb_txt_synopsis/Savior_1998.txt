@@ -1,0 +1,10 @@
+movieId: 2358
+title: Savior
+year: 1998
+url: https://www.imdb.com/title/tt0120070/
+ratingValue: 
+directors: Predrag Antonijevic
+actors: Nastassja Kinski, Pascal Rollin, Catlin Foster, Dennis Quaid, Stellan Skarsgård, John Maclaren, Irfan Mensur, Sergej Trifunovic, Kosta Andrejevic
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

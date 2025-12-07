@@ -1,0 +1,10 @@
+movieId: 7455
+title: The Mudge Boy
+year: 2003
+url: https://www.imdb.com/title/tt0339419/
+ratingValue: 
+directors: Michael Burke
+actors: Emile Hirsch, Tom Guiry, Richard Jenkins, Pablo Schreiber, Zachary Knighton, Ryan Donowho, Meredith Handerhan, Beckie King, Sandra Gartner, Tara Arielle O'Reilly
+
+synopsis:
+Duncan Mudge (Emile Hirsch) is a shy and immature small-town mama's boy who spends most of his time on his father's farm with his favorite chicken. When his mother suffers a heart attack and dies, Duncan behaves even more oddly, occasionally adopting her voice and wearing her robe to sleep in. Most of the kids in Duncan's town don't understand him and make fun of him. His only friend, Perry (Tom Guiry), is Duncan's link to a few friends after Duncan gives them money to buy beer. As Duncan hangs out with his new friends more and more, he discovers an attraction to Perry.

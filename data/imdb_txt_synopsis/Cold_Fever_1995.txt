@@ -1,0 +1,10 @@
+movieId: 649
+title: Cold Fever
+year: 1995
+url: https://www.imdb.com/title/tt0109028/
+ratingValue: 
+directors: Friðrik Þór Friðriksson
+actors: Masatoshi Nagase, Lili Taylor, Fisher Stevens, Gísli Halldórsson, Laura Hughes, Seijun Suzuki, Hiromasa Shimada, Masayuki Sasaki, Taizô Mizumura
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

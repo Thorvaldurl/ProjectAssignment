@@ -1,0 +1,10 @@
+movieId: 187
+title: Party Girl
+year: 1995
+url: https://www.imdb.com/title/tt0114095/
+ratingValue: 
+directors: Daisy von Scherler Mayer
+actors: The Lady Bunny, Lum Chang Pang, Parker Posey, Anthony DeSando, Liev Schreiber, Guillermo Diaz, Omar Townsend, Elizabeth Beer, Sasha von Scherler, Richard Topol
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

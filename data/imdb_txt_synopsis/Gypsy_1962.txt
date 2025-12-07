@@ -1,0 +1,10 @@
+movieId: 3604
+title: Gypsy
+year: 1962
+url: https://www.imdb.com/title/tt0056048/
+ratingValue: 
+directors: Mervyn LeRoy
+actors: Rosalind Russell, Natalie Wood, Karl Malden, Paul Wallace, Betty Bruce, Parley Baer, Harry Shannon, Morgan Brittany, Ann Jillian, Diane Pace
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1572
+title: Contempt
+year: 1963
+url: https://www.imdb.com/title/tt0057345/
+ratingValue: 
+directors: Jean-Luc Godard
+actors: Brigitte Bardot, Michel Piccoli, Jack Palance, Giorgia Moll, Fritz Lang, Raoul Coutard, Jean-Luc Godard, Linda Veras
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

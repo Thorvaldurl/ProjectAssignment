@@ -1,0 +1,10 @@
+movieId: 3947
+title: Get Carter
+year: 1971
+url: https://www.imdb.com/title/tt0067128/
+ratingValue: 
+directors: Mike Hodges
+actors: Michael Caine, Ian Hendry, Britt Ekland, John Osborne, Tony Beckley, George Sewell, Geraldine Moffat, Dorothy White, Rosemarie Dunham, Petra Markham
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

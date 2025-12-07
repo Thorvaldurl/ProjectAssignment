@@ -1,0 +1,10 @@
+movieId: 4711
+title: Theremin: An Electronic Odyssey
+year: 1993
+url: https://www.imdb.com/title/tt0108323/
+ratingValue: 
+directors: Steven M. Martin
+actors: Leon Theremin, Clara Rockmore, Robert Moog, Nicolas Slonimsky, Paul Shure, Henry Solomonoff, Suki Bader, Beryl Campbell, Lydia Kavina
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 563
+title: Germinal
+year: 1993
+url: https://www.imdb.com/title/tt0107002/
+ratingValue: 
+directors: Claude Berri
+actors: Miou-Miou, Renaud, Jean Carmet, Judith Henry, Jean-Roger Milo, Gérard Depardieu, Laurent Terzieff, Bernard Fresson, Jean-Pierre Bisson, Jacques Dacqmine
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

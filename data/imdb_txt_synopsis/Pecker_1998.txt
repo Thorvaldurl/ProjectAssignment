@@ -1,0 +1,10 @@
+movieId: 2282
+title: Pecker
+year: 1998
+url: https://www.imdb.com/title/tt0126604/
+ratingValue: 
+directors: John Waters
+actors: Edward Furlong, Christina Ricci, Bess Armstrong, Mark Joy, Mary Kay Place, Martha Plimpton, Brendan Sexton III, Mink Stole, Lili Taylor, Patricia Hearst
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

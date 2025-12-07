@@ -1,0 +1,10 @@
+movieId: 1085
+title: The Old Man and the Sea
+year: 1958
+url: https://www.imdb.com/title/tt0052027/
+ratingValue: 
+directors: John Sturges, Fred Zinnemann
+actors: Spencer Tracy, Felipe Pazos, Harry Bellaver, Richard Alameda, Robert Alderette, Don Alvarado, Don Blackman, Don Diamond, Mary Hemingway
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

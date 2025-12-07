@@ -1,0 +1,10 @@
+movieId: 4293
+title: Summer Rental
+year: 1985
+url: https://www.imdb.com/title/tt0090098/
+ratingValue: 
+directors: Carl Reiner
+actors: John Candy, Karen Austin, Kerri Green, Joey Lawrence, Aubrey Jene, Richard Crenna, Rip Torn, John Larroquette, Richard Herd, Santos Morales
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

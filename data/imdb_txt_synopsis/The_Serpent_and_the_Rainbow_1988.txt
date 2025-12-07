@@ -1,0 +1,10 @@
+movieId: 4541
+title: The Serpent and the Rainbow
+year: 1988
+url: https://www.imdb.com/title/tt0096071/
+ratingValue: 
+directors: Wes Craven
+actors: Bill Pullman, Cathy Tyson, Zakes Mokae, Paul Winfield, Brent Jennings, Conrad Roberts, Badja Djola, Theresa Merritt, Michael Gough, Paul Guilfoyle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

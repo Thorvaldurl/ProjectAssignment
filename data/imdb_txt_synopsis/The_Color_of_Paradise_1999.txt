@@ -1,0 +1,10 @@
+movieId: 3456
+title: The Color of Paradise
+year: 1999
+url: https://www.imdb.com/title/tt0191043/
+ratingValue: 
+directors: Majid Majidi
+actors: Hossein Mahjoub, Mohsen Ramezani, Salameh Feyzi, Farahnaz Safari, Elham Sharifi, Ahmed Aminian, Moghadam Behboodi, Morteza Fatemi, GanAli Khorami
+
+synopsis:
+Eight-year-old Mohammad stays at an institute for blind children in Tehran. At the end of term, his widowed father Hashem asks Mohammad's teachers to keep the boy over the holidays. They refuse and Hashem reluctantly takes Mohammad back to their village in northern Iran. There, the boy is reunited with his grandmother and his young sisters Hanyeh and Bahareh. Hashem starts courting a young woman; her family agrees a marriage date and Hashem works hard to pay for the gifts. Hashem takes Mohammad away to be apprenticed to a carpenter. Mohammad's grandmother argues with Hashem over his selfishness; when she dies, Hashem's prospective in-laws cancel the wedding, believing he brings bad luck. Hashem collects Mohammad from the carpenter's and takes him home through a wood. A bridge collapses under them and Mohammad is carried down river through rapids. Swimming after him, Hashem wakes on a shore and is grief-stricken on finding Mohammad apparently dead, but the boy's hand responds to a ray of sunlight [http://www.bfi.org.uk]

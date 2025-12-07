@@ -1,0 +1,10 @@
+movieId: 25850
+title: Holiday
+year: 1938
+url: https://www.imdb.com/title/tt0030241/
+ratingValue: 
+directors: George Cukor
+actors: Katharine Hepburn, Cary Grant, Doris Nolan, Lew Ayres, Edward Everett Horton, Henry Kolker, Binnie Barnes, Jean Dixon, Henry Daniell, Harry Allen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

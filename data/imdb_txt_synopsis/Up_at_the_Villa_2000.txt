@@ -1,0 +1,10 @@
+movieId: 3580
+title: Up at the Villa
+year: 2000
+url: https://www.imdb.com/title/tt0153464/
+ratingValue: 
+directors: Philip Haas
+actors: Kristin Scott Thomas, Sean Penn, Anne Bancroft, James Fox, Jeremy Davies, Derek Jacobi, Massimo Ghini, Dudley Sutton, Lorenza Indovina, Roger Hammond
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1643
+title: Mrs. Brown
+year: 1997
+url: https://www.imdb.com/title/tt0119280/
+ratingValue: 
+directors: John Madden
+actors: Judi Dench, Billy Connolly, Geoffrey Palmer, Antony Sher, Gerard Butler, Richard Pasco, David Westhead, Bridget McConnell, Georgie Glen, Catherine O'Donnell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

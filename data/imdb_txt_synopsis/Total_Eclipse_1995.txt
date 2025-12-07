@@ -1,0 +1,10 @@
+movieId: 202
+title: Total Eclipse
+year: 1995
+url: https://www.imdb.com/title/tt0114702/
+ratingValue: 
+directors: Agnieszka Holland
+actors: Leonardo DiCaprio, David Thewlis, Romane Bohringer, Dominique Blanc, Félicie Pasotti, Nita Klein, James Thierrée, Emmanuelle Oppo, Denise Chalem, Andrzej Seweryn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

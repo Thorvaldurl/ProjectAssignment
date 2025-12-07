@@ -1,0 +1,10 @@
+movieId: 4062
+title: Mystic Pizza
+year: 1988
+url: https://www.imdb.com/title/tt0095690/
+ratingValue: 
+directors: Donald Petrie
+actors: Annabeth Gish, Julia Roberts, Lili Taylor, Vincent D'Onofrio, William R. Moses, Adam Storke, Conchata Ferrell, Joanna Merlin, Porscha Radcliffe, Bucky Walsh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

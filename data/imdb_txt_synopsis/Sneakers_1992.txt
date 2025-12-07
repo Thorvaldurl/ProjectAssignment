@@ -1,0 +1,10 @@
+movieId: 1396
+title: Sneakers
+year: 1992
+url: https://www.imdb.com/title/tt0105435/
+ratingValue: 
+directors: Phil Alden Robinson
+actors: Jo Marr, Gary Hershberger, Robert Redford, Sidney Poitier, David Strathairn, Dan Aykroyd, River Phoenix, Bodhi Elfman, Denise Dowse, Hanyee
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

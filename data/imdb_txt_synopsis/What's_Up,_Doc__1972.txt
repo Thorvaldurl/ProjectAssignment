@@ -1,0 +1,10 @@
+movieId: 6533
+title: What's Up, Doc?
+year: 1972
+url: https://www.imdb.com/title/tt0069495/
+ratingValue: 
+directors: Peter Bogdanovich
+actors: Barbra Streisand, Ryan O'Neal, Madeline Kahn, Kenneth Mars, Austin Pendleton, Michael Murphy, Philip Roth, Sorrell Booke, Stefan Gierasch, Mabel Albertson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

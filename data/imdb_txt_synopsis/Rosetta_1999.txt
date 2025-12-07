@@ -1,0 +1,10 @@
+movieId: 3010
+title: Rosetta
+year: 1999
+url: https://www.imdb.com/title/tt0200071/
+ratingValue: 
+directors: Jean-Pierre Dardenne, Luc Dardenne
+actors: Émilie Dequenne, Fabrizio Rongione, Anne Yernaux, Olivier Gourmet, Bernard Marbaix, Frédéric Bodson, Florian Delain, Christiane Dorval, Mireille Bailly
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

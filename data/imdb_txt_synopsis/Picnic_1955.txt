@@ -1,0 +1,10 @@
+movieId: 982
+title: Picnic
+year: 1955
+url: https://www.imdb.com/title/tt0048491/
+ratingValue: 
+directors: Joshua Logan
+actors: William Holden, Kim Novak, Betty Field, Susan Strasberg, Cliff Robertson, Arthur O'Connell, Verna Felton, Reta Shaw, Nick Adams, Raymond Bailey
+
+synopsis:
+A handsome stranger ignites passions at a small-town dance. Beginning with his college fraternity buddy, both youthful students and others old enough to have children are faced with the regrets, whether their own or those of others from less than ideal homes. Should one envy a pretty other? Should another not marry at all? Wouldn't this pretty thing fall into misfortune if mother not make decisions for her? How are things for real in this small town? What are the passions which cannot be held down? And What part can a stranger play if he's not dishonest to his truest self?

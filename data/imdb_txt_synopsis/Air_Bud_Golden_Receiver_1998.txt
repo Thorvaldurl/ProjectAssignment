@@ -1,0 +1,10 @@
+movieId: 2152
+title: Air Bud: Golden Receiver
+year: 1998
+url: https://www.imdb.com/title/tt0140796/
+ratingValue: 
+directors: Richard Martin
+actors: Tim Conway, Dick Martin, Kevin Zegers, Cynthia Stevenson, Gregory Harrison, Nora Dunn, Perry Anzilotti, Robert Costanzo, Shayn Solberg, Suzanne Ristic
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

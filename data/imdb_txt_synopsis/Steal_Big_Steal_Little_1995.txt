@@ -1,0 +1,10 @@
+movieId: 119
+title: Steal Big Steal Little
+year: 1995
+url: https://www.imdb.com/title/tt0114536/
+ratingValue: 
+directors: Andrew Davis
+actors: Andy Garcia, Alan Arkin, Rachel Ticotin, Joe Pantoliano, Holland Taylor, Ally Walker, David Ogden Stiers, Charles Rocket, Richard Bradford, Kevin McCarthy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

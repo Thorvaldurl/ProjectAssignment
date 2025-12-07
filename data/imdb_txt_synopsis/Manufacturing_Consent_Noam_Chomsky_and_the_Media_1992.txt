@@ -1,0 +1,10 @@
+movieId: 8582
+title: Manufacturing Consent: Noam Chomsky and the Media
+year: 1992
+url: https://www.imdb.com/title/tt0104810/
+ratingValue: 
+directors: Mark Achbar, Peter Wintonick
+actors: Mark Achbar, Karin Aguilar-San Juan, Paul Andrews, William F. Buckley, Noam Chomsky, Robert Faurisson, Jeff Greenfield, Jeff Hansen, Loie Hayes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1411
+title: Hamlet
+year: 1996
+url: https://www.imdb.com/title/tt0116477/
+ratingValue: 
+directors: Kenneth Branagh
+actors: Rizz Abbasi, Richard Attenborough, David Blair, Brian Blessed, Kenneth Branagh, Richard Briers, Michael Bryant, Peter Bygott, Julie Christie, Billy Crystal
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

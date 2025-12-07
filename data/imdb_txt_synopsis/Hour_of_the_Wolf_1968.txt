@@ -1,0 +1,10 @@
+movieId: 8405
+title: Hour of the Wolf
+year: 1968
+url: https://www.imdb.com/title/tt0063759/
+ratingValue: 
+directors: Ingmar Bergman
+actors: Max von Sydow, Liv Ullmann, Gertrud Fridh, Georg Rydeberg, Erland Josephson, Naima Wifstrand, Ulf Johansson, Gudrun Brost, Bertil Anderberg, Ingrid Thulin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

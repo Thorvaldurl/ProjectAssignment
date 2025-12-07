@@ -1,0 +1,10 @@
+movieId: 5601
+title: The Yearling
+year: 1946
+url: https://www.imdb.com/title/tt0039111/
+ratingValue: 
+directors: Clarence Brown
+actors: Gregory Peck, Jane Wyman, Claude Jarman Jr., Chill Wills, Clem Bevans, Margaret Wycherly, Henry Travers, Forrest Tucker, Donn Gift, Frank Eldredge
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

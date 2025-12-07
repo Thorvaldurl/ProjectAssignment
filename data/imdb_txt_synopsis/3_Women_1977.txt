@@ -1,0 +1,10 @@
+movieId: 8261
+title: 3 Women
+year: 1977
+url: https://www.imdb.com/title/tt0075612/
+ratingValue: 
+directors: Robert Altman
+actors: Shelley Duvall, Sissy Spacek, Janice Rule, Robert Fortier, Ruth Nelson, John Cromwell, Sierra Pecheur, Craig Richard Nelson, Maysie Hoy, Belita Moreno
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

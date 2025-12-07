@@ -1,0 +1,10 @@
+movieId: 889
+title: 1-900
+year: 1994
+url: https://www.imdb.com/title/tt0109001/
+ratingValue: 
+directors: Theo van Gogh
+actors: Ariane Schluter, Ad van Kempen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

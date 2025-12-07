@@ -1,0 +1,10 @@
+movieId: 6583
+title: The Blood of Heroes
+year: 1989
+url: https://www.imdb.com/title/tt0094764/
+ratingValue: 
+directors: David Webb Peoples
+actors: Rutger Hauer, Delroy Lindo, Anna Katarina, Vincent D'Onofrio, Gandhi MacIntyre, Justin Monjo, Aaron Martin, Joan Chen, Casey Huang, Quang Dinh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

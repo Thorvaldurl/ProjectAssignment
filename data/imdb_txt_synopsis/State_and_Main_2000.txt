@@ -1,0 +1,10 @@
+movieId: 4029
+title: State and Main
+year: 2000
+url: https://www.imdb.com/title/tt0120202/
+ratingValue: 
+directors: David Mamet
+actors: Michael Higgins, Michael Bradshaw, Morris Lamore, Olan Soule, Clark Gregg, Rebecca Pidgeon, Ricky Jay, Julia Stiles, Matt Malloy, Charles Durning
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3723
+title: Hamlet
+year: 1990
+url: https://www.imdb.com/title/tt0099726/
+ratingValue: 
+directors: Franco Zeffirelli
+actors: Mel Gibson, Glenn Close, Alan Bates, Paul Scofield, Ian Holm, Helena Bonham Carter, Stephen Dillane, Nathaniel Parker, Sean Murray, Michael Maloney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

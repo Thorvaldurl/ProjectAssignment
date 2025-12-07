@@ -1,0 +1,10 @@
+movieId: 1635
+title: The Ice Storm
+year: 1997
+url: https://www.imdb.com/title/tt0119349/
+ratingValue: 
+directors: Ang Lee
+actors: Kevin Kline, Joan Allen, William Cain, Sigourney Weaver, Henry Czerny, Tobey Maguire, Christina Ricci, Elijah Wood, Adam Hann-Byrd, David Krumholtz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

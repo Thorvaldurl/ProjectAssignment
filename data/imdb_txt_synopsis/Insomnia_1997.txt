@@ -1,0 +1,10 @@
+movieId: 1889
+title: Insomnia
+year: 1997
+url: https://www.imdb.com/title/tt0119375/
+ratingValue: 
+directors: Erik Skjoldbjærg
+actors: Maria Mathiesen, Stellan Skarsgård, Sverre Anker Ousdal, Gisken Armand, Kristian Figenschow, Thor Michael Aamodt, Frode Rasmussen, Bjørn Moan, Maria Bonnevie, Marianne O. Ulrichsen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

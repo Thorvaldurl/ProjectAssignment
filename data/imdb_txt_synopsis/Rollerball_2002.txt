@@ -1,0 +1,10 @@
+movieId: 5094
+title: Rollerball
+year: 2002
+url: https://www.imdb.com/title/tt0246894/
+ratingValue: 
+directors: John McTiernan
+actors: Chris Klein, Jean Reno, LL Cool J, Rebecca Romijn, Naveen Andrews, Oleg Taktarov, David Hemblen, Janet Wright, Andrew Bryniarski, Kata Dobó
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5896
+title: New Waterford Girl
+year: 1999
+url: https://www.imdb.com/title/tt0213121/
+ratingValue: 
+directors: Allan Moyle
+actors: Liane Balaban, Tara Spencer-Nairn, Mary Walsh, Nicholas Campbell, Cathy Moriarty, Andrew McCarthy, Darren Keay, Kevin Curran, Krista MacDonald, Cassie MacDonald
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

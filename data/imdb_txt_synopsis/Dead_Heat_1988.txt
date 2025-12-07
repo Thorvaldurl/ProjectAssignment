@@ -1,0 +1,10 @@
+movieId: 4497
+title: Dead Heat
+year: 1988
+url: https://www.imdb.com/title/tt0094961/
+ratingValue: 
+directors: Mark Goldblatt
+actors: Treat Williams, Joe Piscopo, Lindsay Frost, Darren McGavin, Vincent Price, Clare Kirkconnell, Keye Luke, Robert Picardo, Mel Stewart, Professor Toru Tanaka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

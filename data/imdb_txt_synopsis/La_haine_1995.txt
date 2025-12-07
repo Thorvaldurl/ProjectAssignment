@@ -1,0 +1,10 @@
+movieId: 97
+title: La haine
+year: 1995
+url: https://www.imdb.com/title/tt0113247/
+ratingValue: 
+directors: Mathieu Kassovitz
+actors: Vincent Cassel, Hubert Koundé, Saïd Taghmaoui, Abdel Ahmed Ghili, Solo, Joseph Momo, Héloïse Rauth, Rywka Wajsbrot, Olga Abrego
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

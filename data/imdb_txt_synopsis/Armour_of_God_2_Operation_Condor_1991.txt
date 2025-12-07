@@ -1,0 +1,10 @@
+movieId: 2879
+title: Armour of God 2: Operation Condor
+year: 1991
+url: https://www.imdb.com/title/tt0099558/
+ratingValue: 
+directors: Jackie Chan
+actors: Jackie Chan, Do Do Cheng, Eva Cobo, Shôko Ikeda, Aldo Sambrell, Ken Goodman, Steve Tartalia, Vincent Lyn, Bruce Fontaine
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

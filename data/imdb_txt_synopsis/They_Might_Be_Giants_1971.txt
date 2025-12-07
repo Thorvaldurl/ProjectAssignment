@@ -1,0 +1,10 @@
+movieId: 3284
+title: They Might Be Giants
+year: 1971
+url: https://www.imdb.com/title/tt0067848/
+ratingValue: 
+directors: Anthony Harvey
+actors: George C. Scott, Joanne Woodward, Jack Gilford, Lester Rawlins, Al Lewis, Rue McClanahan, Ron Weyand, Oliver Clark, Theresa Merritt, Jenny Egan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

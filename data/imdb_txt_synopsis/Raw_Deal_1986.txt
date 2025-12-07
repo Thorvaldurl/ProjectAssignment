@@ -1,0 +1,10 @@
+movieId: 7310
+title: Raw Deal
+year: 1986
+url: https://www.imdb.com/title/tt0091828/
+ratingValue: 
+directors: John Irvin
+actors: Arnold Schwarzenegger, Kathryn Harrold, Sam Wanamaker, Paul Shenar, Robert Davi, Ed Lauter, Darren McGavin, Joe Regalbuto, Mordecai Lawner, Steven Hill
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

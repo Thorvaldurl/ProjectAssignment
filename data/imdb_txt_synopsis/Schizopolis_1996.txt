@@ -1,0 +1,10 @@
+movieId: 1546
+title: Schizopolis
+year: 1996
+url: https://www.imdb.com/title/tt0117561/
+ratingValue: 
+directors: Steven Soderbergh
+actors: Scott Allen, Betsy Brantley, Marcus Lyle Brown, Joe Chrest, Silas Cooper, C.C. Courtney, Sonny Cranch, Ann Dalrymple, Darrin Dickerson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

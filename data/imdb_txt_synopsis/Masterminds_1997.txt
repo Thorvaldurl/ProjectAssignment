@@ -1,0 +1,10 @@
+movieId: 8241
+title: Masterminds
+year: 1997
+url: https://www.imdb.com/title/tt0119630/
+ratingValue: 
+directors: Roger Christian
+actors: Patrick Stewart, Vincent Kartheiser, Brenda Fricker, Bradley Whitford, Matt Craven, Annabelle Gurwitch, Jon Abrahams, Katie Stuart, Michael MacRae, Callum Keith Rennie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

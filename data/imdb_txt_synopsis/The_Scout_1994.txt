@@ -1,0 +1,10 @@
+movieId: 528
+title: The Scout
+year: 1994
+url: https://www.imdb.com/title/tt0111094/
+ratingValue: 
+directors: Michael Ritchie
+actors: Albert Brooks, Brendan Fraser, Dianne Wiest, Anne Twomey, Lane Smith, Michael Rapaport, Barry Shabaka Henley, John Capodice, Art Garfield, Louis Giovannetti
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

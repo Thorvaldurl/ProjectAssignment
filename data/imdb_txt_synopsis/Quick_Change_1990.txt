@@ -1,0 +1,10 @@
+movieId: 7028
+title: Quick Change
+year: 1990
+url: https://www.imdb.com/title/tt0100449/
+ratingValue: 
+directors: Howard Franklin, Bill Murray
+actors: Bill Murray, Dale Grand, Bob Elliott, Geena Davis, Randy Quaid, Kimberleigh Aarn, Ron Ryan, Brian McConnachie, Jack Gilpin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

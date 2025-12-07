@@ -1,0 +1,10 @@
+movieId: 8724
+title: The Leopard
+year: 1963
+url: https://www.imdb.com/title/tt0057091/
+ratingValue: 
+directors: Luchino Visconti
+actors: Burt Lancaster, Claudia Cardinale, Alain Delon, Paolo Stoppa, Rina Morelli, Romolo Valli, Terence Hill, Pierre Clémenti, Lucilla Morlacchi, Giuliano Gemma
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

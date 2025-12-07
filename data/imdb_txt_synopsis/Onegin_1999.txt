@@ -1,0 +1,10 @@
+movieId: 3161
+title: Onegin
+year: 1999
+url: https://www.imdb.com/title/tt0119079/
+ratingValue: 
+directors: Martha Fiennes
+actors: Ralph Fiennes, Liv Tyler, Toby Stephens, Lena Headey, Martin Donovan, Alun Armstrong, Simon McBurney, Harriet Walter, Jason Watkins, Irene Worth
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

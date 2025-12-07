@@ -1,0 +1,10 @@
+movieId: 5272
+title: Time Out
+year: 2001
+url: https://www.imdb.com/title/tt0279065/
+ratingValue: 
+directors: Laurent Cantet
+actors: Aurélien Recoing, Karin Viard, Serge Livrozet, Jean-Pierre Mangeot, Monique Mangeot, Nicolas Kalsch, Marie Cantet, Félix Cantet, Olivier Lejoubioux
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

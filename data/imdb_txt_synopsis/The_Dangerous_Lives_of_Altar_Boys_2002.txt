@@ -1,0 +1,10 @@
+movieId: 5421
+title: The Dangerous Lives of Altar Boys
+year: 2002
+url: https://www.imdb.com/title/tt0238924/
+ratingValue: 
+directors: Peter Care
+actors: Emile Hirsch, Kieran Culkin, Vincent D'Onofrio, Jena Malone, Jake Richardson, Tyler Long, Jodie Foster, Arthur Bridgers, Scott Simpson, Melissa McBride
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

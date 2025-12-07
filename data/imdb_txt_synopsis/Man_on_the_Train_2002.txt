@@ -1,0 +1,10 @@
+movieId: 6339
+title: Man on the Train
+year: 2002
+url: https://www.imdb.com/title/tt0301414/
+ratingValue: 
+directors: Patrice Leconte
+actors: Jean Rochefort, Johnny Hallyday, Jean-François Stévenin, Charlie Nelson, Pascal Parmentier, Isabelle Petit-Jacques, Edith Scob, Maurice Chevit, Riton Liebman, Olivier Fauron
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

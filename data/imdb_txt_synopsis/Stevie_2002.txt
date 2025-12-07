@@ -1,0 +1,10 @@
+movieId: 6269
+title: Stevie
+year: 2002
+url: https://www.imdb.com/title/tt0334416/
+ratingValue: 
+directors: Steve James
+actors: Steve James, Stephen Fielding, Tonya Gregory, Bernice Hagler, Verna Hagler, Brenda Hickam, Doug Hickam, Judy James, Tim Hicks
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

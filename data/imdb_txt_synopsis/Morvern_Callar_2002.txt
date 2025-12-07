@@ -1,0 +1,10 @@
+movieId: 5951
+title: Morvern Callar
+year: 2002
+url: https://www.imdb.com/title/tt0300214/
+ratingValue: 
+directors: Lynne Ramsay
+actors: Samantha Morton, Kathleen McDermott, Paul Popplewell, Ruby Milton, Dolly Wells, Dan Cadan, Carolyn Calder, Raife Patrick Burchell, Steve Cardwell, Bryan Dick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

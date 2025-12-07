@@ -1,0 +1,10 @@
+movieId: 984
+title: The Pompatus of Love
+year: 1995
+url: https://www.imdb.com/title/tt0117357/
+ratingValue: 
+directors: Richard Schenkman
+actors: Adrian Pasdar, Paige Turco, Arabella Field, Dana Wheeler-Nicholson, Mia Sara, Jon Cryer, Adam Oliensis, Kristin Scott Thomas, Tim Guinee, Kristen Wilson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

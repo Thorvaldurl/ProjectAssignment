@@ -1,0 +1,10 @@
+movieId: 7096
+title: Rivers and Tides
+year: 2001
+url: https://www.imdb.com/title/tt0307385/
+ratingValue: 
+directors: Thomas Riedelsheimer
+actors: Andy Goldsworthy, Anna Goldsworthy, Holly Goldsworthy, James Goldsworthy, Judith Goldsworthy, Thomas Goldsworthy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

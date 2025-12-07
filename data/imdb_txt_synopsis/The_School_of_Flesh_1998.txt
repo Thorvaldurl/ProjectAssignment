@@ -1,0 +1,10 @@
+movieId: 2544
+title: The School of Flesh
+year: 1998
+url: https://www.imdb.com/title/tt0157208/
+ratingValue: 
+directors: Benoît Jacquot
+actors: Isabelle Huppert, Vincent Martinez, Vincent Lindon, Marthe Keller, François Berléand, Danièle Dubroux, Bernard Le Coq, Roxane Mesquida, Jean-Louis Richard, Jean-Claude Dauphin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

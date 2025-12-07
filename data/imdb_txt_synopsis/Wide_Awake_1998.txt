@@ -1,0 +1,10 @@
+movieId: 1812
+title: Wide Awake
+year: 1998
+url: https://www.imdb.com/title/tt0120510/
+ratingValue: 
+directors: M. Night Shyamalan
+actors: Joseph Cross, Timothy Reifsnyder, Dana Delany, Denis Leary, Robert Loggia, Rosie O'Donnell, Camryn Manheim, Vicki Giunta, Julia Stiles, Heather Casler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

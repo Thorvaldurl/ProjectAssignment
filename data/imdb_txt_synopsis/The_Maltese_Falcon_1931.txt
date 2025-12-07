@@ -1,0 +1,10 @@
+movieId: 8228
+title: The Maltese Falcon
+year: 1931
+url: https://www.imdb.com/title/tt0022111/
+ratingValue: 
+directors: Roy Del Ruth
+actors: Bebe Daniels, Ricardo Cortez, Dudley Digges, Una Merkel, Robert Elliott, Thelma Todd, Otto Matieson, Walter Long, Dwight Frye, J. Farrell MacDonald
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

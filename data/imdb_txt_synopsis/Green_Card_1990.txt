@@ -1,0 +1,10 @@
+movieId: 6238
+title: Green Card
+year: 1990
+url: https://www.imdb.com/title/tt0099699/
+ratingValue: 
+directors: Peter Weir
+actors: Gérard Depardieu, Andie MacDowell, Bebe Neuwirth, Gregg Edelman, Robert Prosky, Jessie Keosian, Ethan Phillips, Mary Louise Wilson, Lois Smith, Conrad McLaren
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

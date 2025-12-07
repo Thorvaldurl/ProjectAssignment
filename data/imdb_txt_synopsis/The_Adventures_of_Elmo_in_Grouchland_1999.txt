@@ -1,0 +1,10 @@
+movieId: 2886
+title: The Adventures of Elmo in Grouchland
+year: 1999
+url: https://www.imdb.com/title/tt0159421/
+ratingValue: 
+directors: Gary Halvorson
+actors: Kevin Clash, Mandy Patinkin, Vanessa Williams, Sonia Manzano, Roscoe Orman, Fran Brill, Stephanie D'Abruzzo, Dave Goelz, Joey Mazzarino
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

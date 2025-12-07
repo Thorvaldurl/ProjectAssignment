@@ -1,0 +1,10 @@
+movieId: 6035
+title: Pépé le Moko
+year: 1937
+url: https://www.imdb.com/title/tt0029453/
+ratingValue: 
+directors: Julien Duvivier
+actors: Jean Gabin, Gabriel Gabrio, Saturnin Fabre, Fernand Charpin, Lucas Gridoux, Gilbert Gil, Marcel Dalio, Charles Granval, Gaston Modot, René Bergeron
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

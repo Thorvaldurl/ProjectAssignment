@@ -1,0 +1,10 @@
+movieId: 3302
+title: Beautiful People
+year: 1999
+url: https://www.imdb.com/title/tt0159272/
+ratingValue: 
+directors: Jasmin Dizdar
+actors: Thomas Goodridge, Faruk Pruti, Tony Peters, Dado Jehan, Rosalind Ayres, Julian Firth, Charles Kay, Charlotte Coleman, Edward Jewesbury, Bobby Williams
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

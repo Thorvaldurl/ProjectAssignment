@@ -1,0 +1,10 @@
+movieId: 5255
+title: Sorority Boys
+year: 2002
+url: https://www.imdb.com/title/tt0279781/
+ratingValue: 
+directors: Wallace Wolodarsky
+actors: Barry Watson, Michael Rosenbaum, Harland Williams, Melissa Sagemiller, Tony Denman, Brad Beyer, Kathryn Stockwood, Heather Matarazzo, Yvonne Sciò, Kerri Higuchi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

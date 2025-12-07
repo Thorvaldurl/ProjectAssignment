@@ -1,0 +1,10 @@
+movieId: 795
+title: Somebody to Love
+year: 1994
+url: https://www.imdb.com/title/tt0111237/
+ratingValue: 
+directors: Alexandre Rockwell
+actors: Rosie Perez, Harvey Keitel, Anthony Quinn, Michael DeLorenzo, Steve Buscemi, Stanley Tucci, Gerardo Mejía, Steven Randazzo, Paul Herman, Samuel Fuller
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

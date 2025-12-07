@@ -1,0 +1,10 @@
+movieId: 514
+title: The Ref
+year: 1994
+url: https://www.imdb.com/title/tt0110955/
+ratingValue: 
+directors: Ted Demme
+actors: Denis Leary, Judy Davis, Kevin Spacey, Robert J. Steinmiller Jr., Glynis Johns, Raymond J. Barry, Richard Bright, Christine Baranski, Adam LeFevre, Phillip Nicoll
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

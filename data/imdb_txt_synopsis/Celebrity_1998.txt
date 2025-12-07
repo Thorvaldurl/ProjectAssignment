@@ -1,0 +1,10 @@
+movieId: 2356
+title: Celebrity
+year: 1998
+url: https://www.imdb.com/title/tt0120533/
+ratingValue: 
+directors: Woody Allen
+actors: Greg Mottola, Jeff Mazzola, Dick Mingalone, Vladimir Bibic, Melanie Griffith, Francisco Quijada, Aleksa Palladino, Dan Moran, Peter Castellotti
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

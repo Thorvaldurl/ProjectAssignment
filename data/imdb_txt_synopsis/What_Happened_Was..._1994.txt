@@ -1,0 +1,10 @@
+movieId: 496
+title: What Happened Was...
+year: 1994
+url: https://www.imdb.com/title/tt0111689/
+ratingValue: 
+directors: Tom Noonan
+actors: Karen Sillas, Tom Noonan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

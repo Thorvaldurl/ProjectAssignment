@@ -1,0 +1,10 @@
+movieId: 271
+title: Losing Isaiah
+year: 1995
+url: https://www.imdb.com/title/tt0113691/
+ratingValue: 
+directors: Stephen Gyllenhaal
+actors: Jessica Lange, Halle Berry, David Strathairn, Cuba Gooding Jr., Daisy Eagan, Marc John Jefferies, Samuel L. Jackson, Joie Lee, Regina Taylor, LaTanya Richardson Jackson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

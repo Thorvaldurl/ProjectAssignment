@@ -1,0 +1,10 @@
+movieId: 710
+title: Celtic Pride
+year: 1996
+url: https://www.imdb.com/title/tt0115851/
+ratingValue: 
+directors: Tom DeCerchio
+actors: Damon Wayans, Daniel Stern, Dan Aykroyd, Gail O'Grady, Christopher McDonald, Paul Guilfoyle, Adam Hendershott, Scott Lawrence, Deion Sanders, Bill Walton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

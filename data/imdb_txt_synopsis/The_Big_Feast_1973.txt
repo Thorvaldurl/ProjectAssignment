@@ -1,0 +1,10 @@
+movieId: 3655
+title: The Big Feast
+year: 1973
+url: https://www.imdb.com/title/tt0070130/
+ratingValue: 
+directors: Marco Ferreri
+actors: Marcello Mastroianni, Michel Piccoli, Philippe Noiret, Ugo Tognazzi, Andréa Ferréol, Solange Blondeau, Florence Giorgetti, Michèle Alexandre, Monique Chaumette, Henri Piccoli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

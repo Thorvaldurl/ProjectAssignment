@@ -1,0 +1,10 @@
+movieId: 6246
+title: Talent for the Game
+year: 1991
+url: https://www.imdb.com/title/tt0103036/
+ratingValue: 
+directors: Robert M. Young
+actors: Edward James Olmos, Lorraine Bracco, John E. Coleman, Jeff Corbett, Jamey Sheridan, Terry Kinney, Thomas Ryan, Felton Perry, Tom Bower, Janet Carroll
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

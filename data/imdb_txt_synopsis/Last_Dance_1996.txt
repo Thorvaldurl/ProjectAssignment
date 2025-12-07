@@ -1,0 +1,10 @@
+movieId: 726
+title: Last Dance
+year: 1996
+url: https://www.imdb.com/title/tt0116827/
+ratingValue: 
+directors: Bruce Beresford
+actors: Sharon Stone, Rob Morrow, Randy Quaid, Peter Gallagher, Jack Thompson, Jayne Brook, Pamala Tyson, Skeet Ulrich, Don Harvey, Diane Sellers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3898
+title: Bait
+year: 2000
+url: https://www.imdb.com/title/tt0211938/
+ratingValue: 
+directors: Antoine Fuqua
+actors: Jamie Foxx, David Morse, Robert Pastorelli, Doug Hutchison, Kimberly Elise, David Paymer, Mike Epps, Jamie Kennedy, Nestor Serrano, Kirk Acevedo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

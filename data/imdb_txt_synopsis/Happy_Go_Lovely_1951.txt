@@ -1,0 +1,10 @@
+movieId: 3315
+title: Happy Go Lovely
+year: 1951
+url: https://www.imdb.com/title/tt0043618/
+ratingValue: 
+directors: H. Bruce Humberstone
+actors: David Niven, Vera-Ellen, Cesar Romero, Bobby Howes, Diane Hart, Gordon Jackson, Barbara Couper, Henry Hewitt, Gladys Henson, Hugh Dempster
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

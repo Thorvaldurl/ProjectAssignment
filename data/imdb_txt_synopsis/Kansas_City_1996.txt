@@ -1,0 +1,10 @@
+movieId: 869
+title: Kansas City
+year: 1996
+url: https://www.imdb.com/title/tt0116745/
+ratingValue: 
+directors: Robert Altman
+actors: Jennifer Jason Leigh, Miranda Richardson, Harry Belafonte, Michael Murphy, Dermot Mulroney, Steve Buscemi, Brooke Smith, Jane Adams, Jeff Feringa, A.C. Tony Smith
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

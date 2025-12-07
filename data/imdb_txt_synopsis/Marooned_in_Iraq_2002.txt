@@ -1,0 +1,10 @@
+movieId: 6336
+title: Marooned in Iraq
+year: 2002
+url: https://www.imdb.com/title/tt0317226/
+ratingValue: 
+directors: Bahman Ghobadi
+actors: Shahab Ebrahimi, Faegh Mohamadi, Allah Morad Rashtiani, Rojan Hosseini, Saeed Mohammadi, Iran Ghobadi, Maryam Boubani, Shilan Rahmani, Hossein Rashid-Ghamat
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

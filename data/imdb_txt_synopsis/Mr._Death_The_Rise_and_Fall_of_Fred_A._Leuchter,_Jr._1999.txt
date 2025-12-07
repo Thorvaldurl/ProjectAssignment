@@ -1,0 +1,10 @@
+movieId: 3182
+title: Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr.
+year: 1999
+url: https://www.imdb.com/title/tt0192335/
+ratingValue: 
+directors: Errol Morris
+actors: Fred A. Leuchter Jr., Robert Jan Van Pelt, David Irving, Caroline Leuchter, James Roth, Shelly Shapiro, Suzanne Tabasky, Ernst Zündel, David Collins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

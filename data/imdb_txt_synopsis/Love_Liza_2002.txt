@@ -1,0 +1,10 @@
+movieId: 6002
+title: Love Liza
+year: 2002
+url: https://www.imdb.com/title/tt0282698/
+ratingValue: 
+directors: Todd Louiso
+actors: Philip Seymour Hoffman, J.D. Walsh, Jimmy Raskin, Kathy Bates, Erika Alexander, Sarah Koskoff, Mark Hannibal, Jim Wise, Trace Turville, Wayne Duvall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

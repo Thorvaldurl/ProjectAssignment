@@ -1,0 +1,10 @@
+movieId: 4488
+title: Colors
+year: 1988
+url: https://www.imdb.com/title/tt0094894/
+ratingValue: 
+directors: Dennis Hopper
+actors: Sean Penn, Robert Duvall, Maria Conchita Alonso, Randy Brooks, Grand L. Bush, Don Cheadle, Gerardo Mejía, Glenn Plummer, Rudy Ramos, Sy Richardson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

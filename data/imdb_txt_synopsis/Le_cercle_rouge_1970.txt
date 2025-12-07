@@ -1,0 +1,10 @@
+movieId: 6920
+title: Le cercle rouge
+year: 1970
+url: https://www.imdb.com/title/tt0065531/
+ratingValue: 
+directors: Jean-Pierre Melville
+actors: Alain Delon, Bourvil, Gian Maria Volontè, Yves Montand, Paul Crauchet, Paul Amiot, Pierre Collet, André Ekyan, Jean-Pierre Posier, François Périer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

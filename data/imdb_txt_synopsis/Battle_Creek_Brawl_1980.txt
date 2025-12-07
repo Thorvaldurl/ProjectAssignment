@@ -1,0 +1,10 @@
+movieId: 4717
+title: Battle Creek Brawl
+year: 1980
+url: https://www.imdb.com/title/tt0080436/
+ratingValue: 
+directors: Robert Clouse
+actors: Jackie Chan, José Ferrer, Kristine DeBell, Mako, Ron Max, David Sheiner, Rosalind Chao, Lenny Montana, Pat E. Johnson, Mary Ellen O'Neill
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

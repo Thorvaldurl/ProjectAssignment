@@ -1,0 +1,10 @@
+movieId: 881
+title: First Kid
+year: 1996
+url: https://www.imdb.com/title/tt0116311/
+ratingValue: 
+directors: David Mickey Evans
+actors: Sinbad, Brock Pierce, Blake Boyd, Timothy Busfield, Art LaFleur, Robert Guillaume, Lisa Eichhorn, James Naughton, Fawn Reed, Erin Williby
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

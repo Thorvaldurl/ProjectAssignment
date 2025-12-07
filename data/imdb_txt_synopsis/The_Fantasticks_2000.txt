@@ -1,0 +1,10 @@
+movieId: 4193
+title: The Fantasticks
+year: 2000
+url: https://www.imdb.com/title/tt0113026/
+ratingValue: 
+directors: Michael Ritchie
+actors: Joel Grey, Barnard Hughes, Jean Louisa Kelly, Joey McIntyre, Jonathon Morris, Brad Sullivan, Teller, Arturo Gil, Tony Cox, Victoria Stevens
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

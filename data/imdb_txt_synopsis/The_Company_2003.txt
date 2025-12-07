@@ -1,0 +1,10 @@
+movieId: 7165
+title: The Company
+year: 2003
+url: https://www.imdb.com/title/tt0335013/
+ratingValue: 
+directors: Robert Altman
+actors: Neve Campbell, Malcolm McDowell, James Franco, Barbara E. Robertson, William Dick, Susie Cusack, Marilyn Dodds Frank, John Lordan, Mariann Mayberry, Roderick Peeples
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

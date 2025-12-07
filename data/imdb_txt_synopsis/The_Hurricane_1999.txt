@@ -1,0 +1,10 @@
+movieId: 3178
+title: The Hurricane
+year: 1999
+url: https://www.imdb.com/title/tt0174856/
+ratingValue: 
+directors: Norman Jewison
+actors: Denzel Washington, Vicellous Shannon, Deborah Kara Unger, Liev Schreiber, John Hannah, Dan Hedaya, Debbi Morgan, Clancy Brown, David Paymer, Harris Yulin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

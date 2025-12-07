@@ -1,0 +1,10 @@
+movieId: 2996
+title: Music of the Heart
+year: 1999
+url: https://www.imdb.com/title/tt0166943/
+ratingValue: 
+directors: Wes Craven
+actors: Meryl Streep, Cloris Leachman, Henry Dinhofer, Michael Angarano, Robert Ari, Aidan Quinn, Teddy Coluca, Angela Bassett, Josh Pais, Barbara Gonzalez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

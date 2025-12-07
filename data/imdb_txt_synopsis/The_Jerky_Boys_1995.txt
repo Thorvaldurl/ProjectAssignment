@@ -1,0 +1,10 @@
+movieId: 255
+title: The Jerky Boys
+year: 1995
+url: https://www.imdb.com/title/tt0110189/
+ratingValue: 
+directors: James Melkonian
+actors: John G. Brennan, Kamal Ahmed, Alan Arkin, William Hickey, Alan North, Brad Sullivan, James Lorinz, Suzanne Shepherd, Vincent Pastore, Brian Tarantina
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

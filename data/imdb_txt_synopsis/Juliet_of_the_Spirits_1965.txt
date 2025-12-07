@@ -1,0 +1,10 @@
+movieId: 7067
+title: Juliet of the Spirits
+year: 1965
+url: https://www.imdb.com/title/tt0059229/
+ratingValue: 
+directors: Federico Fellini
+actors: Giulietta Masina, Sandra Milo, Mario Pisu, Valentina Cortese, Valeska Gert, José Luis de Vilallonga, Friedrich von Ledebur, Caterina Boratto, Lou Gilbert
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4078
+title: Amazing Grace and Chuck
+year: 1987
+url: https://www.imdb.com/title/tt0092545/
+ratingValue: 
+directors: Mike Newell
+actors: Dean Alexander, Jamie Lee Curtis, Jim Allen, Gregory Peck, William Petersen, Red Auerbach, Lee Richardson, Joshua Zuehlke, Michael Bond, Alex English
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

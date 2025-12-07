@@ -1,0 +1,10 @@
+movieId: 4399
+title: Diary of a Chambermaid
+year: 1964
+url: https://www.imdb.com/title/tt0058249/
+ratingValue: 
+directors: Luis Buñuel
+actors: Jeanne Moreau, Georges Géret, Daniel Ivernel, Françoise Lugagne, Muni, Jean Ozenne, Michel Piccoli, Joëlle Bernard, Françoise Bertin, Aline Bertrand
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

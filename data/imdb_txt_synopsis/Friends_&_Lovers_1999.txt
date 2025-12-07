@@ -1,0 +1,10 @@
+movieId: 2589
+title: Friends & Lovers
+year: 1999
+url: https://www.imdb.com/title/tt0143261/
+ratingValue: 
+directors: George Haas
+actors: Stephen Baldwin, Danny Nucci, George Newbern, Alison Eastwood, Claudia Schiffer, Suzanne Cryer, David Rasche, Neill Barry, Leon, Ann Magnuson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

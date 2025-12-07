@@ -1,0 +1,10 @@
+movieId: 2820
+title: Hamlet
+year: 1964
+url: https://www.imdb.com/title/tt0058175/
+ratingValue: 
+directors: Bill Colleran, John Gielgud
+actors: Richard Burton, Hume Cronyn, Alfred Drake, Eileen Herlie, William Redfield, George Rose, George Voskovec, Hugh Alexander, Philip Coolidge
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

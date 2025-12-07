@@ -1,0 +1,10 @@
+movieId: 3899
+title: Circus
+year: 2000
+url: https://www.imdb.com/title/tt0191037/
+ratingValue: 
+directors: Rob Walker
+actors: John Hannah, Famke Janssen, Peter Stormare, Eddie Izzard, Fred Ward, Brian Conley, Tom Lister Jr., Amanda Donohoe, Ian Burfield, Neil Stuke
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6064
+title: The Harder They Fall
+year: 1956
+url: https://www.imdb.com/title/tt0049291/
+ratingValue: 
+directors: Mark Robson
+actors: Humphrey Bogart, Rod Steiger, Jan Sterling, Mike Lane, Max Baer, Jersey Joe Walcott, Edward Andrews, Harold J. Stone, Carlos Montalbán, Nehemiah Persoff
+
+synopsis:
+Humphrey Bogart is Eddie Willis an older washed up unemployed sports writer hired by Nick Benko (Rod Steiger) a gangster fight promoter to publicize an unknown hulking South American heavyweight boxer Toro Moreno (Mike Lane). In the sparring session it is obvious that Moreno has no boxing skills. The scheme is to get out of New York and build up Toro against fighters who are being paid to take a dive so Steiger can cash in down the line in a big fight by betting against Toro. Bogart goes along reluctantly for the money but is constantly at odds with Steiger and his crooked henchmen's tactics. Bogarts wife (Jan Sterling) tries to convince him to go back to writing but he has been seduced by the promise of money and his share of the fighter. When one of Toro's opponents is knocked out in the ring and later dies, the fighter's fatal injuries were sustained in a previous fight, Toro wants to go back home. Bogart convinces him to stay and fight one more bout against the champion by leveling with him about his skills and that he couldn't hurt anyone. To prove this he has Toro's sparing partner (Jersey Joe Walcott) knock Toro down in the hotel room. His final opponent, played by real heavyweight fighter Max Baer, vows to hurt Toro to prove he was the one who injured the deceased fighter and administers a brutal beating in the fight to Toro. When Bogart tries to get Toro's share of the purse he is rebuffed by Steiger and his crooked accountant (Nehemiah Persoff) and told the fighter's net share is basically zero. Steiger sells Toro's contract to another lowlife promoter but Bogart spirits Toro to the airport and ends up giving him his share of the fighter's proceeds so Toro won't go home broke. Despite threats from Steiger, Bogart decides to write an expose on the fight game and the crooked promoters and gangsters involved.

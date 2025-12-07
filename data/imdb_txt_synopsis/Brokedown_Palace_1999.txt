@@ -1,0 +1,10 @@
+movieId: 2771
+title: Brokedown Palace
+year: 1999
+url: https://www.imdb.com/title/tt0120620/
+ratingValue: 
+directors: Jonathan Kaplan
+actors: Claire Danes, Kate Beckinsale, Bill Pullman, Jacqueline Kim, Lou Diamond Phillips, Daniel Lapaine, Tom Amandes, Aimee Graham, John Doe, Kay Tong Lim
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

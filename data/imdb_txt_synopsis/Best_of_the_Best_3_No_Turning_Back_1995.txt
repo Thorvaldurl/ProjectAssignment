@@ -1,0 +1,10 @@
+movieId: 1170
+title: Best of the Best 3: No Turning Back
+year: 1995
+url: https://www.imdb.com/title/tt0112483/
+ratingValue: 
+directors: Phillip Rhee
+actors: Phillip Rhee, Christopher McDonald, Gina Gershon, Mark Rolston, Peter Simmons, Anzu Lawson, Dee Wallace, Michael Bailey Smith, Justin Brentley, Andra R. Ward
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

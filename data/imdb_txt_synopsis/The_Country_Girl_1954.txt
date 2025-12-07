@@ -1,0 +1,10 @@
+movieId: 8920
+title: The Country Girl
+year: 1954
+url: https://www.imdb.com/title/tt0046874/
+ratingValue: 
+directors: George Seaton
+actors: Bing Crosby, Grace Kelly, William Holden, Anthony Ross, Gene Reynolds, Jacqueline Fontaine, Eddie Ryder, Robert Kent, John W. Reynolds, Bob Alden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

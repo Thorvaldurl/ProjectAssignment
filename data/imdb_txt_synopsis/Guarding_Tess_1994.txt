@@ -1,0 +1,10 @@
+movieId: 6992
+title: Guarding Tess
+year: 1994
+url: https://www.imdb.com/title/tt0109951/
+ratingValue: 
+directors: Hugh Wilson
+actors: Shirley MacLaine, Nicolas Cage, Austin Pendleton, Edward Albert, James Rebhorn, Richard Griffiths, John Roselius, David Graf, Don Yesso, James Lally
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

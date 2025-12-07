@@ -1,0 +1,10 @@
+movieId: 7258
+title: The Perfect Score
+year: 2004
+url: https://www.imdb.com/title/tt0314498/
+ratingValue: 
+directors: Brian Robbins
+actors: Erika Christensen, Chris Evans, Bryan Greenberg, Scarlett Johansson, Darius Miles, Leonardo Nam, Tyra Ferrell, Matthew Lillard, Vanessa Angel, Bill Mackenzie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

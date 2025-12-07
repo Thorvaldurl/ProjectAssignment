@@ -1,0 +1,10 @@
+movieId: 3664
+title: Puppet Master 5 (Video 1994)
+year: 1994
+url: https://www.imdb.com/title/tt0110916/
+ratingValue: 
+directors: Jeff Burr
+actors: Gordon Currie, Chandra West, Ian Ogilvy, Teresa Hill, Guy Rolfe, Nicholas Guest, Willard E. Pugh, Diane McBain, Duane Whitaker, Kaz Garas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

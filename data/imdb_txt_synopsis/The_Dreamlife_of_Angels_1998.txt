@@ -1,0 +1,10 @@
+movieId: 2575
+title: The Dreamlife of Angels
+year: 1998
+url: https://www.imdb.com/title/tt0120449/
+ratingValue: 
+directors: Erick Zonca
+actors: Élodie Bouchez, Natacha Régnier, Grégoire Colin, Patrick Mercado, Jo Prestia, Francine Massenhave, Zivko Niklevski, Murielle Colvez, Lyazid Ouelhadj
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

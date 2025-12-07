@@ -1,0 +1,10 @@
+movieId: 477
+title: What's Love Got to Do with It
+year: 1993
+url: https://www.imdb.com/title/tt0108551/
+ratingValue: 
+directors: Brian Gibson
+actors: RaéVen Kelly, Virginia Capers, Dororthy Thorton, Demetrice Cheathon, Nita Woods Allen, Helen Marie Lovelace, Natalie Wilson, Seymour Daniel Jr., David McKinney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

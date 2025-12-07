@@ -1,0 +1,10 @@
+movieId: 892
+title: Twelfth Night
+year: 1996
+url: https://www.imdb.com/title/tt0117991/
+ratingValue: 
+directors: Trevor Nunn
+actors: Imogen Stubbs, Steven Mackintosh, Nicholas Farrell, Sidney Livingstone, Ben Kingsley, James Walker, Helena Bonham Carter, Nigel Hawthorne, Mel Smith, Imelda Staunton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

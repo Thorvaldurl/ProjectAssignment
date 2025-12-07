@@ -1,0 +1,10 @@
+movieId: 2443
+title: Playing by Heart
+year: 1998
+url: https://www.imdb.com/title/tt0145734/
+ratingValue: 
+directors: Willard Carroll
+actors: Angelina Jolie, Dennis Quaid, April Grace, Patricia Clarkson, Gena Rowlands, Sean Connery, Gillian Anderson, Christian Mills, Kellie Waymire, Madeleine Stowe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4603
+title: Her Alibi
+year: 1989
+url: https://www.imdb.com/title/tt0097500/
+ratingValue: 
+directors: Bruce Beresford
+actors: Tom Selleck, Paulina Porizkova, William Daniels, James Farentino, Hurd Hatfield, Ronald Guttman, Victor Argo, Patrick Wayne, Tess Harper, Bill Smitrovich
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5178
+title: Fun
+year: 1994
+url: https://www.imdb.com/title/tt0109855/
+ratingValue: 
+directors: Rafal Zielinski
+actors: Renée Humphrey, Alicia Witt, William R. Moses, Leslie Hope, Ania Suli, James J. Howard Jr., Frederick D. Adams, Mary Ann Norment, Sabrina Ortega
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

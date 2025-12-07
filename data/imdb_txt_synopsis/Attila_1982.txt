@@ -1,0 +1,10 @@
+movieId: 5922
+title: Attila
+year: 1982
+url: https://www.imdb.com/title/tt0080393/
+ratingValue: 
+directors: Franco Castellano, Giuseppe Moccia
+actors: Diego Abatantuono, Angelo Infanti, Mauro Di Francesco, Armando Marra, Franz Di Cioccio, Tony Kendall, Elsa Vazzoler, Toni Ucci, Vincenzo Crocitti
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

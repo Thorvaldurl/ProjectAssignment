@@ -1,0 +1,10 @@
+movieId: 8465
+title: Johnny Eager
+year: 1941
+url: https://www.imdb.com/title/tt0033774/
+ratingValue: 
+directors: Mervyn LeRoy
+actors: Robert Taylor, Lana Turner, Edward Arnold, Van Heflin, Robert Sterling, Patricia Dane, Glenda Farrell, Henry O'Neill, Diana Lewis, Barry Nelson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

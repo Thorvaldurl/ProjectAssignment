@@ -1,0 +1,10 @@
+movieId: 4450
+title: Bully
+year: 2001
+url: https://www.imdb.com/title/tt0242193/
+ratingValue: 
+directors: Larry Clark
+actors: Brad Renfro, Bijou Phillips, Rachel Miner, Nick Stahl, Michael Pitt, Leo Fitzpatrick, Kelli Garner, Daniel Franzese, Nathalie Paulding, Jessica Sutta
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

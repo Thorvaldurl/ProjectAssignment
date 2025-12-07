@@ -1,0 +1,10 @@
+movieId: 1807
+title: A Cool, Dry Place
+year: 1998
+url: https://www.imdb.com/title/tt0120642/
+ratingValue: 
+directors: John N. Smith
+actors: Vince Vaughn, Monica Potter, Joey Lauren Adams, Bobby Moat, Devon Sawa, Todd Louiso, Jenny Robertson, Siobhan Fallon Hogan, Chris Bauer, Nicholas Campbell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

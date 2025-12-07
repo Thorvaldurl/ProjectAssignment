@@ -1,0 +1,10 @@
+movieId: 3414
+title: Love Is a Many-Splendored Thing
+year: 1955
+url: https://www.imdb.com/title/tt0048316/
+ratingValue: 
+directors: Henry King, Otto Lang
+actors: William Holden, Jennifer Jones, Torin Thatcher, Isobel Elsom, Murray Matheson, Virginia Gregg, Richard Loo, Soo Yong, Philip Ahn, Jorja Curtright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3013
+title: Bride of Re-Animator
+year: 1990
+url: https://www.imdb.com/title/tt0099180/
+ratingValue: 
+directors: Brian Yuzna
+actors: Jeffrey Combs, Bruce Abbott, Claude Earl Jones, Fabiana Udenio, David Gale, Kathleen Kinmont, Mel Stewart, Irene Cagen, Michael Strasser, Mary Sheldon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

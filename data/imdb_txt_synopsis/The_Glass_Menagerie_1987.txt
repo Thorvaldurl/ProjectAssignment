@@ -1,0 +1,10 @@
+movieId: 4113
+title: The Glass Menagerie
+year: 1987
+url: https://www.imdb.com/title/tt0093093/
+ratingValue: 
+directors: Paul Newman
+actors: Joanne Woodward, John Malkovich, Karen Allen, James Naughton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6603
+title: A Double Life
+year: 1947
+url: https://www.imdb.com/title/tt0039335/
+ratingValue: 
+directors: George Cukor
+actors: Ronald Colman, Signe Hasso, Edmond O'Brien, Shelley Winters, Ray Collins, Philip Loeb, Millard Mitchell, Joe Sawyer, Charles La Torre, Whit Bissell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

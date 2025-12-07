@@ -1,0 +1,10 @@
+movieId: 5836
+title: Houseboat
+year: 1958
+url: https://www.imdb.com/title/tt0051745/
+ratingValue: 
+directors: Melville Shavelson
+actors: Cary Grant, Sophia Loren, Martha Hyer, Harry Guardino, Eduardo Ciannelli, Murray Hamilton, Mimi Gibson, Paul Petersen, Charles Herbert, Madge Kennedy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

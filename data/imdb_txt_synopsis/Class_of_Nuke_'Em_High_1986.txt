@@ -1,0 +1,10 @@
+movieId: 3692
+title: Class of Nuke 'Em High
+year: 1986
+url: https://www.imdb.com/title/tt0090849/
+ratingValue: 
+directors: Richard W. Haines, Lloyd Kaufman
+actors: Janelle Brady, Gil Brenton, Robert Prichard, Pat Ryan, James Nugent Vernon, Brad Dunker, Gary Schneider, Théo Cohan, Gary Rosenblatt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

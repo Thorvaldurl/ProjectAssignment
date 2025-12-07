@@ -1,0 +1,10 @@
+movieId: 6241
+title: Pauline at the Beach
+year: 1983
+url: https://www.imdb.com/title/tt0086087/
+ratingValue: 
+directors: Éric Rohmer
+actors: Amanda Langlet, Arielle Dombasle, Pascal Greggory, Féodor Atkine, Simon de La Brosse, Rosette, Marie Bouteloup, Michel Ferry
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

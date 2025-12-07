@@ -1,0 +1,10 @@
+movieId: 3677
+title: Baraka
+year: 1992
+url: https://www.imdb.com/title/tt0103767/
+ratingValue: 
+directors: Ron Fricke
+actors: Patrick Disanto
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

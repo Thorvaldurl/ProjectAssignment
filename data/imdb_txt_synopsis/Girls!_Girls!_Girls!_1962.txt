@@ -1,0 +1,10 @@
+movieId: 6030
+title: Girls! Girls! Girls!
+year: 1962
+url: https://www.imdb.com/title/tt0056023/
+ratingValue: 
+directors: Norman Taurog
+actors: Elvis Presley, Stella Stevens, Jeremy Slate, Laurel Goodwin, Benson Fong, Robert Strauss, Guy Lee, Frank Puglia, Lili Valenty, Beulah Quo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

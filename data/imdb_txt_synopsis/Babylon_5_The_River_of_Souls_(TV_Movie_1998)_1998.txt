@@ -1,0 +1,10 @@
+movieId: 7811
+title: Babylon 5: The River of Souls (TV Movie 1998)
+year: 1998
+url: https://www.imdb.com/title/tt0146247/
+ratingValue: 
+directors: Janet Greek
+actors: Jerry Doyle, Tracy Scoggins, Jeff Conaway, Richard Biggs, Ian McShane, Martin Sheen, Jeff Doucette, Wayne Alexander, Bob Amaral, Beege Barkette
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

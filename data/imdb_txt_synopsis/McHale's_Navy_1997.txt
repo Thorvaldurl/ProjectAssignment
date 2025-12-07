@@ -1,0 +1,10 @@
+movieId: 1445
+title: McHale's Navy
+year: 1997
+url: https://www.imdb.com/title/tt0119640/
+ratingValue: 
+directors: Bryan Spicer
+actors: Tom Arnold, Dean Stockwell, Debra Messing, David Alan Grier, Tim Curry, Ernest Borgnine, Bruce Campbell, French Stewart, Danton Stone, Brian Haley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

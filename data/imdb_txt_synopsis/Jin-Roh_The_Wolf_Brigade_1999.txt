@@ -1,0 +1,10 @@
+movieId: 8157
+title: Jin-Roh: The Wolf Brigade
+year: 1999
+url: https://www.imdb.com/title/tt0193253/
+ratingValue: 
+directors: Hiroyuki Okiura
+actors: Michael Dobson, Yoshikazu Fujiki, Sumi Mutoh, Moneca Stori, Hiroyuki Kinoshita, Colin Murdock, Yukio Hiroda, Dale Wilson, Michael Kopsa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

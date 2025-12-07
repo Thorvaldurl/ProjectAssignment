@@ -1,0 +1,10 @@
+movieId: 6775
+title: Life and Debt
+year: 2001
+url: https://www.imdb.com/title/tt0284262/
+ratingValue: 
+directors: Stephanie Black
+actors: Belinda Becker, Buju Banton, Horst Köhler, Michael Manley, Stanley Fischer, Michael Witter, David Coore, Bill Clinton, Jean-Bertrand Aristide
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

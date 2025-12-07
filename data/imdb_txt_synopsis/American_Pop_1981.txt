@@ -1,0 +1,10 @@
+movieId: 3725
+title: American Pop
+year: 1981
+url: https://www.imdb.com/title/tt0082009/
+ratingValue: 
+directors: Ralph Bakshi
+actors: Ron Thompson, Mews Small, Jerry Holland, Lisa Jane Persky, Jeffrey Lippa, Roz Kelly, Frank DeKova, Rick Singer, Elsa Raven
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

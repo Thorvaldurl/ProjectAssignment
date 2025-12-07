@@ -1,0 +1,10 @@
+movieId: 5221
+title: Harrison's Flowers
+year: 2000
+url: https://www.imdb.com/title/tt0216799/
+ratingValue: 
+directors: Élie Chouraqui
+actors: Andie MacDowell, Elias Koteas, Brendan Gleeson, Adrien Brody, David Strathairn, Alun Armstrong, Caroline Goodall, Diane Baker, Quinn Shephard, Marie Trintignant
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

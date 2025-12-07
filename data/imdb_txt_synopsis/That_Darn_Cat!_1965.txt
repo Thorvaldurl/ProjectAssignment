@@ -1,0 +1,10 @@
+movieId: 1018
+title: That Darn Cat!
+year: 1965
+url: https://www.imdb.com/title/tt0059793/
+ratingValue: 
+directors: Robert Stevenson
+actors: Hayley Mills, Dean Jones, Dorothy Provine, Roddy McDowall, Neville Brand, Elsa Lanchester, William Demarest, Frank Gorshin, Richard Eastham, Grayson Hall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

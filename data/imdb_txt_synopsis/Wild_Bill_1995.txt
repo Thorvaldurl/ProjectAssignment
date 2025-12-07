@@ -1,0 +1,10 @@
+movieId: 210
+title: Wild Bill
+year: 1995
+url: https://www.imdb.com/title/tt0114938/
+ratingValue: 
+directors: Walter Hill
+actors: Jeff Bridges, Ellen Barkin, John Hurt, Diane Lane, Keith Carradine, David Arquette, Christina Applegate, Bruce Dern, James Gammon, Marjoe Gortner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

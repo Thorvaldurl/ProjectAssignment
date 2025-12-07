@@ -1,0 +1,10 @@
+movieId: 3093
+title: McCabe & Mrs. Miller
+year: 1971
+url: https://www.imdb.com/title/tt0067411/
+ratingValue: 
+directors: Robert Altman
+actors: Warren Beatty, Julie Christie, Rene Auberjonois, William Devane, John Schuck, Corey Fischer, Bert Remsen, Shelley Duvall, Keith Carradine, Michael Murphy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

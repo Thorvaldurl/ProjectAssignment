@@ -1,0 +1,10 @@
+movieId: 1378
+title: Young Guns
+year: 1988
+url: https://www.imdb.com/title/tt0096487/
+ratingValue: 
+directors: Christopher Cain
+actors: Emilio Estevez, Kiefer Sutherland, Lou Diamond Phillips, Charlie Sheen, Dermot Mulroney, Casey Siemaszko, Terence Stamp, Jack Palance, Terry O'Quinn, Sharon Thomas Cain
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

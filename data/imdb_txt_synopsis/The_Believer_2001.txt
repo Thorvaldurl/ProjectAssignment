@@ -1,0 +1,10 @@
+movieId: 5379
+title: The Believer
+year: 2001
+url: https://www.imdb.com/title/tt0247199/
+ratingValue: 
+directors: Henry Bean
+actors: Ryan Gosling, Peter Meadows, Garret Dillahunt, Kris Eivers, Joel Marsh Garland, Billy Zane, Theresa Russell, Summer Phoenix, Jack Drummond, Sig Libowitz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

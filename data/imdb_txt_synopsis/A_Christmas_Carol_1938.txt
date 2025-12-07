@@ -1,0 +1,10 @@
+movieId: 1099
+title: A Christmas Carol
+year: 1938
+url: https://www.imdb.com/title/tt0029992/
+ratingValue: 
+directors: Edwin L. Marin
+actors: Reginald Owen, Gene Lockhart, Kathleen Lockhart, Terry Kilburn, Barry MacKay, Lynne Carver, Leo G. Carroll, Lionel Braham, Ann Rutherford, D'Arcy Corrigan
+
+synopsis:
+On Christmas Eve, in mid-nineteenth century London, the miserly, hardhearted Ebenezer Scrooge is visited by his kindly nephew Fred who invites him to dinner with him and his fiance Bess. Scrooge gruffly refuses, considering Christmas a humbug, and although he gives his underpaid clerk Bob Cratchit the day off, he later fires him when the meek Bob mistakenly pelts him with a snowball. Bob does not tell his family, though, and buys the family's hoped for Christmas feast. The Cratchits are happy, though poor, with their one sorrow the health of Tiny Tim, their crippled youngest child. As the Cratchits and Fred enjoy Christmas Eve, Scrooge goes to his empty house where he is visited by the chained shade of Jacob Marley, Scrooge's late partner, who warns Scrooge that he must change his ways. He also tells Scrooge that three ghosts will visit him that night. Scrooge disdains Marley's words until their visits. The first, the Spirit of Christmas Past, shows him his lonely childhood, the second, the Spirit of Christmas Present, shows him the happiness of Fred and the Cratchits. The third, the Spirit of Christmas Future, reveals to Scrooge his own mourner-less death and the sadness following that of Tiny Tim. Though the shade does not speak, Scrooge pleads that he will change. When he awakens, he is a different man. He happily buys turkey and presents and gives generously to men collecting for the poor. He visits Fred and makes him his partner, then goes to the Cratchits' house where he gives them gifts, and promises Bob a raise. After vowing to keep the spirit of Christmas throughout the year, he makes the toast, "To all of us, everywhere, a Merry Christmas to us all, my dears," and Tiny Tim adds "God bless us, everyone."

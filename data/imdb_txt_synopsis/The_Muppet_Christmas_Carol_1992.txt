@@ -1,0 +1,10 @@
+movieId: 2083
+title: The Muppet Christmas Carol
+year: 1992
+url: https://www.imdb.com/title/tt0104940/
+ratingValue: 
+directors: Brian Henson
+actors: Michael Caine, Dave Goelz, Steve Whitmire, Jerry Nelson, Frank Oz
+
+synopsis:
+Kermit the Frog, Miss Piggy, Fozzie and the entire cast of the Muppet universe come together to re-tell Charles Dicken's immortal classic "A Christmas Carol" This was the first time the Muppets appeared on screen since Jim Henson's death in 1990. Michael Caine gives a magnificent performance as Ebenezer Scrooge in a world full of muppet comedy and almost scary performances from the "Ghosts of Christmas past, present, and yet to come"

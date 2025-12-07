@@ -1,0 +1,10 @@
+movieId: 1726
+title: The Postman
+year: 1997
+url: https://www.imdb.com/title/tt0119925/
+ratingValue: 
+directors: Kevin Costner
+actors: Kevin Costner, Will Patton, Larenz Tate, Olivia Williams, James Russo, Daniel von Bargen, Tom Petty, Scott Bairstow, Giovanni Ribisi, Roberta Maxwell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2899
+title: Gulliver's Travels
+year: 1939
+url: https://www.imdb.com/title/tt0031397/
+ratingValue: 
+directors: Dave Fleischer, Willard Bowsky, Orestes Calpini, Roland Crandall, William Henning, Winfield Hoskins, Thomas Johnson, Frank Kelling, Seymour Kneitel, Robert G. Leffingwell, Grim Natwick, Tom Palmer
+actors: Jessica Dragonette, Lanny Ross, Pinto Colvig, Cal Howard, Jack Mercer, Joseph Oriolo, Sam Parker, Tedd Pierce, Livonia Warren
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

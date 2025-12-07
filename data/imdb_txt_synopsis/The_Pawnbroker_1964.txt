@@ -1,0 +1,10 @@
+movieId: 3789
+title: The Pawnbroker
+year: 1964
+url: https://www.imdb.com/title/tt0059575/
+ratingValue: 
+directors: Sidney Lumet
+actors: Rod Steiger, Geraldine Fitzgerald, Brock Peters, Jaime Sánchez, Thelma Oliver, Marketa Kimbrell, Baruch Lumet, Juano Hernandez, Linda Geiser, Nancy R. Pollock
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

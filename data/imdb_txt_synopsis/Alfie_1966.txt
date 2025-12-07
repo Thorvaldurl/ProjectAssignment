@@ -1,0 +1,10 @@
+movieId: 4191
+title: Alfie
+year: 1966
+url: https://www.imdb.com/title/tt0060086/
+ratingValue: 
+directors: Lewis Gilbert
+actors: Michael Caine, Shelley Winters, Millicent Martin, Julia Foster, Jane Asher, Shirley Anne Field, Vivien Merchant, Eleanor Bron, Denholm Elliott, Alfie Bass
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

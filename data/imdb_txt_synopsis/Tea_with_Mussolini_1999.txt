@@ -1,0 +1,10 @@
+movieId: 2436
+title: Tea with Mussolini
+year: 1999
+url: https://www.imdb.com/title/tt0120857/
+ratingValue: 
+directors: Franco Zeffirelli
+actors: Cher, Judi Dench, Joan Plowright, Maggie Smith, Lily Tomlin, Baird Wallace, Charlie Lucas, Massimo Ghini, Paolo Seganti, Claudio Spadaro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4194
+title: I Know Where I'm Going!
+year: 1945
+url: https://www.imdb.com/title/tt0037800/
+ratingValue: 
+directors: Michael Powell, Emeric Pressburger
+actors: Wendy Hiller, Roger Livesey, Pamela Brown, Finlay Currie, Duncan MacKechnie, George Carney, Nancy Price, Catherine Lacey, Jean Cadell, John Laurie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

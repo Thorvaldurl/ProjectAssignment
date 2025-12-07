@@ -1,0 +1,10 @@
+movieId: 2801
+title: Oscar and Lucinda
+year: 1997
+url: https://www.imdb.com/title/tt0119843/
+ratingValue: 
+directors: Gillian Armstrong
+actors: Ralph Fiennes, Cate Blanchett, Ciarán Hinds, Tom Wilkinson, Richard Roxburgh, Clive Russell, Bille Brown, Josephine Byrnes, Barnaby Kay, Barry Otto
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

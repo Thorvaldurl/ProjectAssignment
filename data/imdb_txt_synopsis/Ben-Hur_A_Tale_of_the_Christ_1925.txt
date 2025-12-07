@@ -1,0 +1,10 @@
+movieId: 6986
+title: Ben-Hur: A Tale of the Christ
+year: 1925
+url: https://www.imdb.com/title/tt0016641/
+ratingValue: 
+directors: Fred Niblo, Charles Brabin, Christy Cabanne, J.J. Cohn, Rex Ingram
+actors: Ramon Novarro, Francis X. Bushman, May McAvoy, Betty Bronson, Claire McDowell, Kathleen Key, Carmel Myers, Nigel De Brulier, Mitchell Lewis, Leo White
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

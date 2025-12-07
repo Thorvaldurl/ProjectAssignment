@@ -1,0 +1,10 @@
+movieId: 3962
+title: Ghoulies II
+year: 1987
+url: https://www.imdb.com/title/tt0093091/
+ratingValue: 
+directors: Albert Band
+actors: Damon Martin, Royal Dano, Phil Fondacaro, J. Downing, Kerry Remsen, Dale Wyatt, Jon Pennell, Sasha Jenson, Starr Andreeff, William Butler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

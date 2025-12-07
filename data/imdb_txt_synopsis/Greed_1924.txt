@@ -1,0 +1,10 @@
+movieId: 25753
+title: Greed
+year: 1924
+url: https://www.imdb.com/title/tt0015881/
+ratingValue: 
+directors: Erich von Stroheim
+actors: Zasu Pitts, Gibson Gowland, Jean Hersholt, Dale Fuller, Tempe Pigott, Sylvia Ashton, Chester Conklin, Joan Standing, William Barlow, Lita Chevrier
+
+synopsis:
+McTeague, a San Francisco dentist, marries Trina, a thrifty woman who has won $5,000 in a lottery. She banks this money and, by scrimping and saving, hoards most of the money her husband makes. Marcus Schouler, Trina's frustrated former suitor, discovers that McTeague does not have a license to practice dentistry and causes him to lose his business. McTeague can make only a poor living as a laborer, and he and Trina eventually drift to squalid quarters. Trina hoards money compulsively, and McTeague, crazed with the knowledge of the money, kills her and escapes with the gold, fleeing into Death Valley. Marcus goes after him, and the men fight. McTeague kills Marcus but finds himself handcuffed to the dead man. Unable to find the key to free himself, McTeague dies of thirst.

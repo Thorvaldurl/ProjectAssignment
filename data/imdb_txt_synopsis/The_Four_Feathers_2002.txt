@@ -1,0 +1,10 @@
+movieId: 5611
+title: The Four Feathers
+year: 2002
+url: https://www.imdb.com/title/tt0240510/
+ratingValue: 
+directors: Shekhar Kapur
+actors: Wes Bentley, Mohamed Bouich, Campbell Brown, Daniel Caltagirone, James Cosmo, Andy Coumbe, Angela Douglas, Karim Doukkali, Lucy Gordon, Megan Hall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

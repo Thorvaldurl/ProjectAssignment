@@ -1,0 +1,10 @@
+movieId: 6969
+title: The Last Battle
+year: 1983
+url: https://www.imdb.com/title/tt0085426/
+ratingValue: 
+directors: Luc Besson
+actors: Pierre Jolivet, Jean Bouise, Fritz Wepper, Jean Reno, Christiane Krüger, Maurice Lamy, Pierre Carrive, Jean-Michel Castanié, Michel Doset, Bernard Havet
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

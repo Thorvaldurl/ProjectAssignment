@@ -1,0 +1,10 @@
+movieId: 6141
+title: They Call Me Bruce
+year: 1982
+url: https://www.imdb.com/title/tt0084786/
+ratingValue: 
+directors: Elliott Hong
+actors: Johnny Yune, Margaux Hemingway, Raf Mauro, Pam Huntington, Martin Azarow, Tony Brande, Bill Capizzi, Harvey Vernon, Heshimu Cumbuka, Bob Hannah
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

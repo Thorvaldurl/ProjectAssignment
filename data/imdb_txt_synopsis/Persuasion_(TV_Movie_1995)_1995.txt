@@ -1,0 +1,10 @@
+movieId: 28
+title: Persuasion (TV Movie 1995)
+year: 1995
+url: https://www.imdb.com/title/tt0114117/
+ratingValue: 
+directors: Roger Michell
+actors: Amanda Root, Ciarán Hinds, Susan Fleetwood, Corin Redgrave, Fiona Shaw, John Woodvine, Phoebe Nicholls, Samuel West, Sophie Thompson, Judy Cornwell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

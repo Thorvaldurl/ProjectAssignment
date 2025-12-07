@@ -1,0 +1,10 @@
+movieId: 8943
+title: Being Julia
+year: 2004
+url: https://www.imdb.com/title/tt0340012/
+ratingValue: 
+directors: István Szabó
+actors: Michael Gambon, Annette Bening, Leigh Lawson, Shaun Evans, Mari Kiss, Jeremy Irons, Ronald Markham, Terry Sach, Catherine Charlton, Juliet Stevenson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5581
+title: Betsy's Wedding
+year: 1990
+url: https://www.imdb.com/title/tt0099128/
+ratingValue: 
+directors: Alan Alda
+actors: Alan Alda, Joey Bishop, Madeline Kahn, Anthony LaPaglia, Catherine O'Hara, Joe Pesci, Molly Ringwald, Ally Sheedy, Burt Young, Julie Bovasso
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

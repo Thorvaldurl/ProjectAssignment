@@ -1,0 +1,10 @@
+movieId: 4102
+title: Eddie Murphy: Raw
+year: 1987
+url: https://www.imdb.com/title/tt0092948/
+ratingValue: 
+directors: Robert Townsend
+actors: Eddie Murphy, Tatyana Ali, Billie Allen, Clebert Ford, Geri Gibson, Birdie M. Hale, Tiger Haynes, Leonard Jackson, Samuel L. Jackson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

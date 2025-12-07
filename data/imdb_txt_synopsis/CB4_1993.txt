@@ -1,0 +1,10 @@
+movieId: 6025
+title: CB4
+year: 1993
+url: https://www.imdb.com/title/tt0106500/
+ratingValue: 
+directors: Tamra Davis
+actors: Chris Rock, Allen Payne, Deezer D, Chris Elliott, Phil Hartman, Charlie Murphy, Khandi Alexander, Art Evans, Theresa Randle, Willard E. Pugh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

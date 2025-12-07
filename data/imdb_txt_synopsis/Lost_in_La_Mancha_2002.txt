@@ -1,0 +1,10 @@
+movieId: 6062
+title: Lost in La Mancha
+year: 2002
+url: https://www.imdb.com/title/tt0308514/
+ratingValue: 
+directors: Keith Fulton, Louis Pepe
+actors: Tony Grisoni, Philip A. Patterson, René Cleitman, Terry Gilliam, Nicola Pecorini, José Luis Escolar, Bárbara Pérez-Solero, Benjamín Fernández, Andrea Calderwood
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

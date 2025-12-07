@@ -1,0 +1,10 @@
+movieId: 5529
+title: Serving Sara
+year: 2002
+url: https://www.imdb.com/title/tt0261289/
+ratingValue: 
+directors: Reginald Hudlin
+actors: Matthew Perry, Elizabeth Hurley, Vincent Pastore, Bruce Campbell, Cedric The Entertainer, Amy Adams, Terry Crews, Jerry Stiller, Marshall Bell, Derek Southers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

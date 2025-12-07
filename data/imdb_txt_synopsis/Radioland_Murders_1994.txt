@@ -1,0 +1,10 @@
+movieId: 513
+title: Radioland Murders
+year: 1994
+url: https://www.imdb.com/title/tt0110939/
+ratingValue: 
+directors: Mel Smith
+actors: Brian Benben, Mary Stuart Masterson, Ned Beatty, George Burns, Scott Michael Campbell, Brion James, Michael Lerner, Michael McKean, Jeffrey Tambor, Stephen Tobolowsky
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

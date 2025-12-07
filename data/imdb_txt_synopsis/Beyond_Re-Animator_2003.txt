@@ -1,0 +1,10 @@
+movieId: 7202
+title: Beyond Re-Animator
+year: 2003
+url: https://www.imdb.com/title/tt0222812/
+ratingValue: 
+directors: Brian Yuzna
+actors: Jeffrey Combs, Tommy Dean Musset, Jason Barry, Bárbara Elorrieta, Elsa Pataky, Ángel Plana, Javier Sandoval, Santiago Segura, Lolo Herrero, Enrique Arce
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

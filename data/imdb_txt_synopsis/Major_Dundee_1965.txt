@@ -1,0 +1,10 @@
+movieId: 26142
+title: Major Dundee
+year: 1965
+url: https://www.imdb.com/title/tt0059418/
+ratingValue: 
+directors: Sam Peckinpah
+actors: Charlton Heston, Richard Harris, Jim Hutton, James Coburn, Michael Anderson Jr., Senta Berger, Mario Adorf, Brock Peters, Warren Oates, Ben Johnson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

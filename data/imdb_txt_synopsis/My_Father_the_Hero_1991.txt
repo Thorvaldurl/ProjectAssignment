@@ -1,0 +1,10 @@
+movieId: 6319
+title: My Father the Hero
+year: 1991
+url: https://www.imdb.com/title/tt0102465/
+ratingValue: 
+directors: Gérard Lauzier
+actors: Gérard Depardieu, Marie Gillain, Catherine Jacob, Charlotte de Turckheim, Gérard Hérold, Patrick Mille, Benoît Allemane, Harriet Batchelor, Sultan Beeharry, Éric Berger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

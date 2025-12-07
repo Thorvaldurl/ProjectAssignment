@@ -1,0 +1,10 @@
+movieId: 2244
+title: The Allnighter
+year: 1987
+url: https://www.imdb.com/title/tt0092537/
+ratingValue: 
+directors: Tamar Simon Hoffs
+actors: Susanna Hoffs, Dedee Pfeiffer, Joan Cusack, John Terlesky, James Shanta, Michael Ontkean, Pam Grier, Kaaren Lee, Janelle Brady, Meshach Taylor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

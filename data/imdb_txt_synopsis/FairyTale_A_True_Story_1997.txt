@@ -1,0 +1,10 @@
+movieId: 1654
+title: FairyTale: A True Story
+year: 1997
+url: https://www.imdb.com/title/tt0119095/
+ratingValue: 
+directors: Charles Sturridge
+actors: Harvey Keitel, Jason Salkey, Peter O'Toole, Lara Morgan, Adam Franks, Guy Witcher, Joseph May, John Bradley, Anna Chancellor, Florence Hoath
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

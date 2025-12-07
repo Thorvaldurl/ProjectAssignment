@@ -1,0 +1,10 @@
+movieId: 2984
+title: On Any Sunday
+year: 1971
+url: https://www.imdb.com/title/tt0067527/
+ratingValue: 
+directors: Bruce Brown
+actors: Dave Aldana, Mark Brelsford, Bruce Brown, Don Castro, Jack Dunn, David Evans, Gary Fisher, John Forker, Mike Gibbon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

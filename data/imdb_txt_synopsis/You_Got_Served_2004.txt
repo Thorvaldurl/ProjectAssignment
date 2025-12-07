@@ -1,0 +1,10 @@
+movieId: 7259
+title: You Got Served
+year: 2004
+url: https://www.imdb.com/title/tt0365957/
+ratingValue: 
+directors: Chris Stokes
+actors: Omarion, Marques Houston, Jennifer Freeman, Jarell Houston, Lil' Fizz, Raz B, Marty Dew, Jerome Jones, Tanee McCall, Malcolm David Kelley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

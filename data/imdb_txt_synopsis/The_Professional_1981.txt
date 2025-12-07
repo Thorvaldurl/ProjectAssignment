@@ -1,0 +1,10 @@
+movieId: 5782
+title: The Professional
+year: 1981
+url: https://www.imdb.com/title/tt0082949/
+ratingValue: 
+directors: Georges Lautner
+actors: Jean-Paul Belmondo, Jean Desailly, Cyrielle Clair, Marie-Christine Descouard, Elisabeth Margoni, Jean-Louis Richard, Michel Beaune, Bernard-Pierre Donnadieu, Pierre Saintons, Gérard Darrieu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

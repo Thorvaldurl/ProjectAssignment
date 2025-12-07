@@ -1,0 +1,10 @@
+movieId: 6315
+title: Wildcats
+year: 1986
+url: https://www.imdb.com/title/tt0092214/
+ratingValue: 
+directors: Michael Ritchie
+actors: Goldie Hawn, Swoosie Kurtz, Robyn Lively, Brandy Gold, James Keach, Jan Hooks, Bruce McGill, Nipsey Russell, Mykelti Williamson, Tab Thacker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

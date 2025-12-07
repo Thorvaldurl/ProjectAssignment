@@ -1,0 +1,10 @@
+movieId: 6368
+title: Cinemania
+year: 2002
+url: https://www.imdb.com/title/tt0281724/
+ratingValue: 
+directors: Angela Christlieb, Stephen Kijak
+actors: Jack Angstreich, Eric Chadbourne, Bill Heidbreder, Roberta Hill, Harvey Schwartz, Richard Aidala, Tia Bonacore, David Schwartz, Michael Slipp
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

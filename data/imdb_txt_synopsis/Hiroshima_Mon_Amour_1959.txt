@@ -1,0 +1,10 @@
+movieId: 8197
+title: Hiroshima Mon Amour
+year: 1959
+url: https://www.imdb.com/title/tt0052893/
+ratingValue: 
+directors: Alain Resnais
+actors: Emmanuelle Riva, Eiji Okada, Stella Dassas, Pierre Barbaud, Bernard Fresson, Moira Lister
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

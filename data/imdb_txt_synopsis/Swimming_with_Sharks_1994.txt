@@ -1,0 +1,10 @@
+movieId: 322
+title: Swimming with Sharks
+year: 1994
+url: https://www.imdb.com/title/tt0114594/
+ratingValue: 
+directors: George Huang
+actors: Kevin Spacey, Frank Whaley, Michelle Forbes, Benicio Del Toro, T.E. Russell, Roy Dotrice, Matthew Flint, Patrick Fischler, Jerry Levine, Sabryn Genet
+
+synopsis:
+Guy, an ambitious would-be screenwriter, works as an assistant to demanding boss Buddy Ackerman. Guy tries to cater to Buddy's ever-more capricious demands until he decides he's been pushed too far in what can best be described as an cynical if canny black comedy.

@@ -1,0 +1,10 @@
+movieId: 1516
+title: Children of the Revolution
+year: 1996
+url: https://www.imdb.com/title/tt0115886/
+ratingValue: 
+directors: Peter Duncan
+actors: Judy Davis, Sam Neill, F. Murray Abraham, Richard Roxburgh, Rachel Griffiths, Geoffrey Rush, Russell Kiefel, John Gaden, Ben McIvor, Marshall Napier
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

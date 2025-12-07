@@ -1,0 +1,10 @@
+movieId: 3746
+title: Butterfly
+year: 1999
+url: https://www.imdb.com/title/tt0188030/
+ratingValue: 
+directors: José Luis Cuerda
+actors: Fernando Fernán Gómez, Manuel Lozano, Uxía Blanco, Gonzalo Uriarte, Alexis de los Santos, Jesús Castejón, Guillermo Toledo, Elena Bagutta, Tamar Novas, Tatán
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

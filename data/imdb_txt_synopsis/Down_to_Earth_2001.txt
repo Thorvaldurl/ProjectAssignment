@@ -1,0 +1,10 @@
+movieId: 4153
+title: Down to Earth
+year: 2001
+url: https://www.imdb.com/title/tt0231775/
+ratingValue: 
+directors: Chris Weitz, Paul Weitz
+actors: Chris Rock, Regina King, Chazz Palminteri, Eugene Levy, Frankie Faison, Mark Addy, Greg Germann, Jennifer Coolidge, Wanda Sykes, John Cho
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

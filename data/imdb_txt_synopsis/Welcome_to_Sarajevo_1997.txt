@@ -1,0 +1,10 @@
+movieId: 1670
+title: Welcome to Sarajevo
+year: 1997
+url: https://www.imdb.com/title/tt0120490/
+ratingValue: 
+directors: Michael Winterbottom
+actors: Stephen Dillane, Woody Harrelson, Marisa Tomei, Emira Nusevic, Kerry Fox, Goran Visnjic, James Nesbitt, Emily Lloyd, Igor Dzambazov, Gordana Gadzic
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

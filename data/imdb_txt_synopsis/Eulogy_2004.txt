@@ -1,0 +1,10 @@
+movieId: 8918
+title: Eulogy
+year: 2004
+url: https://www.imdb.com/title/tt0349416/
+ratingValue: 
+directors: Michael Clancy
+actors: Zooey Deschanel, Micole Mercurio, Lucy Boyle, Tania Gunadi, Kevin Ruf, Alex Moore, Hank Azaria, Michael Panes, Michael Chapman, Vincent Castellanos
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

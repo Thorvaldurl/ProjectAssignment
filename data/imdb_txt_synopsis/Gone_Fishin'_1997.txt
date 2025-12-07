@@ -1,0 +1,10 @@
+movieId: 870
+title: Gone Fishin'
+year: 1997
+url: https://www.imdb.com/title/tt0119214/
+ratingValue: 
+directors: Christopher Cain
+actors: Joe Pesci, Danny Glover, Rosanna Arquette, Lynn Whitfield, Willie Nelson, Nick Brimble, Gary Grubbs, Carol Kane, Edythe Davis, Jenna Bari
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

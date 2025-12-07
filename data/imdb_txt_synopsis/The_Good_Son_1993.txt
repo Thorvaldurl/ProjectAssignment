@@ -1,0 +1,10 @@
+movieId: 5111
+title: The Good Son
+year: 1993
+url: https://www.imdb.com/title/tt0107034/
+ratingValue: 
+directors: Joseph Ruben
+actors: Macaulay Culkin, Elijah Wood, Wendy Crewson, David Morse, Daniel Hugh Kelly, Jacqueline Brookes, Quinn Culkin, Ashley Crow, Guy Strauss, Keith Brava
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

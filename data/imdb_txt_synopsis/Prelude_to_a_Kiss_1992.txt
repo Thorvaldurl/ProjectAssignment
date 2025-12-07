@@ -1,0 +1,10 @@
+movieId: 4063
+title: Prelude to a Kiss
+year: 1992
+url: https://www.imdb.com/title/tt0105165/
+ratingValue: 
+directors: Norman René
+actors: Alec Baldwin, Meg Ryan, Kathy Bates, Ned Beatty, Patty Duke, Richard Riehle, Stanley Tucci, Sydney Walker, Rocky Carroll, Debra Monk
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

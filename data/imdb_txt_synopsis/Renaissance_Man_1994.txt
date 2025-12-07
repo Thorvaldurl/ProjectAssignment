@@ -1,0 +1,10 @@
+movieId: 516
+title: Renaissance Man
+year: 1994
+url: https://www.imdb.com/title/tt0110971/
+ratingValue: 
+directors: Penny Marshall
+actors: Danny DeVito, Gregory Hines, James Remar, Ed Begley Jr., Lillo Brancato, Stacey Dash, Kadeem Hardison, Richard T. Jones, Khalil Kain, Peter Simmons
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

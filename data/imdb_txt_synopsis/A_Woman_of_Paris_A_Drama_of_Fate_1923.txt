@@ -1,0 +1,10 @@
+movieId: 3641
+title: A Woman of Paris: A Drama of Fate
+year: 1923
+url: https://www.imdb.com/title/tt0014624/
+ratingValue: 
+directors: Charles Chaplin
+actors: Edna Purviance, Clarence Geldert, Carl Miller, Lydia Knott, Charles K. French, Adolphe Menjou, Betty Morrissey, Malvina Polo, Nellie Bly Baker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 22
+title: Copycat
+year: 1995
+url: https://www.imdb.com/title/tt0112722/
+ratingValue: 
+directors: Jon Amiel
+actors: Sigourney Weaver, Holly Hunter, Dermot Mulroney, William McNamara, Harry Connick Jr., J.E. Freeman, Will Patton, John Rothman, Shannon O'Hurley, Bob Greene
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 406
+title: Federal Hill
+year: 1994
+url: https://www.imdb.com/title/tt0109785/
+ratingValue: 
+directors: Michael Corrente
+actors: Nicholas Turturro, Anthony DeSando, Libby Langdon, Michael Raynor, Robert Turano, Jason Andrews, Phyllis Kay, Biagio Conti, Michael Corrente
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

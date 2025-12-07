@@ -1,0 +1,10 @@
+movieId: 3811
+title: Breaker Morant
+year: 1980
+url: https://www.imdb.com/title/tt0080310/
+ratingValue: 
+directors: Bruce Beresford
+actors: Edward Woodward, Jack Thompson, John Waters, Bryan Brown, Charles 'Bud' Tingwell, Terence Donovan, Vincent Ball, Ray Meagher, Chris Haywood, Russell Kiefel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3714
+title: Clara's Heart
+year: 1988
+url: https://www.imdb.com/title/tt0094882/
+ratingValue: 
+directors: Robert Mulligan
+actors: Whoopi Goldberg, Michael Ontkean, Kathleen Quinlan, Neil Patrick Harris, Spalding Gray, Beverly Todd, Hattie Winston, Jason Downs, Caitlin Thompson, Maria Broom
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4202
+title: Fuzz
+year: 1972
+url: https://www.imdb.com/title/tt0068617/
+ratingValue: 
+directors: Richard A. Colla
+actors: Burt Reynolds, Jack Weston, Tom Skerritt, Raquel Welch, James McEachin, Steve Ihnat, Dan Frazer, Bert Remsen, Stewart Moss, H. Benny Markowitz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

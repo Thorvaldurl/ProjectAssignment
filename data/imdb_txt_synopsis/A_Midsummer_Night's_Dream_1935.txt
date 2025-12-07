@@ -1,0 +1,10 @@
+movieId: 7057
+title: A Midsummer Night's Dream
+year: 1935
+url: https://www.imdb.com/title/tt0026714/
+ratingValue: 
+directors: William Dieterle, Max Reinhardt
+actors: Ian Hunter, Verree Teasdale, Hobart Cavanaugh, Dick Powell, Ross Alexander, Olivia de Havilland, Jean Muir, Grant Mitchell, Frank McHugh, Dewey Robinson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

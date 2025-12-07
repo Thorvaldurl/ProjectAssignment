@@ -1,0 +1,10 @@
+movieId: 6574
+title: Eve of Destruction
+year: 1991
+url: https://www.imdb.com/title/tt0101831/
+ratingValue: 
+directors: Duncan Gibbins
+actors: Gregory Hines, Renée Soutendijk, Michael Greene, Kurt Fuller, John M. Jackson, Loren Haynes, Nelson Mashita, Alan Haufrect, Maryedith Burrell, Norman Merrill
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

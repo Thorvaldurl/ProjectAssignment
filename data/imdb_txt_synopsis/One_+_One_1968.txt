@@ -1,0 +1,10 @@
+movieId: 26195
+title: One + One
+year: 1968
+url: https://www.imdb.com/title/tt0063665/
+ratingValue: 
+directors: Jean-Luc Godard
+actors: Sean Lynch, Mick Jagger, Brian Jones, Keith Richards, Charlie Watts, Bill Wyman, Anne Wiazemsky, Iain Quarrier, Frankie Dymon, Danny Daniels
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

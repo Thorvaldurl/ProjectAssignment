@@ -1,0 +1,10 @@
+movieId: 371
+title: The Paper
+year: 1994
+url: https://www.imdb.com/title/tt0110771/
+ratingValue: 
+directors: Ron Howard
+actors: Michael Keaton, Robert Duvall, Glenn Close, Marisa Tomei, Randy Quaid, Jason Robards, Jason Alexander, Spalding Gray, Catherine O'Hara, Lynne Thigpen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

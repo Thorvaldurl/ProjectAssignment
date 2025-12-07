@@ -1,0 +1,10 @@
+movieId: 5880
+title: Extreme Ops
+year: 2002
+url: https://www.imdb.com/title/tt0283160/
+ratingValue: 
+directors: Christian Duguay
+actors: Devon Sawa, Bridgette Wilson-Sampras, Rupert Graves, Rufus Sewell, Heino Ferch, Joe Absolom, Jana Pallaske, Jean-Pierre Castaldi, Liliana Komorowska, Klaus Löwitsch
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

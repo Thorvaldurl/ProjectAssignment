@@ -1,0 +1,10 @@
+movieId: 7184
+title: This Property Is Condemned
+year: 1966
+url: https://www.imdb.com/title/tt0061089/
+ratingValue: 
+directors: Sydney Pollack
+actors: Natalie Wood, Robert Redford, Charles Bronson, Kate Reid, Mary Badham, Alan Baxter, Robert Blake, Dabney Coleman, John Harding, Ray Hemphill
+
+synopsis:
+Willie Star narrates the story about her sister Alva Star is the town flirt. Her mother uses Alva to meet the needs of the family. Legate and Alva are attracted to each other but he doesn't like the family's values. Even though he is attracted to Alva he leaves when his task is done. Alva is heartbroken and challenges her mother by getting drunk and openly flirting with her mother's boyfriend who offers to marry her and take her away from Dodson. Alva marries the boyfriend ( Charles Bronson) and "rolls him" and runs away to New Orleans to find Legate. She finds him and they are happy. She sends for her sister who subsequently tells her mother Alva's location. Alva's mother comes and dramatically reveals how Alva treated "her husband". Alva humiliated runs away contracts tuberculosis and dies.

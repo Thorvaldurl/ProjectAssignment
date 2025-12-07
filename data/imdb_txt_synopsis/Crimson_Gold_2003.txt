@@ -1,0 +1,10 @@
+movieId: 7176
+title: Crimson Gold
+year: 2003
+url: https://www.imdb.com/title/tt0371280/
+ratingValue: 
+directors: Jafar Panahi
+actors: Hossain Emadeddin, Kamyar Sheisi, Azita Rayeji, Shahram Vaziri, Ehsan Amani, Pourang Nakhael, Kaveh Najmabadi, Saber Safael, Yadollah Samadian
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

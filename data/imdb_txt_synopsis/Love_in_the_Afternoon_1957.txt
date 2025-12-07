@@ -1,0 +1,10 @@
+movieId: 937
+title: Love in the Afternoon
+year: 1957
+url: https://www.imdb.com/title/tt0050658/
+ratingValue: 
+directors: Billy Wilder
+actors: Gary Cooper, Audrey Hepburn, Maurice Chevalier, John McGiver, Van Doude, Lise Bourdin, Olga Valéry, The Gypsies, Elga Andersen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

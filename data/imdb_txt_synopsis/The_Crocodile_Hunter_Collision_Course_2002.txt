@@ -1,0 +1,10 @@
+movieId: 5462
+title: The Crocodile Hunter: Collision Course
+year: 2002
+url: https://www.imdb.com/title/tt0305396/
+ratingValue: 
+directors: John Stainton
+actors: Steve Irwin, Terri Irwin, Magda Szubanski, David Wenham, Lachy Hulme, Aden Young, Kenneth Ransom, Kate Beahan, Steve Bastoni, Steven Vidler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

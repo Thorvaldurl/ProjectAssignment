@@ -1,0 +1,10 @@
+movieId: 1425
+title: Fierce Creatures
+year: 1997
+url: https://www.imdb.com/title/tt0119115/
+ratingValue: 
+directors: Fred Schepisi, Robert Young
+actors: John Cleese, Jamie Lee Curtis, Kevin Kline, Michael Palin, Ronnie Corbett, Carey Lowell, Robert Lindsay, Bille Brown, Derek Griffiths, Cynthia Cleese
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

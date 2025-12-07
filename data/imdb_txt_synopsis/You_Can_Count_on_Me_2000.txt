@@ -1,0 +1,10 @@
+movieId: 3983
+title: You Can Count on Me
+year: 2000
+url: https://www.imdb.com/title/tt0203230/
+ratingValue: 
+directors: Kenneth Lonergan
+actors: Amy Ryan, Michael Countryman, Adam LeFevre, Halley Feiffer, Whitney Vance, Peter Kerwin, Betsy Aidem, Laura Linney, Rory Culkin, J. Smith-Cameron
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

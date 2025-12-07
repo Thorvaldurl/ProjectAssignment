@@ -1,0 +1,10 @@
+movieId: 7118
+title: Royal Space Force: The Wings of Honneamise
+year: 1987
+url: https://www.imdb.com/title/tt0093207/
+ratingValue: 
+directors: Hiroyuki Yamaga
+actors: Leo Morimoto, David Thomas, Mitsuki Yayoi, Heidi Lenhart, Steve Bulen, Kazuyuki Sogabe, Bryan Cranston, Chikao Ôtsuka, Michael Forest
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

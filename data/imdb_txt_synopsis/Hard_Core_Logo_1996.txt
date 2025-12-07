@@ -1,0 +1,10 @@
+movieId: 2342
+title: Hard Core Logo
+year: 1996
+url: https://www.imdb.com/title/tt0116488/
+ratingValue: 
+directors: Bruce McDonald
+actors: Hugh Dillon, Callum Keith Rennie, John Pyper-Ferguson, Bernie Coulson, Julian Richings, Benita Ha, Claudia Ferri, Joey Ramone, Corrine Koslo, Bruce McDonald
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

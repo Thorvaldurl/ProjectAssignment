@@ -1,0 +1,10 @@
+movieId: 3112
+title: 'night, Mother
+year: 1986
+url: https://www.imdb.com/title/tt0090556/
+ratingValue: 
+directors: Tom Moore
+actors: Sissy Spacek, Anne Bancroft, Ed Berke, Carol Robbins, Jennifer Roosendahl, Michael Kenworthy, Sari Walker, Claire Malis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

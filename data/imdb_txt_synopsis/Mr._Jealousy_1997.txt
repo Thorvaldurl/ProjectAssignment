@@ -1,0 +1,10 @@
+movieId: 1906
+title: Mr. Jealousy
+year: 1997
+url: https://www.imdb.com/title/tt0119717/
+ratingValue: 
+directors: Noah Baumbach
+actors: Eric Stoltz, Annabella Sciorra, Chris Eigeman, Carlos Jacott, Marianne Jean-Baptiste, Brian Kerwin, John Lehr, Peter Bogdanovich, Vincent Polidoro, Yvette Brooks Grant
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

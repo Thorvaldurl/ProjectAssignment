@@ -1,0 +1,10 @@
+movieId: 3544
+title: Shakes the Clown
+year: 1991
+url: https://www.imdb.com/title/tt0102898/
+ratingValue: 
+directors: Bobcat Goldthwait
+actors: Bobcat Goldthwait, Julie Brown, Bruce Baum, Steve Bean, Blake Clark, Eliza Coyle, Paul Dooley, Gerald F. Edelstein, Robin Williams, Jack Gallagher
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

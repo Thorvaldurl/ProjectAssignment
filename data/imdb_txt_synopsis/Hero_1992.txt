@@ -1,0 +1,10 @@
+movieId: 2252
+title: Hero
+year: 1992
+url: https://www.imdb.com/title/tt0104412/
+ratingValue: 
+directors: Stephen Frears
+actors: Dustin Hoffman, Geena Davis, Andy Garcia, Joan Cusack, Kevin J. O'Connor, Maury Chaykin, Stephen Tobolowsky, Christian Clemenson, Tom Arnold, Warren Berlinger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

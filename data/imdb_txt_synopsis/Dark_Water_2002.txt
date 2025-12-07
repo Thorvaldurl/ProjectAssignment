@@ -1,0 +1,10 @@
+movieId: 8019
+title: Dark Water
+year: 2002
+url: https://www.imdb.com/title/tt0308379/
+ratingValue: 
+directors: Hideo Nakata
+actors: Hitomi Kuroki, Rio Kanno, Mirei Oguchi, Asami Mizukawa, Fumiyo Kohinata, Yû Tokui, Isao Yatsu, Shigemitsu Ogi, Maiko Asano
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

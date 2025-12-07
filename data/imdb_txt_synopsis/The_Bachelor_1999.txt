@@ -1,0 +1,10 @@
+movieId: 3004
+title: The Bachelor
+year: 1999
+url: https://www.imdb.com/title/tt0120596/
+ratingValue: 
+directors: Gary Sinyor
+actors: Chris O'Donnell, Renée Zellweger, Artie Lange, Edward Asner, Hal Holbrook, James Cromwell, Marley Shelton, Peter Ustinov, Katharine Towne, Rebecca Cross
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 280
+title: Murder in the First
+year: 1995
+url: https://www.imdb.com/title/tt0113870/
+ratingValue: 
+directors: Marc Rocco
+actors: Christian Slater, Kevin Bacon, Gary Oldman, Embeth Davidtz, William H. Macy, Stephen Tobolowsky, Brad Dourif, R. Lee Ermey, Mia Kirshner, Ben Slack
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

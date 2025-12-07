@@ -1,0 +1,10 @@
+movieId: 828
+title: The Adventures of Pinocchio
+year: 1996
+url: https://www.imdb.com/title/tt0115472/
+ratingValue: 
+directors: Steve Barron
+actors: Martin Landau, Jonathan Taylor Thomas, Geneviève Bujold, Udo Kier, Bebe Neuwirth, Rob Schneider, Corey Carrier, Marcello Magni, Dawn French, Richard Claxton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

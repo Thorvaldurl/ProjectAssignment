@@ -1,0 +1,10 @@
+movieId: 8426
+title: Robot Carnival (Video 1987)
+year: 1987
+url: https://www.imdb.com/title/tt0093871/
+ratingValue: 
+directors: Atsuko Fukushima, Hiroyuki Kitakubo, Hiroyuki Kitazume, Kôji Morimoto, Takashi Nakamura, Manabu Ôhashi, Hidetoshi Ômori, Katsuhiro Ôtomo, Yasuomi Umetsu
+actors: Kôji Moritsugu, Yayoi Maki, Keiko Hanagata, Kumiko Takizawa, Aya Murata, Nariko Fujieda, Satoru Inagaki, Hideyuki Umezu, Ikuya Sawaki
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

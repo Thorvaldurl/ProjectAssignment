@@ -1,0 +1,10 @@
+movieId: 6023
+title: Band of Outsiders
+year: 1964
+url: https://www.imdb.com/title/tt0057869/
+ratingValue: 
+directors: Jean-Luc Godard
+actors: Anna Karina, Danièle Girard, Louisa Colpeyn, Chantal Darget, Sami Frey, Claude Brasseur, Georges Staquet, Ernest Menzer, Michel Delahaye
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

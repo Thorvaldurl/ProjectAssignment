@@ -1,0 +1,10 @@
+movieId: 3192
+title: The Terrorist
+year: 1998
+url: https://www.imdb.com/title/tt0169302/
+ratingValue: 
+directors: Santosh Sivan
+actors: Ayesha Dharker, K. Krishna, Sonu Sisupal, Vishwas, Anuradha, Bhavani, Parmeshwaran, Gopal, Saravana
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

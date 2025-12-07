@@ -1,0 +1,10 @@
+movieId: 3618
+title: Small Time Crooks
+year: 2000
+url: https://www.imdb.com/title/tt0196216/
+ratingValue: 
+directors: Woody Allen
+actors: Woody Allen, Carolyn Saxon, Tracey Ullman, Michael Rapaport, Tony Darrow, Sam Josepher, Jon Lovitz, Lawrence Howard Levy, Diane Bradley, Crystal Field
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

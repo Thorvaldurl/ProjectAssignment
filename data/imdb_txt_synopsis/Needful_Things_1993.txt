@@ -1,0 +1,10 @@
+movieId: 2120
+title: Needful Things
+year: 1993
+url: https://www.imdb.com/title/tt0107665/
+ratingValue: 
+directors: Fraser C. Heston
+actors: Max von Sydow, Ed Harris, Bonnie Bedelia, Amanda Plummer, J.T. Walsh, Ray McKinnon, Duncan Fraser, Valri Bromfield, Shane Thomas Meier, William Morgan Sheppard
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

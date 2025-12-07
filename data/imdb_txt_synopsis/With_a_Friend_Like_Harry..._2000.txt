@@ -1,0 +1,10 @@
+movieId: 4077
+title: With a Friend Like Harry...
+year: 2000
+url: https://www.imdb.com/title/tt0216800/
+ratingValue: 
+directors: Dominik Moll
+actors: Laurent Lucas, Sergi López, Mathilde Seigner, Sophie Guillemin, Liliane Rovère, Dominique Rozan, Michel Fau, Victoire de Koster, Laurie Caminata, Lorena Caminata
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

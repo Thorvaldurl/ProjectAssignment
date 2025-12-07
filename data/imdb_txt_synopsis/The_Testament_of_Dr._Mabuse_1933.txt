@@ -1,0 +1,10 @@
+movieId: 8670
+title: The Testament of Dr. Mabuse
+year: 1933
+url: https://www.imdb.com/title/tt0023563/
+ratingValue: 
+directors: Fritz Lang
+actors: Rudolf Klein-Rogge, Thomy Bourdelle, Gustav Diessl, Rudolf Schündler, Jim Gérald, Oskar Höcker, Theo Lingen, Monique Rolland, Maurice Maillot, Camilla Spira
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

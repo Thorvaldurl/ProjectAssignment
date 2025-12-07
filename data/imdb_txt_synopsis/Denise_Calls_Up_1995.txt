@@ -1,0 +1,10 @@
+movieId: 633
+title: Denise Calls Up
+year: 1995
+url: https://www.imdb.com/title/tt0112844/
+ratingValue: 
+directors: Hal Salwen
+actors: Tim Daly, Caroleen Feeney, Dan Gunther, Dana Wheeler-Nicholson, Liev Schreiber, Aida Turturro, Alanna Ubach, Sylvia Miles, Mark Blum, Jean-Claude La Marre
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

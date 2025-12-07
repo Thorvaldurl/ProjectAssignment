@@ -1,0 +1,10 @@
+movieId: 5788
+title: All or Nothing
+year: 2002
+url: https://www.imdb.com/title/tt0286261/
+ratingValue: 
+directors: Mike Leigh
+actors: Alison Garland, Jean Ainslie, Timothy Spall, Badi Uzzaman, Parvez Qadir, Russell Mabey, Lesley Manville, Ruth Sheen, Thomas Brown-Lowe, Oliver Golding
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

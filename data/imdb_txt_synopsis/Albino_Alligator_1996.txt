@@ -1,0 +1,10 @@
+movieId: 1352
+title: Albino Alligator
+year: 1996
+url: https://www.imdb.com/title/tt0115495/
+ratingValue: 
+directors: Kevin Spacey
+actors: Matt Dillon, Faye Dunaway, Gary Sinise, William Fichtner, Viggo Mortensen, John Spencer, Skeet Ulrich, Frankie Faison, Melinda McGraw, M. Emmet Walsh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

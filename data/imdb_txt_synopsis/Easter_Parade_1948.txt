@@ -1,0 +1,10 @@
+movieId: 25937
+title: Easter Parade
+year: 1948
+url: https://www.imdb.com/title/tt0040308/
+ratingValue: 
+directors: Charles Walters
+actors: Judy Garland, Fred Astaire, Peter Lawford, Ann Miller, Jules Munshin, Clinton Sundberg, Richard Beavers, John Albright, Lola Albright, Don Anderson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

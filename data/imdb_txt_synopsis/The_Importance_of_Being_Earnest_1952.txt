@@ -1,0 +1,10 @@
+movieId: 5470
+title: The Importance of Being Earnest
+year: 1952
+url: https://www.imdb.com/title/tt0044744/
+ratingValue: 
+directors: Anthony Asquith
+actors: Michael Redgrave, Michael Denison, Joan Greenwood, Dorothy Tutin, Edith Evans, Margaret Rutherford, Miles Malleson, Walter Hudd, Aubrey Mather, Richard Wattis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

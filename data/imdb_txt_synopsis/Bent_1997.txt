@@ -1,0 +1,10 @@
+movieId: 1696
+title: Bent
+year: 1997
+url: https://www.imdb.com/title/tt0118698/
+ratingValue: 
+directors: Sean Mathias
+actors: Mick Jagger, Clive Owen, Brian Webber, Nikolaj Coster-Waldau, Jude Law, Gresby Nash, Suzanne Bertish, David Meyer, Stefan Marling, Richard Laing
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

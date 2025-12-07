@@ -1,0 +1,10 @@
+movieId: 3971
+title: The Private Eyes
+year: 1980
+url: https://www.imdb.com/title/tt0081376/
+ratingValue: 
+directors: Lang Elliott
+actors: Tim Conway, Don Knotts, Trisha Noble, Bernard Fox, Grace Zabriskie, John Fujioka, Stan Ross, Irwin Keyes, Suzy Mandel, Fred Stuthman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

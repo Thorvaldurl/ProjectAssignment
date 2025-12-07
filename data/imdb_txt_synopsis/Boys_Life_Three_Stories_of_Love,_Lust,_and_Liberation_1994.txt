@@ -1,0 +1,10 @@
+movieId: 388
+title: Boys Life: Three Stories of Love, Lust, and Liberation
+year: 1994
+url: https://www.imdb.com/title/tt0112570/
+ratingValue: 
+directors: Robert Lee King, Raoul O'Connell, Brian Sloan
+actors: James Andrews, Mary Beth Aylesworth, Mike Barbour, Steve Bilich, Wendy Brokaw, Bojesse Christopher, Dennis Christopher, Adrian Davey, Kimberly Flynn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

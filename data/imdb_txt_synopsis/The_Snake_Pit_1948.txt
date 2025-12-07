@@ -1,0 +1,10 @@
+movieId: 8718
+title: The Snake Pit
+year: 1948
+url: https://www.imdb.com/title/tt0040806/
+ratingValue: 
+directors: Anatole Litvak
+actors: Olivia de Havilland, Mark Stevens, Leo Genn, Celeste Holm, Glenn Langan, Helen Craig, Leif Erickson, Beulah Bondi, Lee Patrick, Howard Freeman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

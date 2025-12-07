@@ -1,0 +1,10 @@
+movieId: 3808
+title: Two Women
+year: 1960
+url: https://www.imdb.com/title/tt0054749/
+ratingValue: 
+directors: Vittorio De Sica
+actors: Sophia Loren, Jean-Paul Belmondo, Eleonora Brown, Carlo Ninchi, Andrea Checchi, Pupella Maggio, Emma Baron, Bruna Cealti, Antonella Della Porta, Mario Frera
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3773
+title: House Party
+year: 1990
+url: https://www.imdb.com/title/tt0099800/
+ratingValue: 
+directors: Reginald Hudlin
+actors: Christopher Reid, Robin Harris, Christopher Martin, Martin Lawrence, Tisha Campbell, A.J. Johnson, Paul Anthony, Bowlegged Lou, B-Fine, Edith Fields
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

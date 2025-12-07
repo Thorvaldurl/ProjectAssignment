@@ -1,0 +1,10 @@
+movieId: 5856
+title: Do You Remember Dolly Bell?
+year: 1981
+url: https://www.imdb.com/title/tt0083089/
+ratingValue: 
+directors: Emir Kusturica
+actors: Slavko Stimac, Slobodan Aligrudic, Ljiljana Blagojevic, Mira Banjac, Pavle Vuisic, Nada Pani, Boro Stjepanovic, Zivko 'Zika' Ristic, Mirsad Zulic
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2435
+title: Hurlyburly
+year: 1998
+url: https://www.imdb.com/title/tt0119336/
+ratingValue: 
+directors: Anthony Drazan
+actors: Sean Penn, Kevin Spacey, Robin Wright, Chazz Palminteri, Garry Shandling, Anna Paquin, Meg Ryan, Gianna Palminteri, David Fabrizio, Kenny Vance
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

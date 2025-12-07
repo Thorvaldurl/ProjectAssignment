@@ -1,0 +1,10 @@
+movieId: 2935
+title: The Lady Eve
+year: 1941
+url: https://www.imdb.com/title/tt0033804/
+ratingValue: 
+directors: Preston Sturges
+actors: Barbara Stanwyck, Henry Fonda, Charles Coburn, Eugene Pallette, William Demarest, Eric Blore, Melville Cooper, Martha O'Driscoll, Janet Beecher, Robert Greig
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

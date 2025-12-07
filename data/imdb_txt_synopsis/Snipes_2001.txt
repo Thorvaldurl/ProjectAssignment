@@ -1,0 +1,10 @@
+movieId: 5562
+title: Snipes
+year: 2001
+url: https://www.imdb.com/title/tt0275688/
+ratingValue: 
+directors: Rich Murray
+actors: Sam Jones III, Nelly, Zoe Saldaña, Dean Winters, Rashaan Nall, Schoolly D, Joel Marsh Garland, J.D. Williams, Mpho Koaho, Victor Togunde
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

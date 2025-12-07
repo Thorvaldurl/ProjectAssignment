@@ -1,0 +1,10 @@
+movieId: 994
+title: Big Night
+year: 1996
+url: https://www.imdb.com/title/tt0115678/
+ratingValue: 
+directors: Campbell Scott, Stanley Tucci
+actors: Marc Anthony, Tony Shalhoub, Stanley Tucci, Larry Block, Caroline Aaron, Andre Belgrader, Minnie Driver, Peter McRobbie, Isabella Rossellini, Liev Schreiber
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

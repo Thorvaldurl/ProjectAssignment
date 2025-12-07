@@ -1,0 +1,10 @@
+movieId: 68
+title: French Twist
+year: 1995
+url: https://www.imdb.com/title/tt0113149/
+ratingValue: 
+directors: Josiane Balasko
+actors: Victoria Abril, Josiane Balasko, Alain Chabat, Ticky Holgado, Catherine Hiegel, Catherine Samie, Catherine Lachens, Katrine Boorman, Telsche Boorman, Véronique Barrault
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

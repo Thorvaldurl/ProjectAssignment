@@ -1,0 +1,10 @@
+movieId: 478
+title: Jimmy Hollywood
+year: 1994
+url: https://www.imdb.com/title/tt0110197/
+ratingValue: 
+directors: Barry Levinson
+actors: Joe Pesci, Christian Slater, Victoria Abril, Jason Beghe, John Cothran, Hal Fishman, Jerry Dunphy, Andrea Kutyas, Kerry Kilbride, Paula López
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

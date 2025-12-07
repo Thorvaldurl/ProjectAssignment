@@ -1,0 +1,10 @@
+movieId: 2697
+title: My Son the Fanatic
+year: 1997
+url: https://www.imdb.com/title/tt0119743/
+ratingValue: 
+directors: Udayan Prasad
+actors: Om Puri, Rachel Griffiths, Akbar Kurtha, Stellan Skarsgård, Gopi Desai, Harish Patel, Sarah-Jane Potts, Judi Jones, Geoffrey Bateman, Bernard Wrigley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

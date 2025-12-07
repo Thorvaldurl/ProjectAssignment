@@ -1,0 +1,10 @@
+movieId: 8836
+title: Wicker Park
+year: 2004
+url: https://www.imdb.com/title/tt0324554/
+ratingValue: 
+directors: Paul McGuigan
+actors: Josh Hartnett, Rose Byrne, Matthew Lillard, Diane Kruger, Christopher Cousins, Jessica Paré, Vlasta Vrana, Amy Sobol, Ted Whittall, Isabel Dos Santos
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6722
+title: Once Upon a Time in China II
+year: 1992
+url: https://www.imdb.com/title/tt0105839/
+ratingValue: 
+directors: Hark Tsui
+actors: Jet Li, Rosamund Kwan, Mok Siu-Chung, David Chiang, Donnie Yen, Tielin Zhang, Xiong Xinxin, Paul Fonoroff, Shi-Kwan Yen, Ka-Kui Ho
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

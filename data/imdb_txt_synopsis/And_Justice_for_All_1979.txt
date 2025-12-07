@@ -1,0 +1,10 @@
+movieId: 3420
+title: And Justice for All
+year: 1979
+url: https://www.imdb.com/title/tt0078718/
+ratingValue: 
+directors: Norman Jewison
+actors: Al Pacino, Jack Warden, John Forsythe, Lee Strasberg, Jeffrey Tambor, Christine Lahti, Sam Levene, Robert Christian, Thomas G. Waites, Larry Bryggman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

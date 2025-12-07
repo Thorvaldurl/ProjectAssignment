@@ -1,0 +1,10 @@
+movieId: 7225
+title: Pumping Iron
+year: 1977
+url: https://www.imdb.com/title/tt0076578/
+ratingValue: 
+directors: George Butler, Robert Fiore
+actors: Arnold Schwarzenegger, Lou Ferrigno, Matty Ferrigno, Victoria Ferrigno, Mike Katz, Franco Columbu, Ed Corney, Ken Waller, Serge Nubret, Robbie Robinson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

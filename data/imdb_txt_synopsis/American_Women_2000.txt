@@ -1,0 +1,10 @@
+movieId: 3353
+title: American Women
+year: 2000
+url: https://www.imdb.com/title/tt0218112/
+ratingValue: 
+directors: Aileen Ritchie
+actors: Ian Hart, Sean McGinley, Niamh Cusack, Ruth McCabe, Ewan Stewart, Pat Shortt, Cathleen Bradley, Sean McDonagh, Risteard Cooper, Maureen O'Brien
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

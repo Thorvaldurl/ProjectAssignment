@@ -1,0 +1,10 @@
+movieId: 3900
+title: Crime + Punishment in Suburbia
+year: 2000
+url: https://www.imdb.com/title/tt0197384/
+ratingValue: 
+directors: Rob Schmidt
+actors: Monica Keena, Ellen Barkin, Michael Ironside, Vincent Kartheiser, James DeBello, Jeffrey Wright, Conchata Ferrell, Marshall R. Teague, Nicki Aycox, Christian Payne
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

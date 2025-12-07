@@ -1,0 +1,10 @@
+movieId: 14
+title: Nixon
+year: 1995
+url: https://www.imdb.com/title/tt0113987/
+ratingValue: 
+directors: Oliver Stone
+actors: Anthony Hopkins, Joan Allen, Powers Boothe, Ed Harris, Bob Hoskins, E.G. Marshall, David Paymer, David Hyde Pierce, Paul Sorvino, Mary Steenburgen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3394
+title: Blind Date
+year: 1987
+url: https://www.imdb.com/title/tt0092666/
+ratingValue: 
+directors: Blake Edwards
+actors: Kim Basinger, Bruce Willis, John Larroquette, William Daniels, George Coe, Mark Blum, Phil Hartman, Stephanie Faracy, Alice Hirson, Graham Stark
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

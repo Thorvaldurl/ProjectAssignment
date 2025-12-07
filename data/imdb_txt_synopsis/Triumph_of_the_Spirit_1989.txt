@@ -1,0 +1,10 @@
+movieId: 5345
+title: Triumph of the Spirit
+year: 1989
+url: https://www.imdb.com/title/tt0098513/
+ratingValue: 
+directors: Robert M. Young
+actors: Willem Dafoe, Edward James Olmos, Robert Loggia, Wendy Gazelle, Kelly Wolf, Costas Mandylor, Kario Salem, Edward Zentara, Hartmut Becker, Burkhard Heyl
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1621
+title: Soul Food
+year: 1997
+url: https://www.imdb.com/title/tt0120169/
+ratingValue: 
+directors: George Tillman Jr.
+actors: Vanessa Williams, Vivica A. Fox, Nia Long, Michael Beach, Mekhi Phifer, Brandon Hammond, Jeffrey D. Sams, Gina Ravera, Irma P. Hall, Carl Wright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2008
+title: This World, Then the Fireworks
+year: 1997
+url: https://www.imdb.com/title/tt0117898/
+ratingValue: 
+directors: Michael Oblowitz
+actors: Billy Zane, Gina Gershon, Christian Durango, Sloan Cobb, Roberta Hanley, Megan Leigh Brown, Christopher Michael Jones, Orson Oblowitz, Philip Loch, Rue McClanahan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

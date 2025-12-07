@@ -1,0 +1,10 @@
+movieId: 7579
+title: Pride and Prejudice
+year: 1940
+url: https://www.imdb.com/title/tt0032943/
+ratingValue: 
+directors: Robert Z. Leonard
+actors: Greer Garson, Laurence Olivier, Mary Boland, Edna May Oliver, Maureen O'Sullivan, Ann Rutherford, Frieda Inescort, Edmund Gwenn, Karen Morley, Heather Angel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

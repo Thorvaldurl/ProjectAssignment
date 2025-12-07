@@ -1,0 +1,10 @@
+movieId: 389
+title: Colonel Chabert
+year: 1994
+url: https://www.imdb.com/title/tt0109454/
+ratingValue: 
+directors: Yves Angelo
+actors: Gérard Depardieu, Fanny Ardant, Fabrice Luchini, André Dussollier, Daniel Prévost, Olivier Saladin, Maxime Leroux, Eric Elmosnino, Guillaume Romain, Patrick Bordier
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

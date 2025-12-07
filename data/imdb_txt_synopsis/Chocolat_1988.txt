@@ -1,0 +1,10 @@
+movieId: 4703
+title: Chocolat
+year: 1988
+url: https://www.imdb.com/title/tt0094868/
+ratingValue: 
+directors: Claire Denis
+actors: Isaach De Bankolé, Giulia Boschi, François Cluzet, Jean-Claude Adelin, Laurent Arnal, Jean Bediebe, Jean-Quentin Châtelain, Emmanuelle Chaulet, Kenneth Cranham
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

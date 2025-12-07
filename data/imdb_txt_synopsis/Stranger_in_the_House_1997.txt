@@ -1,0 +1,10 @@
+movieId: 1718
+title: Stranger in the House
+year: 1997
+url: https://www.imdb.com/title/tt0120222/
+ratingValue: 
+directors: Rodney Gibbons
+actors: Michele Greene, Bruce Dinsmore, Steve Railsback, Kathleen Kinmont, Vlasta Vrana, Wendii Fulford, Una Kay, Larry Day, Tania Kontoyanni, Tyrone Benskin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6998
+title: House of Cards
+year: 1993
+url: https://www.imdb.com/title/tt0107148/
+ratingValue: 
+directors: Michael Lessac
+actors: Kathleen Turner, Tommy Lee Jones, Asha Menina, Shiloh Strong, Esther Rolle, Park Overall, Michael Horse, Anne Pitoniak, Joaquín Martínez, Jacqueline Cassell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

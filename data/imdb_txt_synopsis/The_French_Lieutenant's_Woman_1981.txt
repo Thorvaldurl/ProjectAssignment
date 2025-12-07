@@ -1,0 +1,10 @@
+movieId: 4784
+title: The French Lieutenant's Woman
+year: 1981
+url: https://www.imdb.com/title/tt0082416/
+ratingValue: 
+directors: Karel Reisz
+actors: Meryl Streep, Jeremy Irons, Hilton McRae, Emily Morgan, Charlotte Mitchell, Lynsey Baxter, Jean Faulds, Peter Vaughan, Colin Jeavons, Liz Smith
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

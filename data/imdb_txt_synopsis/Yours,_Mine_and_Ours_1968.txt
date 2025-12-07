@@ -1,0 +1,10 @@
+movieId: 26198
+title: Yours, Mine and Ours
+year: 1968
+url: https://www.imdb.com/title/tt0063829/
+ratingValue: 
+directors: Melville Shavelson
+actors: Lucille Ball, Henry Fonda, Van Johnson, Louise Troy, Sidney Miller, Tom Bosley, Nancy Howard, Walter Brooke, Tim Matheson, Gil Rogers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

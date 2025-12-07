@@ -1,0 +1,10 @@
+movieId: 848
+title: The Spitfire Grill
+year: 1996
+url: https://www.imdb.com/title/tt0117718/
+ratingValue: 
+directors: Lee David Zlotoff
+actors: Alison Elliott, Ellen Burstyn, Marcia Gay Harden, Will Patton, Kieran Mulroney, Gailard Sartain, John M. Jackson, Louise De Cormier, Ida Griesemer, Lincoln Grow
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

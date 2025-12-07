@@ -1,0 +1,10 @@
+movieId: 409
+title: Above the Rim
+year: 1994
+url: https://www.imdb.com/title/tt0109035/
+ratingValue: 
+directors: Jeff Pollack
+actors: Duane Martin, Leon, Tupac Shakur, David Bailey, Tonya Pinkins, Marlon Wayans, Bernie Mac, Byron Minns, Wood Harris, Shawn Michael Howard
+
+synopsis:
+Leon in this film plays basketball by himself with no ball

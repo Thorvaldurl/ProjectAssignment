@@ -1,0 +1,10 @@
+movieId: 1526
+title: Fathers' Day
+year: 1997
+url: https://www.imdb.com/title/tt0119109/
+ratingValue: 
+directors: Ivan Reitman
+actors: Robin Williams, Billy Crystal, Julia Louis-Dreyfus, Nastassja Kinski, Charlie Hofheimer, Bruce Greenwood, Dennis Burkley, Haylie Johnson, Charles Rocket, Patti D'Arbanville
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

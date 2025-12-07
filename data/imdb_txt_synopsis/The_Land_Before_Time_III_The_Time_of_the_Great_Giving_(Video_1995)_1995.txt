@@ -1,0 +1,10 @@
+movieId: 888
+title: The Land Before Time III: The Time of the Great Giving (Video 1995)
+year: 1995
+url: https://www.imdb.com/title/tt0113596/
+ratingValue: 
+directors: Roy Allen Smith
+actors: Scott McAfee, Candace Hutson, Heather Hogan, Jeff Bennett, Rob Paulsen, John Ingle, Linda Gary, Whit Flint, Nicholas Guest
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

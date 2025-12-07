@@ -1,0 +1,10 @@
+movieId: 6720
+title: Kuffs
+year: 1992
+url: https://www.imdb.com/title/tt0104647/
+ratingValue: 
+directors: Bruce A. Evans
+actors: Christian Slater, Milla Jovovich, Ric Roman Waugh, Steve Holladay, Chad Randall, Clarke Coleman, Leon Rippy, Craig Benton, Ashley Judd, Bruce Boxleitner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

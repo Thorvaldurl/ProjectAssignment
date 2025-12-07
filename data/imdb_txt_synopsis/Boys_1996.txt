@@ -1,0 +1,10 @@
+movieId: 703
+title: Boys
+year: 1996
+url: https://www.imdb.com/title/tt0115742/
+ratingValue: 
+directors: Stacy Cochran
+actors: Winona Ryder, Lukas Haas, John C. Reilly, James Le Gros, Skeet Ulrich, Matt Malloy, Spencer Vrooman, Charlie Hofheimer, Bill Sage, Marty McDonough
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

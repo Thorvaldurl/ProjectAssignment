@@ -1,0 +1,10 @@
+movieId: 2973
+title: Crimes and Misdemeanors
+year: 1989
+url: https://www.imdb.com/title/tt0097123/
+ratingValue: 
+directors: Woody Allen
+actors: Bill Bernstein, Martin Landau, Claire Bloom, Stephanie Roth Haberle, Gregg Edelman, George J. Manos, Anjelica Huston, Woody Allen, Jenny Nichols, Joanna Gleason
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

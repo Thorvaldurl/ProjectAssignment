@@ -1,0 +1,10 @@
+movieId: 3459
+title: Gothic
+year: 1986
+url: https://www.imdb.com/title/tt0091142/
+ratingValue: 
+directors: Ken Russell
+actors: Gabriel Byrne, Julian Sands, Natasha Richardson, Myriam Cyr, Timothy Spall, Alec Mango, Andreas Wisniewski, Dexter Fletcher, Pascal King, Tom Hickey
+
+synopsis:
+Through her half-sister Claire Clairmont [Miriam Cyr], Mary Godwin [Natasha Richardson] and her future husband Percy Shelley [Julian Sands] came to know Lord Byron [Gabriel Byrne]. During the summer of 1816, Lord Byron invited them to stay for a while at his Villa Diodati in Switzerland. There they met Byron's physician friend Dr John Polidori [Timothy Spall]. On June 16th, while a storm raged outside, the five of them amused themselves by telling ghost stories and revealing private skeletons. From Mary's previous experience of miscarriage came the desire to raise her child from the dead which led to the creation of the Frankenstein monster. From Polidori's homosexuality, suicidal thoughts, and fascination with vampires came the story "The Vampyre".

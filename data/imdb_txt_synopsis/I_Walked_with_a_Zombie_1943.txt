@@ -1,0 +1,10 @@
+movieId: 7883
+title: I Walked with a Zombie
+year: 1943
+url: https://www.imdb.com/title/tt0036027/
+ratingValue: 
+directors: Jacques Tourneur
+actors: James Ellison, Frances Dee, Tom Conway, Edith Barrett, James Bell, Christine Gordon, Theresa Harris, Sir Lancelot, Darby Jones, Jeni Le Gon
+
+synopsis:
+Betsy (Frances Dee), an American nurse, is sent to Haiti to work for planter Paul Holland (Tom Conway), who is taking care of his sick wife Jessica (Christine Gordon). It does not take long for Betsy to realize that Jessica's malady is most unusual. Paul is convinced that his wife is insane, and in fact, he is sure that he made her that way. The local natives, however, are convinced that Jessica is a zombie, one of the walking dead, and that her lifeless appearance, even during movement, seems to confirm their suspicions. As time goes by, Betsy get to know the other members of Paul's family, His mother (Edith Barrett) is a woman caught between her strong belief in the church and a belief in the powers of voodoo. She too is tormented by her certainty that she turned Jessica into a zombie. Wesley Rand (James Ellison), Paul's half-brother, has always loved Jessica, and hated Paul for treating her so poorly. He seems intent on drinking himself to death. All in all, the house is in a troubled state. Then to complicate matters, Paul and Betsy fall in love. They wish to marry, but cannot because Paul's wife is still alive... medically speaking... and he refuses to desert her in her sad state for which he feels responsible. Although Betsy realizes that she may lose Paul if Jessica returns to health, she sets out to cure her patient. But all fails, including shock treatments from Dr. Maxwell (James Bell) and taking her to a voodoo ceremony. It appears that nothing can rescue the Rand family form being a permanent state of limbo. Then Wesley comes up with a solution: he stabs Jessica and walks her into the ocean... before the voodoo priest can lay claim to her. Wesley will be with Jessica forever in death, while Betsy and Paul unite in life.

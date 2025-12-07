@@ -1,0 +1,10 @@
+movieId: 7032
+title: Revenge
+year: 1990
+url: https://www.imdb.com/title/tt0100485/
+ratingValue: 
+directors: Tony Scott
+actors: Kevin Costner, Anthony Quinn, Madeleine Stowe, Tomas Milian, Joaquín Martínez, James Gammon, Jesse Corti, Sally Kirkland, Luis de Icaza, Gerardo Zepeda
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

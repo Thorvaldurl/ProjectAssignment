@@ -1,0 +1,10 @@
+movieId: 4152
+title: Vatel
+year: 2000
+url: https://www.imdb.com/title/tt0190861/
+ratingValue: 
+directors: Roland Joffé
+actors: Gérard Depardieu, Uma Thurman, Tim Roth, Julian Glover, Julian Sands, Timothy Spall, Murray Lachlan Young, Hywel Bennett, Richard Griffiths, Arielle Dombasle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

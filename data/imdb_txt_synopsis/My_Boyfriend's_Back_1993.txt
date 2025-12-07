@@ -1,0 +1,10 @@
+movieId: 2552
+title: My Boyfriend's Back
+year: 1993
+url: https://www.imdb.com/title/tt0107626/
+ratingValue: 
+directors: Bob Balaban
+actors: Andrew Lowery, Traci Lind, Danny Zorn, Edward Herrmann, Mary Beth Hurt, Jay O. Sanders, Libby Villari, Matthew Fox, Philip Seymour Hoffman, Paul Dooley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

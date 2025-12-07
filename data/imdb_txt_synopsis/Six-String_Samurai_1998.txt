@@ -1,0 +1,10 @@
+movieId: 2275
+title: Six-String Samurai
+year: 1998
+url: https://www.imdb.com/title/tt0118736/
+ratingValue: 
+directors: Lance Mungia
+actors: Jeffrey Falcon, Justin McGuire, Kim De Angelo, Stephane Gauger, Clifford Hugo, Oleg Bernov, Igor Yuzov, Zhenya Kolykhanov, George L. Casillas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

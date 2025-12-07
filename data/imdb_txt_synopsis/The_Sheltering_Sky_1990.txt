@@ -1,0 +1,10 @@
+movieId: 2283
+title: The Sheltering Sky
+year: 1990
+url: https://www.imdb.com/title/tt0100594/
+ratingValue: 
+directors: Bernardo Bertolucci
+actors: Debra Winger, John Malkovich, Campbell Scott, Jill Bennett, Timothy Spall, Eric Vu-An, Amina Annabi, Philippe Morier-Genoud, Sotigui Kouyaté, Tom Novembre
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

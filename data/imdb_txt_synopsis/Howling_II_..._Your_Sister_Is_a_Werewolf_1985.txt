@@ -1,0 +1,10 @@
+movieId: 2655
+title: Howling II: ... Your Sister Is a Werewolf
+year: 1985
+url: https://www.imdb.com/title/tt0089308/
+ratingValue: 
+directors: Philippe Mora
+actors: Christopher Lee, Annie McEnroe, Reb Brown, Marsha Hunt, Sybil Danning, Judd Omen, Ferdy Mayne, Patrick Field, Jimmy Nail, Steven Bronowski
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

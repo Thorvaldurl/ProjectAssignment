@@ -1,0 +1,10 @@
+movieId: 4373
+title: Pootie Tang
+year: 2001
+url: https://www.imdb.com/title/tt0258038/
+ratingValue: 
+directors: Louis C.K.
+actors: Lance Crouther, J.B. Smoove, Jennifer Coolidge, Reg E. Cathey, Robert Vaughn, Wanda Sykes, Chris Rock, Mario Joyner, Cathy Trien, Dave Attell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

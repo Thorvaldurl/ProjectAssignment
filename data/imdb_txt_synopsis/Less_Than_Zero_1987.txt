@@ -1,0 +1,10 @@
+movieId: 4126
+title: Less Than Zero
+year: 1987
+url: https://www.imdb.com/title/tt0093407/
+ratingValue: 
+directors: Marek Kanievska
+actors: Andrew McCarthy, Jami Gertz, Robert Downey Jr., James Spader, Tony Bill, Nicholas Pryor, Donna Mitchell, Michael Bowen, Sarah Buxton, Lisanne Falk
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

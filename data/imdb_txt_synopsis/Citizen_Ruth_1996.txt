@@ -1,0 +1,10 @@
+movieId: 1392
+title: Citizen Ruth
+year: 1996
+url: https://www.imdb.com/title/tt0115906/
+ratingValue: 
+directors: Alexander Payne
+actors: Laura Dern, Swoosie Kurtz, Kurtwood Smith, Mary Kay Place, Kelly Preston, M.C. Gainey, Kenneth Mars, David Graf, Kathleen Noone, Tippi Hedren
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

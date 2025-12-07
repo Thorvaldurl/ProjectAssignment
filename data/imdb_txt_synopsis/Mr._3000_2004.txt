@@ -1,0 +1,10 @@
+movieId: 8864
+title: Mr. 3000
+year: 2004
+url: https://www.imdb.com/title/tt0339412/
+ratingValue: 
+directors: Charles Stone III
+actors: Bernie Mac, Angela Bassett, Michael Rispoli, Brian White, Ian Anthony Dale, Evan Jones, Amaury Nolasco, Dondré T. Whitfield, Paul Sorvino, Earl Billings
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 99
+title: Heidi Fleiss: Hollywood Madam (TV Movie 1995)
+year: 1995
+url: https://www.imdb.com/title/tt0113283/
+ratingValue: 
+directors: Nick Broomfield
+actors: Nick Broomfield, Nina Xining Zuo, Madam Alex, Corinne Bohrer, Mike Brambles, Cookie, Elisa Fleiss, Heidi Fleiss, Jason Fleiss
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

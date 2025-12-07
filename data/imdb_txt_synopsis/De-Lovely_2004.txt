@@ -1,0 +1,10 @@
+movieId: 8535
+title: De-Lovely
+year: 2004
+url: https://www.imdb.com/title/tt0352277/
+ratingValue: 
+directors: Irwin Winkler
+actors: Kevin Kline, Ashley Judd, Jonathan Pryce, Kevin McNally, Sandra Nelson, Allan Corduner, Peter Polycarpou, Keith Allen, James Wilby, Kevin McKidd
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

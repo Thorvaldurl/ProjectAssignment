@@ -1,0 +1,10 @@
+movieId: 7167
+title: Japanese Story
+year: 2003
+url: https://www.imdb.com/title/tt0304229/
+ratingValue: 
+directors: Sue Brooks
+actors: Toni Collette, Gotaro Tsunashima, Matt Dyktynski, Lynette Curran, Yumiko Tanaka, Kate Atkinson, Bill Young, Reg Evans, George Shevtsov, Justine Clarke
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6254
+title: The Awful Truth
+year: 1937
+url: https://www.imdb.com/title/tt0028597/
+ratingValue: 
+directors: Leo McCarey
+actors: Irene Dunne, Cary Grant, Ralph Bellamy, Alexander D'Arcy, Cecil Cunningham, Molly Lamont, Esther Dale, Joyce Compton, Robert Allen, Robert Warwick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

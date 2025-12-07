@@ -1,0 +1,10 @@
+movieId: 1390
+title: My Fellow Americans
+year: 1996
+url: https://www.imdb.com/title/tt0117119/
+ratingValue: 
+directors: Peter Segal
+actors: Jack Lemmon, James Garner, Dan Aykroyd, John Heard, Wilford Brimley, Lauren Bacall, Sela Ward, Everett McGill, Bradley Whitford, James Rebhorn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

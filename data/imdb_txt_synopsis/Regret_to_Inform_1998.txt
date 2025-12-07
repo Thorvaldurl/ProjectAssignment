@@ -1,0 +1,10 @@
+movieId: 3609
+title: Regret to Inform
+year: 1998
+url: https://www.imdb.com/title/tt0181786/
+ratingValue: 
+directors: Barbara Sonneborn
+actors: Xuan Ngoc Nguyen, Barbara Sonneborn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

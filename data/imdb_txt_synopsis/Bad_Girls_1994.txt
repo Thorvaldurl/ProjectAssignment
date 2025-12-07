@@ -1,0 +1,10 @@
+movieId: 416
+title: Bad Girls
+year: 1994
+url: https://www.imdb.com/title/tt0109198/
+ratingValue: 
+directors: Jonathan Kaplan
+actors: Madeleine Stowe, Mary Stuart Masterson, Andie MacDowell, Drew Barrymore, James Russo, James Le Gros, Robert Loggia, Dermot Mulroney, Jim Beaver, Nick Chinlund
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

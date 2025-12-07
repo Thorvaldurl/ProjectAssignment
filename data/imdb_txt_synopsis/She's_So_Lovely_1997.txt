@@ -1,0 +1,10 @@
+movieId: 1600
+title: She's So Lovely
+year: 1997
+url: https://www.imdb.com/title/tt0120112/
+ratingValue: 
+directors: Nick Cassavetes
+actors: Robin Wright, James Gandolfini, Susan Traylor, Harry Dean Stanton, Debi Mazar, Bobby Cooper, John Marshall Jones, Chloe Webb, Sean Penn, James Soravilla
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

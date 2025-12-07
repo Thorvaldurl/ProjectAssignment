@@ -1,0 +1,10 @@
+movieId: 6547
+title: Northfork
+year: 2003
+url: https://www.imdb.com/title/tt0322659/
+ratingValue: 
+directors: Michael Polish
+actors: James Woods, Nick Nolte, Douglas Sebern, Claire Forlani, Duel Farnes, Mark Polish, Daryl Hannah, Graham Beckel, Josh Barker, Peter Coyote
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

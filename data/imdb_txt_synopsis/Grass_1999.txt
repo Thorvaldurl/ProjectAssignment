@@ -1,0 +1,10 @@
+movieId: 7124
+title: Grass
+year: 1999
+url: https://www.imdb.com/title/tt0214730/
+ratingValue: 
+directors: Ron Mann
+actors: Woody Harrelson, Harry J. Anslinger, George Bush, Cab Calloway, Jimmy Carter, Chevy Chase, Tommy Chong, Dwight D. Eisenhower, Gerald Ford
+
+synopsis:
+A truthful look into the history of marijuana and how it has both positively and negatively impacted our society. It also covers the "Drug War" that has been started by the President, namely Reagan, and how it has squandered funds in order to rid the world of what it believes to be dangerous. It spans from its introduction to American society and covers until present (1999).

@@ -1,0 +1,10 @@
+movieId: 3310
+title: The Kid
+year: 1921
+url: https://www.imdb.com/title/tt0012349/
+ratingValue: 
+directors: Charles Chaplin
+actors: Charles Chaplin, Jackie Coogan, Carl Miller, Edna Purviance, Albert Austin, Beulah Bains, Nellie Bly Baker, Henry Bergman, Edward Biby
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

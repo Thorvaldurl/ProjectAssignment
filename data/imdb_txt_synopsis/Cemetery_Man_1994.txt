@@ -1,0 +1,10 @@
+movieId: 735
+title: Cemetery Man
+year: 1994
+url: https://www.imdb.com/title/tt0109592/
+ratingValue: 
+directors: Michele Soavi
+actors: Rupert Everett, François Hadji-Lazaro, Anna Falchi, Mickey Knox, Fabiana Formica, Clive Riche, Katja Anton, Barbara Cupisti, Anton Alexander, Pietro Genuardi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

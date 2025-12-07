@@ -1,0 +1,10 @@
+movieId: 2075
+title: Mephisto
+year: 1981
+url: https://www.imdb.com/title/tt0082736/
+ratingValue: 
+directors: István Szabó
+actors: Klaus Maria Brandauer, Ildikó Bánsági, Krystyna Janda, Rolf Hoppe, György Cserhalmi, Péter Andorai, Karin Boyd, Christine Harbort, Tamás Major, Ildikó Kishonti
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

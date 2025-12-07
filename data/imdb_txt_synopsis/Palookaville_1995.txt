@@ -1,0 +1,10 @@
+movieId: 1112
+title: Palookaville
+year: 1995
+url: https://www.imdb.com/title/tt0117284/
+ratingValue: 
+directors: Alan Taylor
+actors: William Forsythe, Vincent Gallo, Adam Trese, Gareth Williams, LisaGay Hamilton, Bridgit Ryan, Kim Dickens, Suzanne Shepherd, Nicole Burdette, Robert LuPone
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

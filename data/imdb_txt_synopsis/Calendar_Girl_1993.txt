@@ -1,0 +1,10 @@
+movieId: 430
+title: Calendar Girl
+year: 1993
+url: https://www.imdb.com/title/tt0106505/
+ratingValue: 
+directors: John Whitesell
+actors: Jason Priestley, Gabriel Olds, Jerry O'Connell, Joe Pantoliano, Steve Railsback, Kurt Fuller, Stephen Tobolowsky, Emily Warfield, Michael Quill, Leslie Wing
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

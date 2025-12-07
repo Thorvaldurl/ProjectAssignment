@@ -1,0 +1,10 @@
+movieId: 5375
+title: The Harvey Girls
+year: 1946
+url: https://www.imdb.com/title/tt0038589/
+ratingValue: 
+directors: George Sidney
+actors: Judy Garland, John Hodiak, Ray Bolger, Angela Lansbury, Preston Foster, Virginia O'Brien, Kenny Baker, Marjorie Main, Chill Wills, Selena Royle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

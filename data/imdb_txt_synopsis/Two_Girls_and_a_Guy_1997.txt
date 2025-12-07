@@ -1,0 +1,10 @@
+movieId: 1816
+title: Two Girls and a Guy
+year: 1997
+url: https://www.imdb.com/title/tt0124179/
+ratingValue: 
+directors: James Toback
+actors: Natasha Gregson Wagner, Heather Graham, Angel David, Frederique Van Der Wal, Robert Downey Jr.
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

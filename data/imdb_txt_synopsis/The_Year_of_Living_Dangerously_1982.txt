@@ -1,0 +1,10 @@
+movieId: 2919
+title: The Year of Living Dangerously
+year: 1982
+url: https://www.imdb.com/title/tt0086617/
+ratingValue: 
+directors: Peter Weir
+actors: Linda Hunt, Mel Gibson, Bembol Roco, Domingo Landicho, Hermino De Guzman, Michael Murphy, Noel Ferrier, Paul Sonkkila, Ali Nur, Dominador Robridillo
+
+synopsis:
+A rookie Australian journalist, covering the Indonesian civil war of 1965, must choose between romance and the story that will make his career.

@@ -1,0 +1,10 @@
+movieId: 4146
+title: The Million Dollar Hotel
+year: 2000
+url: https://www.imdb.com/title/tt0120753/
+ratingValue: 
+directors: Wim Wenders
+actors: Jeremy Davies, Milla Jovovich, Mel Gibson, Jimmy Smits, Peter Stormare, Amanda Plummer, Gloria Stuart, Tom Bower, Donal Logue, Bud Cort
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

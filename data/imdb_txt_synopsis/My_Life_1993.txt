@@ -1,0 +1,10 @@
+movieId: 3502
+title: My Life
+year: 1993
+url: https://www.imdb.com/title/tt0107630/
+ratingValue: 
+directors: Bruce Joel Rubin
+actors: Michael Keaton, Nicole Kidman, Bradley Whitford, Queen Latifah, Michael Constantine, Rebecca Schull, Mark Lowenthal, Lee Garlington, Toni Sawyer, Haing S. Ngor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

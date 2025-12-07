@@ -1,0 +1,10 @@
+movieId: 7333
+title: Le Corbeau
+year: 1943
+url: https://www.imdb.com/title/tt0035753/
+ratingValue: 
+directors: Henri-Georges Clouzot
+actors: Pierre Fresnay, Ginette Leclerc, Micheline Francey, Héléna Manson, Jeanne Fusier-Gir, Sylvie, Liliane Maigné, Pierre Larquey, Noël Roquevert, Bernard Lancret
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

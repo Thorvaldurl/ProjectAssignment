@@ -1,0 +1,10 @@
+movieId: 2516
+title: Children of the Corn III: Urban Harvest
+year: 1995
+url: https://www.imdb.com/title/tt0109415/
+ratingValue: 
+directors: James D.R. Hickox
+actors: Daniel Cerny, Ron Melendez, Jim Metzler, Nancy Lee Grahn, Jon Clair, Mari Morrow, Michael Ensign, Duke Stroud, Rif Hutton, Garvin Funches
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2573
+title: Tango
+year: 1998
+url: https://www.imdb.com/title/tt0120274/
+ratingValue: 
+directors: Carlos Saura
+actors: Miguel Ángel Solá, Cecilia Narova, Mía Maestro, Juan Carlos Copes, Carlos Rivarola, Sandra Ballesteros, Óscar Cardozo Ocampo, Enrique Pinti, Julio Bocca, Juan Luis Galiardo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

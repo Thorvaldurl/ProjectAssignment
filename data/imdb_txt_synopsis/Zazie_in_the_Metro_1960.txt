@@ -1,0 +1,10 @@
+movieId: 8189
+title: Zazie in the Metro
+year: 1960
+url: https://www.imdb.com/title/tt0054494/
+ratingValue: 
+directors: Louis Malle
+actors: Catherine Demongeot, Philippe Noiret, Hubert Deschamps, Carla Marlier, Annie Fratellini, Vittorio Caprioli, Jacques Dufilho, Yvonne Clech, Odette Piquet, Nicolas Bataille
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

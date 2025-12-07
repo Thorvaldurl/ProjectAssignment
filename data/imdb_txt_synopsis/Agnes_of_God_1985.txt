@@ -1,0 +1,10 @@
+movieId: 3251
+title: Agnes of God
+year: 1985
+url: https://www.imdb.com/title/tt0088683/
+ratingValue: 
+directors: Norman Jewison
+actors: Jane Fonda, Anne Bancroft, Meg Tilly, Anne Pitoniak, Winston Rekert, Gratien Gélinas, Guy Hoffmann, Gabriel Arcand, Françoise Faucher, Jacques Tourangeau
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

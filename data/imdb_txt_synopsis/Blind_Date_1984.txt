@@ -1,0 +1,10 @@
+movieId: 6044
+title: Blind Date
+year: 1984
+url: https://www.imdb.com/title/tt0086978/
+ratingValue: 
+directors: Nico Mastorakis
+actors: Joseph Bottoms, Kirstie Alley, James Daughton, Lana Clarkson, Keir Dullea, Charles Nicklin, Michael Howe, Gerard Kelly, Gerry Sundquist, Marina Sirtis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

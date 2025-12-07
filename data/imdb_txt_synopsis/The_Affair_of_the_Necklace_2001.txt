@@ -1,0 +1,10 @@
+movieId: 4959
+title: The Affair of the Necklace
+year: 2001
+url: https://www.imdb.com/title/tt0242252/
+ratingValue: 
+directors: Charles Shyer
+actors: Hilary Swank, Jonathan Pryce, Simon Baker, Adrien Brody, Brian Cox, Joely Richardson, Christopher Walken, Hayden Panettiere, Simon Kunz, Paul Brooke
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

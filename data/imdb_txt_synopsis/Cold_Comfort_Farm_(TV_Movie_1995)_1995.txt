@@ -1,0 +1,10 @@
+movieId: 728
+title: Cold Comfort Farm (TV Movie 1995)
+year: 1995
+url: https://www.imdb.com/title/tt0112701/
+ratingValue: 
+directors: John Schlesinger
+actors: Eileen Atkins, Kate Beckinsale, Sheila Burrell, Stephen Fry, Freddie Jones, Joanna Lumley, Ian McKellen, Miriam Margolyes, Rufus Sewell, Ivan Kaye
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

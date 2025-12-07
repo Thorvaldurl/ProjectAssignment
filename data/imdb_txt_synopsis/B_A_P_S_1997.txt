@@ -1,0 +1,10 @@
+movieId: 1490
+title: B*A*P*S
+year: 1997
+url: https://www.imdb.com/title/tt0118663/
+ratingValue: 
+directors: Robert Townsend
+actors: Halle Berry, Martin Landau, Ian Richardson, Natalie Desselle Reid, Troy Byer, Luigi Amodeo, Jonathan Fried, Pierre Edwards, Anthony Johnson, Bernie Mac
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

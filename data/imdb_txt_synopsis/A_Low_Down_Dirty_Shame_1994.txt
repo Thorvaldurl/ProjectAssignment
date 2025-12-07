@@ -1,0 +1,10 @@
+movieId: 387
+title: A Low Down Dirty Shame
+year: 1994
+url: https://www.imdb.com/title/tt0110399/
+ratingValue: 
+directors: Keenen Ivory Wayans
+actors: Keenen Ivory Wayans, Charles S. Dutton, Jada Pinkett Smith, Salli Richardson-Whitfield, Andrew Divoff, Corwin Hawkins, Gary Carlos Cervantes, Gregory Sierra, Kim Wayans, Andrew Shaifer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

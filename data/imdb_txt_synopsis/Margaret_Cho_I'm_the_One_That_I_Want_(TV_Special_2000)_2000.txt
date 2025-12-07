@@ -1,0 +1,10 @@
+movieId: 3851
+title: Margaret Cho: I'm the One That I Want (TV Special 2000)
+year: 2000
+url: https://www.imdb.com/title/tt0251739/
+ratingValue: 
+directors: Lionel Coleman
+actors: Margaret Cho
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

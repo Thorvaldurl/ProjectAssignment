@@ -1,0 +1,10 @@
+movieId: 6220
+title: Willard
+year: 2003
+url: https://www.imdb.com/title/tt0310357/
+ratingValue: 
+directors: Glen Morgan
+actors: Crispin Glover, R. Lee Ermey, Laura Harring, Jackie Burroughs, Ashlyn Gere, William S. Taylor, Edward Horn, Gus Lynch, Laara Sadiq, David Parker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

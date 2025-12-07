@@ -1,0 +1,10 @@
+movieId: 2280
+title: Clay Pigeons
+year: 1998
+url: https://www.imdb.com/title/tt0118863/
+ratingValue: 
+directors: David Dobkin
+actors: Joaquin Phoenix, Gregory Sporleder, Georgina Cates, Scott Wilson, Vince Vieluf, Wayne Brennan, Joseph D. Reitman, Vince Vaughn, Nicole Arlyn, Jeff Olson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

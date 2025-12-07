@@ -1,0 +1,10 @@
+movieId: 4434
+title: The 10th Victim
+year: 1965
+url: https://www.imdb.com/title/tt0059095/
+ratingValue: 
+directors: Elio Petri
+actors: Marcello Mastroianni, Ursula Andress, Elsa Martinelli, Salvo Randone, Massimo Serato, Milo Quesada, Luce Bonifassy, George Wang, Evi Rigano, Walter Williams
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

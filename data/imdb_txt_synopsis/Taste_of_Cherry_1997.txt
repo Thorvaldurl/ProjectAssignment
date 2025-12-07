@@ -1,0 +1,10 @@
+movieId: 1859
+title: Taste of Cherry
+year: 1997
+url: https://www.imdb.com/title/tt0120265/
+ratingValue: 
+directors: Abbas Kiarostami
+actors: Homayoun Ershadi, Abdolhosein Bagheri, Afshin Khorshid Bakhtiari, Safar Ali Moradi, Mir Hossein Noori, Ahmad Ansari, Hamid Masoumi, Elham Imani
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

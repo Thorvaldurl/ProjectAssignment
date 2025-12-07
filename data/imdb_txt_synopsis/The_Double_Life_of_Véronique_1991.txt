@@ -1,0 +1,10 @@
+movieId: 1176
+title: The Double Life of Véronique
+year: 1991
+url: https://www.imdb.com/title/tt0101765/
+ratingValue: 
+directors: Krzysztof Kieslowski
+actors: Irène Jacob, Halina Gryglaszewska, Kalina Jedrusik, Aleksander Bardini, Wladyslaw Kowalski, Jerzy Gudejko, Janusz Sterninski, Philippe Volter, Sandrine Dumas, Louis Ducreux
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

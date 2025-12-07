@@ -1,0 +1,10 @@
+movieId: 4965
+title: The Business of Strangers
+year: 2001
+url: https://www.imdb.com/title/tt0270259/
+ratingValue: 
+directors: Patrick Stettner
+actors: Stockard Channing, Julia Stiles, Frederick Weller, Mary Testa, Jack Hallett, Marcus Giamatti, Buddy Fitzpatrick, Salem Ludwig, Shelagh Ratner, Tony Devon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

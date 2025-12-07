@@ -1,0 +1,10 @@
+movieId: 606
+title: Candyman: Farewell to the Flesh
+year: 1995
+url: https://www.imdb.com/title/tt0112625/
+ratingValue: 
+directors: Bill Condon
+actors: Caroline Barclay, Michael Bergeron, Brianna Blanchard, Clotiel Bordeltier, Russell Buchanan, Nate Bynum, Sandy Byrd, Eric Cadora, Timothy Carhart
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

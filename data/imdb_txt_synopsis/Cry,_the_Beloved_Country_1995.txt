@@ -1,0 +1,10 @@
+movieId: 40
+title: Cry, the Beloved Country
+year: 1995
+url: https://www.imdb.com/title/tt0112749/
+ratingValue: 
+directors: Darrell Roodt
+actors: James Earl Jones, Richard Harris, Vusi Kunene, Charles S. Dutton, Tsholofelo Wechoemang, Dolly Rathebe, Ramolao Makhene, Jack Robinson, Jennifer Steyn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

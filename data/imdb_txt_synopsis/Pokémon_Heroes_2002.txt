@@ -1,0 +1,10 @@
+movieId: 6371
+title: Pokémon Heroes
+year: 2002
+url: https://www.imdb.com/title/tt0347791/
+ratingValue: 
+directors: Jim Malone, Kunihiko Yuyama
+actors: Rica Matsumoto, Veronica Taylor, Rachael Lillis, Mayumi Izuka, Eric Stuart, Madeleine Blaustein, Yûji Ueda, Ikue Ôtani
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

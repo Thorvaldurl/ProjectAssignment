@@ -1,0 +1,10 @@
+movieId: 2765
+title: The Acid House
+year: 1998
+url: https://www.imdb.com/title/tt0122515/
+ratingValue: 
+directors: Paul McGuigan
+actors: Stephen McCole, Maurice Roëves, Garry Sweeney, Jenny McCrindle, Simon Weir, Iain Andrew, Irvine Welsh, Pat Stanton, Alex Howden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

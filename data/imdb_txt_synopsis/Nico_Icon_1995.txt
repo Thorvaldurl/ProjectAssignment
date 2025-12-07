@@ -1,0 +1,10 @@
+movieId: 77
+title: Nico Icon
+year: 1995
+url: https://www.imdb.com/title/tt0113973/
+ratingValue: 
+directors: Susanne Ofteringer
+actors: Nico, Tina Aumont, Christian Päffgen, Edith Boulogne, Jackson Browne, John Cale, Danny Fields, Carlos De Maldonado-Bostock, Jonas Mekas, Paul Morrissey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

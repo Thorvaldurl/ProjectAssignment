@@ -1,0 +1,10 @@
+movieId: 4847
+title: Fat Girl
+year: 2001
+url: https://www.imdb.com/title/tt0243255/
+ratingValue: 
+directors: Catherine Breillat
+actors: Anaïs Reboux, Roxane Mesquida, Libero De Rienzo, Arsinée Khanjian, Romain Goupil, Laura Betti, Albert Goldberg, Odette Barrière, Ann Matthijsse, Pierre Renverseau
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

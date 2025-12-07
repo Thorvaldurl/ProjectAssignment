@@ -1,0 +1,10 @@
+movieId: 3628
+title: Flying Tigers
+year: 1942
+url: https://www.imdb.com/title/tt0034742/
+ratingValue: 
+directors: David Miller
+actors: John Wayne, John Carroll, Anna Lee, Paul Kelly, Gordon Jones, Mae Clarke, Addison Richards, Edmund MacDonald, Bill Shirley, Tom Neal
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

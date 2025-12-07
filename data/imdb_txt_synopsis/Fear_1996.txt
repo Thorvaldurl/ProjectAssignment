@@ -1,0 +1,10 @@
+movieId: 662
+title: Fear
+year: 1996
+url: https://www.imdb.com/title/tt0116287/
+ratingValue: 
+directors: James Foley
+actors: Mark Wahlberg, Reese Witherspoon, William Petersen, Amy Brenneman, Alyssa Milano, Christopher Gray, Tracy Fraim, Gary Riley, Jason Kristofer, Jed Rees
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

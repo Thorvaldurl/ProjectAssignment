@@ -1,0 +1,10 @@
+movieId: 117
+title: The Young Poisoner's Handbook
+year: 1995
+url: https://www.imdb.com/title/tt0115033/
+ratingValue: 
+directors: Benjamin Ross
+actors: Tobias Arnold, Ruth Sheen, Roger Lloyd Pack, Hugh O'Conor, Norman Caro, Dorothea Alexander, Charlotte Coleman, Paul Stacey, Samantha Edmonds
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

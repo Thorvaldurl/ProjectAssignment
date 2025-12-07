@@ -1,0 +1,10 @@
+movieId: 5187
+title: Hopscotch
+year: 1980
+url: https://www.imdb.com/title/tt0080889/
+ratingValue: 
+directors: Ronald Neame
+actors: Walter Matthau, Glenda Jackson, Sam Waterston, Ned Beatty, Herbert Lom, David Matthau, George Baker, Ivor Roberts, Lucy Saroyan, Severn Darden
+
+synopsis:
+CIA agent Miles Kendig (Walter Matthau) has seen it all in his service with the agency. His many years as an agent has provided him with all the dirt there is, and now Kendig wants out. But it's not that easy and his incompetent chief (Ned Beatty) wants to ensure that all of those secrets never get out. Kendig (Matthau) decides that the only way he can every leave the agency is to write a book revealing all of the dirty little secrets that Meyerson (Beatty) is hiding. What ensues is a comedic game of hopscotch as Kendig tries to stay one step ahead of Meyerson's agents. To make matters worse, Meyerson sends Kendig's protege', Joe Cutter (Sam Waterson) after him. All along the way, Kendig churns out one chapter after another with Meyerson, Cutter and an agency of incompetents hot on his trail. Kendig enlists the help of his love interest Isobel (Glenda Jackson) in staying ahead of the game. With the help of Isobel, Kendig finally gets his novel completed, and arranges a twist to ensure that Meyerson, Cutter and the agency won't ever bother him again.

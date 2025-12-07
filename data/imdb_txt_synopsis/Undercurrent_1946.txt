@@ -1,0 +1,10 @@
+movieId: 7772
+title: Undercurrent
+year: 1946
+url: https://www.imdb.com/title/tt0039066/
+ratingValue: 
+directors: Vincente Minnelli
+actors: Katharine Hepburn, Robert Taylor, Robert Mitchum, Edmund Gwenn, Marjorie Main, Jayne Meadows, Clinton Sundberg, Dan Tobin, Kathryn Card, Leigh Whipper
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

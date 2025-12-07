@@ -1,0 +1,10 @@
+movieId: 1449
+title: Waiting for Guffman
+year: 1996
+url: https://www.imdb.com/title/tt0118111/
+ratingValue: 
+directors: Christopher Guest
+actors: Deborah Theaker, Michael Hitchcock, Scott Williamson, Larry Miller, Don Lake, Christopher Guest, Fred Willard, Catherine O'Hara, Parker Posey, David Cross
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

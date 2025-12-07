@@ -1,0 +1,10 @@
+movieId: 2172
+title: All I Wanna Do!
+year: 1998
+url: https://www.imdb.com/title/tt0120692/
+ratingValue: 
+directors: Sarah Kernochan
+actors: Kirsten Dunst, Gaby Hoffmann, Lynn Redgrave, Rachael Leigh Cook, Tom Guiry, Vincent Kartheiser, Monica Keena, Matthew Lawrence, Heather Matarazzo, Merritt Wever
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

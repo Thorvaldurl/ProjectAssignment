@@ -1,0 +1,10 @@
+movieId: 3410
+title: Soft Fruit
+year: 1999
+url: https://www.imdb.com/title/tt0180181/
+ratingValue: 
+directors: Christina Andreef
+actors: Jeanie Drynan, Linal Haft, Russell Dykstra, Geneviève Lemon, Sacha Horler, Alicia Talbot, Dion Bilios, Gezelle Byrnes, Jordan Frankland
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

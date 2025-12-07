@@ -1,0 +1,10 @@
+movieId: 78
+title: The Crossing Guard
+year: 1995
+url: https://www.imdb.com/title/tt0112744/
+ratingValue: 
+directors: Sean Penn
+actors: Jack Nicholson, David Morse, Anjelica Huston, Robin Wright, Piper Laurie, Richard Bradford, Priscilla Barnes, David Baerwald, Robbie Robertson, John Savage
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

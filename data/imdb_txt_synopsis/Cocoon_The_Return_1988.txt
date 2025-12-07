@@ -1,0 +1,10 @@
+movieId: 2408
+title: Cocoon: The Return
+year: 1988
+url: https://www.imdb.com/title/tt0094890/
+ratingValue: 
+directors: Daniel Petrie
+actors: Don Ameche, Wilford Brimley, Courteney Cox, Hume Cronyn, Jack Gilford, Steve Guttenberg, Barret Oliver, Maureen Stapleton, Elaine Stritch, Jessica Tandy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

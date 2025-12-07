@@ -1,0 +1,10 @@
+movieId: 369
+title: Mrs. Parker and the Vicious Circle
+year: 1994
+url: https://www.imdb.com/title/tt0110588/
+ratingValue: 
+directors: Alan Rudolph
+actors: Jennifer Jason Leigh, Campbell Scott, Matthew Broderick, Peter Gallagher, Jennifer Beals, Andrew McCarthy, Wallace Shawn, Martha Plimpton, Sam Robards, Lili Taylor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

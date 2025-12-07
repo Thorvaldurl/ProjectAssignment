@@ -1,0 +1,10 @@
+movieId: 7707
+title: He Said, She Said
+year: 1991
+url: https://www.imdb.com/title/tt0102011/
+ratingValue: 
+directors: Ken Kwapis, Marisa Silver
+actors: Kevin Bacon, Elizabeth Perkins, Nathan Lane, Anthony LaPaglia, Sharon Stone, Stanley Anderson, Charlayne Woodard, Danton Stone, Phil Leeds, Rita Karin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

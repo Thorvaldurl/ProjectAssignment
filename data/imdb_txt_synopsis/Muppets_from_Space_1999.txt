@@ -1,0 +1,10 @@
+movieId: 2709
+title: Muppets from Space
+year: 1999
+url: https://www.imdb.com/title/tt0158811/
+ratingValue: 
+directors: Tim Hill
+actors: Dave Goelz, Steve Whitmire, Bill Barretta, Jerry Nelson, Brian Henson, Kevin Clash, Frank Oz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

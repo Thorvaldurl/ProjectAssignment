@@ -1,0 +1,10 @@
+movieId: 438
+title: The Cowboy Way
+year: 1994
+url: https://www.imdb.com/title/tt0109493/
+ratingValue: 
+directors: Gregg Champion
+actors: Woody Harrelson, Kiefer Sutherland, Dylan McDermott, Ernie Hudson, Cara Buono, Marg Helgenberger, Tomas Milian, Luis Guzmán, Angel Caban, Matthew Cowles
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

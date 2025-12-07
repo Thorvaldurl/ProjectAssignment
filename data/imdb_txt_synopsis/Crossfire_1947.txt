@@ -1,0 +1,10 @@
+movieId: 1068
+title: Crossfire
+year: 1947
+url: https://www.imdb.com/title/tt0039286/
+ratingValue: 
+directors: Edward Dmytryk
+actors: Robert Young, Robert Mitchum, Robert Ryan, Gloria Grahame, Paul Kelly, Sam Levene, Jacqueline White, Steve Brodie, George Cooper, Richard Benedict
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

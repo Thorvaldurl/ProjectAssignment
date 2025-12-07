@@ -1,0 +1,10 @@
+movieId: 74
+title: Bed of Roses
+year: 1996
+url: https://www.imdb.com/title/tt0115644/
+ratingValue: 
+directors: Michael Goldenberg
+actors: Christian Slater, Mary Stuart Masterson, Pamela Adlon, Josh Brolin, Brian Tarantina, Debra Monk, Mary Alice, Kenneth Cranham, Ally Walker, Anne Pitoniak
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

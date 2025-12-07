@@ -1,0 +1,10 @@
+movieId: 3223
+title: A Zed & Two Noughts
+year: 1985
+url: https://www.imdb.com/title/tt0090366/
+ratingValue: 
+directors: Peter Greenaway
+actors: Andréa Ferréol, Brian Deacon, Eric Deacon, Frances Barber, Joss Ackland, Jim Davidson, Agnès Brulet, Guusje van Tilborgh, Gerard Thoolen, Ken Campbell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

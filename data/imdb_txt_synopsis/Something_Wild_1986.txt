@@ -1,0 +1,10 @@
+movieId: 4410
+title: Something Wild
+year: 1986
+url: https://www.imdb.com/title/tt0091983/
+ratingValue: 
+directors: Jonathan Demme
+actors: Jeff Daniels, Melanie Griffith, George 'Red' Schwartz, Leib Lensky, Tracey Walter, Maggie T., Patricia Falkenhain, Sandy McLeod, Robert Ridgely
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

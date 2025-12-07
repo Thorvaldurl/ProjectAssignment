@@ -1,0 +1,10 @@
+movieId: 2266
+title: The Butcher's Wife
+year: 1991
+url: https://www.imdb.com/title/tt0101523/
+ratingValue: 
+directors: Terry Hughes
+actors: Demi Moore, Jeff Daniels, George Dzundza, Mary Steenburgen, Frances McDormand, Margaret Colin, Max Perlich, Miriam Margolyes, Helen Hanft, Christopher Durang
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

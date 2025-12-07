@@ -1,0 +1,10 @@
+movieId: 418
+title: Being Human
+year: 1994
+url: https://www.imdb.com/title/tt0106379/
+ratingValue: 
+directors: Bill Forsyth
+actors: Robin Williams, Kelly Hunter, Maudie Johnson, Max Johnson, Robert Carlyle, Eoin McCarthy, Irvine Allen, Iain Andrew, Robert Cavanah, Tony Curran
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

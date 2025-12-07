@@ -1,0 +1,10 @@
+movieId: 8450
+title: Anthony Adverse
+year: 1936
+url: https://www.imdb.com/title/tt0027300/
+ratingValue: 
+directors: Mervyn LeRoy, Michael Curtiz
+actors: Fredric March, Olivia de Havilland, Donald Woods, Anita Louise, Edmund Gwenn, Claude Rains, Louis Hayward, Gale Sondergaard, Steffi Duna, Billy Mauch
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

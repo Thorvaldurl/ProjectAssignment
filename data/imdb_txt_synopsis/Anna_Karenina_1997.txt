@@ -1,0 +1,10 @@
+movieId: 1496
+title: Anna Karenina
+year: 1997
+url: https://www.imdb.com/title/tt0118623/
+ratingValue: 
+directors: Bernard Rose
+actors: Sophie Marceau, Sean Bean, Alfred Molina, Mia Kirshner, James Fox, Fiona Shaw, Danny Huston, Phyllida Law, David Schofield, Saskia Wickham
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

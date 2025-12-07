@@ -1,0 +1,10 @@
+movieId: 1919
+title: Madeline
+year: 1998
+url: https://www.imdb.com/title/tt0123987/
+ratingValue: 
+directors: Daisy von Scherler Mayer
+actors: Frances McDormand, Nigel Hawthorne, Hatty Jones, Ben Daniels, Arturo Venegas, Stéphane Audran, Katia Caballero, Chantal Neuwirth, Kristian de la Osa, Clare Thomas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

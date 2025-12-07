@@ -1,0 +1,10 @@
+movieId: 1427
+title: Turbulence
+year: 1997
+url: https://www.imdb.com/title/tt0120390/
+ratingValue: 
+directors: Robert Butler
+actors: Ray Liotta, Lauren Holly, Brendan Gleeson, Hector Elizondo, Rachel Ticotin, Jeffrey DeMunn, John Finn, Ben Cross, Catherine Hicks, Heidi Kling
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

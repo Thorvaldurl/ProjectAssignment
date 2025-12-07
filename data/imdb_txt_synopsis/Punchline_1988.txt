@@ -1,0 +1,10 @@
+movieId: 4012
+title: Punchline
+year: 1988
+url: https://www.imdb.com/title/tt0095927/
+ratingValue: 
+directors: David Seltzer
+actors: Sally Field, Tom Hanks, John Goodman, Mark Rydell, Kim Greist, Paul Mazursky, Pam Matteson, George McGrath, Taylor Negron, Barry Neikrug
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

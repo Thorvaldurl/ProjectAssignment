@@ -1,0 +1,10 @@
+movieId: 7810
+title: Babylon 5: A Call to Arms (TV Movie 1999)
+year: 1999
+url: https://www.imdb.com/title/tt0146455/
+ratingValue: 
+directors: Michael Vejar
+actors: Bruce Boxleitner, Jerry Doyle, Jeff Conaway, Carrie Dobro, Peter Woodward, Tony Todd, Tracy Scoggins, Tony Maggio, Michael Harris, Scott MacDonald
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5284
+title: Crush
+year: 2001
+url: https://www.imdb.com/title/tt0245407/
+ratingValue: 
+directors: John McKay
+actors: Andie MacDowell, Imelda Staunton, Anna Chancellor, Kenny Doughty, Bill Paterson, Caroline Holdaway, Joe Roberts, Josh Cole, Gary Powell, Christian Burgess
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4061
+title: The Man in the Moon
+year: 1991
+url: https://www.imdb.com/title/tt0102388/
+ratingValue: 
+directors: Robert Mulligan
+actors: Sam Waterston, Tess Harper, Gail Strickland, Reese Witherspoon, Jason London, Emily Warfield, Bentley Mitchum, Ernie Lively, Dennis Letts, Earleen Bergeron
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

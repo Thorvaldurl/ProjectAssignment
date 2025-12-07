@@ -1,0 +1,10 @@
+movieId: 6869
+title: Bus 174
+year: 2002
+url: https://www.imdb.com/title/tt0340468/
+ratingValue: 
+directors: Felipe Lacerda, José Padilha
+actors: Anonymous, Maria Aparecida, Captain Batista, Luanna Belmon, Claudete Beltrana, Luciana Carvalho, Coelho, Damiana, Yvonne Bezerra de Mello
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

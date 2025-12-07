@@ -1,0 +1,10 @@
+movieId: 6935
+title: The Revolution Will Not Be Televised
+year: 2003
+url: https://www.imdb.com/title/tt0363510/
+ratingValue: 
+directors: Kim Bartley, Donnacha O'Briain
+actors: Hugo Chávez, Pedro Carmona, Jesse Helms, Colin Powell, George Tenet
+
+synopsis:
+On assignment in Venezuela, two documentary filmmakers find themselves in the middle of a political coup detat overthrowing President Hugo Chavez's government. As popular with the lower class as he was despised by the rich, Chavez has been a controversial figure since taking office. The privatized media covering the events replaced fact with propaganda, falsely reporting that Chavez ordered the execution of his detractors days before, forcing his resignation. Trapped within the tension and drama of the Presidential Palace during the coup, the filmmakers show a much different picture as Chavez and other officials are taken into captivity at gunpoint. Unprecedented and shocking footage from the heart of the events offers an unnerving intimacy with what amounts to the worlds first media coup. Written for Chicago International Film Festival - October 2003

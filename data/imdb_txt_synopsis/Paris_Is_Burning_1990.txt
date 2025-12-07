@@ -1,0 +1,10 @@
+movieId: 1192
+title: Paris Is Burning
+year: 1990
+url: https://www.imdb.com/title/tt0100332/
+ratingValue: 
+directors: Jennie Livingston
+actors: Brooke Xtravaganza, André Christian, Dorian Corey, Paris Duprée, Pepper LaBeija, Junior LaBeija, Willi Ninja, Sandy Ninja, Kim Pendavis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

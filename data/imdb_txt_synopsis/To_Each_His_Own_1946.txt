@@ -1,0 +1,10 @@
+movieId: 8458
+title: To Each His Own
+year: 1946
+url: https://www.imdb.com/title/tt0039040/
+ratingValue: 
+directors: Mitchell Leisen
+actors: Olivia de Havilland, Mary Anderson, Roland Culver, Phillip Terry, Bill Goodwin, Virginia Welles, Victoria Horne, Griff Barnett, Alma Macrorie, Billy Ward
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

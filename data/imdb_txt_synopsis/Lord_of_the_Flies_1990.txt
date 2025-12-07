@@ -1,0 +1,10 @@
+movieId: 4951
+title: Lord of the Flies
+year: 1990
+url: https://www.imdb.com/title/tt0100054/
+ratingValue: 
+directors: Harry Hook
+actors: Balthazar Getty, Chris Furrh, Danuel Pipoly, James Badge Dale, Andrew Taft, Edward Taft, Gary Rule, Terry Wells, Braden MacDonald
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2151
+title: The Gods Must Be Crazy II
+year: 1989
+url: https://www.imdb.com/title/tt0097443/
+ratingValue: 
+directors: Jamie Uys
+actors: N!xau, Lena Farugia, Hans Strydom, Eiros, Nadies, Erick Bowen, Treasure Tshabalala, Pierre van Pletzen, Lourens Swanepoel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

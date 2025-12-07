@@ -1,0 +1,10 @@
+movieId: 3531
+title: All the Vermeers in New York
+year: 1990
+url: https://www.imdb.com/title/tt0099014/
+ratingValue: 
+directors: Jon Jost
+actors: Emmanuelle Chaulet, Katie Garner, Grace Phillips, Laurel Lee Kiefer, Gracie Mansion, Gordon Joseph Weiss, Stephen Lack, Roger Ruffin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

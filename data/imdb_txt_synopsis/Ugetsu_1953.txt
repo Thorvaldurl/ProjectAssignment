@@ -1,0 +1,10 @@
+movieId: 8199
+title: Ugetsu
+year: 1953
+url: https://www.imdb.com/title/tt0046478/
+ratingValue: 
+directors: Kenji Mizoguchi
+actors: Machiko Kyô, Mitsuko Mito, Kinuyo Tanaka, Masayuki Mori, Eitarô Ozawa, Sugisaku Aoyama, Mitsusaburô Ramon, Ryôsuke Kagawa, Kichijirô Ueda, Shôzô Nanbu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

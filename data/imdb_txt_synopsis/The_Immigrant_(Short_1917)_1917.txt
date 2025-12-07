@@ -1,0 +1,10 @@
+movieId: 8511
+title: The Immigrant (Short 1917)
+year: 1917
+url: https://www.imdb.com/title/tt0008133/
+ratingValue: 
+directors: Charles Chaplin
+actors: Charles Chaplin, Edna Purviance, Eric Campbell, Albert Austin, Henry Bergman, Kitty Bradbury, Frank J. Coleman, William Gillespie, Tom Harrington
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

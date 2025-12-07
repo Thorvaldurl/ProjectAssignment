@@ -1,0 +1,9 @@
+movieId: 26308
+title: Turkish Delight
+year: 1973
+url: https://www.imdb.com/title/tt0070842/
+ratingValue: 
+directors: Paul Verhoeven
+actors: Monique van de Ven, Rutger Hauer, Tonny Huurdeman, Wim van den Brink, Hans Boskamp, Dolf de Vries, Manfred de Graaf, Dick Scheffer, Marjol Flore
+
+synopsis:

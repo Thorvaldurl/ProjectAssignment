@@ -1,0 +1,10 @@
+movieId: 6794
+title: Beethoven's 2nd
+year: 1993
+url: https://www.imdb.com/title/tt0106375/
+ratingValue: 
+directors: Rod Daniel
+actors: Charles Grodin, Bonnie Hunt, Nicholle Tom, Christopher Castile, Sarah Rose Karr, Debi Mazar, Chris Penn, Ashley Hamilton, Danny Masterson, Catherine Reitman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

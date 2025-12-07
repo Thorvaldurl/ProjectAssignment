@@ -1,0 +1,12 @@
+movieId: 2147
+title: The Clan of the Cave Bear
+year: 1986
+url: https://www.imdb.com/title/tt0090848/
+ratingValue: 
+directors: Michael Chapman
+actors: Daryl Hannah, Pamela Reed, James Remar, Thomas G. Waites, John Doolittle, Curtis Armstrong, Martin Doyle, Adel Hammoud, Tony Montanaro, Mike Muscat
+
+synopsis:
+Orphaned homo sapiens child Ayla is taken in and raised by a roving
+Neanderthal band, learns to be a healer and a huntress in the Clan.
+No English or many spoken words at all.

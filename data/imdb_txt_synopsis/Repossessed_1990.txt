@@ -1,0 +1,10 @@
+movieId: 3031
+title: Repossessed
+year: 1990
+url: https://www.imdb.com/title/tt0100475/
+ratingValue: 
+directors: Bob Logan
+actors: Linda Blair, Ned Beatty, Leslie Nielsen, Anthony Starke, Thom Sharp, Lana Schwab, Benj Thall, Dove Dellos, Jacquelyn Masche, Melissa Moore
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 87
+title: Dunston Checks In
+year: 1996
+url: https://www.imdb.com/title/tt0116151/
+ratingValue: 
+directors: Ken Kwapis
+actors: Jason Alexander, Faye Dunaway, Eric Lloyd, Rupert Everett, Graham Sack, Paul Reubens, Glenn Shadix, Nathan Davis, Jennifer Bassey, Judith Scott
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

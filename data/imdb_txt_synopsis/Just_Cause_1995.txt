@@ -1,0 +1,10 @@
+movieId: 257
+title: Just Cause
+year: 1995
+url: https://www.imdb.com/title/tt0113501/
+ratingValue: 
+directors: Arne Glimcher
+actors: Sean Connery, Laurence Fishburne, Kate Capshaw, Blair Underwood, Ed Harris, Christopher Murray, Ruby Dee, Scarlett Johansson, Daniel J. Travanti, Ned Beatty
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

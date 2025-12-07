@@ -1,0 +1,10 @@
+movieId: 8270
+title: The Hairdresser's Husband
+year: 1990
+url: https://www.imdb.com/title/tt0100112/
+ratingValue: 
+directors: Patrice Leconte
+actors: Jean Rochefort, Anna Galiena, Roland Bertin, Maurice Chevit, Philippe Clévenot, Jacques Mathou, Claude Aufaure, Albert Delpy, Henry Hocking, Ticky Holgado
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

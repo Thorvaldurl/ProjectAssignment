@@ -1,0 +1,10 @@
+movieId: 7034
+title: Show Me Love
+year: 1998
+url: https://www.imdb.com/title/tt0150662/
+ratingValue: 
+directors: Lukas Moodysson
+actors: Alexandra Dahlström, Rebecka Liljeberg, Erica Carlson, Mathias Rust, Stefan Hörberg, Josefine Nyberg, Ralph Carlsson, Maria Hedborg, Axel Widegren
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

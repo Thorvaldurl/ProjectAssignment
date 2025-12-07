@@ -1,0 +1,10 @@
+movieId: 5700
+title: The Pumaman
+year: 1980
+url: https://www.imdb.com/title/tt0081693/
+ratingValue: 
+directors: Alberto De Martino
+actors: Walter George Alton, Donald Pleasence, Miguel Ángel Fuentes, Sydne Rome, Silvano Tranquilli, Benito Stefanelli, Guido Lollobrigida, Peter Cellier, Geoffrey Copleston
+
+synopsis:
+The Pumaman is a bizarre, low-budget superhero film that blends science fiction, mysticism, and campy action into an unforgettable cult experience. The story follows Tony Farms, an unassuming American archaeologist working in London, who begins to uncover strange powers after being thrown out of a window-and surviving. He's soon approached by Vadinho, a mysterious Aztec warrior who reveals that Tony is the chosen descendant of ancient alien visitors who once came to Earth and became gods to early civilizations. Tony learns he is the new Pumaman, protector of humanity, and inherits supernatural abilities: the strength and agility of a puma, the ability to fly, heightened senses, and a psychic link to animals. As he struggles to accept this responsibility, he becomes entangled in a plot by the villainous Dr. Kobras, a power-hungry scientist who has acquired a powerful alien artifact-a golden mask-that allows him to control people's minds. With his growing powers and Vadinho's guidance, Tony must stop Kobras from enslaving the world through mind control and fulfill his destiny as Earth's guardian. Filled with clunky dialogue, awkward effects, and unintentional laughs, The Pumaman has become a beloved "so-bad-it's-good" film. Despite its many flaws, it offers a strange charm and earnestness that has endeared it to cult film fans worldwide. Its cheesy special effects, slow-motion flying sequences, and overly serious tone only add to the fun. While not a cinematic masterpiece, it stands as a testament to the quirky creativity of low-budget genre filmmaking and remains a favorite target for riffing, including a memorable Mystery Science Theater 3000 episode.

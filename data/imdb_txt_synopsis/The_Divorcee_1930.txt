@@ -1,0 +1,10 @@
+movieId: 8424
+title: The Divorcee
+year: 1930
+url: https://www.imdb.com/title/tt0020827/
+ratingValue: 
+directors: Robert Z. Leonard
+actors: Norma Shearer, Chester Morris, Conrad Nagel, Robert Montgomery, Florence Eldridge, Helene Millard, Robert Elliott, Mary Doran, Tyler Brooke, Zelda Sears
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

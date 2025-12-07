@@ -1,0 +1,10 @@
+movieId: 1053
+title: Normal Life
+year: 1996
+url: https://www.imdb.com/title/tt0117202/
+ratingValue: 
+directors: John McNaughton
+actors: Ashley Judd, Luke Perry, Bruce A. Young, Jim True-Frost, Edmund Wyson, Michael Skewes, Scott Cummins, Kevin Mukherji, Kate Walsh, Tom Towles
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

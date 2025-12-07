@@ -1,0 +1,10 @@
+movieId: 449
+title: Fear of a Black Hat
+year: 1993
+url: https://www.imdb.com/title/tt0106880/
+ratingValue: 
+directors: Rusty Cundieff
+actors: Mark Christopher Lawrence, Larry B. Scott, Rusty Cundieff, Kasi Lemmons, Howie Gold, G. Smokey Campbell, Bobby Mardis, Brad Sanders, Moon Jones, Tim Hutchinson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

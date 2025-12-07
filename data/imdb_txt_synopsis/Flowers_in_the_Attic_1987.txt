@@ -1,0 +1,10 @@
+movieId: 4109
+title: Flowers in the Attic
+year: 1987
+url: https://www.imdb.com/title/tt0093036/
+ratingValue: 
+directors: Jeffrey Bloom
+actors: Louise Fletcher, Victoria Tennant, Kristy Swanson, Jeb Stuart Adams, Ben Ryan Ganger, Lindsay Parker, Marshall Colt, Nathan Davis, Brooke Fries, Alex Koba
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5212
+title: The Octagon
+year: 1980
+url: https://www.imdb.com/title/tt0081259/
+ratingValue: 
+directors: Eric Karson
+actors: Chuck Norris, Karen Carlson, Lee Van Cleef, Art Hindle, Carol Bagdasarian, Tadashi Yamashita, Kim Lankford, Larry D. Mann, Kurt Grayson, Richard Norton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6604
+title: The Hawks and the Sparrows
+year: 1966
+url: https://www.imdb.com/title/tt0061132/
+ratingValue: 
+directors: Pier Paolo Pasolini
+actors: Totò, Ninetto Davoli, Femi Benussi, Umberto Bevilacqua, Renato Capogna, Alfredo Leggi, Renato Montalbano, Flaminia Siciliano, Lena Lin Solaro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

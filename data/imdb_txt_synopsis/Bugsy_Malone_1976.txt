@@ -1,0 +1,10 @@
+movieId: 6798
+title: Bugsy Malone
+year: 1976
+url: https://www.imdb.com/title/tt0074256/
+ratingValue: 
+directors: Alan Parker
+actors: Scott Baio, Florence Garland, Jodie Foster, John Cassisi, Martin Lev, Paul Murphy, Sheridan Earl Russell, Albin 'Humpty' Jenkins, Paul Chirelstein
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

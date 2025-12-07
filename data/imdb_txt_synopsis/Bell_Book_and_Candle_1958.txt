@@ -1,0 +1,10 @@
+movieId: 3516
+title: Bell Book and Candle
+year: 1958
+url: https://www.imdb.com/title/tt0051406/
+ratingValue: 
+directors: Richard Quine
+actors: James Stewart, Kim Novak, Jack Lemmon, Ernie Kovacs, Hermione Gingold, Elsa Lanchester, Janice Rule, Philippe Clay, Bek Nelson, Howard McNear
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

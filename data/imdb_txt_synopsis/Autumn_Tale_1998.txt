@@ -1,0 +1,10 @@
+movieId: 2708
+title: Autumn Tale
+year: 1998
+url: https://www.imdb.com/title/tt0137439/
+ratingValue: 
+directors: Éric Rohmer
+actors: Marie Rivière, Béatrice Romand, Alain Libolt, Didier Sandre, Alexia Portal, Stéphane Darmon, Aurélia Alcaïs, Matthieu Davette, Yves Alcaïs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

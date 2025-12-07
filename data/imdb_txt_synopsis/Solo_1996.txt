@@ -1,0 +1,10 @@
+movieId: 692
+title: Solo
+year: 1996
+url: https://www.imdb.com/title/tt0117688/
+ratingValue: 
+directors: Norberto Barba
+actors: Mario Van Peebles, Barry Corbin, William Sadler, Jaime Gomez, Demián Bichir, Seidy Lopez, Abraham Verduzco, Joaquín Garrido, William Wallace, Adrien Brody
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 663
+title: Kids in the Hall: Brain Candy
+year: 1996
+url: https://www.imdb.com/title/tt0116768/
+ratingValue: 
+directors: Kelly Makin
+actors: Dave Foley, Bruce McCulloch, Kevin McDonald, Mark McKinney, Scott Thompson, Kathryn Greenwood
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

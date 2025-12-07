@@ -1,0 +1,10 @@
+movieId: 2875
+title: Sommersby
+year: 1993
+url: https://www.imdb.com/title/tt0108185/
+ratingValue: 
+directors: Jon Amiel
+actors: Richard Gere, Jodie Foster, Lanny Flaherty, Wendell Wellman, Bill Pullman, Brett Kelley, William Windom, Clarice Taylor, Frankie Faison, R. Lee Ermey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

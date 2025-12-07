@@ -1,0 +1,10 @@
+movieId: 650
+title: Moll Flanders
+year: 1996
+url: https://www.imdb.com/title/tt0117071/
+ratingValue: 
+directors: Pen Densham
+actors: Robin Wright, Morgan Freeman, Stockard Channing, John Lynch, Brenda Fricker, Geraldine James, Aisling Corcoran, Jim Sheridan, Jeremy Brett, Britta Smith
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

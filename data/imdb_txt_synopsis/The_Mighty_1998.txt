@@ -1,0 +1,10 @@
+movieId: 2310
+title: The Mighty
+year: 1998
+url: https://www.imdb.com/title/tt0119670/
+ratingValue: 
+directors: Peter Chelsom
+actors: Harry Dean Stanton, Gena Rowlands, Elden Henson, Douglas Bisset, Joe Perrino, Dov Tiefenbach, Michael Colton, Daniel Lee, Eve Crawford, Kieran Culkin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

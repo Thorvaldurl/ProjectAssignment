@@ -1,0 +1,10 @@
+movieId: 6428
+title: Two Mules for Sister Sara
+year: 1970
+url: https://www.imdb.com/title/tt0065134/
+ratingValue: 
+directors: Don Siegel
+actors: Shirley MacLaine, Clint Eastwood, Manolo Fábregas, Alberto Morin, Armando Silvestre, John Kelly, David Povall, Ada Carrasco, Pancho Córdova, José Chávez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 670
+title: The World of Apu
+year: 1959
+url: https://www.imdb.com/title/tt0052572/
+ratingValue: 
+directors: Satyajit Ray
+actors: Soumitra Chatterjee, Sharmila Tagore, Alok Chakravarty, Swapan Mukherjee, Tushar Bandyopadhyay, Gupi Banerjee, Panchanan Bhattacharya, Shanti Bhattacherjee, Jiten Bhons
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

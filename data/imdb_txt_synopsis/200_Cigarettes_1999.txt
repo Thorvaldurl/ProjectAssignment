@@ -1,0 +1,15 @@
+movieId: 2504
+title: 200 Cigarettes
+year: 1999
+url: https://www.imdb.com/title/tt0137338/
+ratingValue: 
+directors: Risa Bramon Garcia
+actors: Ben Affleck, Casey Affleck, Jennifer Albano, Jenni Blong, Morgan Brown, Caleb Carr, Dave Chappelle, Elvis Costello, Guillermo Diaz, Angela Featherstone
+
+synopsis:
+In the course of one New Year's Eve, an angst filled artist, Kevin
+(Paul Rudd) , his best friend Lucy (Courtney Love), his emasculating
+ex Ellie (Janeane Garafolo), a law school bartender (Ben Affleck), two punk rockers (Casey Affleck, Guillermo Díaz), an accident-
+prone naif (Kate Hudson), two Long Island escapees (Christina Ricci,
+Jennifer Albano) and other young artists on the make try to find love,
+happiness and cigarettes in the East Village. They have one night to make it all work out, and still make it to the party on time.

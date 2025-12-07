@@ -1,0 +1,10 @@
+movieId: 3055
+title: Felicia's Journey
+year: 1999
+url: https://www.imdb.com/title/tt0165773/
+ratingValue: 
+directors: Atom Egoyan
+actors: Bob Hoskins, Arsinée Khanjian, Elaine Cassidy, Sheila Reid, Nizwar Karanj, Ali Yassine, Peter McDonald, Kriss Dosanjh, Gerard McSorley, Marie Stafford
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

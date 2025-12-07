@@ -1,0 +1,10 @@
+movieId: 691
+title: Mrs. Winterbourne
+year: 1996
+url: https://www.imdb.com/title/tt0117104/
+ratingValue: 
+directors: Richard Benjamin
+actors: Shirley MacLaine, Ricki Lake, Brendan Fraser, Miguel Sandoval, Loren Dean, Peter Gerety, Jane Krakowski, Debra Monk, Cathryn de Prume, Kate Hennig
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

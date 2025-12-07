@@ -1,0 +1,10 @@
+movieId: 25834
+title: Captains Courageous
+year: 1937
+url: https://www.imdb.com/title/tt0028691/
+ratingValue: 
+directors: Victor Fleming
+actors: Freddie Bartholomew, Spencer Tracy, Lionel Barrymore, Melvyn Douglas, Charley Grapewin, Mickey Rooney, John Carradine, Oscar O'Shea, Jack La Rue, Walter Kingsford
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

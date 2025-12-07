@@ -1,0 +1,10 @@
+movieId: 3834
+title: Bronco Billy
+year: 1980
+url: https://www.imdb.com/title/tt0080472/
+ratingValue: 
+directors: Clint Eastwood
+actors: Clint Eastwood, Sondra Locke, Geoffrey Lewis, Scatman Crothers, Bill McKinney, Sam Bottoms, Dan Vadis, Sierra Pecheur, Walter Barnes, Woodrow Parfrey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

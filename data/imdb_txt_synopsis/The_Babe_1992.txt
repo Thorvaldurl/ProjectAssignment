@@ -1,0 +1,10 @@
+movieId: 6517
+title: The Babe
+year: 1992
+url: https://www.imdb.com/title/tt0103747/
+ratingValue: 
+directors: Arthur Hiller
+actors: John Goodman, Kelly McGillis, Trini Alvarado, Bruce Boxleitner, Peter Donat, James Cromwell, J.C. Quinn, Joseph Ragno, Richard Tyson, Ralph Marrero
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5051
+title: Italian for Beginners
+year: 2000
+url: https://www.imdb.com/title/tt0243862/
+ratingValue: 
+directors: Lone Scherfig
+actors: Anders W. Berthelsen, Anette Støvelbæk, Ann Eleonora Jørgensen, Peter Gantzler, Lars Kaalund, Sara Indrio Jensen, Karen-Lise Mynster, Rikke Wölck, Elsebeth Steentoft, Bent Mejding
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

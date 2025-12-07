@@ -1,0 +1,10 @@
+movieId: 2870
+title: Barefoot in the Park
+year: 1967
+url: https://www.imdb.com/title/tt0061385/
+ratingValue: 
+directors: Gene Saks
+actors: Robert Redford, Jane Fonda, Charles Boyer, Mildred Natwick, Herb Edelman, Mabel Albertson, Fritz Feld, James Stone, Ted Hartley, Billie Bird
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1046
+title: Beautiful Thing
+year: 1996
+url: https://www.imdb.com/title/tt0115640/
+ratingValue: 
+directors: Hettie Macdonald
+actors: Linda Henry, Glen Berry, Scott Neal, Tameka Empson, Ben Daniels, John Benfield, Daniel Bowers, Garry Cooper, Terry Duggan, Jeillo Edwards
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

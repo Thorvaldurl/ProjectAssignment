@@ -1,0 +1,10 @@
+movieId: 5416
+title: Cherish
+year: 2002
+url: https://www.imdb.com/title/tt0298798/
+ratingValue: 
+directors: Finn Taylor
+actors: Brad Hunt, Robin Tunney, Liz Phair, Lindsay Crouse, Tim Blake Nelson, Kelvin Han Yee, Jason Priestley, Karena Davis, Scott Breitenstein, Tim Griffin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

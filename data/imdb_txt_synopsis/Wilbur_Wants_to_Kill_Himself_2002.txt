@@ -1,0 +1,10 @@
+movieId: 7352
+title: Wilbur Wants to Kill Himself
+year: 2002
+url: https://www.imdb.com/title/tt0329767/
+ratingValue: 
+directors: Lone Scherfig
+actors: Jamie Sives, Adrian Rawlins, Shirley Henderson, Lisa McKinlay, Mads Mikkelsen, Julia Davis, Susan Vidler, Robert McIntosh, Lorraine McIntosh, Gordon Brown
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

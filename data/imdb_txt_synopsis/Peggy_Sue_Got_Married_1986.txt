@@ -1,0 +1,10 @@
+movieId: 2469
+title: Peggy Sue Got Married
+year: 1986
+url: https://www.imdb.com/title/tt0091738/
+ratingValue: 
+directors: Francis Ford Coppola
+actors: Kathleen Turner, Nicolas Cage, Barry Miller, Catherine Hicks, Joan Allen, Kevin J. O'Connor, Jim Carrey, Lisa Jane Persky, Lucinda Jenney, Wil Shriner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

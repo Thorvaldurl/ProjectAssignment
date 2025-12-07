@@ -1,0 +1,10 @@
+movieId: 113
+title: Before and After
+year: 1996
+url: https://www.imdb.com/title/tt0115645/
+ratingValue: 
+directors: Barbet Schroeder
+actors: Meryl Streep, Liam Neeson, Edward Furlong, Julia Weldon, Alfred Molina, Daniel von Bargen, John Heard, Ann Magnuson, Alison Folland, Kaiulani Lee
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

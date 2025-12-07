@@ -1,0 +1,10 @@
+movieId: 7192
+title: Only the Strong
+year: 1993
+url: https://www.imdb.com/title/tt0107750/
+ratingValue: 
+directors: Sheldon Lettich
+actors: Mark Dacascos, Stacey Travis, Geoffrey Lewis, Paco Christian Prieto, Todd Susman, Jeffrey Anderson-Gunter, Richard Coca, Roman Cardwell, Ryan Bollman, Christian Klemash
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5442
+title: V.I. Warshawski
+year: 1991
+url: https://www.imdb.com/title/tt0103184/
+ratingValue: 
+directors: Jeff Kanew
+actors: Kathleen Turner, Jay O. Sanders, Charles Durning, Angela Goethals, Nancy Paul, Frederick Coffin, Charles McCaughan, Stephen Meadows, Wayne Knight, Lynnie Godfrey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

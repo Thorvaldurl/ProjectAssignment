@@ -1,0 +1,10 @@
+movieId: 1922
+title: Whatever
+year: 1998
+url: https://www.imdb.com/title/tt0140688/
+ratingValue: 
+directors: Susan Skoog
+actors: Liza Weil, Chad Morgan, Frederic Forrest, Kathryn Rossetter, Marc Riffon, Dan Montano, John Gleeson Connolly, Gary Wolf, Tony Torn, Trey Compton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

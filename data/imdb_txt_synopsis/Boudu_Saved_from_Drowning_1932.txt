@@ -1,0 +1,10 @@
+movieId: 25782
+title: Boudu Saved from Drowning
+year: 1932
+url: https://www.imdb.com/title/tt0022718/
+ratingValue: 
+directors: Jean Renoir
+actors: Michel Simon, Marcelle Hainia, Sévérine Lerczinska, Jean Gehret, Max Dalban, Jean Dasté, Charles Granval, Geneviève Cadix, Jacques Becker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

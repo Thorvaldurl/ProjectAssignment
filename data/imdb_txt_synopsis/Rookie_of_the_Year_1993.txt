@@ -1,0 +1,10 @@
+movieId: 5102
+title: Rookie of the Year
+year: 1993
+url: https://www.imdb.com/title/tt0107985/
+ratingValue: 
+directors: Daniel Stern
+actors: Thomas Ian Nicholas, Gary Busey, Albert Hall, Amy Morton, Dan Hedaya, Bruce Altman, Eddie Bracken, Robert Hy Gorman, Patrick LaBrecque, Daniel Stern
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

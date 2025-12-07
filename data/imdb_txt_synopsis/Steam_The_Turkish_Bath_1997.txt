@@ -1,0 +1,10 @@
+movieId: 2388
+title: Steam: The Turkish Bath
+year: 1997
+url: https://www.imdb.com/title/tt0119248/
+ratingValue: 
+directors: Ferzan Özpetek
+actors: Alessandro Gassmann, Francesca d'Aloja, Carlo Cecchi, Halil Ergün, Serif Sezer, Mehmet Günsür, Basak Köklükaya, Alberto Molinari, Zozo Toledo
+
+synopsis:
+An Italian designer travels to Istanbul to sell a traditional Turkish steam bath left to him by a deceased aunt. Upon arrival, he becomes enthralled by the city and decides to renovate and return the bath to the public. This sudden change of heart may have something to do with the fact that he's fallen in love with a beautiful young local boy. Their romantic relationship is cut short when the designer's wife arrives in Turkey with her own agenda.

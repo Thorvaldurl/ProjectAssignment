@@ -1,0 +1,10 @@
+movieId: 6268
+title: Raising Victor Vargas
+year: 2002
+url: https://www.imdb.com/title/tt0316188/
+ratingValue: 
+directors: Peter Sollett
+actors: Victor Rasuk, Donna Maldonado, Kevin Rivera, Krystal Rodriguez, Judy Marte, Melonie Diaz, Matthew Roberts, Alexander Garcia, John Ramos
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

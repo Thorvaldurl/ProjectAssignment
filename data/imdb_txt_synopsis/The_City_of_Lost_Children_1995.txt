@@ -1,0 +1,10 @@
+movieId: 29
+title: The City of Lost Children
+year: 1995
+url: https://www.imdb.com/title/tt0112682/
+ratingValue: 
+directors: Marc Caro, Jean-Pierre Jeunet
+actors: Ron Perlman, Daniel Emilfork, Judith Vittet, Dominique Pinon, Jean-Claude Dreyfus, Geneviève Brunet, Odile Mallet, Mireille Mossé, Serge Merlin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

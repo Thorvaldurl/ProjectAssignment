@@ -1,0 +1,10 @@
+movieId: 7292
+title: Best Defense
+year: 1984
+url: https://www.imdb.com/title/tt0086955/
+ratingValue: 
+directors: Willard Huyck
+actors: Dudley Moore, Eddie Murphy, Kate Capshaw, George Dzundza, Helen Shaver, Mark Arnott, Peter Michael Goetz, Tom Noonan, David Rasche, Paul Comi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

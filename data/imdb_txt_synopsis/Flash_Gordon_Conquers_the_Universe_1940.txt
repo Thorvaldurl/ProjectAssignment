@@ -1,0 +1,10 @@
+movieId: 8677
+title: Flash Gordon Conquers the Universe
+year: 1940
+url: https://www.imdb.com/title/tt0032475/
+ratingValue: 
+directors: Ford Beebe, Ray Taylor
+actors: Buster Crabbe, Carol Hughes, Charles Middleton, Anne Gwynne, Frank Shannon, John Hamilton, Herbert Rawlinson, Tom Chatterton, Shirley Deane, Lee Powell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3871
+title: Shane
+year: 1953
+url: https://www.imdb.com/title/tt0046303/
+ratingValue: 
+directors: George Stevens
+actors: Alan Ladd, Jean Arthur, Van Heflin, Brandon De Wilde, Jack Palance, Ben Johnson, Edgar Buchanan, Emile Meyer, Elisha Cook Jr., Douglas Spencer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

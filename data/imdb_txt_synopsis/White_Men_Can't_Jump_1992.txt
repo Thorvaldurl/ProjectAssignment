@@ -1,0 +1,10 @@
+movieId: 3263
+title: White Men Can't Jump
+year: 1992
+url: https://www.imdb.com/title/tt0105812/
+ratingValue: 
+directors: Ron Shelton
+actors: Wesley Snipes, Woody Harrelson, Rosie Perez, Tyra Ferrell, Cylk Cozart, Kadeem Hardison, Ernest Harden Jr., John Marshall Jones, Marques Johnson, David Roberson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

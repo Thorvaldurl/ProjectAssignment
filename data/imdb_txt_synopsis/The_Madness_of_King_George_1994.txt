@@ -1,0 +1,10 @@
+movieId: 272
+title: The Madness of King George
+year: 1994
+url: https://www.imdb.com/title/tt0110428/
+ratingValue: 
+directors: Nicholas Hytner
+actors: Rupert Graves, Helen Mirren, Amanda Donohoe, Charlotte Curley, Peter Bride-Kirk, Eve Cadman, Thomas Copeland, Joanna Hall, Cassandra Halliburton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

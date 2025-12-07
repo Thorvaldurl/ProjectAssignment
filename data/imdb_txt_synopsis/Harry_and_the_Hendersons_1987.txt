@@ -1,0 +1,10 @@
+movieId: 3388
+title: Harry and the Hendersons
+year: 1987
+url: https://www.imdb.com/title/tt0093148/
+ratingValue: 
+directors: William Dear
+actors: John Lithgow, Melinda Dillon, Margaret Langrick, Joshua Rudoy, Kevin Peter Hall, David Suchet, Lainie Kazan, Don Ameche, M. Emmet Walsh, William Ontiveros
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

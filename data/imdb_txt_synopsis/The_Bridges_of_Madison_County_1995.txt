@@ -1,0 +1,10 @@
+movieId: 105
+title: The Bridges of Madison County
+year: 1995
+url: https://www.imdb.com/title/tt0112579/
+ratingValue: 
+directors: Clint Eastwood
+actors: Clint Eastwood, Meryl Streep, Annie Corley, Victor Slezak, Jim Haynie, Sarah Zahn, Christopher Kroon, Phyllis Lyons, Debra Monk, Richard Lage
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

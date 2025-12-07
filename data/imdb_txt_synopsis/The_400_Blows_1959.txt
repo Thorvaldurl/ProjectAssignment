@@ -1,0 +1,10 @@
+movieId: 2731
+title: The 400 Blows
+year: 1959
+url: https://www.imdb.com/title/tt0053198/
+ratingValue: 
+directors: François Truffaut
+actors: Jean-Pierre Léaud, Claire Maurier, Albert Rémy, Guy Decomble, Georges Flamant, Patrick Auffay, Daniel Couturier, François Nocher, Richard Kanayan, Renaud Fontanarosa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

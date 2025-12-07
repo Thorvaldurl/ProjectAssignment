@@ -1,0 +1,10 @@
+movieId: 731
+title: Heaven's Prisoners
+year: 1996
+url: https://www.imdb.com/title/tt0116508/
+ratingValue: 
+directors: Phil Joanou
+actors: Alec Baldwin, Kelly Lynch, Mary Stuart Masterson, Eric Roberts, Teri Hatcher, Vondie Curtis-Hall, Badja Djola, Samantha Lagpacan, Joe Viterelli, Tuck Milligan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

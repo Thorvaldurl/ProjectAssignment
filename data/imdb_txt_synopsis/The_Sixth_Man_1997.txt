@@ -1,0 +1,10 @@
+movieId: 6425
+title: The Sixth Man
+year: 1997
+url: https://www.imdb.com/title/tt0120142/
+ratingValue: 
+directors: Randall Miller
+actors: Marlon Wayans, Kadeem Hardison, David Paymer, Michael Michele, Kevin Dunn, Gary Jones, Lorenzo Orr, Vladimir Cuk, Travis Ford, Jack Karuletwa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

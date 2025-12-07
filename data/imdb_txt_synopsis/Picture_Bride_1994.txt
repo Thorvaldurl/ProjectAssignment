@@ -1,0 +1,10 @@
+movieId: 301
+title: Picture Bride
+year: 1994
+url: https://www.imdb.com/title/tt0114129/
+ratingValue: 
+directors: Kayo Hatta
+actors: Yûki Kudô, Cary-Hiroyuki Tagawa, Tamlyn Tomita, Akira Takayama, Yôko Sugi, Christianne Mays, Toshirô Mifune, Michael Ashby, James Grant Benton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

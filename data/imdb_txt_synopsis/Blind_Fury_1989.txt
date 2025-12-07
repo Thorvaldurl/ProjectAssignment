@@ -1,0 +1,10 @@
+movieId: 4574
+title: Blind Fury
+year: 1989
+url: https://www.imdb.com/title/tt0096945/
+ratingValue: 
+directors: Phillip Noyce
+actors: Rutger Hauer, Terry O'Quinn, Brandon Call, Noble Willingham, Lisa Blount, Nick Cassavetes, Rick Overton, Randall 'Tex' Cobb, Charles Cooper, Meg Foster
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

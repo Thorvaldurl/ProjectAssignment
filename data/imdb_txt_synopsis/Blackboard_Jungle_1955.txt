@@ -1,0 +1,10 @@
+movieId: 8451
+title: Blackboard Jungle
+year: 1955
+url: https://www.imdb.com/title/tt0047885/
+ratingValue: 
+directors: Richard Brooks
+actors: Glenn Ford, Anne Francis, Louis Calhern, Margaret Hayes, John Hoyt, Richard Kiley, Emile Meyer, Warner Anderson, Basil Ruysdael, Sidney Poitier
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

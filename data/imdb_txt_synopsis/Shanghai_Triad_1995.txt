@@ -1,0 +1,10 @@
+movieId: 30
+title: Shanghai Triad
+year: 1995
+url: https://www.imdb.com/title/tt0115012/
+ratingValue: 
+directors: Yimou Zhang
+actors: Gong Li, Baotian Li, Xiaoxiao Wang, Xuejian Li, Chun Sun, Biao Fu, Shu Chen, Jiang Liu, Baoying Jiang, Qianquan Yang
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

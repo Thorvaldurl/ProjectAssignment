@@ -1,0 +1,10 @@
+movieId: 4300
+title: Bread and Roses
+year: 2000
+url: https://www.imdb.com/title/tt0212826/
+ratingValue: 
+directors: Ken Loach
+actors: Pilar Padilla, Adrien Brody, Elpidia Carrillo, Jack McGee, Monica Rivas, Frankie Davila, Lillian Hurst, Mayron Payes, Maria Orellana
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

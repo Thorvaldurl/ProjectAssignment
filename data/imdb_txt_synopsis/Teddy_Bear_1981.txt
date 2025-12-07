@@ -1,0 +1,10 @@
+movieId: 5767
+title: Teddy Bear
+year: 1981
+url: https://www.imdb.com/title/tt0082755/
+ratingValue: 
+directors: Stanislaw Bareja
+actors: Stanislaw Tym, Barbara Burska, Christine Paul, Krzysztof Kowalewski, Bronislaw Pawlik, Ewa Bem, Zofia Czerwinska, Cezary Julski, Marian Lacz, Stanislaw Mikulski
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

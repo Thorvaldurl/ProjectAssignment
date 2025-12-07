@@ -1,0 +1,10 @@
+movieId: 1119
+title: Drunks
+year: 1995
+url: https://www.imdb.com/title/tt0112907/
+ratingValue: 
+directors: Peter Cohn
+actors: Richard Lewis, Liza Harris, Liam Ahern, George Martin, Sam Rockwell, Amanda Plummer, Kevin Corrigan, Fanni Green, Parker Posey, Dianne Wiest
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

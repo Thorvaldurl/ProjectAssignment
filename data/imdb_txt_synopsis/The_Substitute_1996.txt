@@ -1,0 +1,10 @@
+movieId: 694
+title: The Substitute
+year: 1996
+url: https://www.imdb.com/title/tt0117774/
+ratingValue: 
+directors: Robert Mandel
+actors: Tom Berenger, Raymond Cruz, William Forsythe, Luis Guzmán, Richard Brooks, Ana Azcuy, Diane Venora, Glenn Plummer, Shar-Ron Corley, Vincent Laresca
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1588
+title: George of the Jungle
+year: 1997
+url: https://www.imdb.com/title/tt0119190/
+ratingValue: 
+directors: Sam Weisman
+actors: Brendan Fraser, Leslie Mann, Thomas Haden Church, Richard Roundtree, Greg Cruttwell, Abraham Benrubi, Holland Taylor, Kelly Miracco, John Bennett Perry, John Cleese
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

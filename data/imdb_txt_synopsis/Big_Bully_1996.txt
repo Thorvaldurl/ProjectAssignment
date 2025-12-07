@@ -1,0 +1,10 @@
+movieId: 75
+title: Big Bully
+year: 1996
+url: https://www.imdb.com/title/tt0115676/
+ratingValue: 
+directors: Steve Miner
+actors: Rick Moranis, Tom Arnold, Julianne Phillips, Carol Kane, Jeffrey Tambor, Curtis Armstrong, Faith Prince, Tony Pierce, Don Knotts, Blake Bashoff
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

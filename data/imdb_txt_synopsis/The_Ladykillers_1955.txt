@@ -1,0 +1,10 @@
+movieId: 5602
+title: The Ladykillers
+year: 1955
+url: https://www.imdb.com/title/tt0048281/
+ratingValue: 
+directors: Alexander Mackendrick
+actors: Alec Guinness, Cecil Parker, Herbert Lom, Peter Sellers, Danny Green, Jack Warner, Katie Johnson, Philip Stainton, Frankie Howerd, Madge Brindley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

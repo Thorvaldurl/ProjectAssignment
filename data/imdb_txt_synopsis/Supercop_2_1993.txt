@@ -1,0 +1,10 @@
+movieId: 876
+title: Supercop 2
+year: 1993
+url: https://www.imdb.com/title/tt0106544/
+ratingValue: 
+directors: Stanley Tong
+actors: Michelle Yeoh, Rongguang Yu, Emil Chau, Athena Chu, Louis Fan, Jackie Chan, Bill Tung, Eric Tsang, Dick Wei, Bowie Lam
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

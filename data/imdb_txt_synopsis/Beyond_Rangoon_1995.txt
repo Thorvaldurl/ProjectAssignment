@@ -1,0 +1,10 @@
+movieId: 155
+title: Beyond Rangoon
+year: 1995
+url: https://www.imdb.com/title/tt0112495/
+ratingValue: 
+directors: John Boorman
+actors: Patricia Arquette, U Aung Ko, Frances McDormand, Spalding Gray, Tiara Jacquelina, Kuswadinata, Victor Slezak, Jit Murad, Ye Myint
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

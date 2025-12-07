@@ -1,0 +1,10 @@
+movieId: 6193
+title: Poolhall Junkies
+year: 2002
+url: https://www.imdb.com/title/tt0273982/
+ratingValue: 
+directors: Mars Callahan
+actors: Chazz Palminteri, Ricky Schroder, Rod Steiger, Michael Rosenbaum, Mars Callahan, Alison Eastwood, Phillip Glasser, Anson Mount, Glenn Plummer, Richard Portnow
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

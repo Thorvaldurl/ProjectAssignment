@@ -1,0 +1,10 @@
+movieId: 4009
+title: Talk Radio
+year: 1988
+url: https://www.imdb.com/title/tt0096219/
+ratingValue: 
+directors: Oliver Stone
+actors: Eric Bogosian, Ellen Greene, Leslie Hope, John C. McGinley, Alec Baldwin, John Pankow, Michael Wincott, Linda Atkinson, Robert Trebor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

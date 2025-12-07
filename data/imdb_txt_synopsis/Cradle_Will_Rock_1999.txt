@@ -1,0 +1,10 @@
+movieId: 3145
+title: Cradle Will Rock
+year: 1999
+url: https://www.imdb.com/title/tt0150216/
+ratingValue: 
+directors: Tim Robbins
+actors: Hank Azaria, Rubén Blades, Joan Cusack, John Cusack, Cary Elwes, Philip Baker Hall, Cherry Jones, Angus Macfadyen, Bill Murray, Vanessa Redgrave
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

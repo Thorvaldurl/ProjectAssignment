@@ -1,0 +1,10 @@
+movieId: 8695
+title: The Bachelor and the Bobby-Soxer
+year: 1947
+url: https://www.imdb.com/title/tt0039169/
+ratingValue: 
+directors: Irving Reis
+actors: Cary Grant, Myrna Loy, Shirley Temple, Rudy Vallee, Ray Collins, Harry Davenport, Johnny Sands, Don Beddoe, Lillian Randolph, Veda Ann Borg
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

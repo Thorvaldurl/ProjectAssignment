@@ -1,0 +1,10 @@
+movieId: 2690
+title: An Ideal Husband
+year: 1999
+url: https://www.imdb.com/title/tt0122541/
+ratingValue: 
+directors: Oliver Parker
+actors: Peter Vaughan, Rupert Everett, Minnie Driver, Cate Blanchett, Ben Pullen, Marsha Fitzalan, Julianne Moore, Lindsay Duncan, Neville Phillips, John Wood
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

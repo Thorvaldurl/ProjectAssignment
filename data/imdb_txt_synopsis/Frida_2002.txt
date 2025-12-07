@@ -1,0 +1,10 @@
+movieId: 5791
+title: Frida
+year: 2002
+url: https://www.imdb.com/title/tt0120679/
+ratingValue: 
+directors: Julie Taymor
+actors: Salma Hayek, Mía Maestro, Amelia Zapata, Alejandro Usigli, Diego Luna, Alfred Molina, Lucia Bravo, Valeria Golino, Patricia Reyes Spíndola, Loló Navarro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1514
+title: Temptress Moon
+year: 1996
+url: https://www.imdb.com/title/tt0116295/
+ratingValue: 
+directors: Kaige Chen
+actors: Leslie Cheung, Gong Li, Kevin Lin, Saifei He, Shih Chang, Liankun Lin, Hsiang-Ting Ko, Yin Tse, David Wu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

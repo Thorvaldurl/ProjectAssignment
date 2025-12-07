@@ -1,0 +1,10 @@
+movieId: 232
+title: Eat Drink Man Woman
+year: 1994
+url: https://www.imdb.com/title/tt0111797/
+ratingValue: 
+directors: Ang Lee
+actors: Sihung Lung, Wang Yu-wen, Chien-Lien Wu, Kuei-Mei Yang, Sylvia Chang, Winston Chao, Chen Chao-jung, Chit-Man Chan, Yu Chen, Ah-Lei Gua
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

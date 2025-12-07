@@ -1,0 +1,10 @@
+movieId: 372
+title: Reality Bites
+year: 1994
+url: https://www.imdb.com/title/tt0110950/
+ratingValue: 
+directors: Ben Stiller
+actors: Winona Ryder, Ethan Hawke, Janeane Garofalo, Steve Zahn, Ben Stiller, Swoosie Kurtz, Harry O'Reilly, Susan Norfleet, Joe Don Baker, Renée Zellweger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

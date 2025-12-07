@@ -1,0 +1,10 @@
+movieId: 2941
+title: South Pacific
+year: 1958
+url: https://www.imdb.com/title/tt0052225/
+ratingValue: 
+directors: Joshua Logan
+actors: Rossano Brazzi, Mitzi Gaynor, John Kerr, Ray Walston, Juanita Hall, France Nuyen, Russ Brown, Jack Mullaney, Ken Clark, Floyd Simmons
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

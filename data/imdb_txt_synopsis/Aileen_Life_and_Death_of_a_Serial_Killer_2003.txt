@@ -1,0 +1,10 @@
+movieId: 7171
+title: Aileen: Life and Death of a Serial Killer
+year: 2003
+url: https://www.imdb.com/title/tt0364930/
+ratingValue: 
+directors: Nick Broomfield, Joan Churchill
+actors: Aileen Wuornos, Nick Broomfield, Terry Humphreys-Slay, Leitha Prather, Shirley Humphreys, Joe Hobson, Steve Glazer, Arlene Pralle, Dawn Botkins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

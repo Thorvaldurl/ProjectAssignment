@@ -1,0 +1,10 @@
+movieId: 2137
+title: Charlotte's Web
+year: 1973
+url: https://www.imdb.com/title/tt0070016/
+ratingValue: 
+directors: Charles Nichols, Iwao Takamoto
+actors: Debbie Reynolds, Paul Lynde, Henry Gibson, Rex Allen, Martha Scott, Dave Madden, Danny Bonaduce, Don Messick, Herb Vigran
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

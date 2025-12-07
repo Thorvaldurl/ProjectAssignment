@@ -1,0 +1,10 @@
+movieId: 26147
+title: A Thousand Clowns
+year: 1965
+url: https://www.imdb.com/title/tt0059798/
+ratingValue: 
+directors: Fred Coe
+actors: Jason Robards, Barbara Harris, Martin Balsam, Gene Saks, William Daniels, Philip Bruns, John McMartin, Barry Gordon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

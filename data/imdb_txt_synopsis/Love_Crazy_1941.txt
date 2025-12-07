@@ -1,0 +1,10 @@
+movieId: 7839
+title: Love Crazy
+year: 1941
+url: https://www.imdb.com/title/tt0033852/
+ratingValue: 
+directors: Jack Conway
+actors: William Powell, Myrna Loy, Gail Patrick, Jack Carson, Florence Bates, Sidney Blackmer, Sig Ruman, Vladimir Sokoloff, Donald MacBride, Sara Haden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

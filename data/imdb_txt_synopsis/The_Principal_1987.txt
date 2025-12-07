@@ -1,0 +1,10 @@
+movieId: 5521
+title: The Principal
+year: 1987
+url: https://www.imdb.com/title/tt0093780/
+ratingValue: 
+directors: Christopher Cain
+actors: Jim Belushi, Louis Gossett Jr., Rae Dawn Chong, Michael Wright, J.J. Cohen, Esai Morales, Troy Winbush, Jacob Vargas, Thomas Ryan, Reggie Johnson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

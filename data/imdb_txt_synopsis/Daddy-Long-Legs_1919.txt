@@ -1,0 +1,10 @@
+movieId: 3132
+title: Daddy-Long-Legs
+year: 1919
+url: https://www.imdb.com/title/tt0010040/
+ratingValue: 
+directors: Marshall Neilan
+actors: Mary Pickford, Milla Davenport, Percy Haswell, Fay Lemport, Mahlon Hamilton, Lillian Langdon, Betty Bouton, Audrey Chapman, Marshall Neilan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

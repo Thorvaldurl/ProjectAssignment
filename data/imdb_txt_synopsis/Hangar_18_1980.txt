@@ -1,0 +1,10 @@
+movieId: 5181
+title: Hangar 18
+year: 1980
+url: https://www.imdb.com/title/tt0080836/
+ratingValue: 
+directors: James L. Conway
+actors: Gary Collins, Robert Vaughn, James Hampton, Philip Abbott, Joseph Campanella, Pamela Bellwood, Tom Hallick, Steven Keats, William Schallert, Darren McGavin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

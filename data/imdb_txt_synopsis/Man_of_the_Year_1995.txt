@@ -1,0 +1,10 @@
+movieId: 137
+title: Man of the Year
+year: 1995
+url: https://www.imdb.com/title/tt0113756/
+ratingValue: 
+directors: Dirk Shafer
+actors: Vivian Paxton, Claudette Sutherland, Michael Ornstein, Cal Bartlett, Mary Stein, Dirk Shafer, Beth Broderick, Cynthia Szigeti, Dennis Bailey, Charles Sloane
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

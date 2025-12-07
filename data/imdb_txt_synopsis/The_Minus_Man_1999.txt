@@ -1,0 +1,10 @@
+movieId: 2844
+title: The Minus Man
+year: 1999
+url: https://www.imdb.com/title/tt0151582/
+ratingValue: 
+directors: Hampton Fancher
+actors: Owen Wilson, Sheryl Crow, Dwight Yoakam, Dennis Haysbert, Alex Warren, Mercedes Ruehl, Chloe Black, Brian Cox, Eric Mabius, Larry Miller
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6049
+title: Ethan Frome
+year: 1993
+url: https://www.imdb.com/title/tt0106833/
+ratingValue: 
+directors: John Madden
+actors: Liam Neeson, Gil Rood, Tate Donovan, Stephen Mendillo, Phil Garran, Virginia Smith, Annie Nessen, Katharine Houghton, Marcie Vaughan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

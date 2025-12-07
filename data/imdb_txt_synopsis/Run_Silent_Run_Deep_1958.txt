@@ -1,0 +1,10 @@
+movieId: 2670
+title: Run Silent Run Deep
+year: 1958
+url: https://www.imdb.com/title/tt0052151/
+ratingValue: 
+directors: Robert Wise
+actors: Clark Gable, Burt Lancaster, Jack Warden, Brad Dexter, Don Rickles, Nick Cravat, Joe Maross, Mary LaRoche, Eddie Foy III, Rudy Bond
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

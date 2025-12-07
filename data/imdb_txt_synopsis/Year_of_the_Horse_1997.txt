@@ -1,0 +1,10 @@
+movieId: 1652
+title: Year of the Horse
+year: 1997
+url: https://www.imdb.com/title/tt0120539/
+ratingValue: 
+directors: Jim Jarmusch
+actors: Ralph Molina, Frank 'Pancho' Sampedro, Billy Talbot, Neil Young, Larry Cragg, Jim Jarmusch, Elliot Roberts, Keith Wissmar, Scott Young
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

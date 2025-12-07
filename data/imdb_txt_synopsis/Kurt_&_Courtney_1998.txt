@@ -1,0 +1,10 @@
+movieId: 1856
+title: Kurt & Courtney
+year: 1998
+url: https://www.imdb.com/title/tt0138563/
+ratingValue: 
+directors: Nick Broomfield
+actors: Nick Broomfield, Kurt Cobain, Courtney Love, Mari Earle, Tracy Marander, Alice Wheeler, Hank Harrison, Rozz Rezabek, Amy Squier, Tom Grant
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

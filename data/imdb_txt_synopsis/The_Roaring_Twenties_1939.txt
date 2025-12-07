@@ -1,0 +1,10 @@
+movieId: 25855
+title: The Roaring Twenties
+year: 1939
+url: https://www.imdb.com/title/tt0031867/
+ratingValue: 
+directors: Raoul Walsh
+actors: James Cagney, Priscilla Lane, Humphrey Bogart, Gladys George, Jeffrey Lynn, Frank McHugh, Paul Kelly, Elisabeth Risdon, Edward Keane, Joe Sawyer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

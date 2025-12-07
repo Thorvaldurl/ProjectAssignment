@@ -1,0 +1,10 @@
+movieId: 336
+title: The Walking Dead
+year: 1995
+url: https://www.imdb.com/title/tt0114888/
+ratingValue: 
+directors: Preston A. Whitmore II
+actors: Allen Payne, Eddie Griffin, Joe Morton, Vonte Sweet, Roger Floyd, Ion Overman, Kyley Jackman, Bernie Mac, Jean-Claude La Marre, Lena Sang
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

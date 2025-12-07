@@ -1,0 +1,10 @@
+movieId: 5116
+title: Designing Woman
+year: 1957
+url: https://www.imdb.com/title/tt0050306/
+ratingValue: 
+directors: Vincente Minnelli
+actors: Gregory Peck, Lauren Bacall, Dolores Gray, Sam Levene, Tom Helmore, Mickey Shaughnessy, Jesse White, Chuck Connors, Edward Platt, Alvy Moore
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

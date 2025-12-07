@@ -1,0 +1,10 @@
+movieId: 5838
+title: Madame Bovary
+year: 1991
+url: https://www.imdb.com/title/tt0102368/
+ratingValue: 
+directors: Claude Chabrol
+actors: Isabelle Huppert, Jean-François Balmer, Christophe Malavoy, Jean Yanne, Lucas Belvaux, Christiane Minazzoli, Jean-Louis Maury, Florent Gibassier, Jean-Claude Bouillaud, Sabeline Campo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1363
+title: The Preacher's Wife
+year: 1996
+url: https://www.imdb.com/title/tt0117372/
+ratingValue: 
+directors: Penny Marshall
+actors: Denzel Washington, Whitney Houston, Courtney B. Vance, Gregory Hines, Jenifer Lewis, Loretta Devine, Justin Pierre Edmund, Lionel Richie, Paul Bates, Lex Monson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

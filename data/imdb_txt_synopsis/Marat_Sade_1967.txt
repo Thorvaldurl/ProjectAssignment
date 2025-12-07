@@ -1,0 +1,10 @@
+movieId: 4708
+title: Marat/Sade
+year: 1967
+url: https://www.imdb.com/title/tt0060668/
+ratingValue: 
+directors: Peter Brook
+actors: Patrick Magee, Ian Richardson, Michael Williams, Clifford Rose, Glenda Jackson, Freddie Jones, Hugh Sullivan, John Hussey, William Morgan Sheppard, Jonathan Burn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

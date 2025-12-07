@@ -1,0 +1,10 @@
+movieId: 3455
+title: Buddy Boy
+year: 1999
+url: https://www.imdb.com/title/tt0146516/
+ratingValue: 
+directors: Mark Hanlon
+actors: Aidan Gillen, Emmanuelle Seigner, Susan Tyrrell, Mark Boone Junior, Harry Groener, Hector Elias, Jon Huertas, Richard Assad, Kellie Waymire, Tim DeKay
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

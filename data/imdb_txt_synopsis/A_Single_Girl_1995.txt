@@ -1,0 +1,10 @@
+movieId: 1116
+title: A Single Girl
+year: 1995
+url: https://www.imdb.com/title/tt0113057/
+ratingValue: 
+directors: Benoît Jacquot
+actors: Virginie Ledoyen, Benoît Magimel, Dominique Valadié, Michel Bompoil, Véra Briole, Toni Cecchinato, Virginie Emane, Jean-Claude Frissung, Hervé Gamelin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

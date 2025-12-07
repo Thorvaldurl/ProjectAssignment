@@ -1,0 +1,10 @@
+movieId: 634
+title: Theodore Rex
+year: 1995
+url: https://www.imdb.com/title/tt0114658/
+ratingValue: 
+directors: Jonathan R. Betuel
+actors: Whoopi Goldberg, Armin Mueller-Stahl, Juliet Landau, Bud Cort, Stephen McHattie, George Newbern, Carol Kane, Richard Roundtree, Jack Riley, Peter Mackenzie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

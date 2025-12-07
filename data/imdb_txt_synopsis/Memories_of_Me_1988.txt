@@ -1,0 +1,10 @@
+movieId: 6310
+title: Memories of Me
+year: 1988
+url: https://www.imdb.com/title/tt0095613/
+ratingValue: 
+directors: Henry Winkler
+actors: Billy Crystal, Alan King, JoBeth Williams, Janet Carroll, David Ackroyd, Phil Fondacaro, Robert Pastorelli, Mark L. Taylor, Peter Elbling, Larry Cedar
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

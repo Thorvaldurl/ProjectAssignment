@@ -1,0 +1,10 @@
+movieId: 4644
+title: Bread and Tulips
+year: 2000
+url: https://www.imdb.com/title/tt0237539/
+ratingValue: 
+directors: Silvio Soldini
+actors: Licia Maglietta, Bruno Ganz, Giuseppe Battiston, Antonio Catania, Marina Massironi, Felice Andreasi, Vitalba Andrea, Tatiana Lepore, Daniela Piperno, Tiziano Cucchiarelli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

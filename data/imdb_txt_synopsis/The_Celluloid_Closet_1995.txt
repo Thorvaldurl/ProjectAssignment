@@ -1,0 +1,10 @@
+movieId: 581
+title: The Celluloid Closet
+year: 1995
+url: https://www.imdb.com/title/tt0112651/
+ratingValue: 
+directors: Rob Epstein, Jeffrey Friedman
+actors: Lily Tomlin, Tony Curtis, Susie Bright, Arthur Laurents, Armistead Maupin, Whoopi Goldberg, Jan Oxenberg, Harvey Fierstein, Quentin Crisp, Richard Dyer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

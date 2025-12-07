@@ -1,0 +1,10 @@
+movieId: 3057
+title: Where's Marlowe?
+year: 1998
+url: https://www.imdb.com/title/tt0118150/
+ratingValue: 
+directors: Daniel Pyne
+actors: Miguel Ferrer, John Livingston, Yasiin Bey, John Slattery, Allison Dean, Clayton Rohner, Elizabeth Schofield, Barbara Howard, Kirk Baltz, Miguel Sandoval
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

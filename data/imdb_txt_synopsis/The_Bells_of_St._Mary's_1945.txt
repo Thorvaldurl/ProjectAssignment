@@ -1,0 +1,10 @@
+movieId: 7702
+title: The Bells of St. Mary's
+year: 1945
+url: https://www.imdb.com/title/tt0037536/
+ratingValue: 
+directors: Leo McCarey
+actors: Bing Crosby, Ingrid Bergman, Henry Travers, William Gargan, Ruth Donnelly, Joan Carroll, Martha Sleeper, Rhys Williams, Richard Tyler, Una O'Connor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

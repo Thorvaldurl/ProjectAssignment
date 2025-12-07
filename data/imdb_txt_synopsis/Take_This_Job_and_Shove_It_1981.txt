@@ -1,0 +1,10 @@
+movieId: 5863
+title: Take This Job and Shove It
+year: 1981
+url: https://www.imdb.com/title/tt0083163/
+ratingValue: 
+directors: Gus Trikonis
+actors: Robert Hays, Barbara Hershey, David Keith, Tim Thomerson, Eddie Albert, Penelope Milford, Charlie Rich, Martin Mull, Art Carney, David Allan Coe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

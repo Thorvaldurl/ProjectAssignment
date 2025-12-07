@@ -1,0 +1,10 @@
+movieId: 2620
+title: This Is My Father
+year: 1998
+url: https://www.imdb.com/title/tt0120865/
+ratingValue: 
+directors: Paul Quinn
+actors: James Caan, Jacob Tierney, Colm Meaney, Moira Deady, Susan Almgren, Pauline Hutton, Fiona Glascott, Françoise Graton, Joel Gordon, Alexandra Spunt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

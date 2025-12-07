@@ -1,0 +1,10 @@
+movieId: 4850
+title: Spriggan
+year: 1998
+url: https://www.imdb.com/title/tt0164917/
+ratingValue: 
+directors: Hirotsugu Kawasaki, Katsuhiro Ôtomo
+actors: Shôtarô Morikubo, Ryuji Aigase, Takehito Koyasu, Katsumi Suzuki, Ken Shiroyama, Sakiko Tamagawa, Kenji Takano, Fumihiko Gotô, Dai Matsumoto
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

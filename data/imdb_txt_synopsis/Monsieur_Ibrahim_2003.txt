@@ -1,0 +1,10 @@
+movieId: 7299
+title: Monsieur Ibrahim
+year: 2003
+url: https://www.imdb.com/title/tt0329388/
+ratingValue: 
+directors: François Dupeyron
+actors: Omar Sharif, Pierre Boulanger, Gilbert Melki, Isabelle Renauld, Lola Naymark, Anne Suarez, Mata Gabin, Céline Samie, Isabelle Adjani, Guillaume Gallienne
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

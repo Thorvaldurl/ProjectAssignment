@@ -1,0 +1,10 @@
+movieId: 7178
+title: The Great Gatsby
+year: 1974
+url: https://www.imdb.com/title/tt0071577/
+ratingValue: 
+directors: Jack Clayton
+actors: Robert Redford, Mia Farrow, Bruce Dern, Karen Black, Scott Wilson, Sam Waterston, Lois Chiles, Howard Da Silva, Roberts Blossom, Edward Herrmann
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

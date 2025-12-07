@@ -1,0 +1,10 @@
+movieId: 128
+title: Jupiter's Wife
+year: 1995
+url: https://www.imdb.com/title/tt0110217/
+ratingValue: 
+directors: Michel Negroponte
+actors: Maggie Cogan, Katina Commings
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

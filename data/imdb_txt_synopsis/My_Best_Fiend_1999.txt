@@ -1,0 +1,10 @@
+movieId: 3002
+title: My Best Fiend
+year: 1999
+url: https://www.imdb.com/title/tt0200849/
+ratingValue: 
+directors: Werner Herzog
+actors: Werner Herzog, Claudia Cardinale, Eva Mattes, Beat Presser, Guillermo Ríos, Andrés Vicente, Justo González, Benino Moreno Placido, Baron van der Recke
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

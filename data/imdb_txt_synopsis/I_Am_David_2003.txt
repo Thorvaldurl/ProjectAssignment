@@ -1,0 +1,10 @@
+movieId: 8982
+title: I Am David
+year: 2003
+url: https://www.imdb.com/title/tt0327919/
+ratingValue: 
+directors: Paul Feig
+actors: Ben Tibber, Jim Caviezel, Hristo Shopov, Roberto Attias, Maria Bonnevie, Francesco De Vito, Marin Jivkov, Shaila Rubin, Robert Syulev, Elisabetta Bartolomei
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

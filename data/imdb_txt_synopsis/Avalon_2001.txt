@@ -1,0 +1,10 @@
+movieId: 6790
+title: Avalon
+year: 2001
+url: https://www.imdb.com/title/tt0267287/
+ratingValue: 
+directors: Mamoru Oshii
+actors: Malgorzata Foremniak, Wladyslaw Kowalski, Jerzy Gudejko, Dariusz Biskupski, Bartlomiej Swiderski, Katarzyna Bargielowska, Alicja Sapryk, Michal Breitenwald, Zuzanna Kasz, Adam Szyszkowski
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

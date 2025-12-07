@@ -1,0 +1,10 @@
+movieId: 73
+title: Les Misérables
+year: 1995
+url: https://www.imdb.com/title/tt0113828/
+ratingValue: 
+directors: Claude Lelouch
+actors: Jean-Paul Belmondo, Michel Boujenah, Alessandra Martines, Salomé Lelouch, Annie Girardot, Philippe Léotard, Clémentine Célarié, Philippe Khorsand, Ticky Holgado
+
+synopsis:
+This movie is basically the original story of Les Miserables, used in the time of World War Two. Basically an ex boxer, an ex dancer and their daughter are trying to get away from the Nazis (obviously becuse they are Jewish). In that they meet a man who can be referred to as the 20th century Jean Valjean (of the original play). If you know who he is and the original play, you can match up the story and how it is Les Miserables of World War 2. During the course of the film the family is seperated but in the end they continue to live out the original story of Les Miserables and reunite with the help of Henry Fortin (or Jean Valjean). There are a few differences between the original play and this one that are left out but the beautiful drama of a story still lives within the horrors of World War 2 and have the same impact as it should.

@@ -1,0 +1,10 @@
+movieId: 8057
+title: Sweet Bird of Youth
+year: 1962
+url: https://www.imdb.com/title/tt0056541/
+ratingValue: 
+directors: Richard Brooks
+actors: Paul Newman, Geraldine Page, Shirley Knight, Ed Begley, Rip Torn, Mildred Dunnock, Madeleine Sherwood, Philip Abbott, Corey Allen, Barry Cahill
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

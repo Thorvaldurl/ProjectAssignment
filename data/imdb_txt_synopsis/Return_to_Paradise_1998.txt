@@ -1,0 +1,10 @@
+movieId: 2166
+title: Return to Paradise
+year: 1998
+url: https://www.imdb.com/title/tt0124595/
+ratingValue: 
+directors: Joseph Ruben
+actors: Vince Vaughn, Anne Heche, Joaquin Phoenix, David Conrad, Vera Farmiga, Nick Sandow, Jada Pinkett Smith, Ming Lee, Joel de la Fuente, Richard Chang
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

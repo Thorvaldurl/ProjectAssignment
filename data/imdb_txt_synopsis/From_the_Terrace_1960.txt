@@ -1,0 +1,10 @@
+movieId: 6449
+title: From the Terrace
+year: 1960
+url: https://www.imdb.com/title/tt0053841/
+ratingValue: 
+directors: Mark Robson
+actors: Paul Newman, Joanne Woodward, Myrna Loy, Ina Balin, Leon Ames, Elizabeth Allen, Barbara Eden, George Grizzard, Patrick O'Neal, Felix Aylmer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

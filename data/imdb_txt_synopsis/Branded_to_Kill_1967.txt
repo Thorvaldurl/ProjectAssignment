@@ -1,0 +1,10 @@
+movieId: 26169
+title: Branded to Kill
+year: 1967
+url: https://www.imdb.com/title/tt0061882/
+ratingValue: 
+directors: Seijun Suzuki
+actors: Jô Shishido, Mariko Ogawa, Annu Mari, Kôji Nanbara, Isao Tamagawa, Hiroshi Minami, Hiroshi Chô, Atsushi Yamatoya, Takashi Nomura
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

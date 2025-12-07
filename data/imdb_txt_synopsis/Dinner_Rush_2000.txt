@@ -1,0 +1,10 @@
+movieId: 4772
+title: Dinner Rush
+year: 2000
+url: https://www.imdb.com/title/tt0229340/
+ratingValue: 
+directors: Bob Giraldi
+actors: Danny Aiello, John Rothman, Frank Bongiorno, Lexie Sperduto, Zainab Jah, Alex Corrado, Michael McGlone, Walt MacPherson, Polly Draper, Edoardo Ballerini
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

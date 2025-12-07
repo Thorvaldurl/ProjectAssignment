@@ -1,0 +1,10 @@
+movieId: 229
+title: Death and the Maiden
+year: 1994
+url: https://www.imdb.com/title/tt0109579/
+ratingValue: 
+directors: Roman Polanski
+actors: Sigourney Weaver, Ben Kingsley, Stuart Wilson, Krystia Mova, Jonathan Vega, Rodolphe Vega, Gilberto Cortés, Jorge Cruz, Carlos Moreno
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

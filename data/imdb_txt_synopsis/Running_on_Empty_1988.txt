@@ -1,0 +1,10 @@
+movieId: 4537
+title: Running on Empty
+year: 1988
+url: https://www.imdb.com/title/tt0096018/
+ratingValue: 
+directors: Sidney Lumet
+actors: Christine Lahti, River Phoenix, Judd Hirsch, Jonas Abry, Martha Plimpton, Ed Crowley, L.M. Kit Carson, Steven Hill, Augusta Dabney, David Margulies
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

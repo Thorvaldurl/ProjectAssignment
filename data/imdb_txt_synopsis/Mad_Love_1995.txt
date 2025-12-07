@@ -1,0 +1,10 @@
+movieId: 179
+title: Mad Love
+year: 1995
+url: https://www.imdb.com/title/tt0113729/
+ratingValue: 
+directors: Antonia Bird
+actors: Chris O'Donnell, Drew Barrymore, Matthew Lillard, Richard Chaim, Robert Nadir, Joan Allen, Jude Ciccolella, Amy Sakasitz, T.J. Lowther, Kevin Dunn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

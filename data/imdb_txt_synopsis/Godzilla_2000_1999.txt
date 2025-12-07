@@ -1,0 +1,10 @@
+movieId: 3864
+title: Godzilla 2000
+year: 1999
+url: https://www.imdb.com/title/tt0188640/
+ratingValue: 
+directors: Takao Okawara
+actors: Takehiro Murata, Hiroshi Abe, Naomi Nishida, Mayu Suzuki, Shirô Sano, Takeshi Ôbayashi, Shirô Namiki, Sakae Kimura, Bengal, Ken'ichi Nagira
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

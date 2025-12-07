@@ -1,0 +1,10 @@
+movieId: 7103
+title: Madhouse
+year: 1990
+url: https://www.imdb.com/title/tt0100087/
+ratingValue: 
+directors: Tom Ropelewski
+actors: John Larroquette, Kirstie Alley, Alison La Placa, John Diehl, Jessica Lundy, Bradley Gregg, Dennis Miller, Robert Ginty, Wayne Tippit, Paul Eiding
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

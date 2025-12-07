@@ -1,0 +1,10 @@
+movieId: 5986
+title: Fat City
+year: 1972
+url: https://www.imdb.com/title/tt0068575/
+ratingValue: 
+directors: John Huston
+actors: Stacy Keach, Jeff Bridges, Susan Tyrrell, Candy Clark, Nicholas Colasanto, Art Aragon, Curtis Cokes, Sixto Rodriguez, Billy Walker, Wayne Mahan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

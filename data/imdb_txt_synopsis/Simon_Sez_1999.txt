@@ -1,0 +1,10 @@
+movieId: 2887
+title: Simon Sez
+year: 1999
+url: https://www.imdb.com/title/tt0168172/
+ratingValue: 
+directors: Kevin Alyn Elders
+actors: Dennis Rodman, Dane Cook, John Pinette, Ricky Harris, Filip Nikolic, Natalia Cigliuti, Emma Wiklund, Jérôme Pradon, Xiong Xinxin, Henry Courseaux
+
+synopsis:
+A tattooed Interpol agent helps an old classmate find the kidnapped daughter of a computer software tycoon.

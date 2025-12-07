@@ -1,0 +1,10 @@
+movieId: 2281
+title: Monument Ave.
+year: 1998
+url: https://www.imdb.com/title/tt0119802/
+ratingValue: 
+directors: Ted Demme
+actors: Denis Leary, Ian Hart, Jason Barry, Lenny Clarke, Kevin Chapman, Famke Janssen, George MacDonald, John Diehl, Lyndon Byers, Herbie Ade
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5390
+title: CQ
+year: 2001
+url: https://www.imdb.com/title/tt0254199/
+ratingValue: 
+directors: Roman Coppola
+actors: Jeremy Davies, Angela Lindvall, Élodie Bouchez, Gérard Depardieu, Giancarlo Giannini, Massimo Ghini, Jason Schwartzman, Billy Zane, John Phillip Law, Silvio Muccino
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4756
+title: The Musketeer
+year: 2001
+url: https://www.imdb.com/title/tt0246544/
+ratingValue: 
+directors: Peter Hyams
+actors: Catherine Deneuve, Mena Suvari, Stephen Rea, Tim Roth, Justin Chambers, Bill Treacher, Daniel Mesguich, David Schofield, Nick Moran, Steve Speirs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

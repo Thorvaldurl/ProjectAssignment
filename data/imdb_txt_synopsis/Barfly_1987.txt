@@ -1,0 +1,10 @@
+movieId: 4082
+title: Barfly
+year: 1987
+url: https://www.imdb.com/title/tt0092618/
+ratingValue: 
+directors: Barbet Schroeder
+actors: Mickey Rourke, Faye Dunaway, Alice Krige, Jack Nance, J.C. Quinn, Frank Stallone, Sandy Martin, Roberta Bassin, Gloria LeRoy, Joe Unger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

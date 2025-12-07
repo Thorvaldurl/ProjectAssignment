@@ -1,0 +1,10 @@
+movieId: 7020
+title: Proof
+year: 1991
+url: https://www.imdb.com/title/tt0102721/
+ratingValue: 
+directors: Jocelyn Moorhouse
+actors: Hugo Weaving, Geneviève Picot, Russell Crowe, Heather Mitchell, Jeffrey Walker, Daniel Pollock, Frankie J. Holden, Frank Gallacher, Saskia Post, Belinda Davey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

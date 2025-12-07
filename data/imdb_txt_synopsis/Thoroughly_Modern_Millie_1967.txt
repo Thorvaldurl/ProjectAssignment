@@ -1,0 +1,10 @@
+movieId: 6480
+title: Thoroughly Modern Millie
+year: 1967
+url: https://www.imdb.com/title/tt0062362/
+ratingValue: 
+directors: George Roy Hill
+actors: Julie Andrews, James Fox, Mary Tyler Moore, Carol Channing, John Gavin, Jack Soo, Pat Morita, Philip Ahn, Anthony Dexter, Cavada Humphrey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

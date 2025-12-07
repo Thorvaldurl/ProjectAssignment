@@ -1,0 +1,10 @@
+movieId: 4403
+title: House of Usher
+year: 1960
+url: https://www.imdb.com/title/tt0053925/
+ratingValue: 
+directors: Roger Corman
+actors: Vincent Price, Mark Damon, Myrna Fahey, Harry Ellerbe, David Ahdar, Mario Bellini, Bill Borzage, Eleanor LeFaber, Nadajan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

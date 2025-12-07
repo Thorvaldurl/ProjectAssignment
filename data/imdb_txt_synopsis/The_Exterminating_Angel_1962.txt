@@ -1,0 +1,10 @@
+movieId: 8620
+title: The Exterminating Angel
+year: 1962
+url: https://www.imdb.com/title/tt0056732/
+ratingValue: 
+directors: Luis Buñuel
+actors: Silvia Pinal, Jacqueline Andere, José Baviera, Augusto Benedico, Luis Beristáin, Antonio Bravo, Claudio Brook, César del Campo, Rosa Elena Durgel, Lucy Gallardo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

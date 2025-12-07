@@ -1,0 +1,10 @@
+movieId: 219
+title: The Cure
+year: 1995
+url: https://www.imdb.com/title/tt0112757/
+ratingValue: 
+directors: Peter Horton
+actors: Brad Renfro, Aeryk Egan, Delphine French, Mona Powell, Andrew Broder, Jeremy Howard, Joseph Mazzello, Annabella Sciorra, Diana Scarwid, Rosemary Corman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6249
+title: Boat Trip
+year: 2002
+url: https://www.imdb.com/title/tt0285462/
+ratingValue: 
+directors: Mort Nathan
+actors: Cuba Gooding Jr., Horatio Sanz, Roselyn Sanchez, Vivica A. Fox, Maurice Godin, Roger Moore, Lin Shaye, Victoria Silvstedt, Ken Hudson Campbell, Zen Gesner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

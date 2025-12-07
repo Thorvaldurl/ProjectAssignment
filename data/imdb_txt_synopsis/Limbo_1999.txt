@@ -1,0 +1,10 @@
+movieId: 2682
+title: Limbo
+year: 1999
+url: https://www.imdb.com/title/tt0164085/
+ratingValue: 
+directors: John Sayles
+actors: Michael Laskin, Leo Burmester, Hermínio Ramos, Dawn McInturff, Vanessa Martinez, David Strathairn, Tom Biss, Mary Elizabeth Mastrantonio, Jimmy MacDonell, Kathryn Grody
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

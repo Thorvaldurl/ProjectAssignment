@@ -1,0 +1,10 @@
+movieId: 2055
+title: Hot Lead and Cold Feet
+year: 1978
+url: https://www.imdb.com/title/tt0077698/
+ratingValue: 
+directors: Robert Butler
+actors: Jim Dale, Karen Valentine, Don Knotts, Jack Elam, Darren McGavin, John Williams, Warren Vanders, Debbie Lytton, Michael Sharrett, David S. Cass Sr.
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

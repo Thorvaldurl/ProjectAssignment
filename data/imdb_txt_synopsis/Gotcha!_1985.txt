@@ -1,0 +1,10 @@
+movieId: 6718
+title: Gotcha!
+year: 1985
+url: https://www.imdb.com/title/tt0089222/
+ratingValue: 
+directors: Jeff Kanew
+actors: Anthony Edwards, Linda Fiorentino, Jsu Garcia, Alex Rocco, Marla Adams, Klaus Löwitsch, Christopher Rydell, Christie Claridge, Brad Cowgill, Kari Lizer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

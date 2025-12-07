@@ -1,0 +1,10 @@
+movieId: 1870
+title: Dancer, Texas Pop. 81
+year: 1998
+url: https://www.imdb.com/title/tt0118925/
+ratingValue: 
+directors: Tim McCanlies
+actors: Breckin Meyer, Peter Facinelli, Eddie Mills, Ethan Embry, Ashley Johnson, Patricia Wettig, Michael O'Neill, Eddie Jones, Wayne Tippit, Alexandra Holden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

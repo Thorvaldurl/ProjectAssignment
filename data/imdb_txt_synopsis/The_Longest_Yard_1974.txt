@@ -1,0 +1,10 @@
+movieId: 4220
+title: The Longest Yard
+year: 1974
+url: https://www.imdb.com/title/tt0071771/
+ratingValue: 
+directors: Robert Aldrich
+actors: Burt Reynolds, Eddie Albert, Ed Lauter, Michael Conrad, James Hampton, Harry Caesar, John Steadman, Charles Tyner, Mike Henry, Jim Nicholson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6461
+title: The Unforgiven
+year: 1960
+url: https://www.imdb.com/title/tt0054428/
+ratingValue: 
+directors: John Huston
+actors: Burt Lancaster, Audrey Hepburn, Audie Murphy, John Saxon, Charles Bickford, Lillian Gish, Albert Salmi, Joseph Wiseman, June Walker, Kipp Hamilton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1351
+title: Blood and Wine
+year: 1996
+url: https://www.imdb.com/title/tt0115710/
+ratingValue: 
+directors: Bob Rafelson
+actors: Jack Nicholson, Stephen Dorff, Jennifer Lopez, Judy Davis, Michael Caine, Harold Perrineau, Robyn Peterson, Mike Starr, John Seitz, Marc Macaulay
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

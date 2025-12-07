@@ -1,0 +1,10 @@
+movieId: 6305
+title: Fahrenheit 451
+year: 1966
+url: https://www.imdb.com/title/tt0060390/
+ratingValue: 
+directors: François Truffaut
+actors: Julie Christie, Oskar Werner, Cyril Cusack, Anton Diffring, Jeremy Spenser, Bee Duffell, Alex Scott, Gillian Aldam, Michael Balfour
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

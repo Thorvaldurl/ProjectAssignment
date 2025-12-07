@@ -1,0 +1,10 @@
+movieId: 1413
+title: The Whole Wide World
+year: 1996
+url: https://www.imdb.com/title/tt0118163/
+ratingValue: 
+directors: Dan Ireland
+actors: Vincent D'Onofrio, Renée Zellweger, Ann Wedgeworth, Harve Presnell, Benjamin Mouton, Helen Cates, Leslie Buesing, Chris Shearer, Sandy Walper, Marion Eaton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

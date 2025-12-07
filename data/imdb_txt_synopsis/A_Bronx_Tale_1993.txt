@@ -1,0 +1,10 @@
+movieId: 428
+title: A Bronx Tale
+year: 1993
+url: https://www.imdb.com/title/tt0106489/
+ratingValue: 
+directors: Robert De Niro
+actors: Robert De Niro, Chazz Palminteri, Lillo Brancato, Francis Capra, Taral Hicks, Kathrine Narducci, Clem Caserta, Alfred Sauchelli Jr., Frank Pietrangolare, Joe Pesci
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

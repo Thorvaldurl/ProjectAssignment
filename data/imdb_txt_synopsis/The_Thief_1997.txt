@@ -1,0 +1,10 @@
+movieId: 8025
+title: The Thief
+year: 1997
+url: https://www.imdb.com/title/tt0124207/
+ratingValue: 
+directors: Pavel Chukhray
+actors: Vladimir Mashkov, Yekaterina Rednikova, Mikhail Filipchuk, Dima Chigaryov, Yuriy Belyaev, Amaliya Mordvinova, Lidiya Savchenko, Anatoliy Koshcheev, Anna Shtukaturova, Ervand Arzumanyan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

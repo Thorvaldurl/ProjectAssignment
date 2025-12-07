@@ -1,0 +1,10 @@
+movieId: 7844
+title: The Legend
+year: 1993
+url: https://www.imdb.com/title/tt0106936/
+ratingValue: 
+directors: Corey Yuen
+actors: Jet Li, Josephine Siao, Michelle Reis, Wenzhuo Zhao, Sung-Young Chen, Sibelle Hu, Adam Cheng, Kong Chu, Lung Chan, Xian Gao
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

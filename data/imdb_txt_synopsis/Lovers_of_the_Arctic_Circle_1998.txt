@@ -1,0 +1,10 @@
+movieId: 2585
+title: Lovers of the Arctic Circle
+year: 1998
+url: https://www.imdb.com/title/tt0133363/
+ratingValue: 
+directors: Julio Medem
+actors: Najwa Nimri, Fele Martínez, Nancho Novo, Maru Valdivielso, Peru Medem, Sara Valiente, Víctor Hugo Oliveira, Kristel Díaz, Pep Munné
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

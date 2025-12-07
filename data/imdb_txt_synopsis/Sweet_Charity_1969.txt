@@ -1,0 +1,10 @@
+movieId: 6245
+title: Sweet Charity
+year: 1969
+url: https://www.imdb.com/title/tt0065054/
+ratingValue: 
+directors: Bob Fosse
+actors: Shirley MacLaine, John McMartin, Ricardo Montalban, Sammy Davis Jr., Chita Rivera, Paula Kelly, Stubby Kaye, Barbara Bouchet, Suzanne Charny, Alan Hewitt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

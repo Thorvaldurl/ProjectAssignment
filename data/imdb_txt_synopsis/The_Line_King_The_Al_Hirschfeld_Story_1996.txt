@@ -1,0 +1,10 @@
+movieId: 1144
+title: The Line King: The Al Hirschfeld Story
+year: 1996
+url: https://www.imdb.com/title/tt0116886/
+ratingValue: 
+directors: Susan Warms Dryfoos
+actors: Julie Andrews, Lauren Bacall, Carol Channing, Cy Coleman, Joan Collins, Betty Comden, Margo Feiden, Jules Feiffer, Frank Gifford, Kathie Lee Gifford
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

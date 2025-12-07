@@ -1,0 +1,10 @@
+movieId: 8938
+title: Tarnation
+year: 2003
+url: https://www.imdb.com/title/tt0390538/
+ratingValue: 
+directors: Jonathan Caouette
+actors: Renee Leblanc, Jonathan Caouette, Adolph Davis, Rosemary Davis, David Sanin Paz, Joshua Williams, Michael Cox, David Leblanc, Stacey Mowery
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

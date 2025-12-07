@@ -1,0 +1,10 @@
+movieId: 1858
+title: Mr. Nice Guy
+year: 1997
+url: https://www.imdb.com/title/tt0117786/
+ratingValue: 
+directors: Sammo Kam-Bo Hung
+actors: Jackie Chan, Richard Norton, Miki Lee, Karen McLymont, Gabrielle Fitzpatrick, Vince Poletto, Barry Otto, Sammo Kam-Bo Hung, Emil Chau, Joyce Godenzi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

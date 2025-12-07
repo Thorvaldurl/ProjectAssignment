@@ -1,0 +1,10 @@
+movieId: 3323
+title: Chain of Fools
+year: 2000
+url: https://www.imdb.com/title/tt0194368/
+ratingValue: 
+directors: Pontus Löwenhielm, Patrick von Krusenstjerna
+actors: Steve Zahn, Salma Hayek, Jeff Goldblum, Elijah Wood, David Cross, Tom Wilkinson, Orlando Jones, Kevin Corrigan, David Hyde Pierce, Lara Flynn Boyle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

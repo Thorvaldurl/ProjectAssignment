@@ -1,0 +1,10 @@
+movieId: 270
+title: Love Affair
+year: 1994
+url: https://www.imdb.com/title/tt0110391/
+ratingValue: 
+directors: Glenn Gordon Caron
+actors: Warren Beatty, Annette Bening, Katharine Hepburn, Garry Shandling, Chloe Webb, Pierce Brosnan, Kate Capshaw, Paul Mazursky, Brenda Vaccaro, Glenn Shadix
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

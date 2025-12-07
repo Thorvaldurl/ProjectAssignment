@@ -1,0 +1,10 @@
+movieId: 4234
+title: The Tailor of Panama
+year: 2001
+url: https://www.imdb.com/title/tt0236784/
+ratingValue: 
+directors: John Boorman
+actors: Pierce Brosnan, Geoffrey Rush, Jamie Lee Curtis, Leonor Varela, Brendan Gleeson, Harold Pinter, Catherine McCormack, Daniel Radcliffe, Lola Boorman, David Hayman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

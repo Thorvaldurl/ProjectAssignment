@@ -1,0 +1,10 @@
+movieId: 4787
+title: Little Man Tate
+year: 1991
+url: https://www.imdb.com/title/tt0102316/
+ratingValue: 
+directors: Jodie Foster
+actors: Jodie Foster, Alex Lee, Adam Hann-Byrd, Michael Shulman, Nathan Lee, Celia Weston, Danitra Vance, Dianne Wiest, David Hyde Pierce, Debi Mazar
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3637
+title: Vagabond
+year: 1985
+url: https://www.imdb.com/title/tt0089960/
+ratingValue: 
+directors: Agnès Varda
+actors: Sandrine Bonnaire, Setti Ramdane, Francis Balchère, Jean-Louis Perletti, Urbain Causse, Christophe Alcazar, Dominique Durand, Joël Fosse, Patrick Schmit
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

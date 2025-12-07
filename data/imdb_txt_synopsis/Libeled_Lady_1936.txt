@@ -1,0 +1,10 @@
+movieId: 25826
+title: Libeled Lady
+year: 1936
+url: https://www.imdb.com/title/tt0027884/
+ratingValue: 
+directors: Jack Conway
+actors: Jean Harlow, William Powell, Myrna Loy, Spencer Tracy, Walter Connolly, Charley Grapewin, Cora Witherspoon, E.E. Clive, Bunny Beatty, Otto Yamaoka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

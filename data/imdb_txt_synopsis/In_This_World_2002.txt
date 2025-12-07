@@ -1,0 +1,10 @@
+movieId: 6760
+title: In This World
+year: 2002
+url: https://www.imdb.com/title/tt0310154/
+ratingValue: 
+directors: Michael Winterbottom
+actors: Jamal Udin Torabi, Enayatullah, Imran Paracha, Hiddayatullah, Jamau, Wakeel Khan, Lal Zarin, Ahsan Raza, Mirwais Torabi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

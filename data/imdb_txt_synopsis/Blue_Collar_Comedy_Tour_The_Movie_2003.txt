@@ -1,0 +1,10 @@
+movieId: 6005
+title: Blue Collar Comedy Tour: The Movie
+year: 2003
+url: https://www.imdb.com/title/tt0330069/
+ratingValue: 
+directors: C.B. Harding
+actors: Jeff Foxworthy, Bill Engvall, Ron White, Larry the Cable Guy, Heidi Klum, David Alan Grier
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

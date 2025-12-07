@@ -1,0 +1,10 @@
+movieId: 5499
+title: Robin and Marian
+year: 1976
+url: https://www.imdb.com/title/tt0075147/
+ratingValue: 
+directors: Richard Lester
+actors: Sean Connery, Audrey Hepburn, Robert Shaw, Richard Harris, Nicol Williamson, Denholm Elliott, Kenneth Haigh, Ronnie Barker, Ian Holm, Bill Maynard
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

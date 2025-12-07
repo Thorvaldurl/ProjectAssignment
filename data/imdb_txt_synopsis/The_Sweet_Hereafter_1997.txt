@@ -1,0 +1,10 @@
+movieId: 1719
+title: The Sweet Hereafter
+year: 1997
+url: https://www.imdb.com/title/tt0120255/
+ratingValue: 
+directors: Atom Egoyan
+actors: Ian Holm, Caerthan Banks, Sarah Polley, Tom McCamus, Gabrielle Rose, Alberta Watson, Maury Chaykin, Stephanie Morgenstern, Kirsten Kieferle, Arsinée Khanjian
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

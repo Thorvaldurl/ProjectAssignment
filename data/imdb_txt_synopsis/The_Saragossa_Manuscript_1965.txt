@@ -1,0 +1,10 @@
+movieId: 2632
+title: The Saragossa Manuscript
+year: 1965
+url: https://www.imdb.com/title/tt0059643/
+ratingValue: 
+directors: Wojciech Has
+actors: Zbigniew Cybulski, Iga Cembrzynska, Elzbieta Czyzewska, Gustaw Holoubek, Stanislaw Igar, Joanna Jedryka, Janusz Klosinski, Bogumil Kobiela, Barbara Krafftówna, Jadwiga Krawczyk
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

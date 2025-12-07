@@ -1,0 +1,10 @@
+movieId: 4046
+title: Friendly Persuasion
+year: 1956
+url: https://www.imdb.com/title/tt0049233/
+ratingValue: 
+directors: William Wyler
+actors: Gary Cooper, Dorothy McGuire, Anthony Perkins, Richard Eyer, Robert Middleton, Phyllis Love, Peter Mark Richman, Walter Catlett, Richard Hale, Joel Fluellen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

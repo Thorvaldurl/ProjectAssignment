@@ -1,0 +1,10 @@
+movieId: 26184
+title: The Diamond Arm
+year: 1969
+url: https://www.imdb.com/title/tt0062759/
+ratingValue: 
+directors: Leonid Gaidai
+actors: Yuriy Nikulin, Nina Grebeshkova, Andrey Mironov, Anatoliy Papanov, Stanislav Chekan, Vladimir Gulyaev, Nonna Mordyukova, Svetlana Svetlichnaya, Roman Filippov, Grigoriy Shpigel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

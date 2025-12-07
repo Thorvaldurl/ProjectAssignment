@@ -1,0 +1,10 @@
+movieId: 378
+title: Speechless
+year: 1994
+url: https://www.imdb.com/title/tt0111256/
+ratingValue: 
+directors: Ron Underwood
+actors: Michael Keaton, Geena Davis, Christopher Reeve, Bonnie Bedelia, Ernie Hudson, Charles Martin Smith, Gailard Sartain, Ray Baker, Mitchell Ryan, Willie Garson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

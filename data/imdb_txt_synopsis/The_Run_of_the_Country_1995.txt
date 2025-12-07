@@ -1,0 +1,10 @@
+movieId: 679
+title: The Run of the Country
+year: 1995
+url: https://www.imdb.com/title/tt0114307/
+ratingValue: 
+directors: Peter Yates
+actors: Albert Finney, Matt Keeslar, Victoria Smurfit, Anthony Brophy, David Kelly, Dearbhla Molloy, Carole Nimmons, Vinnie McCabe, Trevor Clarke, Kevin Murphy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

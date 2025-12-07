@@ -1,0 +1,10 @@
+movieId: 3694
+title: The Toxic Avenger Part II
+year: 1989
+url: https://www.imdb.com/title/tt0098503/
+ratingValue: 
+directors: Michael Herz, Lloyd Kaufman
+actors: Ron Fazio, John Altamura, Phoebe Legere, Rick Collins, Rikiya Yasuoka, Tsutomu Sekine, Mayako Katsuragi, Shinoburyû, Lisa Gaye
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

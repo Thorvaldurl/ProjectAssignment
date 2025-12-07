@@ -1,0 +1,10 @@
+movieId: 6811
+title: PCU
+year: 1994
+url: https://www.imdb.com/title/tt0110759/
+ratingValue: 
+directors: Hart Bochner
+actors: Jeremy Piven, Chris Young, Megan Ward, Jon Favreau, Alex Désert, Gale Mayron, Jake Grace, Darin Heames, Matt Ross, Stivi Paskoski
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

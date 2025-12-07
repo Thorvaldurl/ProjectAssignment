@@ -1,0 +1,10 @@
+movieId: 5515
+title: Songs from the Second Floor
+year: 2000
+url: https://www.imdb.com/title/tt0120263/
+ratingValue: 
+directors: Roy Andersson
+actors: Lars Nordh, Stefan Larsson, Bengt C.W. Carlsson, Torbjörn Fahlström, Sten Andersson, Rolando Núñez, Lucio Vucina, Per Jörnelius, Peter Roth
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

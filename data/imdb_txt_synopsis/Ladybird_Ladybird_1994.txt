@@ -1,0 +1,10 @@
+movieId: 263
+title: Ladybird Ladybird
+year: 1994
+url: https://www.imdb.com/title/tt0110296/
+ratingValue: 
+directors: Ken Loach
+actors: Crissy Rock, Vladimir Vega, Sandie Lavelle, Mauricio Venegas, Ray Winstone, Clare Perkins, Jason Stracey, Luke Brown, Lily Farrell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8154
+title: La Dolce Vita
+year: 1960
+url: https://www.imdb.com/title/tt0053779/
+ratingValue: 
+directors: Federico Fellini
+actors: Marcello Mastroianni, Anita Ekberg, Anouk Aimée, Yvonne Furneaux, Magali Noël, Alain Cuny, Annibale Ninchi, Walter Santesso, Valeria Ciangottini, Riccardo Garrone
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

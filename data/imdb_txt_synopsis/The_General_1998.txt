@@ -1,0 +1,10 @@
+movieId: 2425
+title: The General
+year: 1998
+url: https://www.imdb.com/title/tt0120706/
+ratingValue: 
+directors: John Boorman
+actors: Brendan Gleeson, Adrian Dunbar, Sean McGinley, Maria Doyle Kennedy, Angeline Ball, Jon Voight, Eanna MacLiam, Tom Murphy, Paul Hickey, Tommy O'Neill
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

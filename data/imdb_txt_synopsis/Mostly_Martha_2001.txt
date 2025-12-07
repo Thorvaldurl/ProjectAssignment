@@ -1,0 +1,10 @@
+movieId: 5525
+title: Mostly Martha
+year: 2001
+url: https://www.imdb.com/title/tt0246772/
+ratingValue: 
+directors: Sandra Nettelbeck
+actors: Martina Gedeck, Maxime Foerste, August Zirner, Ulrich Thomsen, Sibylle Canonica, Katja Studt, Idil Üner, Oliver Broumis, Antonio Wannek, Sergio Castellitto
+
+synopsis:
+Martha is the head chef of a restaurant run by her friend Frida. Martha's sister and niece are on the way to visit Martha when an accident occurs killing the sister, leaving her daughter Lina unhurt. Because Lina has never known her father, Martha assumes responsibility for her, at least until Lina's father can be found and contacted. Lina proves to be a real handful, partly because of grief, but more because the accident wouldn't have happened had they not been on the way to visit Martha. As the result of Martha needing to spend increasing amounts of time coping with Lina's behaviour, her work starts to suffer, so another chef, Mario, is hired to ease her load. The problem is that Mario is highly skilled and appears to Martha to be edging her out, setting up an opportunity for rivalry to erupt. The film develops from this point, focussing on the attempts to locate Lina's father and the affect that Mario has on all around him. The new Catherine Zeta-Jones film "No Reservations" is a remake of this award winning film.

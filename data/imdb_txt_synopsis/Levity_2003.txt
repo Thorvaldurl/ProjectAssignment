@@ -1,0 +1,10 @@
+movieId: 6285
+title: Levity
+year: 2003
+url: https://www.imdb.com/title/tt0304328/
+ratingValue: 
+directors: Ed Solomon
+actors: Billy Bob Thornton, Morgan Freeman, Holly Hunter, Kirsten Dunst, Manuel Aranguiz, Geoffrey Wigdor, Luke Robertson, Dorian Harewood, Catherine Colvey, Billoah Greene
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

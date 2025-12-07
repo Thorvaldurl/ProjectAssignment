@@ -1,0 +1,10 @@
+movieId: 6514
+title: Ring of Terror
+year: 1961
+url: https://www.imdb.com/title/tt0056415/
+ratingValue: 
+directors: Clark L. Paylow
+actors: George E. Mather, Austin Green, Esther Furst, Norman Ollestad, Lomax Study, Pamela Raymond, Jerry Zinnamon, Joseph Conway, June Smaney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5023
+title: The Waterdance
+year: 1992
+url: https://www.imdb.com/title/tt0105789/
+ratingValue: 
+directors: Neal Jimenez, Michael Steinberg
+actors: Eric Stoltz, Helen Hunt, William Allen Young, James Roach, Elizabeth Peña, Henry Harris, Tony Genaro, Eva Rodriguez, Erick Vigil, Edgar Rodriguez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

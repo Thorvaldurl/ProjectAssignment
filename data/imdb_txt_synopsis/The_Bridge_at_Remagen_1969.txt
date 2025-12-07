@@ -1,0 +1,10 @@
+movieId: 3372
+title: The Bridge at Remagen
+year: 1969
+url: https://www.imdb.com/title/tt0064110/
+ratingValue: 
+directors: John Guillermin
+actors: George Segal, Robert Vaughn, Ben Gazzara, Bradford Dillman, E.G. Marshall, Peter van Eyck, Hans Christian Blech, Heinz Reincke, Joachim Hansen, Sonja Ziemann
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

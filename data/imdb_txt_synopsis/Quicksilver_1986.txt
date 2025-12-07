@@ -1,0 +1,10 @@
+movieId: 5988
+title: Quicksilver
+year: 1986
+url: https://www.imdb.com/title/tt0091814/
+ratingValue: 
+directors: Thomas Michael Donnelly
+actors: Kevin Bacon, Jami Gertz, Paul Rodriguez, Rudy Ramos, Andrew Smith, Gerald S. O'Loughlin, Laurence Fishburne, Louie Anderson, Charles McCaughan, David Harris
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

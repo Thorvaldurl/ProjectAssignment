@@ -1,0 +1,10 @@
+movieId: 2930
+title: Return with Honor
+year: 1998
+url: https://www.imdb.com/title/tt0176093/
+ratingValue: 
+directors: Freida Lee Mock, Terry Sanders
+actors: Everett Alvarez Jr., Ron Bliss, Fred Cherry, George Day, Jeremiah Denton, Paul Galanti, Tom Hanks, Douglas Hegdahl, Sam Johnson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

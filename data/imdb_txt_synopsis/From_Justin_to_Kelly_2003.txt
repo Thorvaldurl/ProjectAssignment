@@ -1,0 +1,10 @@
+movieId: 6483
+title: From Justin to Kelly
+year: 2003
+url: https://www.imdb.com/title/tt0339034/
+ratingValue: 
+directors: Robert Iscove
+actors: Kelly Clarkson, Justin Guarini, Katherine Bailess, Anika Noni Rose, Gregory Siff, Brian Dietzen, Jason Yribar, Theresa San-Nicolas, Justin Gorence, Christopher Bryan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

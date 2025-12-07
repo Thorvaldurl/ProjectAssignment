@@ -1,0 +1,10 @@
+movieId: 6568
+title: Camp
+year: 2003
+url: https://www.imdb.com/title/tt0342167/
+ratingValue: 
+directors: Todd Graff
+actors: Daniel Letterle, Joanna Chilcoat, Robin de Jesus, Steven Cutts, Vince Rimoldi, Kahiry Bess, Tiffany Taylor, Sasha Allen, Alana Allen, Anna Kendrick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

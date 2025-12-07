@@ -1,0 +1,10 @@
+movieId: 8015
+title: The Phantom Tollbooth
+year: 1970
+url: https://www.imdb.com/title/tt0064806/
+ratingValue: 
+directors: Chuck Jones, Abe Levitow, Dave Monahan
+actors: Butch Patrick, Mel Blanc, Daws Butler, Candy Candido, Hans Conried, June Foray, Patti Gilbert, Shepard Menken
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

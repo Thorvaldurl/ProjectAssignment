@@ -1,0 +1,10 @@
+movieId: 5550
+title: Love Me Tender
+year: 1956
+url: https://www.imdb.com/title/tt0049452/
+ratingValue: 
+directors: Robert D. Webb
+actors: Richard Egan, Debra Paget, Elvis Presley, Robert Middleton, William Campbell, Neville Brand, Mildred Dunnock, Bruce Bennett, James Drury, Russ Conway
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5883
+title: They
+year: 2002
+url: https://www.imdb.com/title/tt0283632/
+ratingValue: 
+directors: Robert Harmon
+actors: Laura Regan, Marc Blucas, Ethan Embry, Dagmara Dominczyk, Jon Abrahams, Alexander Gould, Desiree Zurowski, Mark Hildreth, Jonathan Cherry, Peter LaCroix
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

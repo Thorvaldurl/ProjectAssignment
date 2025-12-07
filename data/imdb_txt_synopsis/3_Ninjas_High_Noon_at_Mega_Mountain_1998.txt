@@ -1,0 +1,10 @@
+movieId: 1739
+title: 3 Ninjas: High Noon at Mega Mountain
+year: 1998
+url: https://www.imdb.com/title/tt0118539/
+ratingValue: 
+directors: Sean McNamara
+actors: Hulk Hogan, Loni Anderson, Jim Varney, Mathew Botuchis, Michael O'Laskey II, James Paul Roeske II, Victor Wong, Alan McRae, Margarita Franco, Chelsey Earlywine
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

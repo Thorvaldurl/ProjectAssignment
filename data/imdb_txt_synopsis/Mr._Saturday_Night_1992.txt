@@ -1,0 +1,10 @@
+movieId: 3500
+title: Mr. Saturday Night
+year: 1992
+url: https://www.imdb.com/title/tt0104928/
+ratingValue: 
+directors: Billy Crystal
+actors: Billy Crystal, David Paymer, Julie Warner, Helen Hunt, Mary Mara, Jerry Orbach, Ron Silver, Sage Allen, Jason Marsden, Michael Weiner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

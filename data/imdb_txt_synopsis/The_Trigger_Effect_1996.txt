@@ -1,0 +1,10 @@
+movieId: 882
+title: The Trigger Effect
+year: 1996
+url: https://www.imdb.com/title/tt0117965/
+ratingValue: 
+directors: David Koepp
+actors: Kyle MacLachlan, Elisabeth Shue, Dermot Mulroney, Richard T. Jones, Bill Smitrovich, Michael Rooker, Tori Kristiansen, Tyra Kristiansen, Rick Worthy, Edhem Barker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

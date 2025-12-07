@@ -1,0 +1,10 @@
+movieId: 2587
+title: Life
+year: 1999
+url: https://www.imdb.com/title/tt0123964/
+ratingValue: 
+directors: Ted Demme
+actors: Eddie Murphy, Martin Lawrence, Obba Babatundé, Nick Cassavetes, Anthony Anderson, Barry Shabaka Henley, Brent Jennings, Bernie Mac, Miguel A. Núñez Jr., Michael Taliferro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

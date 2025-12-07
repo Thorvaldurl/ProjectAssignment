@@ -1,0 +1,10 @@
+movieId: 501
+title: Naked
+year: 1993
+url: https://www.imdb.com/title/tt0107653/
+ratingValue: 
+directors: Mike Leigh
+actors: David Thewlis, Lesley Sharp, Katrin Cartlidge, Greg Cruttwell, Claire Skinner, Peter Wight, Ewen Bremner, Susan Vidler, Deborah Maclaren, Gina McKee
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

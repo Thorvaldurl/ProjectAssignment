@@ -1,0 +1,10 @@
+movieId: 26122
+title: Onibaba
+year: 1964
+url: https://www.imdb.com/title/tt0058430/
+ratingValue: 
+directors: Kaneto Shindô
+actors: Nobuko Otowa, Jitsuko Yoshimura, Kei Satô, Jûkichi Uno, Taiji Tonoyama, Someshô Matsumoto, Kentarô Kaji, Hosui Araya, Fudeko Tanaka, Michinori Yoshida
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

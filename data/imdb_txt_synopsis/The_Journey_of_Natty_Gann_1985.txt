@@ -1,0 +1,10 @@
+movieId: 2077
+title: The Journey of Natty Gann
+year: 1985
+url: https://www.imdb.com/title/tt0089385/
+ratingValue: 
+directors: Jeremy Kagan
+actors: Jed, Meredith Salenger, John Cusack, Ray Wise, Lainie Kazan, Scatman Crothers, Barry Miller, Verna Bloom, Bruce M. Fischer, John Finnegan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

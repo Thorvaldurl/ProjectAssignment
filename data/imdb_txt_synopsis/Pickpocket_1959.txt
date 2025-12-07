@@ -1,0 +1,10 @@
+movieId: 26052
+title: Pickpocket
+year: 1959
+url: https://www.imdb.com/title/tt0053168/
+ratingValue: 
+directors: Robert Bresson
+actors: Martin LaSalle, Marika Green, Jean Pélégri, Dolly Scal, Pierre Leymarie, Kassagi, Pierre Étaix, César Gattegno, Sophie Saint-Just
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

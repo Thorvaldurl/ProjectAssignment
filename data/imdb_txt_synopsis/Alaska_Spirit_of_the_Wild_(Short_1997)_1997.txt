@@ -1,0 +1,10 @@
+movieId: 4459
+title: Alaska: Spirit of the Wild (Short 1997)
+year: 1997
+url: https://www.imdb.com/title/tt0130445/
+ratingValue: 
+directors: George Casey
+actors: Charlton Heston
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

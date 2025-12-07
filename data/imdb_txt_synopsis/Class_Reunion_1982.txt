@@ -1,0 +1,10 @@
+movieId: 3313
+title: Class Reunion
+year: 1982
+url: https://www.imdb.com/title/tt0084395/
+ratingValue: 
+directors: Michael Miller
+actors: Gerrit Graham, Michael Lerner, Fred McCarren, Miriam Flynn, Stephen Furst, Mews Small, Shelley Smith, Zane Buzby, Jacklyn Zeman, Blackie Dammett
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

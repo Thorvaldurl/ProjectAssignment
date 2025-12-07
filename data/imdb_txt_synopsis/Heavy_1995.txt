@@ -1,0 +1,10 @@
+movieId: 764
+title: Heavy
+year: 1995
+url: https://www.imdb.com/title/tt0113280/
+ratingValue: 
+directors: James Mangold
+actors: Pruitt Taylor Vince, Shelley Winters, Liv Tyler, Debbie Harry, Joe Grifasi, Evan Dando, David Patrick Kelly, Marian Quinn, Meg Hartig, Zandy Hartig
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 499
+title: Mr. Wonderful
+year: 1993
+url: https://www.imdb.com/title/tt0107613/
+ratingValue: 
+directors: Anthony Minghella
+actors: Matt Dillon, Annabella Sciorra, Mary-Louise Parker, William Hurt, Vincent D'Onofrio, David Barry Gray, Dan Hedaya, Bruce Kirby, Luis Guzmán, Jessica Harper
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

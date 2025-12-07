@@ -1,0 +1,10 @@
+movieId: 1430
+title: Underworld
+year: 1996
+url: https://www.imdb.com/title/tt0120414/
+ratingValue: 
+directors: Roger Christian
+actors: Denis Leary, Joe Mantegna, Annabella Sciorra, Larry Bishop, Abe Vigoda, Robert Costanzo, Traci Lords, Jimmie F. Skaggs, James Tolkan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 212
+title: Bushwhacked
+year: 1995
+url: https://www.imdb.com/title/tt0112602/
+ratingValue: 
+directors: Greg Beeman
+actors: Daniel Stern, Jon Polito, Brad Sullivan, Ann Dowd, Anthony Heald, Tom Wood, Blake Bashoff, Corey Carrier, Michael Galeota, Max Goldblatt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

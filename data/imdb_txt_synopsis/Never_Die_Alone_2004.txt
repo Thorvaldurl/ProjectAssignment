@@ -1,0 +1,10 @@
+movieId: 7368
+title: Never Die Alone
+year: 2004
+url: https://www.imdb.com/title/tt0354766/
+ratingValue: 
+directors: Ernest R. Dickerson
+actors: DMX, Michael Ealy, Drew Sidora, Antwon Tanner, Robby Robinson, Luenell, David Arquette, Clifton Powell, Wealthy Linn Gener, Jeff Sanders
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

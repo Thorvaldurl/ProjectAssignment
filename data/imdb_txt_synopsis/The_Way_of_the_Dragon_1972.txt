@@ -1,0 +1,10 @@
+movieId: 4444
+title: The Way of the Dragon
+year: 1972
+url: https://www.imdb.com/title/tt0068935/
+ratingValue: 
+directors: Bruce Lee
+actors: Bruce Lee, Nora Miao, Chuck Norris, Ping-Ou Wei, Chung-Hsin Huang, Robert Wall, In-shik Hwang, Ti Chin, Tony Liu, Little Unicorn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

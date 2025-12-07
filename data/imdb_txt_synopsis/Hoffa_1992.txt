@@ -1,0 +1,10 @@
+movieId: 6997
+title: Hoffa
+year: 1992
+url: https://www.imdb.com/title/tt0104427/
+ratingValue: 
+directors: Danny DeVito
+actors: Jack Nicholson, Danny DeVito, Armand Assante, J.T. Walsh, John C. Reilly, Frank Whaley, Kevin Anderson, John P. Ryan, Robert Prosky, Natalija Nogulich
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

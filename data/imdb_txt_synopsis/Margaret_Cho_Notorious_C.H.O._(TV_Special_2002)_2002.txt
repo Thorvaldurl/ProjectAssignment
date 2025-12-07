@@ -1,0 +1,10 @@
+movieId: 7879
+title: Margaret Cho: Notorious C.H.O. (TV Special 2002)
+year: 2002
+url: https://www.imdb.com/title/tt0300274/
+ratingValue: 
+directors: Lorene Machado
+actors: Margaret Cho
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

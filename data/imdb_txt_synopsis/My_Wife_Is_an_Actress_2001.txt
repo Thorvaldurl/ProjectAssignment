@@ -1,0 +1,10 @@
+movieId: 5466
+title: My Wife Is an Actress
+year: 2001
+url: https://www.imdb.com/title/tt0269499/
+ratingValue: 
+directors: Yvan Attal
+actors: Charlotte Gainsbourg, Yvan Attal, Terence Stamp, Noémie Lvovsky, Laurent Bateau, Keith Allen, Jo McInnes, Ludivine Sagnier, Lionel Abelanski, Valérie Leboutte
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

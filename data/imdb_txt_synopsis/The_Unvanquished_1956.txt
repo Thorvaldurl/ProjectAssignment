@@ -1,0 +1,10 @@
+movieId: 6918
+title: The Unvanquished
+year: 1956
+url: https://www.imdb.com/title/tt0048956/
+ratingValue: 
+directors: Satyajit Ray
+actors: Kamala Adhikari, Rani Bala, Lalchand Banerjee, Kali Bannerjee, Kanu Bannerjee, Karuna Bannerjee, Panchanan Bhattacharya, Debabrata Chakraborty, Harendrakumar Chakravarti
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

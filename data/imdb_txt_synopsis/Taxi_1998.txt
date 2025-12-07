@@ -1,0 +1,10 @@
+movieId: 8604
+title: Taxi
+year: 1998
+url: https://www.imdb.com/title/tt0152930/
+ratingValue: 
+directors: Gérard Pirès
+actors: Samy Naceri, Frédéric Diefenthal, Marion Cotillard, Manuela Gourary, Emma Wiklund, Bernard Farcy, Georges Neri, Guy Quang, Maurice Murcia
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

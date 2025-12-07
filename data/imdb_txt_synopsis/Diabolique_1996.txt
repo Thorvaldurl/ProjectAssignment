@@ -1,0 +1,10 @@
+movieId: 640
+title: Diabolique
+year: 1996
+url: https://www.imdb.com/title/tt0116095/
+ratingValue: 
+directors: Jeremiah S. Chechik
+actors: Sharon Stone, Isabelle Adjani, Chazz Palminteri, Kathy Bates, Spalding Gray, Shirley Knight, Allen Garfield, Adam Hann-Byrd, Donal Logue, Diana Bellamy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

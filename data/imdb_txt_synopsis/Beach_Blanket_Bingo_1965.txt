@@ -1,0 +1,10 @@
+movieId: 4394
+title: Beach Blanket Bingo
+year: 1965
+url: https://www.imdb.com/title/tt0058953/
+ratingValue: 
+directors: William Asher
+actors: Frankie Avalon, Annette Funicello, Deborah Walley, Harvey Lembeck, John Ashley, Jody McCrea, Donna Loren, Marta Kristen, Linda Evans, Timothy Carey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

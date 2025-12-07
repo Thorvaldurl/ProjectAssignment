@@ -1,0 +1,10 @@
+movieId: 365
+title: Little Buddha
+year: 1993
+url: https://www.imdb.com/title/tt0107426/
+ratingValue: 
+directors: Bernardo Bertolucci
+actors: Keanu Reeves, Ruocheng Ying, Chris Isaak, Alex Wiesendanger, Raju Lal, Greishma Makar Singh, Sogyal Rinpoche, Ven. Khyongla Rato Rinpoche, Bridget Fonda, Ven. Geshe Tsultim Gyelsen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

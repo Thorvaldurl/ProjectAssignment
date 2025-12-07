@@ -1,0 +1,10 @@
+movieId: 2515
+title: Children of the Corn II: The Final Sacrifice
+year: 1992
+url: https://www.imdb.com/title/tt0106557/
+ratingValue: 
+directors: David Price
+actors: Terence Knox, Paul Scherrer, Ryan Bollman, Christie Clark, Rosalind Allen, Ned Romero, Ed Grady, John Bennes, Wallace Merck, Joe Inscoe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

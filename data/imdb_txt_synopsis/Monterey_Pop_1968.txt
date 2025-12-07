@@ -1,0 +1,10 @@
+movieId: 7979
+title: Monterey Pop
+year: 1968
+url: https://www.imdb.com/title/tt0064689/
+ratingValue: 
+directors: D.A. Pennebaker
+actors: Scott McKenzie, Denny Doherty, Cass Elliot, The Mamas and the Papas, John Phillips, Michelle Phillips, Canned Heat, Frank Cook, Bob Hite
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

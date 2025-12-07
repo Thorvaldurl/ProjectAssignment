@@ -1,0 +1,10 @@
+movieId: 2698
+title: Zone 39
+year: 1996
+url: https://www.imdb.com/title/tt0120554/
+ratingValue: 
+directors: John Tatoulis
+actors: Peter Phelps, Carolyn Bock, William Zappa, Bradley Byquar, Alex Menglet, Jeff Kovski, Warwick Sadler, Simon Wilton, Richard Aspel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

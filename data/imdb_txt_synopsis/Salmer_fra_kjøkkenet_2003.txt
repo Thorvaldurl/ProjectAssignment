@@ -1,0 +1,10 @@
+movieId: 7297
+title: Salmer fra kjøkkenet
+year: 2003
+url: https://www.imdb.com/title/tt0323872/
+ratingValue: 
+directors: Bent Hamer
+actors: Joachim Calmeyer, Tomas Norström, Bjørn Floberg, Reine Brynolfsson, Sverre Anker Ousdal, Leif Andrée, Gard B. Eidsvold, Lennart Jähkel, Trond Brænne, Bjørn Jenseg
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

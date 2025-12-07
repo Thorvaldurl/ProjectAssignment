@@ -1,0 +1,10 @@
+movieId: 8933
+title: The Decline of the American Empire
+year: 1986
+url: https://www.imdb.com/title/tt0090985/
+ratingValue: 
+directors: Denys Arcand
+actors: Dominique Michel, Dorothée Berryman, Louise Portal, Pierre Curzi, Rémy Girard, Yves Jacques, Geneviève Rioux, Daniel Brière, Gabriel Arcand, Évelyn Regimbald
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

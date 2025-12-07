@@ -1,0 +1,10 @@
+movieId: 5575
+title: Alias Betty
+year: 2001
+url: https://www.imdb.com/title/tt0269329/
+ratingValue: 
+directors: Claude Miller
+actors: Sandrine Kiberlain, Nicole Garcia, Mathilde Seigner, Luck Mervil, Edouard Baer, Stéphane Freiss, Yves Jacques, Roschdy Zem, Consuelo De Haviland, Yves Verhoeven
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

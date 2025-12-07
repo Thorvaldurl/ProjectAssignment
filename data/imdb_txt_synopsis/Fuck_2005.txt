@@ -1,0 +1,9 @@
+movieId: 49263
+title: Fuck
+year: 2005
+url: https://www.imdb.com/title/tt0486585/
+ratingValue: 
+directors: Steve Anderson
+actors: Reinhold Aman, Steven Bochco, Pat Boone, Ben Bradlee, Drew Carey, Chuck D, Billy Connolly, John Crossley, Sam Donaldson, Janeane Garofalo
+
+synopsis:

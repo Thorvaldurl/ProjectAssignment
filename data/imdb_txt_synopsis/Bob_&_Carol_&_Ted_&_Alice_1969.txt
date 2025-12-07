@@ -1,0 +1,10 @@
+movieId: 8571
+title: Bob & Carol & Ted & Alice
+year: 1969
+url: https://www.imdb.com/title/tt0064100/
+ratingValue: 
+directors: Paul Mazursky
+actors: Natalie Wood, Robert Culp, Elliott Gould, Dyan Cannon, Horst Ebersberg, Lee Bergere, Donald F. Muhich, Noble Lee Holderread Jr., K.T. Stevens, Celeste Yarnall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

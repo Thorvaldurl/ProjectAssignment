@@ -1,0 +1,10 @@
+movieId: 4445
+title: T-Rex: Back to the Cretaceous
+year: 1998
+url: https://www.imdb.com/title/tt0163862/
+ratingValue: 
+directors: Brett Leonard
+actors: Peter Horton, Liz Stauber, Kari Coleman, Charlene Sashuk, Daniel Libman, Tuck Milligan, Laurie Murdoch, Joshua Silberg, Alex Hudson, Chris Enright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2103
+title: Tall Tale
+year: 1995
+url: https://www.imdb.com/title/tt0111359/
+ratingValue: 
+directors: Jeremiah S. Chechik
+actors: Patrick Swayze, Oliver Platt, Roger Aaron Brown, Nick Stahl, Scott Glenn, Stephen Lang, Jared Harris, Catherine O'Hara, Moira Sinise, Joe Grifasi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

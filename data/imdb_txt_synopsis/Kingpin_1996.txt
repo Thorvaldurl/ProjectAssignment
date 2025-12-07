@@ -1,0 +1,10 @@
+movieId: 785
+title: Kingpin
+year: 1996
+url: https://www.imdb.com/title/tt0116778/
+ratingValue: 
+directors: Bobby Farrelly, Peter Farrelly
+actors: Woody Harrelson, Randy Quaid, Vanessa Angel, Bill Murray, Chris Elliott, William Jordan, Richard Tyson, Lin Shaye, Zen Gesner, Prudence Wright Holmes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

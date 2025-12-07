@@ -1,0 +1,10 @@
+movieId: 6442
+title: Belle Epoque
+year: 1992
+url: https://www.imdb.com/title/tt0103791/
+ratingValue: 
+directors: Fernando Trueba
+actors: Penélope Cruz, Miriam Díaz-Aroca, Gabino Diego, Fernando Fernán Gómez, Michel Galabru, Ariadna Gil, Agustín González, Chus Lampreave, Mary Carmen Ramírez, Jorge Sanz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

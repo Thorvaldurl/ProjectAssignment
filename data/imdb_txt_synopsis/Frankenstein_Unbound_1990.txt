@@ -1,0 +1,10 @@
+movieId: 8092
+title: Frankenstein Unbound
+year: 1990
+url: https://www.imdb.com/title/tt0099612/
+ratingValue: 
+directors: Roger Corman
+actors: John Hurt, Raul Julia, Nick Brimble, Bridget Fonda, Catherine Rabett, Jason Patric, Michael Hutchence, Catherine Corman, William Geiger, Mickey Knox
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5615
+title: Invincible
+year: 2001
+url: https://www.imdb.com/title/tt0245171/
+ratingValue: 
+directors: Werner Herzog
+actors: Tim Roth, Jouko Ahola, Anna Gourari, Max Raabe, Jacob Wein, Gustav-Peter Wöhler, Udo Kier, Herbert Golder, Gary Bart, Renate Krößner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

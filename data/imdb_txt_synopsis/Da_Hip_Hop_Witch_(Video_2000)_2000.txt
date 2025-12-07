@@ -1,0 +1,10 @@
+movieId: 7282
+title: Da Hip Hop Witch (Video 2000)
+year: 2000
+url: https://www.imdb.com/title/tt0245943/
+ratingValue: 
+directors: Dale Resteghini
+actors: Stacii Jae Johnson, Dale Resteghini, Mia Tyler, Steve Grillo, Amy Dorris, William Harbour, Tessen, Namakula, The Namakula Goddess
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

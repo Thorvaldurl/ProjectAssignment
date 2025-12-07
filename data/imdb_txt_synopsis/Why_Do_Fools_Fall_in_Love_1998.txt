@@ -1,0 +1,10 @@
+movieId: 2190
+title: Why Do Fools Fall in Love
+year: 1998
+url: https://www.imdb.com/title/tt0123324/
+ratingValue: 
+directors: Gregory Nava
+actors: Halle Berry, Vivica A. Fox, Lela Rochon, Larenz Tate, Paul Mazursky, Pamela Reed, Alexis Cruz, David Barry Gray, Miguel A. Núñez Jr., Clifton Powell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

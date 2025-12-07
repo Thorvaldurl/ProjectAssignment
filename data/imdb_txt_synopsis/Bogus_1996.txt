@@ -1,0 +1,10 @@
+movieId: 885
+title: Bogus
+year: 1996
+url: https://www.imdb.com/title/tt0115725/
+ratingValue: 
+directors: Norman Jewison
+actors: Whoopi Goldberg, Gérard Depardieu, Haley Joel Osment, Andrea Martin, Nancy Travis, Denis Mercier, Ute Lemper, Sheryl Lee Ralph, Barbara Hamilton, Al Waxman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

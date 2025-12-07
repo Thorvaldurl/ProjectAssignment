@@ -1,0 +1,10 @@
+movieId: 1694
+title: The Apostle
+year: 1997
+url: https://www.imdb.com/title/tt0118632/
+ratingValue: 
+directors: Robert Duvall
+actors: Todd Allen, Paul Bagget, Lenore Banks, John Beasley, Mary Lynette Braxton, Brett Brock, Christopher Canady, Christian Canady, June Carter Cash
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

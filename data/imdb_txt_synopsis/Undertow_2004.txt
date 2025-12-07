@@ -1,0 +1,10 @@
+movieId: 8955
+title: Undertow
+year: 2004
+url: https://www.imdb.com/title/tt0360130/
+ratingValue: 
+directors: David Gordon Green
+actors: Jamie Bell, Kristen Stewart, Robert Longstreet, Terry Loughlin, Dermot Mulroney, Devon Alan, Josh Lucas, Eddie Rouse, Patrice Johnson, Charles 'Jester' Poston
+
+synopsis:
+Chris (Jamie Bell of Billy Elliot) is a volatile teen who lives with his father, John (Dermot Mulroney), and his little brother, Tim (Devon Alan). After the death of Chris' mother, his reclusive father moved the family to a shack in backwoods Georgia, where they raise hogs. Tim has an unusual eating disorder. He is constantly making himself sick by eating things like dirt and paint. One day, John's estranged brother, Deel (Josh Lucas), gets out of prison and shows up on the farm. John is less than thrilled to see him, but agrees to let him stay with the family as long as Deel helps him look after his boys. Chris is drawn to his wild-man uncle, but it soon becomes clear that Deel has more on his mind than a family reunion. Greed and years of resentment lead to violence, and Chris finds himself on the run, towing his sickly brother along, with Deel in pursuit.

@@ -1,0 +1,10 @@
+movieId: 82
+title: Antonia's Line
+year: 1995
+url: https://www.imdb.com/title/tt0112379/
+ratingValue: 
+directors: Marleen Gorris
+actors: Willeke van Ammelrooy, Els Dottermans, Dora van der Groen, Veerle van Overloop, Esther Vriesendorp, Carolien Spoor, Thyrza Ravesteijn, Mil Seghers, Jan Decleir
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

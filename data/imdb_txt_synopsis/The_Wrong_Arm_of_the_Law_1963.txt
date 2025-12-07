@@ -1,0 +1,10 @@
+movieId: 7344
+title: The Wrong Arm of the Law
+year: 1963
+url: https://www.imdb.com/title/tt0056704/
+ratingValue: 
+directors: Cliff Owen
+actors: Peter Sellers, Lionel Jeffries, Bernard Cribbins, Davy Kaye, Nanette Newman, Bill Kerr, Ed Devereaux, Reg Lye, John Le Mesurier, Graham Stark
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

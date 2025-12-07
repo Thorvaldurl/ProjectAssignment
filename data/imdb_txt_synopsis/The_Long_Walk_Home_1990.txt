@@ -1,0 +1,10 @@
+movieId: 3713
+title: The Long Walk Home
+year: 1990
+url: https://www.imdb.com/title/tt0100046/
+ratingValue: 
+directors: Richard Pearce
+actors: Sissy Spacek, Whoopi Goldberg, Dwight Schultz, Ving Rhames, Dylan Baker, Erika Alexander, Lexi Randall, Richard Habersham, Jason Weaver, Crystal Robbins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

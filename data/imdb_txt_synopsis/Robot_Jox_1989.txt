@@ -1,0 +1,10 @@
+movieId: 7986
+title: Robot Jox
+year: 1989
+url: https://www.imdb.com/title/tt0102800/
+ratingValue: 
+directors: Stuart Gordon
+actors: Gary Graham, Anne-Marie Johnson, Paul Koslo, Robert Sampson, Danny Kamekona, Hilary Mason, Michael Alldredge, Jeffrey Combs, Mike Saad, Ian Patrick Williams
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

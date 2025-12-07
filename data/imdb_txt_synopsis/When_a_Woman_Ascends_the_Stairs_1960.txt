@@ -1,0 +1,10 @@
+movieId: 26059
+title: When a Woman Ascends the Stairs
+year: 1960
+url: https://www.imdb.com/title/tt0054144/
+ratingValue: 
+directors: Mikio Naruse
+actors: Hideko Takamine, Masayuki Mori, Reiko Dan, Tatsuya Nakadai, Daisuke Katô, Ganjirô Nakamura, Eitarô Ozawa, Keiko Awaji, Kyû Sazanka, Jun Tatara
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

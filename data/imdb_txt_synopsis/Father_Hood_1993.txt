@@ -1,0 +1,10 @@
+movieId: 8380
+title: Father Hood
+year: 1993
+url: https://www.imdb.com/title/tt0106877/
+ratingValue: 
+directors: Darrell Roodt
+actors: Patrick Swayze, Halle Berry, Sabrina Lloyd, Brian Bonsall, Michael Ironside, Diane Ladd, Bob Gunton, Adrienne Barbeau, Georgann Johnson, Marvin J. McIntyre
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

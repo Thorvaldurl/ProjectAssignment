@@ -1,0 +1,10 @@
+movieId: 217
+title: The Babysitter
+year: 1995
+url: https://www.imdb.com/title/tt0112438/
+ratingValue: 
+directors: Guy Ferland
+actors: Alicia Silverstone, Jeremy London, J.T. Walsh, Lee Garlington, Nicky Katt, Lois Chiles, George Segal, Ryan Slater, Brittany English Stephens, Tuesday Knight
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

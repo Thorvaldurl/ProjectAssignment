@@ -1,0 +1,10 @@
+movieId: 25865
+title: The Letter
+year: 1940
+url: https://www.imdb.com/title/tt0032701/
+ratingValue: 
+directors: William Wyler
+actors: Bette Davis, Herbert Marshall, James Stephenson, Frieda Inescort, Gale Sondergaard, Bruce Lester, Elizabeth Inglis, Cecil Kellaway, Victor Sen Yung, Doris Lloyd
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

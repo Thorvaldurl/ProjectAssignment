@@ -1,0 +1,10 @@
+movieId: 979
+title: Nothing Personal
+year: 1995
+url: https://www.imdb.com/title/tt0114007/
+ratingValue: 
+directors: Thaddeus O'Sullivan
+actors: Ian Hart, John Lynch, James Frain, Michael Gambon, Gary Lydon, Rúaidhrí Conroy, Maria Doyle Kennedy, Jeni Courtney, Gerard McSorley, Gareth O'Hare
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

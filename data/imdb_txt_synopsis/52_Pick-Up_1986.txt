@@ -1,0 +1,10 @@
+movieId: 2475
+title: 52 Pick-Up
+year: 1986
+url: https://www.imdb.com/title/tt0090567/
+ratingValue: 
+directors: John Frankenheimer
+actors: Roy Scheider, Ann-Margret, Vanity, John Glover, Robert Trebor, Lonny Chapman, Kelly Preston, Doug McClure, Clarence Williams III, Alex Henteloff
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

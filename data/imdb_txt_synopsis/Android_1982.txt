@@ -1,0 +1,10 @@
+movieId: 5919
+title: Android
+year: 1982
+url: https://www.imdb.com/title/tt0083557/
+ratingValue: 
+directors: Aaron Lipstadt
+actors: Klaus Kinski, Don Keith Opper, Brie Howard, Norbert Weisser, Crofton Hardester, Kendra Kirchner, Gary Corarito, Mary Ann Fisher, Darrell Larson, Ian Scheibel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

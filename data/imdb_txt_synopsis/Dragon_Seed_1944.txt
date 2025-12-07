@@ -1,0 +1,10 @@
+movieId: 8461
+title: Dragon Seed
+year: 1944
+url: https://www.imdb.com/title/tt0036777/
+ratingValue: 
+directors: Harold S. Bucquet, Jack Conway
+actors: Katharine Hepburn, Walter Huston, Aline MacMahon, Akim Tamiroff, Turhan Bey, Hurd Hatfield, J. Carrol Naish, Agnes Moorehead, Henry Travers, Robert Bice
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6324
+title: It Runs in the Family
+year: 2003
+url: https://www.imdb.com/title/tt0311110/
+ratingValue: 
+directors: Fred Schepisi
+actors: Michael Douglas, Kirk Douglas, Rory Culkin, Cameron Douglas, Diana Douglas, Michelle Monaghan, Geoffrey Arend, Sarita Choudhury, Irina Gorovaia, Annie Golden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

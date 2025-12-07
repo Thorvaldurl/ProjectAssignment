@@ -1,0 +1,10 @@
+movieId: 2894
+title: Romance
+year: 1999
+url: https://www.imdb.com/title/tt0194314/
+ratingValue: 
+directors: Catherine Breillat
+actors: Caroline Ducey, Sagamore Stévenin, François Berléand, Rocco Siffredi, Reza Habouhossein, Ashley Wanninger, Emma Colberti, Fabien de Jomaron, Carla, Pierre Maufront
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

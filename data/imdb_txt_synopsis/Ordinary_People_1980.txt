@@ -1,0 +1,10 @@
+movieId: 1956
+title: Ordinary People
+year: 1980
+url: https://www.imdb.com/title/tt0081283/
+ratingValue: 
+directors: Robert Redford
+actors: Donald Sutherland, Mary Tyler Moore, Judd Hirsch, Timothy Hutton, M. Emmet Walsh, Elizabeth McGovern, Dinah Manoff, Fredric Lehne, James Sikking, Basil Hoffman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

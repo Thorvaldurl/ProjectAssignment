@@ -1,0 +1,10 @@
+movieId: 27
+title: Now and Then
+year: 1995
+url: https://www.imdb.com/title/tt0114011/
+ratingValue: 
+directors: Lesli Linka Glatter
+actors: Christina Ricci, Rosie O'Donnell, Thora Birch, Melanie Griffith, Gaby Hoffmann, Demi Moore, Ashleigh Aston Moore, Rita Wilson, Devon Sawa, Walter Sparrow
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

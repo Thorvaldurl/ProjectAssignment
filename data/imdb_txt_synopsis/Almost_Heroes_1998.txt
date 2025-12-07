@@ -1,0 +1,10 @@
+movieId: 1887
+title: Almost Heroes
+year: 1998
+url: https://www.imdb.com/title/tt0119053/
+ratingValue: 
+directors: Christopher Guest
+actors: Chris Farley, Matthew Perry, Bokeem Woodbine, Barry Del Sherman, Robert Tittor, Franklin Cover, Patrick Cranshaw, Eugene Levy, Lisa Barbuscia, Christian Clemenson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

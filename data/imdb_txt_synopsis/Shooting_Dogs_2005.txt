@@ -1,0 +1,10 @@
+movieId: 49265
+title: Shooting Dogs
+year: 2005
+url: https://www.imdb.com/title/tt0420901/
+ratingValue: 
+directors: Michael Caton-Jones
+actors: John Hurt, Hugh Dancy, Dominique Horwitz, Louis Mahoney, Nicola Walker, Steve Toussaint, David Gyasi, Susan Nalwoga, Victor Power, Jack Pierce
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

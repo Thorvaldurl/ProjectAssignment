@@ -1,0 +1,10 @@
+movieId: 3417
+title: The Crimson Pirate
+year: 1952
+url: https://www.imdb.com/title/tt0044517/
+ratingValue: 
+directors: Robert Siodmak
+actors: Burt Lancaster, Nick Cravat, Eva Bartok, Torin Thatcher, James Hayter, Leslie Bradley, Margot Grahame, Noel Purcell, Frederick Leister, Eliot Makeham
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

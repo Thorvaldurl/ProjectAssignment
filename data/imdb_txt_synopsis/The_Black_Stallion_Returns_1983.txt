@@ -1,0 +1,10 @@
+movieId: 6169
+title: The Black Stallion Returns
+year: 1983
+url: https://www.imdb.com/title/tt0085248/
+ratingValue: 
+directors: Robert Dalva
+actors: Kelly Reno, Vincent Spano, Allen Garfield, Woody Strode, Ferdy Mayne, Jodi Thelen, Teri Garr, Larbi Doghmi, Angelo Infanti, Luigi Mezzanotte
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

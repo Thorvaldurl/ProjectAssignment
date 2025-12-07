@@ -1,0 +1,10 @@
+movieId: 2965
+title: The Omega Code
+year: 1999
+url: https://www.imdb.com/title/tt0203408/
+ratingValue: 
+directors: Robert Marcarelli
+actors: Casper Van Dien, Michael York, Catherine Oxenberg, Michael Ironside, Jan Tríska, Gregory Wagrowski, Devon Odessa, William Hootkins, Robert Ito, Janet Carroll
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

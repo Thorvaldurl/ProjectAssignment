@@ -1,0 +1,10 @@
+movieId: 3901
+title: Duets
+year: 2000
+url: https://www.imdb.com/title/tt0134630/
+ratingValue: 
+directors: Bruce Paltrow
+actors: Lochlyn Munro, Carol Alexander, Michael J Rogers, Huey Lewis, Amanda Kravat, Paul Giamatti, Ian Robison, Roger Haskett, John Payne, Scott Speedman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

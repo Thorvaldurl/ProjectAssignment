@@ -1,0 +1,10 @@
+movieId: 7085
+title: Send Me No Flowers
+year: 1964
+url: https://www.imdb.com/title/tt0058571/
+ratingValue: 
+directors: Norman Jewison
+actors: Rock Hudson, Doris Day, Tony Randall, Paul Lynde, Hal March, Edward Andrews, Patricia Barry, Clint Walker, Clive Clerk, Dave Willock
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

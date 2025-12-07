@@ -1,0 +1,10 @@
+movieId: 1685
+title: I Love You, I Love You Not
+year: 1996
+url: https://www.imdb.com/title/tt0116592/
+ratingValue: 
+directors: Billy Hopkins
+actors: Jeanne Moreau, Claire Danes, Jude Law, James Van Der Beek, Kris Park, Lauren Fox, Emily Burkes-Nossiter, Carrie Szlasa, Natasha Wolff
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

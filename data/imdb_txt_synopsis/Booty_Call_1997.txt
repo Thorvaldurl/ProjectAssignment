@@ -1,0 +1,10 @@
+movieId: 1468
+title: Booty Call
+year: 1997
+url: https://www.imdb.com/title/tt0118750/
+ratingValue: 
+directors: Jeff Pollack
+actors: Jamie Foxx, Tommy Davidson, Amy Monique Waddell, Wiley Moore, Vivica A. Fox, Tamala Jones, Kam Ray Chan, Ric Young, Ammie Sin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2290
+title: Stardust Memories
+year: 1980
+url: https://www.imdb.com/title/tt0081554/
+ratingValue: 
+directors: Woody Allen
+actors: Woody Allen, Charlotte Rampling, Jessica Harper, Marie-Christine Barrault, Tony Roberts, Daniel Stern, Amy Wright, Helen Hanft, John Rothman, Anne DeSalvo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

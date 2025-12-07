@@ -1,0 +1,10 @@
+movieId: 89
+title: Nick of Time
+year: 1995
+url: https://www.imdb.com/title/tt0113972/
+ratingValue: 
+directors: John Badham
+actors: Johnny Depp, Courtney Chase, Charles S. Dutton, Christopher Walken, Roma Maffia, Marsha Mason, Peter Strauss, Gloria Reuben, Bill Smitrovich, G.D. Spradlin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

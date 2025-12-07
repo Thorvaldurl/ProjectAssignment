@@ -1,0 +1,10 @@
+movieId: 48883
+title: Death of a President
+year: 2006
+url: https://www.imdb.com/title/tt0853096/
+ratingValue: 
+directors: Gabriel Range
+actors: Hend Ayoub, Becky Ann Baker, Brian Boland, Michael Reilly Burke, Patricia Buckley, Seena Ghaznavi, Robert Mangiardi, Neko Parham, Jay Patterson, Chavez Ravine
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

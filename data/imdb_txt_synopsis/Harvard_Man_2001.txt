@@ -1,0 +1,10 @@
+movieId: 5424
+title: Harvard Man
+year: 2001
+url: https://www.imdb.com/title/tt0242508/
+ratingValue: 
+directors: James Toback
+actors: Adrian Grenier, Sarah Michelle Gellar, Joey Lauren Adams, Eric Stoltz, Rebecca Gayheart, Gianni Russo, Ray Allen, Mike Vetere, Scottie Epstein, John Neville
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

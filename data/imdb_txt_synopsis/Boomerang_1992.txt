@@ -1,0 +1,10 @@
+movieId: 122
+title: Boomerang
+year: 1992
+url: https://www.imdb.com/title/tt0103859/
+ratingValue: 
+directors: Reginald Hudlin
+actors: Eddie Murphy, Robin Givens, Halle Berry, David Alan Grier, Martin Lawrence, Grace Jones, Geoffrey Holder, Eartha Kitt, Chris Rock, Tisha Campbell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

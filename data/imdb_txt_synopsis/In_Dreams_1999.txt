@@ -1,0 +1,10 @@
+movieId: 2446
+title: In Dreams
+year: 1999
+url: https://www.imdb.com/title/tt0120710/
+ratingValue: 
+directors: Neil Jordan
+actors: Annette Bening, Katie Sagona, Aidan Quinn, Robert Downey Jr., Paul Guilfoyle, Kathleen Langlois, Jennifer Berry, Emma J. Brown, Jennifer Dragon, Samantha Kelly
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

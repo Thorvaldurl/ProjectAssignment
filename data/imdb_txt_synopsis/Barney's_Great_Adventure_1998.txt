@@ -1,0 +1,10 @@
+movieId: 1826
+title: Barney's Great Adventure
+year: 1998
+url: https://www.imdb.com/title/tt0120598/
+ratingValue: 
+directors: Steve Gomer
+actors: Alan Fawcett, Jane Wheeler, Kyla Pratt, Diana Rice, Trevor Morgan, David Larouche, Edouard Larouche, George Hearn, Shirley Douglas, David Joyner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

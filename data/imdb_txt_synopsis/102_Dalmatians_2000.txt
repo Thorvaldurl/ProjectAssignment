@@ -1,0 +1,10 @@
+movieId: 3991
+title: 102 Dalmatians
+year: 2000
+url: https://www.imdb.com/title/tt0211181/
+ratingValue: 
+directors: Kevin Lima
+actors: Glenn Close, Gérard Depardieu, Ioan Gruffudd, Alice Evans, Tim McInnerny, Eric Idle, Ben Crompton, Carol MacReady, Ian Richardson, Jim Carter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

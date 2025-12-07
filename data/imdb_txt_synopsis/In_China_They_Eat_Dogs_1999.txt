@@ -1,0 +1,10 @@
+movieId: 8117
+title: In China They Eat Dogs
+year: 1999
+url: https://www.imdb.com/title/tt0180748/
+ratingValue: 
+directors: Lasse Spang Olsen
+actors: Kim Bodnia, Dejan Cukic, Nikolaj Lie Kaas, Tomas Villum Jensen, Peter Gantzler, Trine Dyrholm, Line Kruse, Brian Patterson, Søren Sætter-Lassen, Lester Wiese
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

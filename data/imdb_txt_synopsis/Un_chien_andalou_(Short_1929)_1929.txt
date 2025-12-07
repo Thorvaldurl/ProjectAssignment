@@ -1,0 +1,10 @@
+movieId: 25771
+title: Un chien andalou (Short 1929)
+year: 1929
+url: https://www.imdb.com/title/tt0020530/
+ratingValue: 
+directors: Luis Buñuel
+actors: Simone Mareuil, Pierre Batcheff, Luis Buñuel, Pancho Cossío, Salvador Dalí, Juan Esplandiu, Robert Hommet, Marval, Fano Messan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

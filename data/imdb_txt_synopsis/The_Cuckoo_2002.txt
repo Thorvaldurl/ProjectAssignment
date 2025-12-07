@@ -1,0 +1,10 @@
+movieId: 6542
+title: The Cuckoo
+year: 2002
+url: https://www.imdb.com/title/tt0308476/
+ratingValue: 
+directors: Aleksandr Rogozhkin
+actors: Anni-Kristiina Juuso, Ville Haapasalo, Viktor Bychkov, Mikhail Korobochkin, Aleksey Kashnikov, Denis Aksyonov, Aleksei Panzheyev, Aleksandr Kuykka, Vladimir Matveev, Aleksandr Zubkin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

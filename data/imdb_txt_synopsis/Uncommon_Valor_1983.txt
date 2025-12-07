@@ -1,0 +1,10 @@
+movieId: 4353
+title: Uncommon Valor
+year: 1983
+url: https://www.imdb.com/title/tt0086508/
+ratingValue: 
+directors: Ted Kotcheff
+actors: Gene Hackman, Robert Stack, Fred Ward, Reb Brown, Randall 'Tex' Cobb, Patrick Swayze, Harold Sylvester, Tim Thomerson, Ya-Li Liu, Kwan Hi Lim
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

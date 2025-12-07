@@ -1,0 +1,10 @@
+movieId: 5447
+title: Sunshine State
+year: 2002
+url: https://www.imdb.com/title/tt0286179/
+ratingValue: 
+directors: John Sayles
+actors: Alex Lewis, Alan King, Cullen Douglas, Clifton James, Eliot Asinof, James McDaniel, Angela Bassett, Edie Falco, Amanda Wing, Timothy Hutton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

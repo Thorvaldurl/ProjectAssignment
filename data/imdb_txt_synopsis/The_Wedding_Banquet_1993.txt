@@ -1,0 +1,10 @@
+movieId: 7023
+title: The Wedding Banquet
+year: 1993
+url: https://www.imdb.com/title/tt0107156/
+ratingValue: 
+directors: Ang Lee
+actors: Ah-Lei Gua, Sihung Lung, May Chin, Winston Chao, Mitchell Lichtenstein, Dion Birney, Jeanne Kuo Chang, Paul Chen, Chung-Wei Chou
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

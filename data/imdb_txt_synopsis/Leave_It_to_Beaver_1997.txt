@@ -1,0 +1,10 @@
+movieId: 1602
+title: Leave It to Beaver
+year: 1997
+url: https://www.imdb.com/title/tt0119509/
+ratingValue: 
+directors: Andy Cadiff
+actors: Christopher McDonald, Janine Turner, Cameron Finley, Erik von Detten, Adam Zolotin, Barbara Billingsley, Ken Osmond, Frank Bank, Erika Christensen, Alan Rachins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

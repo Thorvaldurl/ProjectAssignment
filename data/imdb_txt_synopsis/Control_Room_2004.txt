@@ -1,0 +1,10 @@
+movieId: 9018
+title: Control Room
+year: 2004
+url: https://www.imdb.com/title/tt0391024/
+ratingValue: 
+directors: Jehane Noujaim
+actors: Samir Khader, Josh Rushing, George W. Bush, Hassan Ibrahim, Deema Khatib, Tom Mintier, Donald Rumsfeld, David Shuster
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

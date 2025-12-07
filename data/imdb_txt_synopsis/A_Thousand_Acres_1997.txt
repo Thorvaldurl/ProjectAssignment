@@ -1,0 +1,10 @@
+movieId: 1624
+title: A Thousand Acres
+year: 1997
+url: https://www.imdb.com/title/tt0120323/
+ratingValue: 
+directors: Jocelyn Moorhouse
+actors: Michelle Pfeiffer, Jessica Lange, Jason Robards, Jennifer Jason Leigh, Colin Firth, Keith Carradine, Kevin Anderson, Pat Hingle, John Carroll Lynch, Anne Pitoniak
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1406
+title: The Ceremony
+year: 1995
+url: https://www.imdb.com/title/tt0112769/
+ratingValue: 
+directors: Claude Chabrol
+actors: Isabelle Huppert, Sandrine Bonnaire, Jean-Pierre Cassel, Jacqueline Bisset, Virginie Ledoyen, Valentin Merlet, Julien Rochefort, Dominique Frot, Jean-François Perrier, Ludovic Brillant
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

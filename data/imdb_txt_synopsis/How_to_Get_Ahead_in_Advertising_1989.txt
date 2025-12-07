@@ -1,0 +1,10 @@
+movieId: 4605
+title: How to Get Ahead in Advertising
+year: 1989
+url: https://www.imdb.com/title/tt0097531/
+ratingValue: 
+directors: Bruce Robinson
+actors: Richard E. Grant, Rachel Ward, Richard Wilson, Jacqueline Tong, John Shrapnel, Susan Wooldridge, Hugh Armstrong, Mick Ford, Jacqueline Pearce, Christopher Simon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5387
+title: Enough
+year: 2002
+url: https://www.imdb.com/title/tt0278435/
+ratingValue: 
+directors: Michael Apted
+actors: Jennifer Lopez, Billy Campbell, Tessa Allen, Juliette Lewis, Dan Futterman, Noah Wyle, Fred Ward, Christopher Maher, Janet Carroll, Bill Cobbs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

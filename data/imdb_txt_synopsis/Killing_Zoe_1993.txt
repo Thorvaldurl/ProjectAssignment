@@ -1,0 +1,10 @@
+movieId: 482
+title: Killing Zoe
+year: 1993
+url: https://www.imdb.com/title/tt0110265/
+ratingValue: 
+directors: Roger Avary
+actors: Eric Stoltz, Martin Raymond, Eric Pascal Chaltiel, Julie Delpy, Jean-Hugues Anglade, Gary Kemp, Salvator Xuereb, Bruce Ramsay, Tai Thai, Kario Salem
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6181
+title: The Red Badge of Courage
+year: 1951
+url: https://www.imdb.com/title/tt0043961/
+ratingValue: 
+directors: John Huston
+actors: Andy Devine, Robert Easton, Douglas Dick, Tim Durant, Arthur Hunnicutt, Royal Dano, John Dierkes, Bill Mauldin, Audie Murphy, Don Anderson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

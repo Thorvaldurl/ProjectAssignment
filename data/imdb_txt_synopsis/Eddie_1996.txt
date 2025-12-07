@@ -1,0 +1,10 @@
+movieId: 656
+title: Eddie
+year: 1996
+url: https://www.imdb.com/title/tt0116168/
+ratingValue: 
+directors: Steve Rash
+actors: Whoopi Goldberg, Frank Langella, Dennis Farina, Richard Jenkins, Lisa Ann Walter, John Benjamin Hickey, Troy Byer, John Salley, Rick Fox, Malik Sealy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

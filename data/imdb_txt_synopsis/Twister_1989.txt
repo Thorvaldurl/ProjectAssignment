@@ -1,0 +1,10 @@
+movieId: 7781
+title: Twister
+year: 1989
+url: https://www.imdb.com/title/tt0096321/
+ratingValue: 
+directors: Michael Almereyda
+actors: Harry Dean Stanton, Suzy Amis, Crispin Glover, Dylan McDermott, Jenny Wright, Lindsay Christman, Charlayne Woodard, Lois Chiles, David Brown, William S. Burroughs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

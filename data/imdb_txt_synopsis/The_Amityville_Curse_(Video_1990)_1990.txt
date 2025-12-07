@@ -1,0 +1,10 @@
+movieId: 1328
+title: The Amityville Curse (Video 1990)
+year: 1990
+url: https://www.imdb.com/title/tt0099030/
+ratingValue: 
+directors: Tom Berry
+actors: Kim Coates, Dawna Wightman, Helen Hughes, David Stein, Anthony Dean Rubes, Cassandra Gava, Jan Rubes, Norris Domingue, Scott Yaphe, Mark Camacho
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

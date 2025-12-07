@@ -1,0 +1,10 @@
+movieId: 7024
+title: Salò, or the 120 Days of Sodom
+year: 1975
+url: https://www.imdb.com/title/tt0073650/
+ratingValue: 
+directors: Pier Paolo Pasolini
+actors: Paolo Bonacelli, Giorgio Cataldi, Uberto Paolo Quintavalle, Aldo Valletti, Caterina Boratto, Elsa De Giorgi, Hélène Surgère, Sonia Saviange, Sergio Fascetti, Bruno Musso
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

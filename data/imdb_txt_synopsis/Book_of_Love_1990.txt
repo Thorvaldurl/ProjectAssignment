@@ -1,0 +1,10 @@
+movieId: 8402
+title: Book of Love
+year: 1990
+url: https://www.imdb.com/title/tt0099166/
+ratingValue: 
+directors: Robert Shaye
+actors: Chris Young, Keith Coogan, Aeryk Egan, Josie Bissett, Tricia Leigh Fisher, Danny Nucci, John Cameron Mitchell, Beau Dremann, Jill Jaress, John Achorn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

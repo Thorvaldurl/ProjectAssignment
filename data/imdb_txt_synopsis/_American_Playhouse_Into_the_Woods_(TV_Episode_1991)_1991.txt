@@ -1,0 +1,10 @@
+movieId: 8580
+title: "American Playhouse" Into the Woods (TV Episode 1991)
+year: 1991
+url: https://www.imdb.com/title/tt0099851/
+ratingValue: 
+directors: James Lapine
+actors: Joy Franz, Edmund Lyndeck, Philip Hoffman, Kay McClelland, Lauren Mitchell, Chuck Wagner, Pamela Winslow Kashani, Merle Louise, Barbara Bryne
+
+synopsis:
+Into the Woods starts familiarly, with the stories of Cinderella, Jack and the Beanstalk, Little Red Riding Hood, Rapunzel, and all are tied together with a new story of the Baker and his Wife, who are trying to conceive a child. However, just as the audience did not previously know that all of the stories were related through the Baker and his Wife, the play soon discloses many twists and changes of fate for each of the characters as they experience the repercussions of their "happily ever after"s.

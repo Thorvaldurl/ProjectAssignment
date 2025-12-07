@@ -1,0 +1,10 @@
+movieId: 6713
+title: Millennium Actress
+year: 2001
+url: https://www.imdb.com/title/tt0291350/
+ratingValue: 
+directors: Satoshi Kon
+actors: Miyoko Shôji, Mami Koyama, Fumiko Orikasa, Shôzô Îzuka, Shôko Tsuda, Hirotaka Suzuoki, Hisako Kyôda, Kan Tokumaru, Tomie Kataoka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8042
+title: Mean Streets
+year: 1973
+url: https://www.imdb.com/title/tt0070379/
+ratingValue: 
+directors: Martin Scorsese
+actors: Robert De Niro, Harvey Keitel, David Proval, Amy Robinson, Richard Romanus, Cesare Danova, Victor Argo, George Memmoli, Lenny Scaletta, Jeannie Bell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

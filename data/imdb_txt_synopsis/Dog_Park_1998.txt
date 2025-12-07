@@ -1,0 +1,10 @@
+movieId: 2884
+title: Dog Park
+year: 1998
+url: https://www.imdb.com/title/tt0129884/
+ratingValue: 
+directors: Bruce McCulloch
+actors: Natasha Henstridge, Luke Wilson, Kathleen Robertson, Janeane Garofalo, Bruce McCulloch, Kristin Lehman, Amie Carey, Gordon Currie, Harland Williams, Mark McKinney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

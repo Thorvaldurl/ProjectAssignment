@@ -1,0 +1,10 @@
+movieId: 3378
+title: The Ogre
+year: 1996
+url: https://www.imdb.com/title/tt0118043/
+ratingValue: 
+directors: Volker Schlöndorff
+actors: John Malkovich, Armin Mueller-Stahl, Gottfried John, Marianne Sägebrecht, Volker Spengler, Heino Ferch, Dieter Laser, Agnès Soral, Sasha Hanau, Luc Florian
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

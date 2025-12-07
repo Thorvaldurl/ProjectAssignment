@@ -1,0 +1,10 @@
+movieId: 8611
+title: The Farmer's Daughter
+year: 1947
+url: https://www.imdb.com/title/tt0039370/
+ratingValue: 
+directors: H.C. Potter
+actors: Loretta Young, Joseph Cotten, Ethel Barrymore, Charles Bickford, Rose Hobart, Rhys Williams, Harry Davenport, Tom Powers, William Harrigan, Keith Andes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

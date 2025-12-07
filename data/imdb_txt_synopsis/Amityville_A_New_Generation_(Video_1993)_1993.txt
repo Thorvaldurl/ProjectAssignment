@@ -1,0 +1,10 @@
+movieId: 1325
+title: Amityville: A New Generation (Video 1993)
+year: 1993
+url: https://www.imdb.com/title/tt0106262/
+ratingValue: 
+directors: John Murlowski
+actors: Ross Partridge, Julia Nickson, Lala Sloatman, David Naughton, Barbara Howard, Jack Orend, Richard Roundtree, Terry O'Quinn, Robert Rusler, Lin Shaye
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

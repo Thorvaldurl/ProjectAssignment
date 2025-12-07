@@ -1,0 +1,10 @@
+movieId: 1888
+title: Hope Floats
+year: 1998
+url: https://www.imdb.com/title/tt0119313/
+ratingValue: 
+directors: Forest Whitaker
+actors: Sandra Bullock, Harry Connick Jr., Gena Rowlands, Mae Whitman, Michael Paré, Cameron Finley, Kathy Najimy, Bill Cobbs, Connie Ray, Mona Lee Fultz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

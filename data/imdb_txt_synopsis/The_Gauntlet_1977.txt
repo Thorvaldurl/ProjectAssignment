@@ -1,0 +1,10 @@
+movieId: 4947
+title: The Gauntlet
+year: 1977
+url: https://www.imdb.com/title/tt0076070/
+ratingValue: 
+directors: Clint Eastwood
+actors: Clint Eastwood, Sondra Locke, Pat Hingle, William Prince, Bill McKinney, Michael Cavanaugh, Carole Cook, Mara Corday, Doug McGrath, Jeff Morris
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

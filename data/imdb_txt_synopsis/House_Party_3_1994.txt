@@ -1,0 +1,10 @@
+movieId: 470
+title: House Party 3
+year: 1994
+url: https://www.imdb.com/title/tt0110064/
+ratingValue: 
+directors: Eric Meza
+actors: Christopher Reid, Christopher Martin, David Edwards, Angela Means, Tisha Campbell, Immature, Ketty Lester, Bernie Mac, Michael Colyar, Chris Tucker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

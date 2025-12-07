@@ -1,0 +1,10 @@
+movieId: 518
+title: The Road to Wellville
+year: 1994
+url: https://www.imdb.com/title/tt0111001/
+ratingValue: 
+directors: Alan Parker
+actors: Anthony Hopkins, Bridget Fonda, Matthew Broderick, John Cusack, Dana Carvey, Michael Lerner, Colm Meaney, John Neville, Lara Flynn Boyle, Traci Lind
+
+synopsis:
+Matthew Brodericks uptight Edwardian newlywed visits a new age health farm run by crackpot doc Anthony Hopkins. Scatologically-obsessed satire from director Alan Parker.

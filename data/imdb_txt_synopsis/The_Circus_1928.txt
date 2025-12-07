@@ -1,0 +1,10 @@
+movieId: 3306
+title: The Circus
+year: 1928
+url: https://www.imdb.com/title/tt0018773/
+ratingValue: 
+directors: Charles Chaplin
+actors: Al Ernest Garcia, Merna Kennedy, Harry Crocker, George Davis, Henry Bergman, Tiny Sandford, John Rand, Steve Murphy, Charles Chaplin, Albert Austin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

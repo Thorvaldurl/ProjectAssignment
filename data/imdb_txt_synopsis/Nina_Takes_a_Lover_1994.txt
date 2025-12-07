@@ -1,0 +1,10 @@
+movieId: 287
+title: Nina Takes a Lover
+year: 1994
+url: https://www.imdb.com/title/tt0110671/
+ratingValue: 
+directors: Alan Jacobs
+actors: Laura San Giacomo, Paul Rhys, Michael O'Keefe, Cristi Conaway, Fisher Stevens, Alan Lightner, Vincent Lars, Carter Collins, Michelle Koeppe, Marianna Åström-De Fina
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

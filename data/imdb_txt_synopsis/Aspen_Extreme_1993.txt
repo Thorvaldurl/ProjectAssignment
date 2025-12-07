@@ -1,0 +1,10 @@
+movieId: 5580
+title: Aspen Extreme
+year: 1993
+url: https://www.imdb.com/title/tt0106315/
+ratingValue: 
+directors: Patrick Hasburgh
+actors: Paul Gross, Peter Berg, Finola Hughes, Teri Polo, William Russ, Trevor Eve, Martin Kemp, Stewart Finlay-McLennan, Tony Griffin, Julie Royer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

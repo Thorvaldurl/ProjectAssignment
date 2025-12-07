@@ -1,0 +1,10 @@
+movieId: 1550
+title: Trial and Error
+year: 1997
+url: https://www.imdb.com/title/tt0120373/
+ratingValue: 
+directors: Jonathan Lynn
+actors: Michael Richards, Jeff Daniels, Charlize Theron, Jessica Steen, Austin Pendleton, Rip Torn, Alexandra Wentworth, Jennifer Coolidge, Lawrence Pressman, Dale Dye
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

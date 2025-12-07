@@ -1,0 +1,10 @@
+movieId: 1439
+title: Meet Wally Sparks
+year: 1997
+url: https://www.imdb.com/title/tt0119644/
+ratingValue: 
+directors: Peter Baldwin
+actors: Rodney Dangerfield, Debi Mazar, David Ogden Stiers, Burt Reynolds, Rita McKenzie, Lisa Thornhill, Mark L. Taylor, Cindy Williams, Gilbert Gottfried, Tony Danza
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

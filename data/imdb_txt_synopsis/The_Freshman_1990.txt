@@ -1,0 +1,10 @@
+movieId: 6974
+title: The Freshman
+year: 1990
+url: https://www.imdb.com/title/tt0099615/
+ratingValue: 
+directors: Andrew Bergman
+actors: Marlon Brando, Matthew Broderick, Bruno Kirby, Penelope Ann Miller, Frank Whaley, Jon Polito, Paul Benedict, Richard Gant, Kenneth Welsh, Pamela Payton-Wright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

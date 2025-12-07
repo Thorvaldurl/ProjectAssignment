@@ -1,0 +1,10 @@
+movieId: 1733
+title: Afterglow
+year: 1997
+url: https://www.imdb.com/title/tt0118566/
+ratingValue: 
+directors: Alan Rudolph
+actors: Nick Nolte, Julie Christie, Lara Flynn Boyle, Jonny Lee Miller, Jay Underwood, Domini Blythe, Yves Corbeil, Alan Fawcett, Michèle-Barbara Pelletier, France Castel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

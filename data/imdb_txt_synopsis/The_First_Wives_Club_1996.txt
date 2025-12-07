@@ -1,0 +1,10 @@
+movieId: 830
+title: The First Wives Club
+year: 1996
+url: https://www.imdb.com/title/tt0116313/
+ratingValue: 
+directors: Hugh Wilson
+actors: Goldie Hawn, Bette Midler, Diane Keaton, Maggie Smith, Sarah Jessica Parker, Dan Hedaya, Stockard Channing, Victor Garber, Stephen Collins, Elizabeth Berkley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

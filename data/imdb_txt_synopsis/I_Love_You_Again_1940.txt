@@ -1,0 +1,10 @@
+movieId: 8232
+title: I Love You Again
+year: 1940
+url: https://www.imdb.com/title/tt0032617/
+ratingValue: 
+directors: W.S. Van Dyke
+actors: William Powell, Myrna Loy, Frank McHugh, Edmund Lowe, Donald Douglas, Nella Walker, Carl 'Alfalfa' Switzer, Pierre Watkin, Paul Stanton, Morgan Wallace
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

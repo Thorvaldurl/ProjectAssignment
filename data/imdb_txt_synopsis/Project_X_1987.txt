@@ -1,0 +1,10 @@
+movieId: 7019
+title: Project X
+year: 1987
+url: https://www.imdb.com/title/tt0093793/
+ratingValue: 
+directors: Jonathan Kaplan
+actors: Willie, Okko, Karanja, Luke, Harry, Arthur, Ciafu, Lucy, Lulu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

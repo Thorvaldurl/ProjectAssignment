@@ -1,0 +1,10 @@
+movieId: 3507
+title: The Odd Couple
+year: 1968
+url: https://www.imdb.com/title/tt0063374/
+ratingValue: 
+directors: Gene Saks
+actors: Jack Lemmon, Walter Matthau, John Fiedler, Herb Edelman, David Sheiner, Larry Haines, Monica Evans, Carole Shelley, Iris Adrian, Matty Alou
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

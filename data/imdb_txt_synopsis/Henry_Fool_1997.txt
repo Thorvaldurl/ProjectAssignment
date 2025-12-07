@@ -1,0 +1,10 @@
+movieId: 1904
+title: Henry Fool
+year: 1997
+url: https://www.imdb.com/title/tt0122529/
+ratingValue: 
+directors: Hal Hartley
+actors: Thomas Jay Ryan, James Urbaniak, Parker Posey, Maria Porter, James Saito, Kevin Corrigan, Liam Aiken, Miho Nikaido, Gene Ruffini, Nicholas Hope
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

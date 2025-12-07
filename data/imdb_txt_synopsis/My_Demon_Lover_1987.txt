@@ -1,0 +1,10 @@
+movieId: 4138
+title: My Demon Lover
+year: 1987
+url: https://www.imdb.com/title/tt0093589/
+ratingValue: 
+directors: Charlie Loventhal
+actors: Scott Valentine, Michele Little, Robert Trebor, Gina Gallego, Alan Fudge, Calvert DeForest, Arnold Johnson, Donovan Baker, Teresa Bowman, Dan Patrick Brady
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

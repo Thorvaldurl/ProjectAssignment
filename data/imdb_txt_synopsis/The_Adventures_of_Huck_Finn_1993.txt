@@ -1,0 +1,10 @@
+movieId: 5076
+title: The Adventures of Huck Finn
+year: 1993
+url: https://www.imdb.com/title/tt0106223/
+ratingValue: 
+directors: Stephen Sommers
+actors: Elijah Wood, Courtney B. Vance, Robbie Coltrane, Jason Robards, Ron Perlman, Dana Ivey, Anne Heche, James Gammon, Paxton Whitehead, Tom Aldredge
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 448
+title: Fearless
+year: 1993
+url: https://www.imdb.com/title/tt0106881/
+ratingValue: 
+directors: Peter Weir
+actors: Jeff Bridges, Isabella Rossellini, Rosie Perez, Tom Hulce, John Turturro, Benicio Del Toro, Deirdre O'Connell, John de Lancie, Spencer Vrooman, Daniel Cerny
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

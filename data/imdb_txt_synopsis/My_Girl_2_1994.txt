@@ -1,0 +1,10 @@
+movieId: 5969
+title: My Girl 2
+year: 1994
+url: https://www.imdb.com/title/tt0110613/
+ratingValue: 
+directors: Howard Zieff
+actors: Dan Aykroyd, Jamie Lee Curtis, Anna Chlumsky, Austin O'Brien, Richard Masur, Christine Ebersole, JD Souther, Angeline Ball, Aubrey Morris, Gerrit Graham
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

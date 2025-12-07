@@ -1,0 +1,10 @@
+movieId: 7069
+title: Macbeth
+year: 1971
+url: https://www.imdb.com/title/tt0067372/
+ratingValue: 
+directors: Roman Polanski
+actors: Jon Finch, Francesca Annis, Martin Shaw, Terence Bayler, John Stride, Nicholas Selby, Stephan Chase, Paul Shelley, Maisie MacFarquhar, Elsie Taylor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6178
+title: A Patch of Blue
+year: 1965
+url: https://www.imdb.com/title/tt0059573/
+ratingValue: 
+directors: Guy Green
+actors: Sidney Poitier, Shelley Winters, Elizabeth Hartman, Wallace Ford, Ivan Dixon, Elisabeth Fraser, John Qualen, Kelly Flynn, Debi Storm, Renata Vanni
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

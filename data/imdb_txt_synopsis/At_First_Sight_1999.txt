@@ -1,0 +1,10 @@
+movieId: 2445
+title: At First Sight
+year: 1999
+url: https://www.imdb.com/title/tt0132512/
+ratingValue: 
+directors: Irwin Winkler
+actors: Val Kilmer, Mira Sorvino, Kelly McGillis, Steven Weber, Bruce Davison, Nathan Lane, Ken Howard, Laura Kirk, Margo Winkler, Diana Krall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

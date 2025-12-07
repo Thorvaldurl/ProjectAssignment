@@ -1,0 +1,10 @@
+movieId: 5736
+title: Faces of Death III
+year: 1985
+url: https://www.imdb.com/title/tt0121261/
+ratingValue: 
+directors: John Alan Schwartz
+actors: Michael Carr, Cecil Clemons, Veronica Lakewood, James B. Schwartz, John Alan Schwartz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

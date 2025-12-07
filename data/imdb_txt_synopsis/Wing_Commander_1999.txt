@@ -1,0 +1,10 @@
+movieId: 2549
+title: Wing Commander
+year: 1999
+url: https://www.imdb.com/title/tt0131646/
+ratingValue: 
+directors: Chris Roberts
+actors: Freddie Prinze Jr., Saffron Burrows, Matthew Lillard, Tchéky Karyo, Jürgen Prochnow, David Suchet, David Warner, Ginny Holder, Hugh Quarshie, Ken Bones
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

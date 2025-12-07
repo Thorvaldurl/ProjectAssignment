@@ -1,0 +1,10 @@
+movieId: 4171
+title: Long Night's Journey Into Day
+year: 2000
+url: https://www.imdb.com/title/tt0236447/
+ratingValue: 
+directors: Deborah Hoffmann, Frances Reid
+actors: Helen Mirren, Mary Burton, Pumla Gobodo-Madikizela, Mongezi Manqina, Thapelo Mbelo, Robert McBride, Jann Turner, Desmond Tutu, Tony Weaver
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8575
+title: Happenstance
+year: 2000
+url: https://www.imdb.com/title/tt0243135/
+ratingValue: 
+directors: Laurent Firode
+actors: Audrey Tautou, Faudel, Eric Savin, Nathalie Besançon, Lysiane Meis, Irène Ismaïloff, Eric Feldman, Frédéric Bouraly, Franck Bussi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

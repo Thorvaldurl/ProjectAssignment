@@ -1,0 +1,10 @@
+movieId: 7773
+title: Bang Bang You're Dead
+year: 2002
+url: https://www.imdb.com/title/tt0288439/
+ratingValue: 
+directors: Guy Ferland
+actors: Tom Cavanagh, Ben Foster, Randy Harrison, Janel Moloney, Jane McGregor, David Paetkau, Eric Johnson, Kristian Ayre, Brent Glenen, Gillian Barber
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7900
+title: Frankenstein Must Be Destroyed
+year: 1969
+url: https://www.imdb.com/title/tt0065738/
+ratingValue: 
+directors: Terence Fisher
+actors: Peter Cushing, Veronica Carlson, Freddie Jones, Simon Ward, Thorley Walters, Maxine Audley, George Pravda, Geoffrey Bayldon, Colette O'Neil, Frank Middlemass
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

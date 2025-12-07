@@ -1,0 +1,10 @@
+movieId: 1477
+title: Love Jones
+year: 1997
+url: https://www.imdb.com/title/tt0119572/
+ratingValue: 
+directors: Theodore Witcher
+actors: Larenz Tate, Nia Long, Isaiah Washington, Lisa Nicole Carson, Bill Bellamy, Leonard Roberts, Bernadette Speakes, Khalil Kain, Cerall Duncan, David Nisbet
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

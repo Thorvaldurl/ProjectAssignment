@@ -1,0 +1,10 @@
+movieId: 8253
+title: Lupin III: The Castle of Cagliostro
+year: 1979
+url: https://www.imdb.com/title/tt0079833/
+ratingValue: 
+directors: Hayao Miyazaki
+actors: Yasuo Yamada, Eiko Masuyama, Kiyoshi Kobayashi, Makio Inoue, Gorô Naya, Sumi Shimamoto, Tarô Ishida, Kôhei Miyauchi, Ichirô Nagai
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

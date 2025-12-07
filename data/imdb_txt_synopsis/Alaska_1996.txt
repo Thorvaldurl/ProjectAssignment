@@ -1,0 +1,10 @@
+movieId: 808
+title: Alaska
+year: 1996
+url: https://www.imdb.com/title/tt0115493/
+ratingValue: 
+directors: Fraser C. Heston
+actors: Thora Birch, Vincent Kartheiser, Dirk Benedict, Charlton Heston, Duncan Fraser, Gordon Tootoosis, Ben Cardinal, Ryan Kent, Don S. Davis, Dolly Madsen
+
+synopsis:
+Jesse (Thora Birch) and Sean (Vincent Kartheiser) sent on an adventure to save their father (Dirk Benedict), who during an emergency delivery in a storm crashes somewhere in the mountains.

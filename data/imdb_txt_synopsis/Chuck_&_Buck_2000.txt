@@ -1,0 +1,10 @@
+movieId: 3794
+title: Chuck & Buck
+year: 2000
+url: https://www.imdb.com/title/tt0200530/
+ratingValue: 
+directors: Miguel Arteta
+actors: Mike White, Chris Weitz, Lupe Ontiveros, Beth Colt, Paul Weitz, Maya Rudolph, Mary Wigmore, Paul Sand, Gino Buccola, Annette Murphy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

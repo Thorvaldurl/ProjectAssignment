@@ -1,0 +1,10 @@
+movieId: 759
+title: Maya Lin: A Strong Clear Vision
+year: 1994
+url: https://www.imdb.com/title/tt0110480/
+ratingValue: 
+directors: Freida Lee Mock
+actors: Maya Lin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

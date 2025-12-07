@@ -1,0 +1,10 @@
+movieId: 2829
+title: The Muse
+year: 1999
+url: https://www.imdb.com/title/tt0164108/
+ratingValue: 
+directors: Albert Brooks
+actors: Albert Brooks, Sharon Stone, Andie MacDowell, Jeff Bridges, Cybill Shepherd, Monica Mikala, Jamie Alexis, Marnie Shelton, Catherine MacNeal, Mark Feuerstein
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

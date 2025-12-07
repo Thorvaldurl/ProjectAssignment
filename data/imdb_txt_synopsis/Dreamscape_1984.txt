@@ -1,0 +1,10 @@
+movieId: 3770
+title: Dreamscape
+year: 1984
+url: https://www.imdb.com/title/tt0087175/
+ratingValue: 
+directors: Joseph Ruben
+actors: Dennis Quaid, Max von Sydow, Christopher Plummer, Eddie Albert, Kate Capshaw, David Patrick Kelly, George Wendt, Larry Gelman, Cory 'Bumper' Yothers, Redmond Gleeson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

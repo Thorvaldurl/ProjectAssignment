@@ -1,0 +1,10 @@
+movieId: 6090
+title: Kiss Me Goodbye
+year: 1982
+url: https://www.imdb.com/title/tt0084210/
+ratingValue: 
+directors: Robert Mulligan
+actors: Sally Field, James Caan, Jeff Bridges, Paul Dooley, Claire Trevor, Mildred Natwick, Dorothy Fielding, William Prince, Maryedith Burrell, Alan Haufrect
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

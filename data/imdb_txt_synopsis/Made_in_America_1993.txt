@@ -1,0 +1,10 @@
+movieId: 489
+title: Made in America
+year: 1993
+url: https://www.imdb.com/title/tt0107478/
+ratingValue: 
+directors: Richard Benjamin
+actors: Whoopi Goldberg, Ted Danson, Will Smith, Nia Long, Paul Rodriguez, Jennifer Tilly, Peggy Rea, Clyde Kusatsu, David Bowe, Jeff Joseph
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

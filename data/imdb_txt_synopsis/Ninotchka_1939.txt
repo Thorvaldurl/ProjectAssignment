@@ -1,0 +1,10 @@
+movieId: 936
+title: Ninotchka
+year: 1939
+url: https://www.imdb.com/title/tt0031725/
+ratingValue: 
+directors: Ernst Lubitsch
+actors: Greta Garbo, Melvyn Douglas, Ina Claire, Bela Lugosi, Sig Ruman, Felix Bressart, Alexander Granach, Gregory Gaye, Rolfe Sedan, Edwin Maxwell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 9004
+title: D.A.R.Y.L.
+year: 1985
+url: https://www.imdb.com/title/tt0088979/
+ratingValue: 
+directors: Simon Wincer
+actors: Mary Beth Hurt, Michael McKean, Kathryn Walker, Colleen Camp, Josef Sommer, Ron Frazier, Steve Ryan, David Wohl, Danny Corkill, Amy Linker
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

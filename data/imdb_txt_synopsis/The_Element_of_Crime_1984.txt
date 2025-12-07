@@ -1,0 +1,10 @@
+movieId: 7134
+title: The Element of Crime
+year: 1984
+url: https://www.imdb.com/title/tt0087280/
+ratingValue: 
+directors: Lars von Trier
+actors: Michael Elphick, Esmond Knight, Me Me Lai, Jerold Wells, Ahmed El Shenawi, Astrid Henning-Jensen, János Herskó, Stig Larsson, Harry Harper, Roman Moszkowicz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3007
+title: American Movie
+year: 1999
+url: https://www.imdb.com/title/tt0181288/
+ratingValue: 
+directors: Chris Smith
+actors: Mark Borchardt, Tom Schimmels, Monica Borchardt, Alex Borchardt, Chris Borchardt, Ken Keen, Mike Schank, Matt Weisman, Bill Borchardt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

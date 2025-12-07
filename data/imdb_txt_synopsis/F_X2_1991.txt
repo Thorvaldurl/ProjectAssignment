@@ -1,0 +1,10 @@
+movieId: 3764
+title: F/X2
+year: 1991
+url: https://www.imdb.com/title/tt0101846/
+ratingValue: 
+directors: Richard Franklin
+actors: Bryan Brown, Brian Dennehy, Rachel Ticotin, Joanna Gleason, Philip Bosco, Kevin J. O'Connor, Tom Mason, Dominic Zamprogna, Jossie DeGuzman, John Walsh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

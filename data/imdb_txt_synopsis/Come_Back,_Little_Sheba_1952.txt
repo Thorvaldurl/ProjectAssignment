@@ -1,0 +1,10 @@
+movieId: 8875
+title: Come Back, Little Sheba
+year: 1952
+url: https://www.imdb.com/title/tt0044509/
+ratingValue: 
+directors: Daniel Mann
+actors: Burt Lancaster, Shirley Booth, Terry Moore, Richard Jaeckel, Philip Ober, Edwin Max, Lisa Golm, Walter Kelley, Robert Fuller, Ned Glass
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

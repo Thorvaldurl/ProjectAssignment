@@ -1,0 +1,10 @@
+movieId: 2169
+title: Dead Man on Campus
+year: 1998
+url: https://www.imdb.com/title/tt0118301/
+ratingValue: 
+directors: Alan Cohn
+actors: Tom Everett Scott, Mark-Paul Gosselaar, Poppy Montgomery, Lochlyn Munro, Randy Pearlstein, Corey Page, Alyson Hannigan, Mari Morrow, Dave Ruby, Mark Carapezza
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

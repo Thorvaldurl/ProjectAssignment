@@ -1,0 +1,10 @@
+movieId: 6671
+title: An Angel at My Table
+year: 1990
+url: https://www.imdb.com/title/tt0099040/
+ratingValue: 
+directors: Jane Campion
+actors: Kerry Fox, Alexia Keogh, Karen Fergusson, Iris Churn, Jessie Mune, Kevin J. Wilson, Francesca Collins, Melina Bernecker, Mark Morrison
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

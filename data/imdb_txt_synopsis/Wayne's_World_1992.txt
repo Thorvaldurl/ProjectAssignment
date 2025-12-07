@@ -1,0 +1,10 @@
+movieId: 3253
+title: Wayne's World
+year: 1992
+url: https://www.imdb.com/title/tt0105793/
+ratingValue: 
+directors: Penelope Spheeris
+actors: Mike Myers, Dana Carvey, Rob Lowe, Tia Carrere, Brian Doyle-Murray, Lara Flynn Boyle, Michael DeLuise, Dan Bell, Lee Tergesen, Kurt Fuller
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

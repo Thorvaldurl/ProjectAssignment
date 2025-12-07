@@ -1,0 +1,10 @@
+movieId: 880
+title: The Island of Dr. Moreau
+year: 1996
+url: https://www.imdb.com/title/tt0116654/
+ratingValue: 
+directors: John Frankenheimer, Richard Stanley
+actors: Marlon Brando, Val Kilmer, David Thewlis, Fairuza Balk, Daniel Rigney, Temuera Morrison, Nelson de la Rosa, Peter Elliott, Mark Dacascos, Ron Perlman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

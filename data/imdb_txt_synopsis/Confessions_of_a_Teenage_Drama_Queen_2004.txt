@@ -1,0 +1,10 @@
+movieId: 7316
+title: Confessions of a Teenage Drama Queen
+year: 2004
+url: https://www.imdb.com/title/tt0361467/
+ratingValue: 
+directors: Sara Sugarman
+actors: Lindsay Lohan, Adam Garcia, Glenne Headly, Alison Pill, Eli Marienthal, Carol Kane, Megan Fox, Sheila McCarthy, Tom McCamus, Richard Fitzpatrick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

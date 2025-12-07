@@ -1,0 +1,10 @@
+movieId: 1306
+title: Until the End of the World
+year: 1991
+url: https://www.imdb.com/title/tt0101458/
+ratingValue: 
+directors: Wim Wenders
+actors: Solveig Dommartin, Pietro Falcone, Enzo Turrin, Chick Ortega, Eddy Mitchell, William Hurt, Adelle Lutz, Ernie Dingo, Jean-Charles Dumay, Sam Neill
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1684
+title: Mrs Dalloway
+year: 1997
+url: https://www.imdb.com/title/tt0119723/
+ratingValue: 
+directors: Marleen Gorris
+actors: Vanessa Redgrave, Natascha McElhone, Michael Kitchen, Alan Cox, Sarah Badel, Lena Headey, John Standing, Robert Portal, Oliver Ford Davies, Hal Cruttenden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

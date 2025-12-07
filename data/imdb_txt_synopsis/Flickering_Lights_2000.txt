@@ -1,0 +1,10 @@
+movieId: 6300
+title: Flickering Lights
+year: 2000
+url: https://www.imdb.com/title/tt0236027/
+ratingValue: 
+directors: Anders Thomas Jensen
+actors: Søren Pilmark, Ulrich Thomsen, Mads Mikkelsen, Nikolaj Lie Kaas, Sofie Gråbøl, Iben Hjejle, Frits Helmuth, Ole Thestrup, Peter Andersson, Niels Anders Thorn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

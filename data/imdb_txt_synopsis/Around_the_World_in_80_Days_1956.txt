@@ -1,0 +1,10 @@
+movieId: 952
+title: Around the World in 80 Days
+year: 1956
+url: https://www.imdb.com/title/tt0048960/
+ratingValue: 
+directors: Michael Anderson, John Farrow
+actors: Cantinflas, Finlay Currie, Robert Morley, Ronald Squire, Basil Sydney, Noël Coward, John Gielgud, Trevor Howard, Harcourt Williams, David Niven
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1626
+title: Fire Down Below
+year: 1997
+url: https://www.imdb.com/title/tt0119123/
+ratingValue: 
+directors: Félix Enríquez Alcalá
+actors: Steven Seagal, Marg Helgenberger, Stephen Lang, Brad Hunt, Kris Kristofferson, Harry Dean Stanton, Levon Helm, Mark Collie, Alex Harvey, Ed Bruce
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

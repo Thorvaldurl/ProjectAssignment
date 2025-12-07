@@ -1,0 +1,10 @@
+movieId: 5688
+title: Tully
+year: 2000
+url: https://www.imdb.com/title/tt0212604/
+ratingValue: 
+directors: Hilary Birmingham
+actors: Glenn Fitzgerald, Anson Mount, Bob Burrus, Julianne Nicholson, Laura Walker, Joe Smalley, Tim Driscoll, Aaron Zavitz, Kristopher Kling, Catherine Kellner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

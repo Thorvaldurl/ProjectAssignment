@@ -1,0 +1,10 @@
+movieId: 1331
+title: Audrey Rose
+year: 1977
+url: https://www.imdb.com/title/tt0075704/
+ratingValue: 
+directors: Robert Wise
+actors: Marsha Mason, Anthony Hopkins, John Beck, Susan Swift, Norman Lloyd, John Hillerman, Robert Walden, Philip Sterling, Ivy Jones, Stephen Pearlman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

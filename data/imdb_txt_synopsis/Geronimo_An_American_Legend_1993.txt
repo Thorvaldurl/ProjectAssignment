@@ -1,0 +1,10 @@
+movieId: 458
+title: Geronimo: An American Legend
+year: 1993
+url: https://www.imdb.com/title/tt0107004/
+ratingValue: 
+directors: Walter Hill
+actors: Jason Patric, Gene Hackman, Robert Duvall, Wes Studi, Matt Damon, Rodney A. Grant, Kevin Tighe, Steve Reevis, Carlos Palomino, Victor Aaron
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8915
+title: Stage Beauty
+year: 2004
+url: https://www.imdb.com/title/tt0368658/
+ratingValue: 
+directors: Richard Eyre
+actors: Derek Hutchinson, Mark Letheren, Claire Danes, Billy Crudup, Tom Wilkinson, Ben Chaplin, Hugh Bonneville, Jack Kempton, Alice Eve, Fenella Woolgar
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 83
+title: Once Upon a Time... When We Were Colored
+year: 1995
+url: https://www.imdb.com/title/tt0114039/
+ratingValue: 
+directors: Tim Reid
+actors: Al Freeman Jr., Phylicia Rashad, Leon, Paula Kelly, Salli Richardson-Whitfield, Anna Maria Horsford, Bernie Casey, Isaac Hayes, Ray J, Karen Malina White
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

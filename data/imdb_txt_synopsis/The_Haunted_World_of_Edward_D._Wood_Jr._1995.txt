@@ -1,0 +1,10 @@
+movieId: 722
+title: The Haunted World of Edward D. Wood Jr.
+year: 1995
+url: https://www.imdb.com/title/tt0113270/
+ratingValue: 
+directors: Brett Thompson
+actors: Maila Nurmi, Dolores Fuller, Paul Marco, Conrad Brooks, Loretta King, Lynn Lemon, Bela Lugosi, Bela Lugosi Jr., Norma McCarty
+
+synopsis:
+Produced by Ed Wood's former business partner, "The Haunted World of Ed Wood, Jr" is a compilation of people who knew Ed Wood, either personally or prefessionally, discussing various elements of his personality. The interview segments are spliced with revealing clips from his films, including clips from: "Bride of the Atom", "Glen or Glena", and "Plan 9 From Outer Space". Different people being interviewed see Ed Wood from unique perspectives. These perspectives range from adoration, to contempt, to pity, to adulation. The interviews reveal as much about the cast as they do about Ed Wood. Also contains footage of Ed Wood's first TV commercial and unreleased short productions including "Crossroads of Lorado" and another 5 minute western origionally meant to be a home movie. In the end, this low-budget movie stays true to Ed Wood's heart, and gives a both a devoted fan or just a curious onlooker very personal insights into this complicated man.

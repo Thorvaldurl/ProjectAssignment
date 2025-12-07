@@ -1,0 +1,10 @@
+movieId: 3466
+title: Heart and Souls
+year: 1993
+url: https://www.imdb.com/title/tt0107091/
+ratingValue: 
+directors: Ron Underwood
+actors: Robert Downey Jr., Charles Grodin, Alfre Woodard, Kyra Sedgwick, Tom Sizemore, David Paymer, Elisabeth Shue, Bill Calvert, Lisa Lucas, Shannon Orrock
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

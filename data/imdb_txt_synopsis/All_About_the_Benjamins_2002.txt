@@ -1,0 +1,10 @@
+movieId: 5170
+title: All About the Benjamins
+year: 2002
+url: https://www.imdb.com/title/tt0278295/
+ratingValue: 
+directors: Kevin Bray
+actors: Ice Cube, Mike Epps, Tommy Flanagan, Carmen Chaplin, Eva Mendes, Valarie Rae Miller, Anthony Giaimo, Jeff Chase, Roger Guenveur Smith, Gino Salvano
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

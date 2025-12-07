@@ -1,0 +1,10 @@
+movieId: 6225
+title: King of Kings
+year: 1961
+url: https://www.imdb.com/title/tt0055047/
+ratingValue: 
+directors: Nicholas Ray
+actors: Jeffrey Hunter, Siobhan McKenna, Hurd Hatfield, Ron Randell, Viveca Lindfors, Rita Gam, Carmen Sevilla, Brigid Bazlen, Harry Guardino, Rip Torn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

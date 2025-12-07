@@ -1,0 +1,10 @@
+movieId: 2897
+title: The Ship Sails On
+year: 1983
+url: https://www.imdb.com/title/tt0087188/
+ratingValue: 
+directors: Federico Fellini
+actors: Freddie Jones, Barbara Jefford, Victor Poletti, Peter Cellier, Elisa Mainardi, Norma West, Paolo Paoloni, Sarah-Jane Varley, Fiorenzo Serra, Pina Bausch
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

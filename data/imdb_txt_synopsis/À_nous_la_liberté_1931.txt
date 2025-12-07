@@ -1,0 +1,10 @@
+movieId: 5560
+title: À nous la liberté
+year: 1931
+url: https://www.imdb.com/title/tt0022599/
+ratingValue: 
+directors: René Clair
+actors: Henri Marchand, Raymond Cordy, Rolla France, Paul Ollivier, Jacques Shelly, André Michaud, Germaine Aussey, Léon Lorin, William Burke
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6306
+title: I Am Trying to Break Your Heart
+year: 2002
+url: https://www.imdb.com/title/tt0327920/
+ratingValue: 
+directors: Sam Jones
+actors: Jeff Tweedy, John Stirratt, Leroy Bach, Glenn Kotche, Jay Bennett, Greg Kot, Tony Margherita, Fred Armisen, Wes Orshoski
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

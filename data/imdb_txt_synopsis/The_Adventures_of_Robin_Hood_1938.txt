@@ -1,0 +1,10 @@
+movieId: 940
+title: The Adventures of Robin Hood
+year: 1938
+url: https://www.imdb.com/title/tt0029843/
+ratingValue: 
+directors: Michael Curtiz, William Keighley
+actors: Errol Flynn, Olivia de Havilland, Basil Rathbone, Claude Rains, Patric Knowles, Eugene Pallette, Alan Hale, Melville Cooper, Ian Hunter, Una O'Connor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

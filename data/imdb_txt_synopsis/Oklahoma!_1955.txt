@@ -1,0 +1,10 @@
+movieId: 7614
+title: Oklahoma!
+year: 1955
+url: https://www.imdb.com/title/tt0048445/
+ratingValue: 
+directors: Fred Zinnemann
+actors: Gordon MacRae, Gloria Grahame, Gene Nelson, Charlotte Greenwood, Shirley Jones, Eddie Albert, James Whitmore, Rod Steiger, Barbara Lawrence, Jay C. Flippen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

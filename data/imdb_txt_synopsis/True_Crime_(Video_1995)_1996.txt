@@ -1,0 +1,10 @@
+movieId: 695
+title: True Crime (Video 1995)
+year: 1996
+url: https://www.imdb.com/title/tt0114736/
+ratingValue: 
+directors: Pat Verducci
+actors: Alicia Silverstone, Kevin Dillon, Bill Nunn, Michael Bowen, Ann Devaney, Joshua Schaefer, Marla Sokoloff, Jennifer Savidge, Tara Subkoff, David Packer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

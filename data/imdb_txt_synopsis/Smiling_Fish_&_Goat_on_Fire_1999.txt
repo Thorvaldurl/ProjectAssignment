@@ -1,0 +1,10 @@
+movieId: 3568
+title: Smiling Fish & Goat on Fire
+year: 1999
+url: https://www.imdb.com/title/tt0162348/
+ratingValue: 
+directors: Kevin Jordan
+actors: Derick Martini, Amy Hathaway, Steven Martini, Heather Moudy, Wesley Thompson, Melba Englander, Bill Henderson, Christa Miller, Miriam Billington, Francesca Billington
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

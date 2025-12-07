@@ -1,0 +1,10 @@
+movieId: 645
+title: Nelly & Monsieur Arnaud
+year: 1995
+url: https://www.imdb.com/title/tt0113947/
+ratingValue: 
+directors: Claude Sautet
+actors: Emmanuelle Béart, Michel Serrault, Jean-Hugues Anglade, Claire Nadeau, Françoise Brion, Michèle Laroque, Michael Lonsdale, Charles Berling, Jean-Pierre Lorit, Michel Albertini
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

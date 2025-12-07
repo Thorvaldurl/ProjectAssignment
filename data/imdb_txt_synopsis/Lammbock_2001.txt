@@ -1,0 +1,10 @@
+movieId: 7843
+title: Lammbock
+year: 2001
+url: https://www.imdb.com/title/tt0258760/
+ratingValue: 
+directors: Christian Zübert
+actors: Lucas Gregorowicz, Moritz Bleibtreu, Marie Zielcke, Julian Weigend, Elmar Wepper, Alexandra Schalaudek, Christof Wackernagel, Antoine Monot, Wotan Wilke Möhring, Nils Brunkhorst
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

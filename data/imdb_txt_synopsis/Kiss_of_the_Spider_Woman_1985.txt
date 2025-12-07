@@ -1,0 +1,10 @@
+movieId: 6786
+title: Kiss of the Spider Woman
+year: 1985
+url: https://www.imdb.com/title/tt0089424/
+ratingValue: 
+directors: Hector Babenco
+actors: William Hurt, Raul Julia, Sonia Braga, José Lewgoy, Milton Gonçalves, Míriam Pires, Nuno Leal Maia, Fernando Torres, Patricio Bisso, Herson Capri
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

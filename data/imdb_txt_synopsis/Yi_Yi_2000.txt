@@ -1,0 +1,10 @@
+movieId: 4334
+title: Yi Yi
+year: 2000
+url: https://www.imdb.com/title/tt0244316/
+ratingValue: 
+directors: Edward Yang
+actors: Nien-Jen Wu, Issei Ogata, Elaine Jin, Kelly Lee, Jonathan Chang, Hsi-Sheng Chen, Su-Yun Ko, Chuan-cheng Tao, Shu-shen Hsiao, Meng-chin 'Adriene' Lin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

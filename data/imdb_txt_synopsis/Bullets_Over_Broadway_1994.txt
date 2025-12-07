@@ -1,0 +1,10 @@
+movieId: 348
+title: Bullets Over Broadway
+year: 1994
+url: https://www.imdb.com/title/tt0109348/
+ratingValue: 
+directors: Woody Allen
+actors: John Cusack, Dianne Wiest, Jennifer Tilly, Chazz Palminteri, Mary-Louise Parker, Jack Warden, Joe Viterelli, Rob Reiner, Tracey Ullman, Jim Broadbent
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

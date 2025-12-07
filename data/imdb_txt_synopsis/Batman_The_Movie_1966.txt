@@ -1,0 +1,10 @@
+movieId: 26152
+title: Batman: The Movie
+year: 1966
+url: https://www.imdb.com/title/tt0060153/
+ratingValue: 
+directors: Leslie H. Martinson
+actors: Adam West, Burt Ward, Lee Meriwether, Cesar Romero, Burgess Meredith, Frank Gorshin, Alan Napier, Neil Hamilton, Stafford Repp, Madge Blake
+
+synopsis:
+This campy Batman film based on the 1960s hit TV series is full of all four of your favorite main villains. The villains team up in a plot to destroy all nine of the world's leaders from a peace summit. Batman and Robin are entangled and nearly destroyed. Bruce Wayne, Batman's alter ego, falls in love with a lady who is purrrfectly sweet. But if looks could kill..... The mayhem begins when the Dynamic Duo sail into the ocean on the Batboat to the yacht of Commodore Schmidlapp, a yacht that proves to be a holographic hoax that leaves Batman caught by a shark filled with explosive that must be defeated with a handy can of Shark Repellent Bat Spray. The four villains - the Joker, the Penguin, the Riddler, and the Catwoman - use the ocean buoy that projected the hoax to lure Batman and Robin into a magnetic torpedo trap, but a powerful reverse polarizer by Batman saves the day for the moment, only to see the batteries run dry - until a school of noble dolphins rescues the Dynamic Duo from the Penguin's underwater torpedoes. The Fearsome Foursome set another trap by kidnapping billionaire Bruce Wayne, a trap that goes awry and leads to a hectic dash by Batman to dispose of a bomb with innocent people all around and Batman left to mutter about how getting rid of a bomb cannot be done on certain days, which leads to yet another super-criminal trap involving the Penguin himself infiltrating the Batcave with dehydrated thugs - whose re-hydration goes wrong and leaves Batman to trick the Penguin into leading them back to his criminal cohorts' scheme at the United World Building, where the super-criminal scheme takes place and a final confrontation on the Penguin's war-surplus submarine ensues. Find out the outcome of this confrontation in this exciting feature-length film! Same Bat-time, same Bat-channel!

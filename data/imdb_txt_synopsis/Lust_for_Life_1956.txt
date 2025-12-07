@@ -1,0 +1,10 @@
+movieId: 8153
+title: Lust for Life
+year: 1956
+url: https://www.imdb.com/title/tt0049456/
+ratingValue: 
+directors: Vincente Minnelli, George Cukor
+actors: Kirk Douglas, Anthony Quinn, James Donald, Pamela Brown, Everett Sloane, Niall MacGinnis, Noel Purcell, Henry Daniell, Madge Kennedy, Jill Bennett
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

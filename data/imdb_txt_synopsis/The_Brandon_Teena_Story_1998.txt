@@ -1,0 +1,10 @@
+movieId: 3281
+title: The Brandon Teena Story
+year: 1998
+url: https://www.imdb.com/title/tt0144801/
+ratingValue: 
+directors: Susan Muska, Gréta Olafsdóttir
+actors: Daphne, Reanna, Gina, Shaun, JoAnn, JoAnne Brandon, Tammy Brandon, John Lotter, Steve Goldsberry
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

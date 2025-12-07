@@ -1,0 +1,10 @@
+movieId: 1791
+title: Twilight
+year: 1998
+url: https://www.imdb.com/title/tt0119594/
+ratingValue: 
+directors: Robert Benton
+actors: Paul Newman, Susan Sarandon, Gene Hackman, Reese Witherspoon, Stockard Channing, James Garner, Giancarlo Esposito, Liev Schreiber, Margo Martindale, John Spencer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

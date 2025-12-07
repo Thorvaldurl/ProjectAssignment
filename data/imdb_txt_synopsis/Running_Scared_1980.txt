@@ -1,0 +1,10 @@
+movieId: 5240
+title: Running Scared
+year: 1980
+url: https://www.imdb.com/title/tt0081445/
+ratingValue: 
+directors: Paul Glickler
+actors: Ken Wahl, Judge Reinhold, Annie McEnroe, Bradford Dillman, John Saxon, Pat Hingle, Lonny Chapman, Tom McFadden, Tim Brantly, Mary Lawson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1839
+title: My Giant
+year: 1998
+url: https://www.imdb.com/title/tt0120765/
+ratingValue: 
+directors: Michael Lehmann
+actors: Billy Crystal, Kathleen Quinlan, Gheorghe Muresan, Joanna Pacula, Zane Carney, Jere Burns, Harold Gould, Dan Castellaneta, Raymond O'Connor, Rider Strong
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

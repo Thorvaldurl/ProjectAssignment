@@ -1,0 +1,10 @@
+movieId: 632
+title: Land and Freedom
+year: 1995
+url: https://www.imdb.com/title/tt0114671/
+ratingValue: 
+directors: Ken Loach
+actors: Ian Hart, Rosana Pastor, Icíar Bollaín, Tom Gilroy, Marc Martínez, Frédéric Pierrot, Andrés Aladren, Sergi Calleja, Raffaele Cantatore
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

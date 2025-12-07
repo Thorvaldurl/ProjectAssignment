@@ -1,0 +1,10 @@
+movieId: 3289
+title: Not One Less
+year: 1999
+url: https://www.imdb.com/title/tt0209189/
+ratingValue: 
+directors: Yimou Zhang
+actors: Minzhi Wei, Huike Zhang, Zhenda Tian, Enman Gao, Zhimei Sun, Yuying Feng, Fanfan Li, Yichang Zhang, Zhanqing Xu
+
+synopsis:
+Set in the People's Republic of China during the 1990s, the film centers on a 13-year-old substitute teacher, Wei Minzhi, in the Chinese countryside. Called in to substitute for a village teacher for one month, Wei is told not to lose any students. When one of the boys takes off in search of work in the big city, she goes looking for him. The film addresses education reform in China, the economic gap between urban and rural populations, and the prevalence of bureaucracy and authority figures in everyday life. It is filmed in a neorealist/documentary style with a troupe of non-professional actors who play characters with the same names and occupations as the actors have in real life, blurring the boundaries between drama and reality. The domestic release of Not One Less was accompanied by a Chinese government campaign aimed at promoting the film and cracking down on piracy. Critical reaction to the film abroad was mixed, with some critics praising its unusual style and apparently critical stance on Chinese education reform, and others decrying it as a pro-government propaganda piece and public service announcement. When it was excluded from the 2000 Cannes Film Festival's highest level of competition, Zhang withdrew it and another film from the festival, and published a letter rebuking Cannes for politicization of and "discrimination" against Chinese cinema. The film went on to win the Venice Film Festival's Golden Lion and several other awards, and Zhang won the award for best director at the Golden Rooster Awards.

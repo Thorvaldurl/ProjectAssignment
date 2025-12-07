@@ -1,0 +1,10 @@
+movieId: 413
+title: Airheads
+year: 1994
+url: https://www.imdb.com/title/tt0109068/
+ratingValue: 
+directors: Michael Lehmann
+actors: Brendan Fraser, Steve Buscemi, Adam Sandler, Chris Farley, Michael McKean, Judd Nelson, Ernie Hudson, Amy Locane, Nina Siemaszko, Marshall Bell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

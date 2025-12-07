@@ -1,0 +1,10 @@
+movieId: 3795
+title: The Five Senses
+year: 1999
+url: https://www.imdb.com/title/tt0168794/
+ratingValue: 
+directors: Jeremy Podeswa
+actors: Molly Parker, Gabrielle Rose, Elize Frances Stolk, Nadia Litz, Mary-Louise Parker, Daniel MacIvor, Philippe Volter, Clinton Walker, Astrid Van Wieren, Brendan Fletcher
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

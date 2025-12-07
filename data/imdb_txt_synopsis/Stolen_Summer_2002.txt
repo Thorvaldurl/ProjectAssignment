@@ -1,0 +1,10 @@
+movieId: 5256
+title: Stolen Summer
+year: 2002
+url: https://www.imdb.com/title/tt0286162/
+ratingValue: 
+directors: Pete Jones
+actors: Aidan Quinn, Bonnie Hunt, Kevin Pollak, Eddie Kaye Thomas, Lisa Dodson, Mike Weinberg, Adi Stein, Brian Dennehy, Peggy Roeder, Martin Hughes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

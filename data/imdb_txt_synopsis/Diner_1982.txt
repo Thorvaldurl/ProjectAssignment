@@ -1,0 +1,10 @@
+movieId: 3543
+title: Diner
+year: 1982
+url: https://www.imdb.com/title/tt0083833/
+ratingValue: 
+directors: Barry Levinson
+actors: Steve Guttenberg, Daniel Stern, Mickey Rourke, Kevin Bacon, Tim Daly, Ellen Barkin, Paul Reiser, Kathryn Dowling, Michael Tucker, Jessica James
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

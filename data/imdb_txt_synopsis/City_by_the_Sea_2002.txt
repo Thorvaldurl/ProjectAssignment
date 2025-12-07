@@ -1,0 +1,10 @@
+movieId: 5563
+title: City by the Sea
+year: 2002
+url: https://www.imdb.com/title/tt0269095/
+ratingValue: 
+directors: Michael Caton-Jones
+actors: Robert De Niro, Frances McDormand, James Franco, Eliza Dushku, William Forsythe, Patti LuPone, Anson Mount, John Doman, Brian Tarantina, Drena De Niro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8587
+title: Mayor of the Sunset Strip
+year: 2003
+url: https://www.imdb.com/title/tt0230512/
+ratingValue: 
+directors: George Hickenlooper
+actors: Rodney Bingenheimer, Exene Cervenka, John Doe, X, Chris P. Carter, Courtney Love, Gwen Stefani, Brooke Shields, Kim Fowley, Brian Wilson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

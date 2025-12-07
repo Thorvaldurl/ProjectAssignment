@@ -1,0 +1,10 @@
+movieId: 3790
+title: Groove
+year: 2000
+url: https://www.imdb.com/title/tt0212974/
+ratingValue: 
+directors: Greg Harrison
+actors: Chris Ferreira, Mackenzie Firgens, Elizabeth Sun, Steve Van Wormer, Dmitri Ponce, Ari Gold, Aaron Langridge, Wendy Turner, Bradley K. Ross
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

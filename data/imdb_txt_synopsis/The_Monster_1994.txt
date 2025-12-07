@@ -1,0 +1,10 @@
+movieId: 2593
+title: The Monster
+year: 1994
+url: https://www.imdb.com/title/tt0110570/
+ratingValue: 
+directors: Roberto Benigni
+actors: Roberto Benigni, Michel Blanc, Nicoletta Braschi, Dominique Lavanant, Jean-Claude Brialy, Laurent Spielvogel, Ivano Marescotti, Franco Mescolini, Massimo Girotti, Luciana Palombi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

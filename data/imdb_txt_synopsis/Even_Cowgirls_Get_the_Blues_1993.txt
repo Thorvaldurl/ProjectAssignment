@@ -1,0 +1,10 @@
+movieId: 444
+title: Even Cowgirls Get the Blues
+year: 1993
+url: https://www.imdb.com/title/tt0106834/
+ratingValue: 
+directors: Gus Van Sant
+actors: Uma Thurman, Lorraine Bracco, Pat Morita, Angie Dickinson, Keanu Reeves, John Hurt, Rain Phoenix, Ed Begley Jr., Carol Kane, Sean Young
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4297
+title: Pelle the Conqueror
+year: 1987
+url: https://www.imdb.com/title/tt0093713/
+ratingValue: 
+directors: Bille August
+actors: Pelle Hvenegaard, Max von Sydow, Erik Paaske, Björn Granath, Astrid Villaume, Axel Strøbye, Troels Asmussen, Kristina Törnqvist, Karen Wegener
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

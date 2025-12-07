@@ -1,0 +1,10 @@
+movieId: 7336
+title: The Damned
+year: 1969
+url: https://www.imdb.com/title/tt0064118/
+ratingValue: 
+directors: Luchino Visconti
+actors: Dirk Bogarde, Ingrid Thulin, Helmut Griem, Helmut Berger, Renaud Verley, Umberto Orsini, Reinhard Kolldehoff, Albrecht Schoenhals, Florinda Bolkan, Nora Ricci
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

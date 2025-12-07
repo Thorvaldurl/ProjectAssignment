@@ -1,0 +1,10 @@
+movieId: 4573
+title: Blaze
+year: 1989
+url: https://www.imdb.com/title/tt0096943/
+ratingValue: 
+directors: Ron Shelton
+actors: Paul Newman, Lolita Davidovich, Jerry Hardin, Gailard Sartain, Jeffrey DeMunn, Garland Bunting, Richard Jenkins, Brandon Smith, Jay Chevalier, Robert Wuhl
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

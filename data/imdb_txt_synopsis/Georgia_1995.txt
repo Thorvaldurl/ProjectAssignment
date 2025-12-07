@@ -1,0 +1,10 @@
+movieId: 55
+title: Georgia
+year: 1995
+url: https://www.imdb.com/title/tt0113158/
+ratingValue: 
+directors: Ulu Grosbard
+actors: Jennifer Jason Leigh, Mare Winningham, Ted Levine, Max Perlich, John Doe, John C. Reilly, Jimmy Witherspoon, Jason Carter, Tom Bower, Smokey Hormel
+
+synopsis:
+This plot synopsis is empty. Add a synopsis

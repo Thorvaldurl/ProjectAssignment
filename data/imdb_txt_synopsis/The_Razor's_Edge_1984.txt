@@ -1,0 +1,10 @@
+movieId: 2928
+title: The Razor's Edge
+year: 1984
+url: https://www.imdb.com/title/tt0087980/
+ratingValue: 
+directors: John Byrum
+actors: Bill Murray, Theresa Russell, Catherine Hicks, Denholm Elliott, James Keach, Peter Vaughan, Brian Doyle-Murray, Stephen Davies, Saeed Jaffrey, Faith Brook
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

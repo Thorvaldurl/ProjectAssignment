@@ -1,0 +1,10 @@
+movieId: 4714
+title: Any Which Way You Can
+year: 1980
+url: https://www.imdb.com/title/tt0080377/
+ratingValue: 
+directors: Buddy Van Horn
+actors: Clint Eastwood, Sondra Locke, Geoffrey Lewis, William Smith, Harry Guardino, Ruth Gordon, Michael Cavanaugh, Barry Corbin, Roy Jenson, Bill McKinney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

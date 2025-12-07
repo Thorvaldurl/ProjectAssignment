@@ -1,0 +1,10 @@
+movieId: 240
+title: Hideaway
+year: 1995
+url: https://www.imdb.com/title/tt0113303/
+ratingValue: 
+directors: Brett Leonard
+actors: Jeff Goldblum, Christine Lahti, Alicia Silverstone, Jeremy Sisto, Alfred Molina, Rae Dawn Chong, Kenneth Welsh, Saraphina Joachim, Shirley Broderick, Tom McBeath
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

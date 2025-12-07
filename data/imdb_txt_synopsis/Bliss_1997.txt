@@ -1,0 +1,10 @@
+movieId: 987
+title: Bliss
+year: 1997
+url: https://www.imdb.com/title/tt0118742/
+ratingValue: 
+directors: Lance Young
+actors: Craig Sheffer, Sheryl Lee, Terence Stamp, Casey Siemaszko, Spalding Gray, Leigh Taylor-Young, Lois Chiles, Blu Mankuma, Ken Camroux-Taylor, Pamela Perry
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

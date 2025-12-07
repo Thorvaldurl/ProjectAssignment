@@ -1,0 +1,10 @@
+movieId: 5539
+title: Care Bears Movie II: A New Generation
+year: 1986
+url: https://www.imdb.com/title/tt0090799/
+ratingValue: 
+directors: Dale Schott
+actors: Hadley Kay, Chris Wiggins, Cree Summer, Alyson Court, Michael Fantini, Sunny Besen Thrasher, Maxine Miller, Pam Hyatt, Dan Hennessey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

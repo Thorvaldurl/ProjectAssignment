@@ -1,0 +1,10 @@
+movieId: 626
+title: A Thin Line Between Love and Hate
+year: 1996
+url: https://www.imdb.com/title/tt0117891/
+ratingValue: 
+directors: Martin Lawrence
+actors: Martin Lawrence, Lynn Whitfield, Regina King, Bobby Brown, Della Reese, Malinda Williams, Daryl Mitchell, Roger E. Mosley, Simbi Kali, Tangie Ambrose
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

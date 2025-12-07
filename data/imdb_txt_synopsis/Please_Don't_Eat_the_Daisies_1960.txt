@@ -1,0 +1,10 @@
+movieId: 8487
+title: Please Don't Eat the Daisies
+year: 1960
+url: https://www.imdb.com/title/tt0054188/
+ratingValue: 
+directors: Charles Walters
+actors: Doris Day, David Niven, Janis Paige, Spring Byington, Richard Haydn, Patsy Kelly, Jack Weston, John Harding, Margaret Lindsay, Carmen Phillips
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

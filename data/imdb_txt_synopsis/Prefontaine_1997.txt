@@ -1,0 +1,10 @@
+movieId: 1442
+title: Prefontaine
+year: 1997
+url: https://www.imdb.com/title/tt0119937/
+ratingValue: 
+directors: Steve James
+actors: Jared Leto, R. Lee Ermey, Ed O'Neill, Breckin Meyer, Lindsay Crouse, Amy Locane, Laurel Holloman, Brian McGovern, Kurtwood Smith, Adrian Amadeus
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

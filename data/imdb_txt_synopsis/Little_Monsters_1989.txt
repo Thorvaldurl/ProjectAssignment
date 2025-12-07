@@ -1,0 +1,11 @@
+movieId: 4619
+title: Little Monsters
+year: 1989
+url: https://www.imdb.com/title/tt0097758/
+ratingValue: 
+directors: Richard Greenberg
+actors: Fred Savage, Howie Mandel, Daniel Stern, Margaret Whitton, Rick Ducommun, Frank Whaley, Ben Savage, William Murray Weiss, Devin Ratray, Amber Barretto
+
+synopsis:
+After moving to a new neighborhood right before starting 6th grade, 11 yr old Brian Arthur Stevenson (FRED SAVAGE - TV's "The Wonder Years") Brian is less than enthused to leave his friends behind in his old neighborhood ! his mother and father and little brother are quite excited for the new start . But it isn't long before Brian meets up with his first real best friend that of all people (or things) turns out to be a monster named Maurice (HOWIE MANDEL - TV's "Bobby's World"), a monster who lives to have fun playing jokes and all the things that a kid can't do under an adult's supervision. After his younger brother 6 yr old Eric Stevenson (BEN SAVAGE) claims he's been having monsters under his bed, Brian trades rooms with him to prove him wrong. But when he does, he's the one who's proven wrong when he finds Maurice snooping around. Together as Maurice shows Brian the time of his life in another world under his bed, they form a strong friendship in ways they never imagined. But they also learn that sooner or later, Brian will have to abandon this dream come true for any kid or risk the nightmare of a lifetime becoming a little monster himself!
+When two evil monsters who rule the monster world named Boy (FRANK WHALEY) and Snik (RICK DUCCOMUN) learn of this, they abduct Eric as insurance to get Brian to cooperate and stay to become one of them. With the help of a few friends: Todd [Eric's best friend] (WILLIAM MURRAY WEISS), Ronnie Coleman (DEVIN RATRAY), Kiersten Deveraux (AMBER BARRETTO) and Maurice, Brian must take matters into his own hands and rescue Eric before sunset 3-5 minutes after 6:19am. But will they make it out alive in time or will their fate leave them doomed to become little monsters forever?

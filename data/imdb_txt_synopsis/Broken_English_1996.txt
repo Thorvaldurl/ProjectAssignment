@@ -1,0 +1,10 @@
+movieId: 1519
+title: Broken English
+year: 1996
+url: https://www.imdb.com/title/tt0115760/
+ratingValue: 
+directors: Gregor Nicholas
+actors: Rade Serbedzija, Aleksandra Vujcic, Julian Arahanga, Marton Csokas, Madeline McNamara, Jing Zhao, Li Yang, Elizabeth Mavric, Temuera Morrison, Michael Langley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

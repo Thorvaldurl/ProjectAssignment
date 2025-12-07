@@ -1,0 +1,10 @@
+movieId: 4243
+title: Brigham City
+year: 2001
+url: https://www.imdb.com/title/tt0268200/
+ratingValue: 
+directors: Richard Dutcher
+actors: Richard Dutcher, Matthew A. Brown, Wilford Brimley, Carrie Morgan, Jongiorgi Enos, Tayva Patch, Jeff Johnson, Wendy Hoop, Sterling Brimley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

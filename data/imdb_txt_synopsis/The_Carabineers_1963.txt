@@ -1,0 +1,10 @@
+movieId: 26095
+title: The Carabineers
+year: 1963
+url: https://www.imdb.com/title/tt0056905/
+ratingValue: 
+directors: Jean-Luc Godard
+actors: Marino Masé, Patrice Moullet, Geneviève Galéa, Catherine Ribeiro, Barbet Schroeder, Jean-Louis Comolli, Gérard Poirot, Jean Brassat, Alvaro Gheri
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

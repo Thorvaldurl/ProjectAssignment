@@ -1,0 +1,10 @@
+movieId: 6296
+title: A Mighty Wind
+year: 2003
+url: https://www.imdb.com/title/tt0310281/
+ratingValue: 
+directors: Christopher Guest
+actors: Jim Moret, Stuart Luce, Mary Gross, Marty Belafsky, Michael S. Baser, Jared Nelson Smith, Ryan Raddatz, Todd Lieberman, Matthew Joy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

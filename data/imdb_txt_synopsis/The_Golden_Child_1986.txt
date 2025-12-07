@@ -1,0 +1,10 @@
+movieId: 2735
+title: The Golden Child
+year: 1986
+url: https://www.imdb.com/title/tt0091129/
+ratingValue: 
+directors: Michael Ritchie
+actors: J.L. Reate, Eddie Murphy, Charles Dance, Charlotte Lewis, Victor Wong, Randall 'Tex' Cobb, James Hong, Shakti Chen, Tau Logo, Tiger Chung Lee
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

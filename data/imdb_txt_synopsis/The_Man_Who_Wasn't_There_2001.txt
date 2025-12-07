@@ -1,0 +1,10 @@
+movieId: 4881
+title: The Man Who Wasn't There
+year: 2001
+url: https://www.imdb.com/title/tt0243133/
+ratingValue: 
+directors: Joel Coen, Ethan Coen
+actors: Billy Bob Thornton, Frances McDormand, Michael Badalucco, James Gandolfini, Katherine Borowitz, Jon Polito, Scarlett Johansson, Richard Jenkins, Tony Shalhoub, Christopher Kriesa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

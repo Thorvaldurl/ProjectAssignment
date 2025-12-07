@@ -1,0 +1,10 @@
+movieId: 351
+title: Corrina, Corrina
+year: 1994
+url: https://www.imdb.com/title/tt0109484/
+ratingValue: 
+directors: Jessie Nelson
+actors: Noreen Hennessey, Lucy Webb, Don Ameche, Tina Majorino, Erica Yohn, Ray Liotta, Larry Miller, Juney Ellis, Mimi Lieber, Karen Leigh Hopkins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

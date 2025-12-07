@@ -1,0 +1,10 @@
+movieId: 2624
+title: After Life
+year: 1998
+url: https://www.imdb.com/title/tt0165078/
+ratingValue: 
+directors: Hirokazu Koreeda
+actors: Arata Iura, Erika Oda, Susumu Terajima, Takashi Naitô, Kyôko Kagawa, Kei Tani, Taketoshi Naitô, Tôru Yuri, Yûsuke Iseya
+
+synopsis:
+Life is truly known only to those who suffer, lose, endure adversity and stumble from defeat to defeat. Anais Nin

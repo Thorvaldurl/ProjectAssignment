@@ -1,0 +1,10 @@
+movieId: 8375
+title: The Hunting of the President
+year: 2004
+url: https://www.imdb.com/title/tt0391225/
+ratingValue: 
+directors: Nickolas Perry, Harry Thomason
+actors: Morgan Freeman, Jonathan Alter, Steve Barnes, Paul Begala, Richard Ben-Veniste, Robert S. Bennett, Carl Bernstein, Sidney Blumenthal, Max Brantley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

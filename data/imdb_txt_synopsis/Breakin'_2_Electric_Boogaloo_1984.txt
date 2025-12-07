@@ -1,0 +1,10 @@
+movieId: 6348
+title: Breakin' 2: Electric Boogaloo
+year: 1984
+url: https://www.imdb.com/title/tt0086999/
+ratingValue: 
+directors: Sam Firstenberg
+actors: Lucinda Dickey, Adolfo Quinones, Michael Chambers, Susie Coelho, Harry Caesar, Jo de Winter, John Christy Ewing, Steve Notario, Sabrina García
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

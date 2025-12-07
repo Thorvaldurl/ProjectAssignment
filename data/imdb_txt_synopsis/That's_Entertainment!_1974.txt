@@ -1,0 +1,10 @@
+movieId: 8998
+title: That's Entertainment!
+year: 1974
+url: https://www.imdb.com/title/tt0072272/
+ratingValue: 
+directors: Jack Haley Jr.
+actors: Fred Astaire, Bing Crosby, Gene Kelly, Peter Lawford, Liza Minnelli, Donald O'Connor, Debbie Reynolds, Mickey Rooney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

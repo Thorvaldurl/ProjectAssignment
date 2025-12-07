@@ -1,0 +1,10 @@
+movieId: 3990
+title: Rugrats in Paris
+year: 2000
+url: https://www.imdb.com/title/tt0213203/
+ratingValue: 
+directors: Stig Bergqvist, Paul Demeyer
+actors: Elizabeth Daily, Tara Strong, Cheryl Chase, Christine Cavanaugh, Cree Summer, Kath Soucie, Michael Bell, Tress MacNeille, Casey Kasem
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

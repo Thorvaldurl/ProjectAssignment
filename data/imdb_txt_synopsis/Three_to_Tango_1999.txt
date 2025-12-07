@@ -1,0 +1,10 @@
+movieId: 2978
+title: Three to Tango
+year: 1999
+url: https://www.imdb.com/title/tt0144640/
+ratingValue: 
+directors: Damon Santostefano
+actors: Matthew Perry, Neve Campbell, Dylan McDermott, Oliver Platt, Cylk Cozart, John C. McGinley, Bob Balaban, Deborah Rush, Kelly Rowan, Rick Gomez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

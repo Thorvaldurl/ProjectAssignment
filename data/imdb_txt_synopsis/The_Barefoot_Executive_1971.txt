@@ -1,0 +1,10 @@
+movieId: 2032
+title: The Barefoot Executive
+year: 1971
+url: https://www.imdb.com/title/tt0066811/
+ratingValue: 
+directors: Robert Butler
+actors: Kurt Russell, Joe Flynn, Harry Morgan, Wally Cox, Heather North, Alan Hewitt, Hayden Rorke, John Ritter, Jack Bender, Tom Anfinsen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

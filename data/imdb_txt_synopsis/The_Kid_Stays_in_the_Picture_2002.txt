@@ -1,0 +1,10 @@
+movieId: 5483
+title: The Kid Stays in the Picture
+year: 2002
+url: https://www.imdb.com/title/tt0303353/
+ratingValue: 
+directors: Nanette Burstein, Brett Morgen
+actors: Robert Evans, Eddie Albert, Peter Bart, Charlie Bluhdorn, William Castle, Francis Ford Coppola, Catherine Deneuve, Charles Evans, Josh Evans
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

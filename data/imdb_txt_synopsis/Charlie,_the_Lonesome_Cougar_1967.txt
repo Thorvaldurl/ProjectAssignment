@@ -1,0 +1,10 @@
+movieId: 3345
+title: Charlie, the Lonesome Cougar
+year: 1967
+url: https://www.imdb.com/title/tt0062793/
+ratingValue: 
+directors: Winston Hibler
+actors: Ron Brown, Brian Russell, Linda Wallace, Jim Wilson, Lewis Sample, Clifford Peterson, Edward C. Moller, Charlie, Rex Allen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

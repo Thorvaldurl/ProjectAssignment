@@ -1,0 +1,10 @@
+movieId: 6818
+title: Come and See
+year: 1985
+url: https://www.imdb.com/title/tt0091251/
+ratingValue: 
+directors: Elem Klimov
+actors: Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius, Vladas Bagdonas, Jüri Lumiste, Viktors Lorencs, Kazimir Rabetsky, Evgeniy Tilicheev, Aleksandr Berda
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

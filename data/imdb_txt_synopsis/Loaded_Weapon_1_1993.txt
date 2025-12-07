@@ -1,0 +1,10 @@
+movieId: 3208
+title: Loaded Weapon 1
+year: 1993
+url: https://www.imdb.com/title/tt0107659/
+ratingValue: 
+directors: Gene Quintano
+actors: Emilio Estevez, Samuel L. Jackson, Jon Lovitz, Tim Curry, Kathy Ireland, Frank McRae, William Shatner, Dhiru Shah, Gokul, Tom Bruggemann
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

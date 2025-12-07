@@ -1,0 +1,10 @@
+movieId: 1476
+title: Private Parts
+year: 1997
+url: https://www.imdb.com/title/tt0119951/
+ratingValue: 
+directors: Betty Thomas
+actors: Howard Stern, Robin Quivers, Mary McCormack, Fred Norris, Paul Giamatti, Gary Dell'Abate, Jackie Martling, Carol Alt, Richard Portnow, Kelly Bishop
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

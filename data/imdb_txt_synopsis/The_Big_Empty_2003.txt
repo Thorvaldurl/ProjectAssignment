@@ -1,0 +1,10 @@
+movieId: 6949
+title: The Big Empty
+year: 2003
+url: https://www.imdb.com/title/tt0321442/
+ratingValue: 
+directors: Steve Anderson
+actors: Jon Favreau, Joey Lauren Adams, Bud Cort, Jon Gries, Daryl Hannah, Adam Beach, Gary Farmer, Rachael Leigh Cook, Brent Briscoe, Melora Walters
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

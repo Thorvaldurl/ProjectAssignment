@@ -1,0 +1,10 @@
+movieId: 7443
+title: This So-Called Disaster
+year: 2003
+url: https://www.imdb.com/title/tt0308488/
+ratingValue: 
+directors: Michael Almereyda
+actors: Sean Penn, Nick Nolte, Cheech Marin, Sheila Tousey, T Bone Burnett, Sam Shepard, James Gammon, Woody Harrelson, Ann Militello, Shona Mitchell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

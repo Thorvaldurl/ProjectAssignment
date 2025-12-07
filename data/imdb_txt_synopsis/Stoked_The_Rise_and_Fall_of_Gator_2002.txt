@@ -1,0 +1,10 @@
+movieId: 6692
+title: Stoked: The Rise and Fall of Gator
+year: 2002
+url: https://www.imdb.com/title/tt0271211/
+ratingValue: 
+directors: Helen Stickler
+actors: Mark 'Gator' Rogowski, Tony Hawk, Jason Jessee, John Brinton Hogan, Steve Olson, Brandi McClain, Stacy Peralta, Lance Mountain, Steve Caballero, John Hogan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

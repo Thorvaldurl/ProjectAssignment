@@ -1,0 +1,10 @@
+movieId: 5590
+title: The Mack
+year: 1973
+url: https://www.imdb.com/title/tt0070350/
+ratingValue: 
+directors: Michael Campus
+actors: Max Julien, Don Gordon, Richard Pryor, Carol Speed, Roger E. Mosley, Dick Anthony Williams, William Watson, George Murdock, Juanita Moore, Paul Harris
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

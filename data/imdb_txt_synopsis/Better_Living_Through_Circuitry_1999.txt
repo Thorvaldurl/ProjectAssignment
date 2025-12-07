@@ -1,0 +1,10 @@
+movieId: 3625
+title: Better Living Through Circuitry
+year: 1999
+url: https://www.imdb.com/title/tt0207998/
+ratingValue: 
+directors: Jon Reiss
+actors: Moby, Lord T. Byron, McGuinnes, Lady Galore, Shai De La Luna, Roni Size, DJ Die, MC Dynamite, Suv
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

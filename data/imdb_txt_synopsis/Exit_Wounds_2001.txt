@@ -1,0 +1,10 @@
+movieId: 4224
+title: Exit Wounds
+year: 2001
+url: https://www.imdb.com/title/tt0242445/
+ratingValue: 
+directors: Andrzej Bartkowiak
+actors: Steven Seagal, DMX, Isaiah Washington, Anthony Anderson, Michael Jai White, Bill Duke, Jill Hennessy, Tom Arnold, Bruce McGill, David Vadim
+
+synopsis:
+A tough cop runs up against fellow cops selling drugs.

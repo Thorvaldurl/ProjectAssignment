@@ -1,0 +1,10 @@
+movieId: 3822
+title: Girl on the Bridge
+year: 1999
+url: https://www.imdb.com/title/tt0144201/
+ratingValue: 
+directors: Patrice Leconte
+actors: Vanessa Paradis, Daniel Auteuil, Frédéric Pfluger, Dimitris Georgalas, Catherine Lascault, Isabelle Petit-Jacques, Mireille Mossé, Didier Lemoine, Bertie Cortez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

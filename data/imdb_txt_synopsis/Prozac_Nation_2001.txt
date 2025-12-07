@@ -1,0 +1,10 @@
+movieId: 6222
+title: Prozac Nation
+year: 2001
+url: https://www.imdb.com/title/tt0236640/
+ratingValue: 
+directors: Erik Skjoldbjærg
+actors: Christina Ricci, Jason Biggs, Anne Heche, Michelle Williams, Jonathan Rhys Meyers, Jessica Lange, Jesse Moss, Nicholas Campbell, Zoe Miller, Sheila Paterson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3497
+title: Max Dugan Returns
+year: 1983
+url: https://www.imdb.com/title/tt0085919/
+ratingValue: 
+directors: Herbert Ross
+actors: Marsha Mason, Jason Robards, Donald Sutherland, Matthew Broderick, Dody Goodman, Sal Viscuso, Panchito Gómez, Charley Lau, Mari Gorman, Brian Part
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

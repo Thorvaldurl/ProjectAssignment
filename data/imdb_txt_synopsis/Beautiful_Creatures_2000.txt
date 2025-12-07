@@ -1,0 +1,10 @@
+movieId: 4242
+title: Beautiful Creatures
+year: 2000
+url: https://www.imdb.com/title/tt0221889/
+ratingValue: 
+directors: Bill Eagles
+actors: Susan Lynch, Iain Glen, Jake D'Arcy, Rachel Weisz, Tom Mannion, Maurice Roëves, Paul Doonan, Robin Laing, Pauline Lynch, John Murtagh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

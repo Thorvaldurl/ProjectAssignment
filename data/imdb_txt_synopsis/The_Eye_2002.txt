@@ -1,0 +1,10 @@
+movieId: 6909
+title: The Eye
+year: 2002
+url: https://www.imdb.com/title/tt0325655/
+ratingValue: 
+directors: Danny Pang, Oxide Chun Pang
+actors: Angelica Lee, Lawrence Chou, Jinda Duangtoy, Yut Lai So, Candy Lo, Edmund Chen, Yin Ping Ko, Wisarup Annuar, Yuet Siu Wong
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

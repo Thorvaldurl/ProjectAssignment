@@ -1,0 +1,10 @@
+movieId: 4280
+title: The World According to Garp
+year: 1982
+url: https://www.imdb.com/title/tt0084917/
+ratingValue: 
+directors: George Roy Hill
+actors: Robin Williams, Mary Beth Hurt, Glenn Close, John Lithgow, Hume Cronyn, Jessica Tandy, Swoosie Kurtz, James McCall, Peter Michael Goetz, George Ede
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

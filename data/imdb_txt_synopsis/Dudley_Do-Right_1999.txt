@@ -1,0 +1,10 @@
+movieId: 2828
+title: Dudley Do-Right
+year: 1999
+url: https://www.imdb.com/title/tt0160236/
+ratingValue: 
+directors: Hugh Wilson
+actors: Brendan Fraser, Sarah Jessica Parker, Alfred Molina, Eric Idle, Robert Prosky, Alex Rocco, Jack Kehler, Louis Mustillo, Don Yesso, Jed Rees
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

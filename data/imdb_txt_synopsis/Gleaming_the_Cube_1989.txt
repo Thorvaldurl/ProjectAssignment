@@ -1,0 +1,10 @@
+movieId: 4597
+title: Gleaming the Cube
+year: 1989
+url: https://www.imdb.com/title/tt0097438/
+ratingValue: 
+directors: Graeme Clifford
+actors: Christian Slater, Steven Bauer, Richard Herd, Le Tuan, Min Luong, Art Chudabala, Ed Lauter, Micole Mercurio, Peter Kwong, Charles Cyphers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 116
+title: Anne Frank Remembered
+year: 1995
+url: https://www.imdb.com/title/tt0112373/
+ratingValue: 
+directors: Jon Blair
+actors: Isa Baschwitz, Mary Bos, Kenneth Branagh, Janny Brandes-Brilslijper, Glenn Close, Rose De Liema, Sal De Liema, Buddy Elias, Bloeme Evers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

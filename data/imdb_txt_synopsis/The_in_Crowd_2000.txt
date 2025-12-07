@@ -1,0 +1,10 @@
+movieId: 3797
+title: The in Crowd
+year: 2000
+url: https://www.imdb.com/title/tt0163676/
+ratingValue: 
+directors: Mary Lambert
+actors: Susan Ward, Lori Heuring, Matthew Settle, Nathan Bexton, Tess Harper, Laurie Fortier, Kim Murphy, Jay R. Ferguson, A.J. Buckley, Katharine Towne
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

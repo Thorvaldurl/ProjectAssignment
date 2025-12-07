@@ -1,0 +1,10 @@
+movieId: 6755
+title: Bubba Ho-Tep
+year: 2002
+url: https://www.imdb.com/title/tt0281686/
+ratingValue: 
+directors: Don Coscarelli
+actors: Bruce Campbell, Ossie Davis, Ella Joyce, Heidi Marnhout, Bob Ivy, Edith Jefferson, Larry Pennell, Reggie Bannister, Daniel Roebuck, Daniel Schweiger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 944
+title: Lost Horizon
+year: 1937
+url: https://www.imdb.com/title/tt0029162/
+ratingValue: 
+directors: Frank Capra
+actors: Ronald Colman, Jane Wyatt, Edward Everett Horton, John Howard, Thomas Mitchell, Margo, Isabel Jewell, H.B. Warner, Sam Jaffe, Norman Ainsley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

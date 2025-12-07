@@ -1,0 +1,10 @@
+movieId: 4284
+title: Frankie and Johnny
+year: 1966
+url: https://www.imdb.com/title/tt0060429/
+ratingValue: 
+directors: Frederick De Cordova
+actors: Elvis Presley, Donna Douglas, Harry Morgan, Sue Ane Langdon, Nancy Kovack, Audrey Christie, Robert Strauss, Anthony Eisley, Joyce Jameson, William 'Billy' Benedict
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

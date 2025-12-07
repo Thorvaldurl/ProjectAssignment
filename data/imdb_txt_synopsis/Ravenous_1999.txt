@@ -1,0 +1,10 @@
+movieId: 2560
+title: Ravenous
+year: 1999
+url: https://www.imdb.com/title/tt0129332/
+ratingValue: 
+directors: Antonia Bird
+actors: Guy Pearce, Robert Carlyle, David Arquette, Jeremy Davies, Jeffrey Jones, John Spencer, Stephen Spinella, Neal McDonough, Joseph Runningfox, Bill Brochtrup
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

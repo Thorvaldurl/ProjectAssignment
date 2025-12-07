@@ -1,0 +1,10 @@
+movieId: 4211
+title: Reversal of Fortune
+year: 1990
+url: https://www.imdb.com/title/tt0100486/
+ratingValue: 
+directors: Barbet Schroeder
+actors: Glenn Close, Jeremy Irons, Ron Silver, Annabella Sciorra, Uta Hagen, Fisher Stevens, Jack Gilpin, Christine Baranski, Stephen Mailer, Christine Dunford
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

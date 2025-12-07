@@ -1,0 +1,10 @@
+movieId: 446
+title: Farewell My Concubine
+year: 1993
+url: https://www.imdb.com/title/tt0106332/
+ratingValue: 
+directors: Kaige Chen
+actors: Leslie Cheung, Fengyi Zhang, Gong Li, You Ge, Da Ying, Qi Lü, Han Lei, Di Tong, Zhi Yin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

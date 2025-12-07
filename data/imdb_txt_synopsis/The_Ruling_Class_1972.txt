@@ -1,0 +1,10 @@
+movieId: 1162
+title: The Ruling Class
+year: 1972
+url: https://www.imdb.com/title/tt0069198/
+ratingValue: 
+directors: Peter Medak
+actors: Hugh Owens, Harry Andrews, Arthur Lowe, William Mervyn, Coral Browne, James Villiers, Alastair Sim, Hugh Burden, Peter O'Toole, Michael Bryant
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

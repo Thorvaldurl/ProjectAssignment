@@ -1,0 +1,10 @@
+movieId: 3078
+title: Liberty Heights
+year: 1999
+url: https://www.imdb.com/title/tt0165859/
+ratingValue: 
+directors: Barry Levinson
+actors: Adrien Brody, Ben Foster, Orlando Jones, Bebe Neuwirth, Joe Mantegna, Rebekah Johnson, David Krumholtz, Richard Kline, Vincent Guastaferro, Justin Chambers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

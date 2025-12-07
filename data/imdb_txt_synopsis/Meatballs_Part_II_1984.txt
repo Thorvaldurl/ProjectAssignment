@@ -1,0 +1,10 @@
+movieId: 3041
+title: Meatballs Part II
+year: 1984
+url: https://www.imdb.com/title/tt0087700/
+ratingValue: 
+directors: Ken Wiederhorn
+actors: Richard Mulligan, Hamilton Camp, John Mengatti, Kim Richards, Archie Hahn, Misty Rowe, Ralph Seymour, Tammy Taylor, John Larroquette, Paul Reubens
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

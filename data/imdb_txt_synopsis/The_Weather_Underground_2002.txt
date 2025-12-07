@@ -1,0 +1,10 @@
+movieId: 8011
+title: The Weather Underground
+year: 2002
+url: https://www.imdb.com/title/tt0343168/
+ratingValue: 
+directors: Sam Green, Bill Siegel
+actors: Lili Taylor, Pamela Z, Jim Lange, Evan White, Bernardine Dohrn, Mark Rudd, Brian Flanagan, David Gilbert, Bill Ayers
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

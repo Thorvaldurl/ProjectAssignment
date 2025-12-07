@@ -1,0 +1,10 @@
+movieId: 5706
+title: ...All the Marbles
+year: 1981
+url: https://www.imdb.com/title/tt0081964/
+ratingValue: 
+directors: Robert Aldrich
+actors: Peter Falk, Vicki Frederick, Laurene Landon, Burt Young, Tracy Reed, Ursaline Bryant, Claudette Nevins, Richard Jaeckel, John Hancock, Lenny Montana
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5849
+title: Ricomincio da tre
+year: 1981
+url: https://www.imdb.com/title/tt0081427/
+ratingValue: 
+directors: Massimo Troisi
+actors: Massimo Troisi, Fiorenza Marchegiani, Lino Troisi, Deddi Savagnone, Vincent Gentile, Laura Nucci, Renato Scarpa, Luciano Crovato, Marco Messeri
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

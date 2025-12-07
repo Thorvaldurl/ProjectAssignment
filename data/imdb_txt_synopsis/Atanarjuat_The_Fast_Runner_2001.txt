@@ -1,0 +1,10 @@
+movieId: 5417
+title: Atanarjuat: The Fast Runner
+year: 2001
+url: https://www.imdb.com/title/tt0285441/
+ratingValue: 
+directors: Zacharias Kunuk
+actors: Natar Ungalaaq, Sylvia Ivalu, Peter-Henry Arnatsiaq, Lucy Tulugarjuk, Madeline Ivalu, Pauloosie Qulitalik, Eugene Ipkarnak, Pakak Innuksuk, Neeve Irngaut
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5358
+title: Mountains of the Moon
+year: 1990
+url: https://www.imdb.com/title/tt0100196/
+ratingValue: 
+directors: Bob Rafelson
+actors: Patrick Bergin, Iain Glen, Richard E. Grant, Fiona Shaw, John Savident, James Villiers, Adrian Rawlins, Peter Vaughan, Delroy Lindo, Bernard Hill
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6551
+title: The Anarchist Cookbook
+year: 2002
+url: https://www.imdb.com/title/tt0284850/
+ratingValue: 
+directors: Jordan Susman
+actors: Devon Gummersall, Dylan Bruno, Gina Philips, Johnny Whitworth, Katharine Towne, Steve Van Wormer, Sandi Schultz, John Savage, Sabine Singh, Amy Greenspun
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 747
+title: The Stupids
+year: 1996
+url: https://www.imdb.com/title/tt0117768/
+ratingValue: 
+directors: John Landis
+actors: Tom Arnold, Jessica Lundy, Bug Hall, Alex McKenna, Mark Metcalf, Matt Keeslar, Scott Kraft, Victor Ertmanis, Earl Williams, George Chiang
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

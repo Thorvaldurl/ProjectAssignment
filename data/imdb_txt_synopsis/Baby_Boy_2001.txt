@@ -1,0 +1,10 @@
+movieId: 4371
+title: Baby Boy
+year: 2001
+url: https://www.imdb.com/title/tt0255819/
+ratingValue: 
+directors: John Singleton
+actors: Tyrese Gibson, Taraji P. Henson, Omar Gooding, Tamara Bass, Candy Ann Brown, A.J. Johnson, Ving Rhames, Snoop Dogg, Angell Conwell, Kareem J. Grimes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

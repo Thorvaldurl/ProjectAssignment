@@ -1,0 +1,10 @@
+movieId: 6948
+title: Tupac: Resurrection
+year: 2003
+url: https://www.imdb.com/title/tt0343121/
+ratingValue: 
+directors: Lauren Lazin
+actors: Tupac Shakur, Rappin' 4-Tay, Conrad Bain, Bill Bellamy, William J. Bennett, Todd Bridges, Pat Buchanan, James Cagney, Helecia Choyce
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

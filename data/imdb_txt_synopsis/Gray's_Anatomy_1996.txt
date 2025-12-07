@@ -1,0 +1,10 @@
+movieId: 4175
+title: Gray's Anatomy
+year: 1996
+url: https://www.imdb.com/title/tt0116447/
+ratingValue: 
+directors: Steven Soderbergh
+actors: Spalding Gray, Mike McLaughlin, Melissa Robertson, Alvin Henry, Alyne Hargroder, Buddy Carr, Gerry Urso, Chris Simms, Tommy Staub
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

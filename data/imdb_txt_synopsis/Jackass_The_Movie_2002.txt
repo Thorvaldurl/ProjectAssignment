@@ -1,0 +1,10 @@
+movieId: 5785
+title: Jackass: The Movie
+year: 2002
+url: https://www.imdb.com/title/tt0322802/
+ratingValue: 
+directors: Jeff Tremaine
+actors: Johnny Knoxville, Bam Margera, Steve-O, Chris Pontius, Ryan Dunn, Jason 'Wee Man' Acuña, Preston Lacy, Dave England, Ehren McGhehey, Brandon DiCamillo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

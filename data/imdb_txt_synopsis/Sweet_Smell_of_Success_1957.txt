@@ -1,0 +1,10 @@
+movieId: 4432
+title: Sweet Smell of Success
+year: 1957
+url: https://www.imdb.com/title/tt0051036/
+ratingValue: 
+directors: Alexander Mackendrick
+actors: Burt Lancaster, Tony Curtis, Susan Harrison, Martin Milner, Jeff Donnell, Sam Levene, Joe Frisco, Barbara Nichols, Emile Meyer, Edith Atwater
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

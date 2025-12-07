@@ -1,0 +1,10 @@
+movieId: 1834
+title: The Spanish Prisoner
+year: 1997
+url: https://www.imdb.com/title/tt0120176/
+ratingValue: 
+directors: David Mamet
+actors: Campbell Scott, Ricky Jay, Rebecca Pidgeon, Richard L. Friedman, Ben Gazzara, Jerry Graff, G. Roy Levin, Hilary Hinckle, David Pittu, Steve Martin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

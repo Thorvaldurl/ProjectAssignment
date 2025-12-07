@@ -1,0 +1,10 @@
+movieId: 63
+title: Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+year: 1996
+url: https://www.imdb.com/title/tt0116126/
+ratingValue: 
+directors: Paris Barclay
+actors: Shawn Wayans, Marlon Wayans, Tracey Cherelle Jones, Chris Spencer, Suli McCullough, Darrel Heath, Helen Martin, Isaiah Barnes, Lahmard J. Tate, Keenen Ivory Wayans
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

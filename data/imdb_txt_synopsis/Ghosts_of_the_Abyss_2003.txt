@@ -1,0 +1,10 @@
+movieId: 6289
+title: Ghosts of the Abyss
+year: 2003
+url: https://www.imdb.com/title/tt0297144/
+ratingValue: 
+directors: James Cameron
+actors: Bill Paxton, John Broadwater, Lori Johnston, Charles Pellegrino, Don Lynch, Ken Marschall, James Cameron, Mike Cameron, Jeffrey N. Ledda
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

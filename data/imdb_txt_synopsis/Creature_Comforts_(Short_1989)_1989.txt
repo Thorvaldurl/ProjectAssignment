@@ -1,0 +1,10 @@
+movieId: 3429
+title: Creature Comforts (Short 1989)
+year: 1989
+url: https://www.imdb.com/title/tt0099317/
+ratingValue: 
+directors: Nick Park
+actors: Julie Sedgewick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

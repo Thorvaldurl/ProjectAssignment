@@ -1,0 +1,10 @@
+movieId: 803
+title: Walking and Talking
+year: 1996
+url: https://www.imdb.com/title/tt0118113/
+ratingValue: 
+directors: Nicole Holofcener
+actors: Amy Braverman, Miranda Rhyne, Catherine Keener, Anne Heche, Randall Batinkoff, Brenda Denmark, Vincent Pastore, Liev Schreiber, Todd Field, Kevin Corrigan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

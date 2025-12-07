@@ -1,0 +1,10 @@
+movieId: 5665
+title: Knockaround Guys
+year: 2001
+url: https://www.imdb.com/title/tt0211465/
+ratingValue: 
+directors: Brian Koppelman, David Levien
+actors: Barry Pepper, Andy Davoli, Seth Green, Vin Diesel, John Malkovich, Arthur J. Nascarella, Tom Noonan, Nicholas Pasco, Shawn Doyle, Kevin Gage
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

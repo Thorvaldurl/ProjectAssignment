@@ -1,0 +1,10 @@
+movieId: 3
+title: Grumpier Old Men
+year: 1995
+url: https://www.imdb.com/title/tt0113228/
+ratingValue: 
+directors: Howard Deutch
+actors: Walter Matthau, Jack Lemmon, Ann-Margret, Sophia Loren, Burgess Meredith, Daryl Hannah, Kevin Pollak, Katie Sagona, Ann Morgan Guilbert, James Andelin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

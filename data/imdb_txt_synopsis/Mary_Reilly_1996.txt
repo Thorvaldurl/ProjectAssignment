@@ -1,0 +1,10 @@
+movieId: 92
+title: Mary Reilly
+year: 1996
+url: https://www.imdb.com/title/tt0117002/
+ratingValue: 
+directors: Stephen Frears
+actors: Julia Roberts, John Malkovich, George Cole, Michael Gambon, Kathy Staff, Glenn Close, Michael Sheen, Bronagh Gallagher, Linda Bassett, Henry Goodman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

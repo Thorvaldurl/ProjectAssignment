@@ -1,0 +1,10 @@
+movieId: 25999
+title: The Wild One
+year: 1953
+url: https://www.imdb.com/title/tt0047677/
+ratingValue: 
+directors: Laslo Benedek
+actors: Marlon Brando, Mary Murphy, Robert Keith, Lee Marvin, Jay C. Flippen, Peggy Maley, Hugh Sanders, Ray Teal, John Brown, Will Wright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 613
+title: Jane Eyre
+year: 1996
+url: https://www.imdb.com/title/tt0116684/
+ratingValue: 
+directors: Franco Zeffirelli
+actors: Anna Paquin, Nic Knight, Nicola Howard, Sasha Graff, Fiona Shaw, John Wood, Geraldine Chaplin, Amanda Root, Leanne Rowe, Charlotte Gainsbourg
+
+synopsis:
+Jane Eyre (portrayed as a child by Anna Paquin and as an adult by Charlotte Gainsbourg) is an independent and strong minded young woman who is hired by Mr. Rochester (William Hurt) to work as a governess. What she does not realize is that she must share the estate (and ultimately Mr. Rochester) with his wife, Bertha (Maria Schneider), who is, by this point in her life, mentally ill and kept locked away in an upstairs attic.

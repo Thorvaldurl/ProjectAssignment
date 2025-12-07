@@ -1,0 +1,10 @@
+movieId: 3626
+title: 8 ½ Women
+year: 1999
+url: https://www.imdb.com/title/tt0154443/
+ratingValue: 
+directors: Peter Greenaway
+actors: John Standing, Matthew Delamere, Vivian Wu, Annie Shizuka Inoh, Barbara Sarafian, Kirina Mano, Toni Collette, Amanda Plummer, Natacha Amal, Manna Fujiwara
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

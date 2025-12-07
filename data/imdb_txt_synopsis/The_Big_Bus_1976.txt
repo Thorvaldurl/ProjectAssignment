@@ -1,0 +1,10 @@
+movieId: 5490
+title: The Big Bus
+year: 1976
+url: https://www.imdb.com/title/tt0074205/
+ratingValue: 
+directors: James Frawley
+actors: Joseph Bologna, Stockard Channing, John Beck, Rene Auberjonois, Ned Beatty, Bob Dishy, José Ferrer, Ruth Gordon, Harold Gould, Larry Hagman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

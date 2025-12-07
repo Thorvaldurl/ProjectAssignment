@@ -1,0 +1,10 @@
+movieId: 25905
+title: The Miracle of Morgan's Creek
+year: 1943
+url: https://www.imdb.com/title/tt0037077/
+ratingValue: 
+directors: Preston Sturges
+actors: Eddie Bracken, Betty Hutton, Diana Lynn, William Demarest, Porter Hall, Emory Parnell, Al Bridge, Julius Tannen, Victor Potel, Brian Donlevy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

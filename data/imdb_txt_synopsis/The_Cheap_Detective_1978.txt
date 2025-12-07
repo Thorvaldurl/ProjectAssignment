@@ -1,0 +1,10 @@
+movieId: 4925
+title: The Cheap Detective
+year: 1978
+url: https://www.imdb.com/title/tt0077321/
+ratingValue: 
+directors: Robert Moore
+actors: Peter Falk, Ann-Margret, Eileen Brennan, Sid Caesar, Stockard Channing, James Coco, Dom DeLuise, Louise Fletcher, John Houseman, Madeline Kahn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

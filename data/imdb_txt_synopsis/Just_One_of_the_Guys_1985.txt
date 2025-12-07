@@ -1,0 +1,10 @@
+movieId: 7340
+title: Just One of the Guys
+year: 1985
+url: https://www.imdb.com/title/tt0089393/
+ratingValue: 
+directors: Lisa Gottlieb
+actors: Joyce Hyser, Clayton Rohner, Billy Jayne, Toni Hudson, William Zabka, Leigh McCloskey, Sherilyn Fenn, Deborah Goodrich, Arye Gross, Robert Fieldsteel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

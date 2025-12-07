@@ -1,0 +1,10 @@
+movieId: 8738
+title: A Woman Is a Woman
+year: 1961
+url: https://www.imdb.com/title/tt0055572/
+ratingValue: 
+directors: Jean-Luc Godard
+actors: Jean-Claude Brialy, Anna Karina, Jean-Paul Belmondo, Henri Attal, Karyn Balm, Dorothée Blanck, Catherine Demongeot, Marie Dubois, Ernest Menzer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

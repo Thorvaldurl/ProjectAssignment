@@ -1,0 +1,10 @@
+movieId: 3680
+title: The Decline of Western Civilization Part II: The Metal Years
+year: 1988
+url: https://www.imdb.com/title/tt0094980/
+ratingValue: 
+directors: Penelope Spheeris
+actors: Steven Tyler, Joe Perry, Alice Cooper, Gene Simmons, Paul Stanley, Lemmy, Ozzy Osbourne, Bobby Dall, C.C. DeVille, Bret Michaels
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

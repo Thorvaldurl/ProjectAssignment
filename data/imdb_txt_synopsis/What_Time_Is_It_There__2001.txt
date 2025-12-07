@@ -1,0 +1,10 @@
+movieId: 5028
+title: What Time Is It There?
+year: 2001
+url: https://www.imdb.com/title/tt0269746/
+ratingValue: 
+directors: Tsai Ming-liang
+actors: Kang-sheng Lee, Shiang-chyi Chen, Yi-ching Lu, Miao Tien, Liao Ching-Kuo, Chao-yi Tsai, Chen Hsi-Fei, Quail Youth-Leigh, Kuo-Cheng Huang
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

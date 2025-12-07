@@ -1,0 +1,10 @@
+movieId: 2354
+title: The Rugrats Movie
+year: 1998
+url: https://www.imdb.com/title/tt0134067/
+ratingValue: 
+directors: Igor Kovalyov, Norton Virgien
+actors: Elizabeth Daily, Christine Cavanaugh, Kath Soucie, Melanie Chartoff, Phil Proctor, Cree Summer, Mary Gross, Kevin McBride, Andrea Martin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

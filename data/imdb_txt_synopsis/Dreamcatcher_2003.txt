@@ -1,0 +1,10 @@
+movieId: 6250
+title: Dreamcatcher
+year: 2003
+url: https://www.imdb.com/title/tt0285531/
+ratingValue: 
+directors: Lawrence Kasdan
+actors: Morgan Freeman, Thomas Jane, Jason Lee, Damian Lewis, Timothy Olyphant, Tom Sizemore, Donnie Wahlberg, Mikey Holekamp, Reece Thompson, Giacomo Baessato
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

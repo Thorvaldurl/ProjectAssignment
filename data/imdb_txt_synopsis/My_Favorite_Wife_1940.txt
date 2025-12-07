@@ -1,0 +1,10 @@
+movieId: 8712
+title: My Favorite Wife
+year: 1940
+url: https://www.imdb.com/title/tt0029284/
+ratingValue: 
+directors: Garson Kanin
+actors: Irene Dunne, Cary Grant, Randolph Scott, Gail Patrick, Ann Shoemaker, Scotty Beckett, Mary Lou Harrington, Donald MacBride, Hugh O'Connell, Granville Bates
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

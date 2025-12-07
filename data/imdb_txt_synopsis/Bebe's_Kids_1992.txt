@@ -1,0 +1,10 @@
+movieId: 8934
+title: Bebe's Kids
+year: 1992
+url: https://www.imdb.com/title/tt0103783/
+ratingValue: 
+directors: Bruce W. Smith
+actors: Robin Harris, Faizon Love, Vanessa Bell Calloway, Wayne Collins, Jonell Green, Marques Houston, Tone Loc, Myra J., Nell Carter
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

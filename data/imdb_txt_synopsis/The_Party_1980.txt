@@ -1,0 +1,10 @@
+movieId: 4828
+title: The Party
+year: 1980
+url: https://www.imdb.com/title/tt0082100/
+ratingValue: 
+directors: Claude Pinoteau
+actors: Claude Brasseur, Brigitte Fossey, Sophie Marceau, Denise Grey, Jean-Michel Dupuis, Dominique Lavanant, Bernard Giraudeau, Jacques Ardouin, Diane Bellego, Richard Bohringer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

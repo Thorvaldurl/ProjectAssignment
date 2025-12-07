@@ -1,0 +1,10 @@
+movieId: 417
+title: Barcelona
+year: 1994
+url: https://www.imdb.com/title/tt0109219/
+ratingValue: 
+directors: Whit Stillman
+actors: Taylor Nichols, Chris Eigeman, Tushka Bergen, Mira Sorvino, Pep Munné, Hellena Taylor, Núria Badia, Thomas Gibson, Jack Gilpin, Pere Ponce
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

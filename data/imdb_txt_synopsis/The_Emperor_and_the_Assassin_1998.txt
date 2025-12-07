@@ -1,0 +1,10 @@
+movieId: 3158
+title: The Emperor and the Assassin
+year: 1998
+url: https://www.imdb.com/title/tt0162866/
+ratingValue: 
+directors: Kaige Chen
+actors: Gong Li, Fengyi Zhang, Zhou Sun, Xiaohe Lü, Zhiwen Wang, Kaige Chen, Yongfei Gu, Benshan Zhao, Haifeng Ding, Changjiang Pan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

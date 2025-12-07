@@ -1,0 +1,10 @@
+movieId: 6370
+title: The Spanish Apartment
+year: 2002
+url: https://www.imdb.com/title/tt0283900/
+ratingValue: 
+directors: Cédric Klapisch
+actors: Romain Duris, Judith Godrèche, Audrey Tautou, Cécile de France, Kelly Reilly, Cristina Brondo, Federico D'Anna, Barnaby Metschurat, Christian Pagh, Kevin Bishop
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

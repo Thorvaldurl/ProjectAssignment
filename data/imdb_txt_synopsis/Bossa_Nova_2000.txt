@@ -1,0 +1,10 @@
+movieId: 3567
+title: Bossa Nova
+year: 2000
+url: https://www.imdb.com/title/tt0180837/
+ratingValue: 
+directors: Bruno Barreto
+actors: Amy Irving, Antônio Fagundes, Alexandre Borges, Débora Bloch, Drica Moraes, Giovanna Antonelli, Rogério Cardoso, Serjão Loroza, Flávio São Thiago, Alberto de Mendoza
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

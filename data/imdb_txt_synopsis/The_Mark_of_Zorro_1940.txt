@@ -1,0 +1,10 @@
+movieId: 941
+title: The Mark of Zorro
+year: 1940
+url: https://www.imdb.com/title/tt0032762/
+ratingValue: 
+directors: Rouben Mamoulian
+actors: Tyrone Power, Linda Darnell, Basil Rathbone, Gale Sondergaard, Eugene Pallette, J. Edward Bromberg, Montagu Love, Janet Beecher, George Regas, Chris-Pin Martin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

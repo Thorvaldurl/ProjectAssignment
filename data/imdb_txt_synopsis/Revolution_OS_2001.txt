@@ -1,0 +1,10 @@
+movieId: 6679
+title: Revolution OS
+year: 2001
+url: https://www.imdb.com/title/tt0308808/
+ratingValue: 
+directors: J.T.S. Moore
+actors: Linus Torvalds, Richard Stallman, Eric Raymond, Bruce Perens, Larry Augustin, Michael Tiemann, Brian Behlendorf, Frank Hecker, Chris DiBona
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

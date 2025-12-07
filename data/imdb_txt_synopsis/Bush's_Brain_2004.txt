@@ -1,0 +1,10 @@
+movieId: 8987
+title: Bush's Brain
+year: 2004
+url: https://www.imdb.com/title/tt0403910/
+ratingValue: 
+directors: Joseph Mealey, Michael Shoob
+actors: Cathy Bonner, Bruce Buchanan, Max Cleland, Shirley Cuff, Robert Edgeworth, Kent Hance, Bill Israel, Molly Ivins, Richard Leiby
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

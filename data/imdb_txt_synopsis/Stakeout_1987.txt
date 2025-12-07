@@ -1,0 +1,10 @@
+movieId: 5553
+title: Stakeout
+year: 1987
+url: https://www.imdb.com/title/tt0094025/
+ratingValue: 
+directors: John Badham
+actors: Richard Dreyfuss, Emilio Estevez, Madeleine Stowe, Aidan Quinn, Dan Lauria, Forest Whitaker, Ian Tracey, Earl Billings, Jackson Davies, J.J. Makaro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6493
+title: Alex & Emma
+year: 2003
+url: https://www.imdb.com/title/tt0318283/
+ratingValue: 
+directors: Rob Reiner
+actors: Luke Wilson, Derek Barbosa, Lobo Sebastian, Rob Reiner, Kate Hudson, Paul Willson, David Paymer, Sophie Marceau, Alexander Wauthier
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 26171
+title: Playtime
+year: 1967
+url: https://www.imdb.com/title/tt0062136/
+ratingValue: 
+directors: Jacques Tati
+actors: Jacques Tati, Barbara Dennek, Rita Maiden, France Rumilly, France Delahalle, Valérie Camille, Erika Dentzler, Nicole Ray, Yvette Ducreux
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

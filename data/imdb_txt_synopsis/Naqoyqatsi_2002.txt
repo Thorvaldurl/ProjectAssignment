@@ -1,0 +1,10 @@
+movieId: 5684
+title: Naqoyqatsi
+year: 2002
+url: https://www.imdb.com/title/tt0145937/
+ratingValue: 
+directors: Godfrey Reggio
+actors: Belladonna, Marlon Brando, Elton John, Julia Louis-Dreyfus, Madonna, Bhagwan Mirchandani, Jack Shamblin, Steven Soderbergh, Troy Aikman, The Beatles
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4091
+title: Can't Buy Me Love
+year: 1987
+url: https://www.imdb.com/title/tt0092718/
+ratingValue: 
+directors: Steve Rash
+actors: Patrick Dempsey, Amanda Peterson, Courtney Gains, Tina Caspary, Seth Green, Sharon Farrell, Darcy DeMoss, Dennis Dugan, Cloyce Morrow, Devin DeVasquez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

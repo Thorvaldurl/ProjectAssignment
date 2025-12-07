@@ -1,0 +1,10 @@
+movieId: 2929
+title: Reds
+year: 1981
+url: https://www.imdb.com/title/tt0082979/
+ratingValue: 
+directors: Warren Beatty
+actors: Warren Beatty, Diane Keaton, Edward Herrmann, Jerzy Kosinski, Jack Nicholson, Paul Sorvino, Maureen Stapleton, Nicolas Coster, M. Emmet Walsh, Ian Wolfe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

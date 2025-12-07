@@ -1,0 +1,10 @@
+movieId: 3857
+title: Bless the Child
+year: 2000
+url: https://www.imdb.com/title/tt0163983/
+ratingValue: 
+directors: Chuck Russell
+actors: Kim Basinger, Jimmy Smits, Holliston Coleman, Rufus Sewell, Angela Bettis, Christina Ricci, Michael Gaston, Lumi Cavazos, Dimitra Arliss, Eugene Lipinski
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

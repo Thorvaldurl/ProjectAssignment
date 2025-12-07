@@ -1,0 +1,10 @@
+movieId: 766
+title: I Shot Andy Warhol
+year: 1996
+url: https://www.imdb.com/title/tt0116594/
+ratingValue: 
+directors: Mary Harron
+actors: Lili Taylor, Jared Harris, Martha Plimpton, Lothaire Bluteau, Anna Thomson, Peter Friedman, Tahnee Welch, Jamie Harrold, Donovan Leitch Jr., Michael Imperioli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

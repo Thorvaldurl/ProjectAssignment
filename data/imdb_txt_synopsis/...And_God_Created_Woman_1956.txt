@@ -1,0 +1,10 @@
+movieId: 3845
+title: ...And God Created Woman
+year: 1956
+url: https://www.imdb.com/title/tt0049189/
+ratingValue: 
+directors: Roger Vadim
+actors: Brigitte Bardot, Curd Jürgens, Jean-Louis Trintignant, Jane Marken, Jean Tissier, Isabelle Corey, Jacqueline Ventura, Jacques Ciron, Paul Faivre, Jany Mourey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7079
+title: The Hunchback of Notre Dame
+year: 1939
+url: https://www.imdb.com/title/tt0031455/
+ratingValue: 
+directors: William Dieterle
+actors: Charles Laughton, Cedric Hardwicke, Thomas Mitchell, Maureen O'Hara, Edmond O'Brien, Alan Marshal, Walter Hampden, Harry Davenport, Katharine Alexander, George Zucco
+
+synopsis:
+Ignorance, cruelty and superstition pervade France of the fifteenth century. Frollo, the King's high justice, exploits these evils, persecuting the gypsies and opposing any mode of progress. When the lovely gypsy dancer Esmeralda is threatened by the King's men, she seeks refuge in a church, Notre Dame, where she meets the grotesque hunchback Quasimodo. Frollo, who is Quasimodo's guardian, orders the hunchback to take the girl captive, and Esmeralda, terrified, escapes to the underworld of Clopin and his beggars. There, she saves the life of the poet Gringoire by consenting to take him as her husband, although she truly loves the soldier Phoebus. Frollo lusts after Esmeralda, however, and, unable to tolerate her love for Phoebus, kills his rival. Esmeralda is arrested for the crime, and Frollo, claiming that the girl had bewitched him with the power of Satan, demands her life. As Esmeralda is marched to die on the gallows, Quasimodo leaps from the building above and carries her to the sanctuary of the church. Not to be denied Esmeralda's life, Frollo incites the nobles to deny sanctuary, and the beggars, concerned for the girl's safety, storm the church. Amid the chaos, Frollo enters the church. Justice is finally served as Quasimodo hurls Frollo to his death from the bell tower.

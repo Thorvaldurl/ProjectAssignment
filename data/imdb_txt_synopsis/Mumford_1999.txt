@@ -1,0 +1,10 @@
+movieId: 2883
+title: Mumford
+year: 1999
+url: https://www.imdb.com/title/tt0140397/
+ratingValue: 
+directors: Lawrence Kasdan
+actors: Loren Dean, Hope Davis, Jason Lee, Alfre Woodard, Mary McDonnell, Pruitt Taylor Vince, Zooey Deschanel, Martin Short, David Paymer, Jane Adams
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

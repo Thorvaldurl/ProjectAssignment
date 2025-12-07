@@ -1,0 +1,10 @@
+movieId: 3914
+title: The Broken Hearts Club: A Romantic Comedy
+year: 2000
+url: https://www.imdb.com/title/tt0222850/
+ratingValue: 
+directors: Greg Berlanti
+actors: Ben Weber, Timothy Olyphant, Matt McGrath, Zach Braff, Nora Burns, Dean Cain, Chris Payne Gilbert, John Brandon, Diane McBain, Robert Peters
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3109
+title: The River
+year: 1984
+url: https://www.imdb.com/title/tt0088007/
+ratingValue: 
+directors: Mark Rydell
+actors: Mel Gibson, Sissy Spacek, Shane Bailey, Becky Jo Lynch, Scott Glenn, Don Hood, Billy Green Bush, James Tolkan, Bob W. Douglas, Andy Stahl
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

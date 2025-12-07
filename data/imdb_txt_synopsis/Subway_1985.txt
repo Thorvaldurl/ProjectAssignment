@@ -1,0 +1,10 @@
+movieId: 4919
+title: Subway
+year: 1985
+url: https://www.imdb.com/title/tt0090095/
+ratingValue: 
+directors: Luc Besson
+actors: Isabelle Adjani, Christopher Lambert, Richard Bohringer, Michel Galabru, Jean-Hugues Anglade, Jean Bouise, Jean-Pierre Bacri, Jean-Claude Lecas, Pierre-Ange Le Pogam, Jean Reno
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

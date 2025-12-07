@@ -1,0 +1,10 @@
+movieId: 391
+title: Jason's Lyric
+year: 1994
+url: https://www.imdb.com/title/tt0110186/
+ratingValue: 
+directors: Doug McHenry
+actors: Allen Payne, Jada Pinkett Smith, Bokeem Woodbine, Anthony 'Treach' Criss, Eddie Griffin, Suzzanne Douglas, Lisa Nicole Carson, Lahmard J. Tate, Forest Whitaker, Asheamu Earl Randle
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

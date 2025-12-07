@@ -1,0 +1,10 @@
+movieId: 8507
+title: Freaks
+year: 1932
+url: https://www.imdb.com/title/tt0022913/
+ratingValue: 
+directors: Tod Browning
+actors: Wallace Ford, Leila Hyams, Olga Baclanova, Roscoe Ates, Henry Victor, Harry Earles, Daisy Earles, Rose Dione, Daisy Hilton, Violet Hilton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

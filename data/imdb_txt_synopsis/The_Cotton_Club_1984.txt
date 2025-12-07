@@ -1,0 +1,10 @@
+movieId: 4690
+title: The Cotton Club
+year: 1984
+url: https://www.imdb.com/title/tt0087089/
+ratingValue: 
+directors: Francis Ford Coppola
+actors: Richard Gere, Gregory Hines, Diane Lane, Lonette McKee, Bob Hoskins, James Remar, Nicolas Cage, Allen Garfield, Fred Gwynne, Gwen Verdon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

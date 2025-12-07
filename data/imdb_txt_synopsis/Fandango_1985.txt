@@ -1,0 +1,10 @@
+movieId: 2073
+title: Fandango
+year: 1985
+url: https://www.imdb.com/title/tt0089126/
+ratingValue: 
+directors: Kevin Reynolds
+actors: Kevin Costner, Judd Nelson, Sam Robards, Chuck Bush, Brian Cesak, Marvin J. McIntyre, Suzy Amis, Glenne Headly, Pepe Serna, Elizabeth Daily
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

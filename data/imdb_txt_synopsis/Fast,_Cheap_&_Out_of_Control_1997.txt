@@ -1,0 +1,10 @@
+movieId: 1649
+title: Fast, Cheap & Out of Control
+year: 1997
+url: https://www.imdb.com/title/tt0119107/
+ratingValue: 
+directors: Errol Morris
+actors: Dave Hoover, George Mendonça, Raymond A. Mendez, Rodney Brooks
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 25946
+title: The Three Musketeers
+year: 1948
+url: https://www.imdb.com/title/tt0040876/
+ratingValue: 
+directors: George Sidney
+actors: Lana Turner, Gene Kelly, June Allyson, Van Heflin, Angela Lansbury, Frank Morgan, Vincent Price, Keenan Wynn, John Sutton, Gig Young
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

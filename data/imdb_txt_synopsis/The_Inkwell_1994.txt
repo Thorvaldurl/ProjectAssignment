@@ -1,0 +1,10 @@
+movieId: 476
+title: The Inkwell
+year: 1994
+url: https://www.imdb.com/title/tt0110137/
+ratingValue: 
+directors: Matty Rich
+actors: Larenz Tate, Joe Morton, Suzzanne Douglas, Glynn Turman, Vanessa Bell Calloway, A.J. Johnson, Morris Chestnut, Jada Pinkett Smith, Duane Martin, Mary Alice
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

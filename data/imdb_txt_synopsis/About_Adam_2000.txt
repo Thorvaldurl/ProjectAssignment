@@ -1,0 +1,10 @@
+movieId: 3862
+title: About Adam
+year: 2000
+url: https://www.imdb.com/title/tt0199314/
+ratingValue: 
+directors: Gerard Stembridge
+actors: Tommy Tiernan, Kate Hudson, Frances O'Connor, Stewart Roche, Aoife Maloney, Donal Beecher, Stuart Townsend, Rosaleen Linehan, Charlotte Bradley, Alan Maher
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

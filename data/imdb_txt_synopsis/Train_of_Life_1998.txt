@@ -1,0 +1,10 @@
+movieId: 3003
+title: Train of Life
+year: 1998
+url: https://www.imdb.com/title/tt0170705/
+ratingValue: 
+directors: Radu Mihaileanu
+actors: Lionel Abelanski, Rufus, Clément Harari, Michel Muller, Agathe de La Fontaine, Johan Leysen, Bruno Abraham-Kremer, Marie-José Nat, Gad Elmaleh, Serge Kribus
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

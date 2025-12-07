@@ -1,0 +1,10 @@
+movieId: 4256
+title: The Center of the World
+year: 2001
+url: https://www.imdb.com/title/tt0240402/
+ratingValue: 
+directors: Wayne Wang
+actors: Shane Edelman, Peter Sarsgaard, Molly Parker, Maryjane Green, Alisha Klass, Mel Gorham, Lisa Newlan, Jason McCabe, Travis Miljan, Jerry Sherman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

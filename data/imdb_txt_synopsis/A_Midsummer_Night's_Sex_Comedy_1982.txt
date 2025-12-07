@@ -1,0 +1,10 @@
+movieId: 6100
+title: A Midsummer Night's Sex Comedy
+year: 1982
+url: https://www.imdb.com/title/tt0084329/
+ratingValue: 
+directors: Woody Allen
+actors: Woody Allen, Mia Farrow, José Ferrer, Julie Hagerty, Tony Roberts, Mary Steenburgen, Adam Redfield, Moishe Rosenfeld, Timothy Jenkins, Michael Higgins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

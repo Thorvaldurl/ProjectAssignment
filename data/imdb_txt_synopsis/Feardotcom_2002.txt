@@ -1,0 +1,10 @@
+movieId: 5556
+title: Feardotcom
+year: 2002
+url: https://www.imdb.com/title/tt0295254/
+ratingValue: 
+directors: William Malone
+actors: Stephen Dorff, Natascha McElhone, Stephen Rea, Udo Kier, Amelia Curtis, Jeffrey Combs, Nigel Terry, Gesine Cukrowski, Michael Sarrazin, Jana Güttgemanns
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

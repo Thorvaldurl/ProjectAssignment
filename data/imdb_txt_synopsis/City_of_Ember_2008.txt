@@ -1,0 +1,9 @@
+movieId: 62376
+title: City of Ember
+year: 2008
+url: https://www.imdb.com/title/tt0970411/
+ratingValue: 
+directors: Gil Kenan
+actors: Saoirse Ronan, David Ryall, Harry Treadaway, Bill Murray, Mary Kay Place, Tim Robbins, Mackenzie Crook, Toby Jones, Matt Ayleigh, Liam Burke
+
+synopsis:

@@ -1,0 +1,10 @@
+movieId: 1686
+title: Red Corner
+year: 1997
+url: https://www.imdb.com/title/tt0119994/
+ratingValue: 
+directors: Jon Avnet
+actors: Richard Gere, Bai Ling, Bradley Whitford, Byron Mann, Peter Donat, Robert Stanton, Tsai Chin, James Hong, Tzi Ma, Ulrich Matschoss
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

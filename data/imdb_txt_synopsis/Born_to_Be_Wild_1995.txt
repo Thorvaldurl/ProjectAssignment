@@ -1,0 +1,10 @@
+movieId: 6557
+title: Born to Be Wild
+year: 1995
+url: https://www.imdb.com/title/tt0113533/
+ratingValue: 
+directors: John Gray
+actors: Wil Horneff, Jean Marie Barnwell, Helen Shaver, John C. McGinley, Marvin J. McIntyre, Peter Boyle, Gregory Itzin, Titus Welliver, Tom Wilson, Alan Ruck
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

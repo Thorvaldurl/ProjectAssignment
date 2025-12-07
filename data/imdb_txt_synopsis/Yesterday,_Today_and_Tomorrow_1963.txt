@@ -1,0 +1,10 @@
+movieId: 8748
+title: Yesterday, Today and Tomorrow
+year: 1963
+url: https://www.imdb.com/title/tt0057171/
+ratingValue: 
+directors: Vittorio De Sica
+actors: Sophia Loren, Marcello Mastroianni, Aldo Giuffrè, Agostino Salvietti, Lino Mattera, Tecla Scarano, Silvia Monelli, Carlo Croccolo, Pasquale Cennamo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 213
+title: Burnt by the Sun
+year: 1994
+url: https://www.imdb.com/title/tt0111579/
+ratingValue: 
+directors: Nikita Mikhalkov
+actors: Oleg Menshikov, Nikita Mikhalkov, Ingeborga Dapkunaite, Nadezhda Mikhalkova, Vyacheslav Tikhonov, Svetlana Kryuchkova, Vladimir Ilin, Alla Kazanskaya, Nina Arkhipova, Avangard Leontev
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

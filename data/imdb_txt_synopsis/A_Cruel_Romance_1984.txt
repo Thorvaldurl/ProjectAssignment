@@ -1,0 +1,10 @@
+movieId: 5889
+title: A Cruel Romance
+year: 1984
+url: https://www.imdb.com/title/tt0090368/
+ratingValue: 
+directors: Eldar Ryazanov
+actors: Alisa Freyndlikh, Larisa Guzeeva, Nikita Mikhalkov, Andrey Myagkov, Aleksey Petrenko, Viktor Proskurin, Georgiy Burkov, Tatyana Pankova, Boryslav Brondukov, Aleksandr Pyatkov
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

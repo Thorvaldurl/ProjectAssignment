@@ -1,0 +1,10 @@
+movieId: 5155
+title: The Big Bird Cage
+year: 1972
+url: https://www.imdb.com/title/tt0068273/
+ratingValue: 
+directors: Jack Hill
+actors: Pam Grier, Anitra Ford, Candice Roman, Teda Bracci, Carol Speed, Karen McKevic, Sid Haig, Marissa Delgado, Vic Diaz, Andres Centenera
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

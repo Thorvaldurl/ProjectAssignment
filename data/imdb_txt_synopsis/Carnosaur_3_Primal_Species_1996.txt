@@ -1,0 +1,10 @@
+movieId: 3574
+title: Carnosaur 3: Primal Species
+year: 1996
+url: https://www.imdb.com/title/tt0115834/
+ratingValue: 
+directors: Jonathan Winfrey
+actors: Rob Camilletti, Stephen Lee, Cyril O'Reilly, Scott Valentine, Rodger Halston, Terri J. Vaughn, Billy Burnette, Rick Dean, Jason Brawley, Jonathan Winfrey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

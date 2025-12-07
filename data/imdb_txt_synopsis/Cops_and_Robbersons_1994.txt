@@ -1,0 +1,10 @@
+movieId: 437
+title: Cops and Robbersons
+year: 1994
+url: https://www.imdb.com/title/tt0109480/
+ratingValue: 
+directors: Michael Ritchie
+actors: Chevy Chase, Jack Palance, Dianne Wiest, Robert Davi, David Barry Gray, Jason James Richter, Fay Masterson, Miko Hughes, Richard Romanus, Sal Landi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

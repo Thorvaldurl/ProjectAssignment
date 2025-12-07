@@ -1,0 +1,10 @@
+movieId: 6464
+title: Good Burger
+year: 1997
+url: https://www.imdb.com/title/tt0119215/
+ratingValue: 
+directors: Brian Robbins
+actors: Kel Mitchell, Kenan Thompson, Sinbad, Abe Vigoda, Shar Jackson, Dan Schneider, Jan Schwieterman, Ron Lester, Josh Server, Ginny Schreiber
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

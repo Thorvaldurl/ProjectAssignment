@@ -1,0 +1,10 @@
+movieId: 5735
+title: Faces of Death
+year: 1978
+url: https://www.imdb.com/title/tt0077533/
+ratingValue: 
+directors: John Alan Schwartz
+actors: Michael Carr, Samuel Berkowitz, Mary Ellen Brighton, Thomas Noguchi, Adolf Hitler, Benito Mussolini, John Alan Schwartz, Vern Stierman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

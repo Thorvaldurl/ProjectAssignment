@@ -1,0 +1,10 @@
+movieId: 6970
+title: Desk Set
+year: 1957
+url: https://www.imdb.com/title/tt0050307/
+ratingValue: 
+directors: Walter Lang
+actors: Spencer Tracy, Katharine Hepburn, Gig Young, Joan Blondell, Dina Merrill, Sue Randall, Neva Patterson, Harry Ellerbe, Nicholas Joy, Diane Jergens
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

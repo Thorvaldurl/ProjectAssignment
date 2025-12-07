@@ -1,0 +1,10 @@
+movieId: 4612
+title: Jesus of Montreal
+year: 1989
+url: https://www.imdb.com/title/tt0097635/
+ratingValue: 
+directors: Denys Arcand
+actors: Lothaire Bluteau, Catherine Wilkening, Johanne-Marie Tremblay, Rémy Girard, Robert Lepage, Gilles Pelletier, Yves Jacques, Cédric Noël, Pauline Martin, Véronique Le Flaguais
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

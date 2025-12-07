@@ -1,0 +1,10 @@
+movieId: 5361
+title: White Fang
+year: 1991
+url: https://www.imdb.com/title/tt0103247/
+ratingValue: 
+directors: Randal Kleiser
+actors: Jed, Klaus Maria Brandauer, Ethan Hawke, Seymour Cassel, Susan Hogan, James Remar, Bill Moseley, Clint Youngreen, Pius Savage, Aaron Hotch
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

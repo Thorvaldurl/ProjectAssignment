@@ -1,0 +1,10 @@
+movieId: 320
+title: Suture
+year: 1993
+url: https://www.imdb.com/title/tt0108260/
+ratingValue: 
+directors: Scott McGehee, David Siegel
+actors: Dennis Haysbert, Mel Harris, Sab Shimono, Dina Merrill, Michael Harris, David Graf, Fran Ryan, John Ingle, Sanford Gibbons, Mark DeMichele
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

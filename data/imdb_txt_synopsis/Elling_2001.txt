@@ -1,0 +1,10 @@
+movieId: 5890
+title: Elling
+year: 2001
+url: https://www.imdb.com/title/tt0279064/
+ratingValue: 
+directors: Petter Næss
+actors: Per Christian Ellefsen, Sven Nordin, Marit Pia Jacobsen, Jørgen Langhelle, Per Christensen, Hilde Olausson, Ola Otnes, Eli Anne Linnestad, Cecilie A. Mosli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

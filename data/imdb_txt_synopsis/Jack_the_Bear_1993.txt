@@ -1,0 +1,10 @@
+movieId: 8043
+title: Jack the Bear
+year: 1993
+url: https://www.imdb.com/title/tt0107247/
+ratingValue: 
+directors: Marshall Herskovitz
+actors: Danny DeVito, Robert J. Steinmiller Jr., Miko Hughes, Gary Sinise, Art LaFleur, Stefan Gierasch, Erica Yohn, Andrea Marcovicci, Julia Louis-Dreyfus, Reese Witherspoon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

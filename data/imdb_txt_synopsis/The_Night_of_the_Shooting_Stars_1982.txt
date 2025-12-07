@@ -1,0 +1,10 @@
+movieId: 6107
+title: The Night of the Shooting Stars
+year: 1982
+url: https://www.imdb.com/title/tt0084422/
+ratingValue: 
+directors: Paolo Taviani, Vittorio Taviani
+actors: Omero Antonutti, Margarita Lozano, Claudio Bigagli, Massimo Bonetti, Norma Martelli, Enrica Maria Modugno, Sabina Vannucchi, Dario Cantarelli, Sergi Dagliana
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

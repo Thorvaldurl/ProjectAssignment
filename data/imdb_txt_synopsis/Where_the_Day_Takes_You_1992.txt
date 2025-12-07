@@ -1,0 +1,10 @@
+movieId: 7251
+title: Where the Day Takes You
+year: 1992
+url: https://www.imdb.com/title/tt0105810/
+ratingValue: 
+directors: Marc Rocco
+actors: Laura San Giacomo, Dermot Mulroney, Robert Knepper, Sean Astin, Balthazar Getty, Will Smith, James Le Gros, Ricki Lake, Lara Flynn Boyle, Peter Dobson
+
+synopsis:
+ultra-realistic, gritty, urban drama - following the highs & the lows of life on the street as a kid in L.A. become part of there family, follow them in there usual goings-on. Become a fly on the wall, take it easy & just go where the day takes you.

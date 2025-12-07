@@ -1,0 +1,10 @@
+movieId: 2865
+title: Sugar Town
+year: 1999
+url: https://www.imdb.com/title/tt0173390/
+ratingValue: 
+directors: Allison Anders, Kurt Voss
+actors: Jade Gordon, John Taylor, Michael Des Barres, Martin Kemp, Larry Klein, John Doe, Lucinda Jenney, Marion Moseley, Veronica Nommenson, Elena Nommensen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1549
+title: Rough Magic
+year: 1995
+url: https://www.imdb.com/title/tt0114303/
+ratingValue: 
+directors: Clare Peploe
+actors: Bridget Fonda, Russell Crowe, Jim Broadbent, D.W. Moffett, Kenneth Mars, Paul Rodriguez, Andy Romano, Richard Schiff, Euva Anderson, Michael Ensign
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

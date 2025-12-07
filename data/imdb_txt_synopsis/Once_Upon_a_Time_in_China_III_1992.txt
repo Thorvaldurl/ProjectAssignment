@@ -1,0 +1,10 @@
+movieId: 6723
+title: Once Upon a Time in China III
+year: 1992
+url: https://www.imdb.com/title/tt0108592/
+ratingValue: 
+directors: Hark Tsui
+actors: Jet Li, Rosamund Kwan, Mok Siu-Chung, Xiong Xinxin, Shun Lau, John Wakefield, Jin Chiu, Cunzhuang Ge, Tak-Yan Wong
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

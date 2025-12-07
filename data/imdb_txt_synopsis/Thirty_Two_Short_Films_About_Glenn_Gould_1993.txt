@@ -1,0 +1,10 @@
+movieId: 549
+title: Thirty Two Short Films About Glenn Gould
+year: 1993
+url: https://www.imdb.com/title/tt0108328/
+ratingValue: 
+directors: François Girard
+actors: Colm Feore, Derek Keurvorst, Katya Ladan, Devon Anderson, Joshua Greenblatt, Sean Vertigo, Kate Hennig, Sean Doyle, Sharon Bernbaum
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

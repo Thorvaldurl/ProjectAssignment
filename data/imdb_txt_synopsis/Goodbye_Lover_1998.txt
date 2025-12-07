@@ -1,0 +1,10 @@
+movieId: 2586
+title: Goodbye Lover
+year: 1998
+url: https://www.imdb.com/title/tt0119219/
+ratingValue: 
+directors: Roland Joffé
+actors: Patricia Arquette, Dermot Mulroney, Mary-Louise Parker, Ellen DeGeneres, Ray McKinnon, Alex Rocco, Don Johnson, Andre Gregory, John Neville, JoNell Kennedy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

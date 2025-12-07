@@ -1,0 +1,10 @@
+movieId: 1454
+title: SubUrbia
+year: 1996
+url: https://www.imdb.com/title/tt0120238/
+ratingValue: 
+directors: Richard Linklater
+actors: Jayce Bartok, Amie Carey, Nicky Katt, Ajay Naidu, Parker Posey, Giovanni Ribisi, Samia Shoaib, Dina Spybey-Waters, Steve Zahn, Kitt Brophy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4749
+title: 3 Ninjas Kick Back
+year: 1994
+url: https://www.imdb.com/title/tt0109015/
+ratingValue: 
+directors: Charles T. Kanganis
+actors: Victor Wong, Max Elliott Slade, Sean Fox, J. Evan Bonifant, Caroline Junko King, Dustin Nguyen, Alan McRae, Margarita Franco, Jason Schombing, Angelo Tiffe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

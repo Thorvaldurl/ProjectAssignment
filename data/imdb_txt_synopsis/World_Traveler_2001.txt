@@ -1,0 +1,10 @@
+movieId: 5322
+title: World Traveler
+year: 2001
+url: https://www.imdb.com/title/tt0262911/
+ratingValue: 
+directors: Bart Freundlich
+actors: Billy Crudup, Francie Swift, Nicolas Suresky, David Keith, Karen Allen, Cleavant Derricks, Richie Dye, Kaili Vernoff, Margaret Devine, Mary McCormack
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

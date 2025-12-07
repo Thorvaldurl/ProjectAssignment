@@ -1,0 +1,10 @@
+movieId: 2782
+title: The Pit and the Pendulum
+year: 1961
+url: https://www.imdb.com/title/tt0055304/
+ratingValue: 
+directors: Roger Corman
+actors: Vincent Price, John Kerr, Barbara Steele, Luana Anders, Antony Carbone, Patrick Westwood, Lynette Bernay, Larry Turner, Mary Menzies, Charles Victor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3395
+title: Nadine
+year: 1987
+url: https://www.imdb.com/title/tt0093596/
+ratingValue: 
+directors: Robert Benton
+actors: Jeff Bridges, Kim Basinger, Rip Torn, Gwen Verdon, Glenne Headly, Jerry Stiller, Jay Patterson, William Youmans, Gary Grubbs, Mickey Jones
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

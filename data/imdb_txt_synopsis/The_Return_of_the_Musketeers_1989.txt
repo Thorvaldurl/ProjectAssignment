@@ -1,0 +1,10 @@
+movieId: 4653
+title: The Return of the Musketeers
+year: 1989
+url: https://www.imdb.com/title/tt0098194/
+ratingValue: 
+directors: Richard Lester
+actors: Michael York, Oliver Reed, Frank Finlay, C. Thomas Howell, Kim Cattrall, Geraldine Chaplin, Roy Kinnear, Christopher Lee, Philippe Noiret, Richard Chamberlain
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

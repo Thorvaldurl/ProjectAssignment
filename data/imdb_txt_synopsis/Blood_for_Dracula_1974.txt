@@ -1,0 +1,10 @@
+movieId: 1329
+title: Blood for Dracula
+year: 1974
+url: https://www.imdb.com/title/tt0071233/
+ratingValue: 
+directors: Paul Morrissey
+actors: Joe Dallesandro, Udo Kier, Vittorio De Sica, Maxime McKendry, Arno Jürging, Milena Vukotic, Dominique Darel, Stefania Casini, Silvia Dionisio, Inna Alexeieff
+
+synopsis:
+Count Dracula [Udo Kier] and his renfield Anton [Arno Juerging] travel to Italy in search of a virgin's blood. They are invited to stay at the di Fiori estate where there are four unmarried girls. Perhaps the Count will choose one of them? Highly unlikely. The two middle girls -- Rubina [Stefania Casini] and Saphiris [Dominique Darel] --are screwing the hired hand Mario [Joe Dallesandro]. Dracula drinks their blood and promptly throws up. Mario gets wise to the vampire and rapes the youngest girl Perla [Silvia Dionisio] so she won't be of interest. The oldest girl Esmerelda [Milena Vukotic] is still a virgin and gives herself to Dracula. Dracula is staked by Mario after Mario chops off both Dracula's arms, one leg and few other parts. Esmerelda throws herself on the stake, too.

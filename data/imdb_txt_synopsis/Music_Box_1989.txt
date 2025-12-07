@@ -1,0 +1,10 @@
+movieId: 6454
+title: Music Box
+year: 1989
+url: https://www.imdb.com/title/tt0100211/
+ratingValue: 
+directors: Costa-Gavras
+actors: Jessica Lange, Armin Mueller-Stahl, Frederic Forrest, Donald Moffat, Lukas Haas, Cheryl Lynn Bruce, Mari Töröcsik, J.S. Block, Sol Frieder, Michael Rooker
+
+synopsis:
+Some children grow up believing their parents are perfect. This film asks: what happens when a father is accused of being a notorious Hungarian war criminal 40 plus years after the fact? His lawyer daughter wants to prove he's innocent. In that effort a judge, prosecutor and his lawyer daughter travel to Budapest to meet with a "surprise" prosecution witness who will "nail the coffin" of the accused man. But, they find this witness is a liar. The lawyer daughter, happy believing she's vindicated her father, travels to meet the sister of a military friend of her father's on her way home. While visiting the woman, she asks the lawyer daughter to retrieve and send to her a pawned, old and beautiful Hungarian music box. Once in her hands the lawyer daughter discovers a horrifying truth hidden inside.

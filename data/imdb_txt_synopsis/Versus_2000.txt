@@ -1,0 +1,10 @@
+movieId: 7657
+title: Versus
+year: 2000
+url: https://www.imdb.com/title/tt0275773/
+ratingValue: 
+directors: Ryûhei Kitamura
+actors: Tak Sakaguchi, Hideo Sakaki, Chieko Misaka, Kenji Matsuda, Yuichiro Arai, Minoru Matsumoto, Kazuhito Ohba, Takehiro Katayama, Ayumi Yoshihara
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

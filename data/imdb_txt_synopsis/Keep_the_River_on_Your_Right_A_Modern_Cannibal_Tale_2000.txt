@@ -1,0 +1,10 @@
+movieId: 4236
+title: Keep the River on Your Right: A Modern Cannibal Tale
+year: 2000
+url: https://www.imdb.com/title/tt0206187/
+ratingValue: 
+directors: David Shapiro, Laurie Gwen Shapiro
+actors: Tobias Schneebaum, Norman Mailer, Michael Rockefeller
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

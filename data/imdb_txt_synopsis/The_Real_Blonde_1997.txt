@@ -1,0 +1,10 @@
+movieId: 1857
+title: The Real Blonde
+year: 1997
+url: https://www.imdb.com/title/tt0119987/
+ratingValue: 
+directors: Tom DiCillo
+actors: Matthew Modine, Catherine Keener, Daryl Hannah, Maxwell Caulfield, Elizabeth Berkley, Marlo Thomas, Bridgette Wilson-Sampras, Buck Henry, Christopher Lloyd, Kathleen Turner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

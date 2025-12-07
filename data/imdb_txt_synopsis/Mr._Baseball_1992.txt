@@ -1,0 +1,10 @@
+movieId: 6523
+title: Mr. Baseball
+year: 1992
+url: https://www.imdb.com/title/tt0104926/
+ratingValue: 
+directors: Fred Schepisi
+actors: Tom Selleck, Ken Takakura, Aya Takanashi, Dennis Haysbert, Toshi Shioya, Kôsuke Toyohara, Toshizo Fujiwara, Mak Takano, Kenji Morinaga
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

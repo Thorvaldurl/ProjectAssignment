@@ -1,0 +1,10 @@
+movieId: 3008
+title: Last Night
+year: 1998
+url: https://www.imdb.com/title/tt0156729/
+ratingValue: 
+directors: Don McKellar
+actors: Don McKellar, Sandra Oh, Roberta Maxwell, Robin Gammell, Sarah Polley, Trent McMullen, Charmion King, Jessica Booker, David Cronenberg, Tracy Wright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

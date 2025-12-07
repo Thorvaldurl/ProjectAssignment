@@ -1,0 +1,10 @@
+movieId: 6553
+title: The Embalmer
+year: 2002
+url: https://www.imdb.com/title/tt0322725/
+ratingValue: 
+directors: Matteo Garrone
+actors: Ernesto Mahieux, Valerio Foglia Manzillo, Elisabetta Rocchetti, Lina Bernardi, Pietro Biondi, Marcella Granito, Giuseppe Arena, Bernardino Terracciano, Rosario J. Gnolo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

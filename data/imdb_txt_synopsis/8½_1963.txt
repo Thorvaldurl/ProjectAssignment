@@ -1,0 +1,10 @@
+movieId: 1251
+title: 8½
+year: 1963
+url: https://www.imdb.com/title/tt0056801/
+ratingValue: 
+directors: Federico Fellini
+actors: Marcello Mastroianni, Claudia Cardinale, Anouk Aimée, Sandra Milo, Rossella Falk, Barbara Steele, Madeleine Lebeau, Caterina Boratto, Eddra Gale, Guido Alberti
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

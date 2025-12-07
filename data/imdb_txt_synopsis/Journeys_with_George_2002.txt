@@ -1,0 +1,10 @@
+movieId: 6965
+title: Journeys with George
+year: 2002
+url: https://www.imdb.com/title/tt0312848/
+ratingValue: 
+directors: Aaron Lubarsky, Alexandra Pelosi
+actors: George W. Bush, R.G. Ratcliffe, Wayne Slater, Richard Wolffe, Alexandra Pelosi, Karl Rove, Karen Hughes, Trent Gegax, Nancy Harmeyer, Brooks Kraft
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

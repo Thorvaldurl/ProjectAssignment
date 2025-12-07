@@ -1,0 +1,10 @@
+movieId: 3942
+title: Sorority House Massacre II
+year: 1990
+url: https://www.imdb.com/title/tt0100663/
+ratingValue: 
+directors: Jim Wynorski
+actors: Gail Thackray, Melissa Moore, Stacia Zhivago, Barbii, Dana Bentley, Jürgen Baum, Toni Naples, Mike Elliott, Bridget Carney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

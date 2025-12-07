@@ -1,0 +1,11 @@
+movieId: 5095
+title: Scotland, Pa.
+year: 2001
+url: https://www.imdb.com/title/tt0265713/
+ratingValue: 
+directors: Billy Morrissette
+actors: James Le Gros, Maura Tierney, Christopher Walken, Kevin Corrigan, James Rebhorn, Tom Guiry, Amy Smart, Timothy 'Speed' Levitch, Andy Dick, Geoff Dunsworth
+
+synopsis:
+Thinly veiled retro-modern version of Shakespeare's MACBETH. It takes place at a burger diner, in a small Pennsylvania town. Complete with fore-shadowing soothsayers, weirdly campy acting and pace, even a nineteen-seventies' self-awareness cornucopia. A black-comedy of errors, some trailer park trash, kill their boss and steal not only his money but also his idea to have a drive-thru window installed. After they get the money, they then buy the 'doomed' restaurant, from the owner's sons that don't really want any part of it.
+A nosy vegetarian sheriff, then begins hanging around...as first a homeless man, whom the couple had framed, can't be pinned with the crime, and the older brother is suspected. The couple squirms as the damning evidence stacks up against the older son who had a 'sucky' relationship with his father, and no alibi.

@@ -1,0 +1,10 @@
+movieId: 3830
+title: Psycho Beach Party
+year: 2000
+url: https://www.imdb.com/title/tt0206226/
+ratingValue: 
+directors: Robert Lee King
+actors: Lauren Ambrose, Thomas Gibson, Nicholas Brendon, Kimberley Davies, Matt Keeslar, Charles Busch, Beth Broderick, Danni Wheeler, Nick Cornish, Andrew Levitas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

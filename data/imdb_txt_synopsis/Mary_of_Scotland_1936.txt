@@ -1,0 +1,10 @@
+movieId: 7052
+title: Mary of Scotland
+year: 1936
+url: https://www.imdb.com/title/tt0027948/
+ratingValue: 
+directors: John Ford, Leslie Goodwins
+actors: Katharine Hepburn, Fredric March, Florence Eldridge, Douglas Walton, John Carradine, Robert Barrat, Gavin Muir, Ian Keith, Moroni Olsen, William Stack
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

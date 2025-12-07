@@ -1,0 +1,10 @@
+movieId: 5382
+title: Every Which Way But Loose
+year: 1978
+url: https://www.imdb.com/title/tt0077523/
+ratingValue: 
+directors: James Fargo
+actors: Clint Eastwood, Sondra Locke, Geoffrey Lewis, Beverly D'Angelo, Walter Barnes, George Chandler, Roy Jenson, James McEachin, Bill McKinney, William O'Connell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

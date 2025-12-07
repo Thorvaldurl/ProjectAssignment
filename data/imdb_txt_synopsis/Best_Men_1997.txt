@@ -1,0 +1,10 @@
+movieId: 1473
+title: Best Men
+year: 1997
+url: https://www.imdb.com/title/tt0118702/
+ratingValue: 
+directors: Tamra Davis
+actors: Dean Cain, Andy Dick, Sean Patrick Flanery, Mitchell Whitfield, Luke Wilson, Fred Ward, Raymond J. Barry, Drew Barrymore, Brad Dourif, Tracy Fraim
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

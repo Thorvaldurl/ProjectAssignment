@@ -1,0 +1,10 @@
+movieId: 3138
+title: Stealing Home
+year: 1988
+url: https://www.imdb.com/title/tt0096171/
+ratingValue: 
+directors: Steven Kampmann, William Porter
+actors: Mark Harmon, Blair Brown, Jonathan Silverman, Harold Ramis, William McNamara, Richard Jenkins, John Shea, Jodie Foster, Christine Jones, Beth Broderick
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

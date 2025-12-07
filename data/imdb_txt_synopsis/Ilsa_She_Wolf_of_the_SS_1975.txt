@@ -1,0 +1,10 @@
+movieId: 3847
+title: Ilsa: She Wolf of the SS
+year: 1975
+url: https://www.imdb.com/title/tt0071650/
+ratingValue: 
+directors: Don Edmonds
+actors: Dyanne Thorne, Gregory Knoph, Tony Mumolo, Maria Marx, Nicolle Riddell, Jo Jo Deville, Sandy Richman, George 'Buck' Flower, Rodina Keeler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5265
+title: Death to Smoochy
+year: 2002
+url: https://www.imdb.com/title/tt0266452/
+ratingValue: 
+directors: Danny DeVito
+actors: Robin Williams, Edward Norton, Catherine Keener, Danny DeVito, Jon Stewart, Pam Ferris, Danny Woodburn, Michael Rispoli, Harvey Fierstein, Vincent Schiavelli
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

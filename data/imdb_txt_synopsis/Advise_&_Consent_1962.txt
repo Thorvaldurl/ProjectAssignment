@@ -1,0 +1,10 @@
+movieId: 26078
+title: Advise & Consent
+year: 1962
+url: https://www.imdb.com/title/tt0055728/
+ratingValue: 
+directors: Otto Preminger
+actors: Franchot Tone, Lew Ayres, Henry Fonda, Walter Pidgeon, Charles Laughton, Don Murray, Peter Lawford, Gene Tierney, Burgess Meredith, Eddie Hodges
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

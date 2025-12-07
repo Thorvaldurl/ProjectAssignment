@@ -1,0 +1,10 @@
+movieId: 3802
+title: Freejack
+year: 1992
+url: https://www.imdb.com/title/tt0104299/
+ratingValue: 
+directors: Geoff Murphy
+actors: Emilio Estevez, Mick Jagger, Rene Russo, Anthony Hopkins, Jonathan Banks, David Johansen, Amanda Plummer, Grand L. Bush, Frankie Faison, John Shea
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

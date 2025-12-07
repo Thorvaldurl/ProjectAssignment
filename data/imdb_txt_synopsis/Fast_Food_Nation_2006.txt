@@ -1,0 +1,9 @@
+movieId: 49347
+title: Fast Food Nation
+year: 2006
+url: https://www.imdb.com/title/tt0460792/
+ratingValue: 
+directors: Richard Linklater
+actors: Wilmer Valderrama, Catalina Sandino Moreno, Ana Claudia Talancón, Juan Carlos Serrán, Armando Hernández, Greg Kinnear, Frank Ertl, Michael D. Conway, Mitch Baker, Ellar Coltrane
+
+synopsis:

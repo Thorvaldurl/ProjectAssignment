@@ -1,0 +1,10 @@
+movieId: 7179
+title: Wuthering Heights
+year: 1992
+url: https://www.imdb.com/title/tt0104181/
+ratingValue: 
+directors: Peter Kosminsky
+actors: Juliette Binoche, Ralph Fiennes, Janet McTeer, Sophie Ward, Simon Shepherd, Jeremy Northam, Jason Riddington, Simon Ward, Dick Sullivan, Robert Demeger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4
+title: Waiting to Exhale
+year: 1995
+url: https://www.imdb.com/title/tt0114885/
+ratingValue: 
+directors: Forest Whitaker
+actors: Whitney Houston, Angela Bassett, Loretta Devine, Lela Rochon, Gregory Hines, Dennis Haysbert, Mykelti Williamson, Michael Beach, Leon, Wendell Pierce
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

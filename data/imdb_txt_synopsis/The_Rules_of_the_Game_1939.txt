@@ -1,0 +1,10 @@
+movieId: 6783
+title: The Rules of the Game
+year: 1939
+url: https://www.imdb.com/title/tt0031885/
+ratingValue: 
+directors: Jean Renoir
+actors: Nora Gregor, Paulette Dubost, Mila Parély, Odette Talazac, Claire Gérard, Anne Mayen, Lise Elina, Marcel Dalio, Julien Carette, Roland Toutain
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

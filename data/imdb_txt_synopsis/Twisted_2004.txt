@@ -1,0 +1,10 @@
+movieId: 7321
+title: Twisted
+year: 2004
+url: https://www.imdb.com/title/tt0315297/
+ratingValue: 
+directors: Philip Kaufman
+actors: Ashley Judd, Samuel L. Jackson, Andy Garcia, David Strathairn, Russell Wong, Camryn Manheim, Mark Pellegrino, Titus Welliver, D.W. Moffett, Richard T. Jones
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

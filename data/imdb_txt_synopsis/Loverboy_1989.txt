@@ -1,0 +1,10 @@
+movieId: 4622
+title: Loverboy
+year: 1989
+url: https://www.imdb.com/title/tt0097790/
+ratingValue: 
+directors: Joan Micklin Silver
+actors: Patrick Dempsey, Kate Jackson, Robert Ginty, Nancy Valen, Dylan Walsh, Barbara Carrera, Bernie Coulson, Ray Girardin, Rob Camilletti, Vic Tayback
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 8954
+title: Lightning in a Bottle
+year: 2004
+url: https://www.imdb.com/title/tt0396705/
+ratingValue: 
+directors: Antoine Fuqua
+actors: Aerosmith, Gregg Allman, India Arie, James Blood Ulmer, Clarence 'Gatemouth' Brown, Ruth Brown, Solomon Burke, Chuck D, Natalie Cole, Shemekia Copeland
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

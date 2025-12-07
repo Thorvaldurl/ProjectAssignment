@@ -1,0 +1,10 @@
+movieId: 4471
+title: Arthur 2: On the Rocks
+year: 1988
+url: https://www.imdb.com/title/tt0094678/
+ratingValue: 
+directors: Bud Yorkin
+actors: Dudley Moore, Liza Minnelli, John Gielgud, Geraldine Fitzgerald, Stephen Elliott, Paul Benedict, Cynthia Sikes Yorkin, Kathy Bates, Jack Gilford, Ted Ross
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

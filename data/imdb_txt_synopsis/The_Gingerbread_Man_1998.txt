@@ -1,0 +1,10 @@
+movieId: 1841
+title: The Gingerbread Man
+year: 1998
+url: https://www.imdb.com/title/tt0119196/
+ratingValue: 
+directors: Robert Altman
+actors: Kenneth Branagh, Embeth Davidtz, Robert Downey Jr., Daryl Hannah, Robert Duvall, Tom Berenger, Famke Janssen, Clyde Hayes, Mae Whitman, Jesse James
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

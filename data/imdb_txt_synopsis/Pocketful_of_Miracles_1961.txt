@@ -1,0 +1,10 @@
+movieId: 4804
+title: Pocketful of Miracles
+year: 1961
+url: https://www.imdb.com/title/tt0055312/
+ratingValue: 
+directors: Frank Capra
+actors: Glenn Ford, Bette Davis, Hope Lange, Arthur O'Connell, Peter Falk, Thomas Mitchell, Edward Everett Horton, Mickey Shaughnessy, David Brian, Sheldon Leonard
+
+synopsis:
+A Pocket Full of Miracles is the story of Apple Annie (Bette Davis), a poor, alcoholic who sells apples on the streets of New York during prohibition. Annie has a secret. Her daughter (Ann-Margret), born out of wedlock, has been raised in a Spanish convent. She and Annie only know each other through the letters they write, which has allowed Annie to embellish her existence over the years. When Annies daughter writes to her announcing her engagement to the son of a Spanish count and their impending visit, Annie realizes her daughter's future will be ruined if they discover her true identity. Annie turns to a bootlegging mobster (Glenn Ford) for help. Joining forces with assorted low-lifes, they turn Annie into a New York socialite worthy of audience with a count. The imposters almost get tripped up when their party is threatened by a police raid, but alas all turns out well. Just when Annie is about to confess to her true identity, the mobsters show with none other than the mayor and governor in tow a true miracle.

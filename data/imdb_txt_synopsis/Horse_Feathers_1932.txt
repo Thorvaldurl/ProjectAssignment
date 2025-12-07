@@ -1,0 +1,10 @@
+movieId: 7091
+title: Horse Feathers
+year: 1932
+url: https://www.imdb.com/title/tt0023027/
+ratingValue: 
+directors: Norman Z. McLeod
+actors: The Marx Brothers, Groucho Marx, Harpo Marx, Chico Marx, Zeppo Marx, Thelma Todd, David Landau, Bobby Barber, Reginald Barlow, Vince Barnett
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

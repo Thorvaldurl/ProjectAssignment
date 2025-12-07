@@ -1,0 +1,10 @@
+movieId: 2718
+title: Drop Dead Gorgeous
+year: 1999
+url: https://www.imdb.com/title/tt0157503/
+ratingValue: 
+directors: Michael Patrick Jann
+actors: Kirsten Dunst, Ellen Barkin, Allison Janney, Denise Richards, Kirstie Alley, Sam McMurray, Mindy Sterling, Brittany Murphy, Amy Adams, Laurie A. Sinclair
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

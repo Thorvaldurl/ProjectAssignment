@@ -1,0 +1,10 @@
+movieId: 1465
+title: Rosewood
+year: 1997
+url: https://www.imdb.com/title/tt0120036/
+ratingValue: 
+directors: John Singleton
+actors: Jon Voight, Ving Rhames, Don Cheadle, Bruce McGill, Loren Dean, Esther Rolle, Elise Neal, Robert Patrick, Michael Rooker, Catherine Kellner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

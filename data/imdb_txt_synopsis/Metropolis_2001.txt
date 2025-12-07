@@ -1,0 +1,10 @@
+movieId: 5072
+title: Metropolis
+year: 2001
+url: https://www.imdb.com/title/tt0293416/
+ratingValue: 
+directors: Rintarô
+actors: Yuka Imoto, Kei Kobayashi, Kôki Okada, Tarô Ishida, Kôsei Tomita, Norio Wakamoto, Junpei Takiguchi, Takeshi Aono, Masaru Ikeda
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

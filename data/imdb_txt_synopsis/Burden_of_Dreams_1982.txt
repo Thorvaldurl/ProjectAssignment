@@ -1,0 +1,10 @@
+movieId: 5932
+title: Burden of Dreams
+year: 1982
+url: https://www.imdb.com/title/tt0083702/
+ratingValue: 
+directors: Les Blank
+actors: Werner Herzog, Klaus Kinski, Claudia Cardinale, Jason Robards, Mick Jagger, Alfredo De Rio Tambo, Ángela Reina, Carmen Correa, Elia De Rio Ene
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

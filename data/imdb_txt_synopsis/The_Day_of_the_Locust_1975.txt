@@ -1,0 +1,10 @@
+movieId: 8727
+title: The Day of the Locust
+year: 1975
+url: https://www.imdb.com/title/tt0072848/
+ratingValue: 
+directors: John Schlesinger
+actors: Donald Sutherland, Karen Black, Burgess Meredith, William Atherton, Geraldine Page, Richard Dysart, Bo Hopkins, Pepe Serna, Lelia Goldoni, Billy Barty
+
+synopsis:
+Young artist Tod Hackett (William Atherton) looks over an apartment in the new Depression Era Hollywoodland as a place to set up residence as he makes his way into the film industry. Hackett is like many other young men of the time seeking a career at one of the studios that make silent films in the 30s. Across from his bungalow lives Faye Greener (Karen Black) a young blonde who works as a film extra and very attractive to Hackett whose attempts to initiate a romantic relationship with the woman is rebuffed. Hackett aspires to great art as a painter visualizing his major work "Burning of Hollywood" but working as a set designer for a second rate producer Claude Estee (Richard A. Dysart) who was a graduate from Yale College as Hackett was. As Hackett gets involved deeper into the world of Faye and her former Vaudeville performer father Harry Greener (Burgess Meredith) who makes money selling elixir door-to-door he becomes more disillusioned over the mythic value of Hollywood. When Harry collapses at the home of unassuming accountant Homer Simpson (Donald Sutherland), Faye pulls Homer into the fringe world of film performers using him to live on while she pursues her career. As Hackett is exposed to more of the lifestyle in the film world of Los Angeles his vision of Mankind takes on bolder, grander imagery when an event at a film premier develops into mayhem.

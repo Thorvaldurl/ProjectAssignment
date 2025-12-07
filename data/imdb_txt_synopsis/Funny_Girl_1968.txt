@@ -1,0 +1,10 @@
+movieId: 4912
+title: Funny Girl
+year: 1968
+url: https://www.imdb.com/title/tt0062994/
+ratingValue: 
+directors: William Wyler
+actors: Barbra Streisand, Omar Sharif, Kay Medford, Anne Francis, Walter Pidgeon, Lee Allen, Mae Questel, Gerald Mohr, Frank Faylen, Mittie Lawrence
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

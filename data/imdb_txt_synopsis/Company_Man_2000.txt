@@ -1,0 +1,10 @@
+movieId: 4156
+title: Company Man
+year: 2000
+url: https://www.imdb.com/title/tt0177650/
+ratingValue: 
+directors: Peter Askin, Douglas McGrath
+actors: Paul Guilfoyle, Jeffrey Jones, Reathel Bean, Harriet Koppel, Douglas McGrath, Sigourney Weaver, Terry Beaver, Sean Dugan, Grant Walden, Nathan Dean
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 472
+title: I'll Do Anything
+year: 1994
+url: https://www.imdb.com/title/tt0110097/
+ratingValue: 
+directors: James L. Brooks
+actors: Nick Nolte, Whittni Wright, Albert Brooks, Julie Kavner, Joely Richardson, Tracey Ullman, Jeb Brown, Joely Fisher, Vicki Lewis, Anne Heche
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

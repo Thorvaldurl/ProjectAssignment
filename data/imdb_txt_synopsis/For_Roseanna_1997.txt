@@ -1,0 +1,10 @@
+movieId: 1564
+title: For Roseanna
+year: 1997
+url: https://www.imdb.com/title/tt0120034/
+ratingValue: 
+directors: Paul Weiland
+actors: Jean Reno, Mercedes Ruehl, Polly Walker, Mark Frankel, Luigi Diberti, Roberto Della Casa, Giovanni Pallavicino, Jorge Krimer, Romano Ghini, Giuseppe Cederna
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

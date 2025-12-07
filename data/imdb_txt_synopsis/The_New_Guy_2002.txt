@@ -1,0 +1,10 @@
+movieId: 5363
+title: The New Guy
+year: 2002
+url: https://www.imdb.com/title/tt0241760/
+ratingValue: 
+directors: Ed Decter
+actors: DJ Qualls, Eliza Dushku, Zooey Deschanel, Jerod Mixon, Parry Shen, Lyle Lovett, Eddie Griffin, Sunny Mabrey, Ross Patterson, Matt Gogin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

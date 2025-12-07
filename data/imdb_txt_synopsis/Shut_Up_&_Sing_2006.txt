@@ -1,0 +1,9 @@
+movieId: 49132
+title: Shut Up & Sing
+year: 2006
+url: https://www.imdb.com/title/tt0811136/
+ratingValue: 
+directors: Barbara Kopple, Cecilia Peck
+actors: Natalie Maines, Emily Strayer, Martie Maguire, Clayton Allen, Billy B., Paul Beane, Cindi Berger, Barbara Boxer, Aaron Brown
+
+synopsis:

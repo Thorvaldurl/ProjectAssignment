@@ -1,0 +1,10 @@
+movieId: 26048
+title: The Human Condition II: Road to Eternity
+year: 1959
+url: https://www.imdb.com/title/tt0053115/
+ratingValue: 
+directors: Masaki Kobayashi
+actors: Tatsuya Nakadai, Michiyo Aratama, Kokinji Katsura, Jun Tatara, Michirô Minami, Kei Satô, Kunie Tanaka, Ryôhei Uchida, Kan Yanagiya, Kenjirô Uemura
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

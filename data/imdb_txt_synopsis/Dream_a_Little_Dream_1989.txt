@@ -1,0 +1,10 @@
+movieId: 4584
+title: Dream a Little Dream
+year: 1989
+url: https://www.imdb.com/title/tt0097236/
+ratingValue: 
+directors: Marc Rocco
+actors: Corey Feldman, Corey Haim, Jason Robards, Piper Laurie, Harry Dean Stanton, Meredith Salenger, William McNamara, Ria Pavia, Lala Sloatman, Laura Lee Norton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6788
+title: Angie
+year: 1994
+url: https://www.imdb.com/title/tt0109129/
+ratingValue: 
+directors: Martha Coolidge
+actors: Geena Davis, Stephen Rea, James Gandolfini, Aida Turturro, Philip Bosco, Jenny O'Hara, Michael Rispoli, Betty Miller, Susan Jaffe, Jeremy Collins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

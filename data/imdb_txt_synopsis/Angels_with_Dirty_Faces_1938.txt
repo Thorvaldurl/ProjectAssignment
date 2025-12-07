@@ -1,0 +1,10 @@
+movieId: 8600
+title: Angels with Dirty Faces
+year: 1938
+url: https://www.imdb.com/title/tt0029870/
+ratingValue: 
+directors: Michael Curtiz
+actors: James Cagney, Pat O'Brien, Humphrey Bogart, Ann Sheridan, George Bancroft, Billy Halop, Bobby Jordan, Leo Gorcey, Gabriel Dell, Huntz Hall
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

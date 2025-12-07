@@ -1,0 +1,10 @@
+movieId: 6382
+title: Together
+year: 2002
+url: https://www.imdb.com/title/tt0332639/
+ratingValue: 
+directors: Kaige Chen
+actors: Yun Tang, Peiqi Liu, Hong Chen, Zhiwen Wang, Kaige Chen, Qiang Chen, Qing Zhang, Kim Hye-ri, Bing Liu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

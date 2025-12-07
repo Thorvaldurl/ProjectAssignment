@@ -1,0 +1,10 @@
+movieId: 6387
+title: Once a Thief
+year: 1991
+url: https://www.imdb.com/title/tt0101020/
+ratingValue: 
+directors: John Woo
+actors: Chow Yun-Fat, Leslie Cheung, Cherie Chung, Kong Chu, Kenneth Tsang, David Wu, Fung Woo, Pierre-Yves Burton, Declan Wong, Patrick Hon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

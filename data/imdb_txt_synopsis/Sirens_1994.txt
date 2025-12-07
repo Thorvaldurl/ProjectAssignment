@@ -1,0 +1,10 @@
+movieId: 537
+title: Sirens
+year: 1994
+url: https://www.imdb.com/title/tt0111201/
+ratingValue: 
+directors: John Duigan
+actors: Hugh Grant, Tara Fitzgerald, Sam Neill, Elle Macpherson, Portia de Rossi, Tziporah Malkah, Pamela Rabe, Ben Mendelsohn, John Polson, Mark Gerber
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

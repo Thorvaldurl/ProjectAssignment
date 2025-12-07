@@ -1,0 +1,10 @@
+movieId: 1502
+title: Kissed
+year: 1996
+url: https://www.imdb.com/title/tt0116783/
+ratingValue: 
+directors: Lynne Stopkewich
+actors: Molly Parker, Peter Outerbridge, Jay Brazeau, Natasha Morley, Jessie Winter Mudie, James Timmons, Joe Maffei, Robert Thurston, Annabel Kershaw
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4617
+title: Let It Ride
+year: 1989
+url: https://www.imdb.com/title/tt0097731/
+ratingValue: 
+directors: Joe Pytka
+actors: Richard Dreyfuss, David Johansen, Teri Garr, Jennifer Tilly, Allen Garfield, Edward Walsh, Richard Edson, David Schramm, John Roselius, Joseph Walsh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

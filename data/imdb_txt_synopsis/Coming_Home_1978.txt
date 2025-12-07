@@ -1,0 +1,10 @@
+movieId: 3724
+title: Coming Home
+year: 1978
+url: https://www.imdb.com/title/tt0077362/
+ratingValue: 
+directors: Hal Ashby
+actors: Jane Fonda, Jon Voight, Bruce Dern, Penelope Milford, Robert Carradine, Robert Ginty, Mary Gregory, Kathleen Miller, Beeson Carroll, Willie Tyler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

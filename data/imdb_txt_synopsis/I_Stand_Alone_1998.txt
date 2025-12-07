@@ -1,0 +1,10 @@
+movieId: 2557
+title: I Stand Alone
+year: 1998
+url: https://www.imdb.com/title/tt0157016/
+ratingValue: 
+directors: Gaspar Noé
+actors: Philippe Nahon, Blandine Lenoir, Frankie Pain, Martine Audrain, Zaven, Jean-François Rauger, Guillaume Nicloux, Olivier Doran, Aïssa Djabri
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

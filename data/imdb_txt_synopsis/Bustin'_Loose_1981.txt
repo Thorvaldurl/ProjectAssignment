@@ -1,0 +1,10 @@
+movieId: 3014
+title: Bustin' Loose
+year: 1981
+url: https://www.imdb.com/title/tt0082121/
+ratingValue: 
+directors: Oz Scott, Michael Schultz
+actors: Richard Pryor, Cicely Tyson, Angel Ramirez Jr., Jimmy Hughes, Edwin DeLeon, Edwin Kinter, Tami Luchow, Janet Wong, Alphonso Alexander
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

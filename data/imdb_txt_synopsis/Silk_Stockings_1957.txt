@@ -1,0 +1,10 @@
+movieId: 6390
+title: Silk Stockings
+year: 1957
+url: https://www.imdb.com/title/tt0050972/
+ratingValue: 
+directors: Rouben Mamoulian
+actors: Fred Astaire, Cyd Charisse, Janis Paige, Peter Lorre, George Tobias, Jules Munshin, Joseph Buloff, Wim Sonneveld, Don Anderson, Edit Angold
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

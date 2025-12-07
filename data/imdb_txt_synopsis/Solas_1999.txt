@@ -1,0 +1,10 @@
+movieId: 3894
+title: Solas
+year: 1999
+url: https://www.imdb.com/title/tt0190798/
+ratingValue: 
+directors: Benito Zambrano
+actors: María Galiana, Ana Fernández, Carlos Álvarez-Nóvoa, Antonio Dechent, Paco De Osca, Juan Fernández, Miguel Alcíbar, Pilar Sánchez, Concha Galán, Paco Tous
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

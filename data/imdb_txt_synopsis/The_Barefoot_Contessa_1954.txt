@@ -1,0 +1,10 @@
+movieId: 4420
+title: The Barefoot Contessa
+year: 1954
+url: https://www.imdb.com/title/tt0046754/
+ratingValue: 
+directors: Joseph L. Mankiewicz
+actors: Humphrey Bogart, Ava Gardner, Edmond O'Brien, Marius Goring, Valentina Cortese, Rossano Brazzi, Elizabeth Sellars, Warren Stevens, Franco Interlenghi, Mari Aldon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

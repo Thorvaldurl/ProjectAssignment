@@ -1,0 +1,10 @@
+movieId: 3679
+title: The Decline of Western Civilization
+year: 1981
+url: https://www.imdb.com/title/tt0082252/
+ratingValue: 
+directors: Penelope Spheeris
+actors: Eugene Tatu, Alice Bag Band, Black Flag, Catholic Discipline, Circle Jerks, Fear, The Germs, X, Wayne Mayotte
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7786
+title: Genghis Blues
+year: 1999
+url: https://www.imdb.com/title/tt0187859/
+ratingValue: 
+directors: Roko Belic
+actors: Richard Feynman, B.B. King, Kongar-ol Ondar, Paul Pena, Aislinn Scofield
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

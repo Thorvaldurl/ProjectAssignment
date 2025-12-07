@@ -1,0 +1,10 @@
+movieId: 8481
+title: Northwest Passage
+year: 1940
+url: https://www.imdb.com/title/tt0032851/
+ratingValue: 
+directors: King Vidor, Jack Conway, W.S. Van Dyke
+actors: Spencer Tracy, Robert Young, Walter Brennan, Ruth Hussey, Nat Pendleton, Louis Hector, Robert Barrat, Lumsden Hare, Donald MacBride, Isabel Jewell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

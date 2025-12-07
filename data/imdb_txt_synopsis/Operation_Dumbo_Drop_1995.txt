@@ -1,0 +1,10 @@
+movieId: 688
+title: Operation Dumbo Drop
+year: 1995
+url: https://www.imdb.com/title/tt0114048/
+ratingValue: 
+directors: Simon Wincer
+actors: Danny Glover, Ray Liotta, Denis Leary, Doug E. Doug, Corin Nemec, Dinh Thien Le, Tchéky Karyo, Hoang Ly, Vo Trung Anh, Marshall Bell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

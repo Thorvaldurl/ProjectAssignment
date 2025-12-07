@@ -1,0 +1,10 @@
+movieId: 1824
+title: Homegrown
+year: 1998
+url: https://www.imdb.com/title/tt0119305/
+ratingValue: 
+directors: Stephen Gyllenhaal
+actors: John Lithgow, Jon Tenney, Ryan Phillippe, Hank Azaria, Billy Bob Thornton, Kelly Lynch, Jon Bon Jovi, Kleoka Renee Sands, Matt Ross, Judge Reinhold
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

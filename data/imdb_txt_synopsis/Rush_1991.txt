@@ -1,0 +1,10 @@
+movieId: 8158
+title: Rush
+year: 1991
+url: https://www.imdb.com/title/tt0102820/
+ratingValue: 
+directors: Lili Fini Zanuck
+actors: Jason Patric, Jennifer Jason Leigh, Sam Elliott, Max Perlich, Gregg Allman, Tony Frank, William Sadler, Special K. McCray, Dennis Letts, Dennis Burkley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

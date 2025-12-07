@@ -1,0 +1,10 @@
+movieId: 191
+title: The Scarlet Letter
+year: 1995
+url: https://www.imdb.com/title/tt0114345/
+ratingValue: 
+directors: Roland Joffé
+actors: Demi Moore, Gary Oldman, Robert Duvall, Lisa Andoh, Edward Hardwicke, Robert Prosky, Roy Dotrice, Joan Plowright, Malcolm Storry, James Bearden
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

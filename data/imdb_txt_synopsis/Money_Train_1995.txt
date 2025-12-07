@@ -1,0 +1,10 @@
+movieId: 20
+title: Money Train
+year: 1995
+url: https://www.imdb.com/title/tt0113845/
+ratingValue: 
+directors: Joseph Ruben
+actors: Wesley Snipes, Woody Harrelson, Jennifer Lopez, Robert Blake, Chris Cooper, Joe Grifasi, Scott Sowers, Skipp Sudduth, Vincent Laresca, Nelson Vasquez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

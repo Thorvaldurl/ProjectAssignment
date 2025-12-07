@@ -1,0 +1,10 @@
+movieId: 3480
+title: Lucas
+year: 1986
+url: https://www.imdb.com/title/tt0091445/
+ratingValue: 
+directors: David Seltzer
+actors: Corey Haim, Kerri Green, Charlie Sheen, Courtney Thorne-Smith, Winona Ryder, Tom Hodges, Ciro Poppiti, Guy Boyd, Jeremy Piven, Kevin Wixted
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

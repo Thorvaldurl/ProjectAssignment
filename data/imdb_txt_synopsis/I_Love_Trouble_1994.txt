@@ -1,0 +1,10 @@
+movieId: 360
+title: I Love Trouble
+year: 1994
+url: https://www.imdb.com/title/tt0110093/
+ratingValue: 
+directors: Charles Shyer
+actors: Nick Nolte, Julia Roberts, Saul Rubinek, James Rebhorn, Robert Loggia, Kelly Rutherford, Olympia Dukakis, Marsha Mason, Eugene Levy, Charles Martin Smith
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

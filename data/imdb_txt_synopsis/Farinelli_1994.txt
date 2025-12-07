@@ -1,0 +1,10 @@
+movieId: 242
+title: Farinelli
+year: 1994
+url: https://www.imdb.com/title/tt0109771/
+ratingValue: 
+directors: Gérard Corbiau
+actors: Stefano Dionisi, Enrico Lo Verso, Elsa Zylberstein, Caroline Cellier, Marianne Basler, Jacques Boudet, Graham Valentine, Pier Paolo Capponi, Renaud du Peloux de Saint Romain, Delphine Zentout
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7031
+title: The Real McCoy
+year: 1993
+url: https://www.imdb.com/title/tt0107927/
+ratingValue: 
+directors: Russell Mulcahy
+actors: Kim Basinger, Val Kilmer, Terence Stamp, Gailard Sartain, Zach English, Raynor Scheine, Deborah Hobart, Pamela Stubbart, Andy Stahl, Dean Rader-Duval
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

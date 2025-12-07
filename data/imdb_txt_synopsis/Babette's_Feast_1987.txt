@@ -1,0 +1,10 @@
+movieId: 6791
+title: Babette's Feast
+year: 1987
+url: https://www.imdb.com/title/tt0092603/
+ratingValue: 
+directors: Gabriel Axel
+actors: Stéphane Audran, Bodil Kjer, Birgitte Federspiel, Jarl Kulle, Jean-Philippe Lafont, Bibi Andersson, Ghita Nørby, Asta Esper Hagen Andersen, Thomas Antoni
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6101
+title: Missing
+year: 1982
+url: https://www.imdb.com/title/tt0084335/
+ratingValue: 
+directors: Costa-Gavras
+actors: Jack Lemmon, Sissy Spacek, Melanie Mayron, John Shea, Charles Cioffi, David Clennon, Richard Venture, Jerry Hardin, Richard Bradford, Joe Regalbuto
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

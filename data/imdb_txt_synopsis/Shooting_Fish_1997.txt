@@ -1,0 +1,10 @@
+movieId: 1755
+title: Shooting Fish
+year: 1997
+url: https://www.imdb.com/title/tt0120122/
+ratingValue: 
+directors: Stefan Schwartz
+actors: Rowena Cooper, Scott Charles, Antonia Corrigan, Myles Anderson, Jane Lapotaire, Harry Ditson, Jacob Macoby, Dan Futterman, Tom Chadbon, Kate Beckinsale
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

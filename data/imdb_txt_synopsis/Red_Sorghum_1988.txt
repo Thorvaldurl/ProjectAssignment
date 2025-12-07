@@ -1,0 +1,10 @@
+movieId: 2972
+title: Red Sorghum
+year: 1988
+url: https://www.imdb.com/title/tt0093206/
+ratingValue: 
+directors: Yimou Zhang
+actors: Gong Li, Wen Jiang, Rujun Teng, Ji Liu, Ming Qian, Chunhua Ji, Chunhua Zhai, Zhaoji Jia, Yuxiang Zhang, Guiyun Zhou
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

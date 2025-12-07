@@ -1,0 +1,10 @@
+movieId: 302
+title: Queen Margot
+year: 1994
+url: https://www.imdb.com/title/tt0110963/
+ratingValue: 
+directors: Patrice Chéreau
+actors: Isabelle Adjani, Daniel Auteuil, Jean-Hugues Anglade, Vincent Perez, Virna Lisi, Dominique Blanc, Pascal Greggory, Claudio Amendola, Miguel Bosé, Asia Argento
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

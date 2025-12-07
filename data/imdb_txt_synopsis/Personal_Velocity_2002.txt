@@ -1,0 +1,10 @@
+movieId: 5875
+title: Personal Velocity
+year: 2002
+url: https://www.imdb.com/title/tt0295238/
+ratingValue: 
+directors: Rebecca Miller
+actors: Kyra Sedgwick, Parker Posey, Fairuza Balk, John Ventimiglia, Ron Leibman, Wallace Shawn, David Warshofsky, Leo Fitzpatrick, Tim Guinee, Patti D'Arbanville
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

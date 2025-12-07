@@ -1,0 +1,10 @@
+movieId: 1551
+title: Buddy
+year: 1997
+url: https://www.imdb.com/title/tt0118787/
+ratingValue: 
+directors: Caroline Thompson
+actors: Rene Russo, Robbie Coltrane, Alan Cumming, Irma P. Hall, Peter Elliott, Mak Wilson, Lynn Robertson Bruce, Mark Sealey, Robert Tygner, Michelan Sisti
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

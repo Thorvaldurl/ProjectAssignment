@@ -1,0 +1,10 @@
+movieId: 1107
+title: Loser
+year: 1991
+url: https://www.imdb.com/title/tt0102336/
+ratingValue: 
+directors: Erik Burke
+actors: Brendan Kelly, John Salemmo, Nadine Miral, Bernice DeLeo, Vito Antuofermo, Julian Stone, Steven Deshler, Wendy Adams, David Auerbach
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

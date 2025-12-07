@@ -1,0 +1,10 @@
+movieId: 49280
+title: Bobby
+year: 2006
+url: https://www.imdb.com/title/tt0308055/
+ratingValue: 
+directors: Emilio Estevez
+actors: Harry Belafonte, Joy Bryant, Nick Cannon, Emilio Estevez, Laurence Fishburne, Brian Geraghty, Heather Graham, Anthony Hopkins, Helen Hunt, Joshua Jackson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

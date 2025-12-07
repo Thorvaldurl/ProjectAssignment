@@ -1,0 +1,10 @@
+movieId: 243
+title: Gordy
+year: 1994
+url: https://www.imdb.com/title/tt0113199/
+ratingValue: 
+directors: Mark Lewis
+actors: Doug Stone, Kristy Young, James Donadio, Deborah Hobart, Tom Lester, Michael Roescher, Tom Key, Jon Kohler, Afemo Omilami, Ted Manson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

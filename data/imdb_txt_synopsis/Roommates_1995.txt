@@ -1,0 +1,10 @@
+movieId: 304
+title: Roommates
+year: 1995
+url: https://www.imdb.com/title/tt0114296/
+ratingValue: 
+directors: Peter Yates
+actors: Peter Falk, D.B. Sweeney, Julianne Moore, Ellen Burstyn, Jan Rubes, Joyce Reehling, Ernie Sabella, John Cunningham, Noah Fleiss, Lisa Davis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

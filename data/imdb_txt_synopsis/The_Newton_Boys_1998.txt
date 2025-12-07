@@ -1,0 +1,10 @@
+movieId: 1804
+title: The Newton Boys
+year: 1998
+url: https://www.imdb.com/title/tt0120769/
+ratingValue: 
+directors: Richard Linklater
+actors: Matthew McConaughey, Skeet Ulrich, Ethan Hawke, Gail Cronauer, Jena Karam, Casey McAuliffe, Regina Mae Matthews, Lew Temple, Dwight Yoakam, Charles Gunning
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1592
+title: Air Bud
+year: 1997
+url: https://www.imdb.com/title/tt0118570/
+ratingValue: 
+directors: Charles Martin Smith
+actors: Michael Jeter, Kevin Zegers, Wendy Makkena, Bill Cobbs, Eric Christmas, Jay Brazeau, Nicola Cavendish, Brendan Fletcher, Norman Browning, Stephen E. Miller
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

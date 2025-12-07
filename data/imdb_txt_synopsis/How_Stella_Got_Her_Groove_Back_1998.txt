@@ -1,0 +1,10 @@
+movieId: 2154
+title: How Stella Got Her Groove Back
+year: 1998
+url: https://www.imdb.com/title/tt0120703/
+ratingValue: 
+directors: Kevin Rodney Sullivan
+actors: Angela Bassett, Taye Diggs, Whoopi Goldberg, Regina King, Suzzanne Douglas, Michael J. Pagan, Sicily Johnson, Richard Lawson, Barry Shabaka Henley, Lee Weaver
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

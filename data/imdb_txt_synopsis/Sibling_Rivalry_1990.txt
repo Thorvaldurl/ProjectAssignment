@@ -1,0 +1,10 @@
+movieId: 6313
+title: Sibling Rivalry
+year: 1990
+url: https://www.imdb.com/title/tt0100611/
+ratingValue: 
+directors: Carl Reiner
+actors: Kirstie Alley, Bill Pullman, Carrie Fisher, Jami Gertz, Scott Bakula, Frances Sternhagen, John Randolph, Sam Elliott, Ed O'Neill, Bill Macy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

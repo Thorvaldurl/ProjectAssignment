@@ -1,0 +1,10 @@
+movieId: 2629
+title: The Love Letter
+year: 1999
+url: https://www.imdb.com/title/tt0166252/
+ratingValue: 
+directors: Peter Ho-Sun Chan
+actors: Kate Capshaw, Blythe Danner, Ellen DeGeneres, Geraldine McEwan, Julianne Nicholson, Tom Everett Scott, Tom Selleck, Gloria Stuart, Bill Buell, Alice Drummond
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

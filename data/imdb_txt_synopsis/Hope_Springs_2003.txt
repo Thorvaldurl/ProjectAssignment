@@ -1,0 +1,10 @@
+movieId: 8383
+title: Hope Springs
+year: 2003
+url: https://www.imdb.com/title/tt0314431/
+ratingValue: 
+directors: Mark Herman
+actors: Colin Firth, Heather Graham, Minnie Driver, Mary Steenburgen, Frank Collison, Oliver Platt, Mary Black, Ken Kramer, Chad Faust, Tony Alcantar
+
+synopsis:
+Colin Ware (played by Colin Firth) arrives in the most hopeful sounding town he can find to forget his old life. Hotel managers: Joanie Fisher (Mary Steenburgen) and Mr. Fisher (Frank Collison, also seen in Oh Brother, Where Art Thou?) are worried about the despondent guest, and ask therapist, Mandy (played by Heather Graham) to come talk to him. The two young people soon become enraptured with one another. Colin's ex-fiance (and reason for his despondency), played by Minnie Driver arrives and tries unsuccessfully to get the hotel managers to tell her where he is staying. Complications ensue when Driver convinces Graham that she is still part of Colin's life. Colin must take drastic action, and enlists the help of the mayor, Doug Reed (Oliver Platt).

@@ -1,0 +1,10 @@
+movieId: 279
+title: My Family
+year: 1995
+url: https://www.imdb.com/title/tt0113896/
+ratingValue: 
+directors: Gregory Nava
+actors: Edward James Olmos, Rafael Cortes, Ivette Reina, Amelia Zapata, Jacob Vargas, Emilio Del Haro, Abel Woolrich, León Singer, Rosalee Mayeux
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

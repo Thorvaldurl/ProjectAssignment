@@ -1,0 +1,10 @@
+movieId: 2964
+title: Julien Donkey-Boy
+year: 1999
+url: https://www.imdb.com/title/tt0192194/
+ratingValue: 
+directors: Harmony Korine
+actors: Ewen Bremner, Brian Fisk, Chloë Sevigny, Werner Herzog, Joyce Korine, Evan Neumann, Miriam Martínez, Edgar Erikkson, James Moix
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

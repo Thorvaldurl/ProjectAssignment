@@ -1,0 +1,10 @@
+movieId: 81
+title: Things to Do in Denver When You're Dead
+year: 1995
+url: https://www.imdb.com/title/tt0114660/
+ratingValue: 
+directors: Gary Fleder
+actors: Andy Garcia, Christopher Lloyd, William Forsythe, Bill Nunn, Treat Williams, Jack Warden, Steve Buscemi, Fairuza Balk, Gabrielle Anwar, Christopher Walken
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4629
+title: Next of Kin
+year: 1989
+url: https://www.imdb.com/title/tt0097967/
+ratingValue: 
+directors: John Irvin
+actors: Patrick Swayze, Liam Neeson, Adam Baldwin, Helen Hunt, Andreas Katsulas, Bill Paxton, Ben Stiller, Michael J. Pollard, Ted Levine, Del Close
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

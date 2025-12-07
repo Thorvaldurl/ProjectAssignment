@@ -1,0 +1,10 @@
+movieId: 5353
+title: Butterflies Are Free
+year: 1972
+url: https://www.imdb.com/title/tt0068326/
+ratingValue: 
+directors: Milton Katselas
+actors: Goldie Hawn, Edward Albert, Eileen Heckart, Paul Michael Glaser, Michael Warren, Charlene Jones, Jessica Rains, Paul Ryan, Debralee Scott
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

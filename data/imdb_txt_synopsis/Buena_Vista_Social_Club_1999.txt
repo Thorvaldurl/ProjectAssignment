@@ -1,0 +1,10 @@
+movieId: 2677
+title: Buena Vista Social Club
+year: 1999
+url: https://www.imdb.com/title/tt0186508/
+ratingValue: 
+directors: Wim Wenders
+actors: Octavio Calderon, Joachim Cooder, Ry Cooder, Angel Terry Domech, Ibrahim Ferrer, Ibrahim Ferrer Jr., Manuel Galbán, Hugo Garzón, Carlos Gonzalez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

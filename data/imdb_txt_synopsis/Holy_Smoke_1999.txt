@@ -1,0 +1,10 @@
+movieId: 3127
+title: Holy Smoke
+year: 1999
+url: https://www.imdb.com/title/tt0144715/
+ratingValue: 
+directors: Jane Campion
+actors: Kate Winslet, Harvey Keitel, Julie Hamilton, Sophie Lee, Dan Wyllie, Paul Goddard, Tim Robertson, George Rafael, Kerry Walker, Les Dayman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

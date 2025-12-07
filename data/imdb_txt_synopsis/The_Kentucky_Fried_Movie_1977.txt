@@ -1,0 +1,10 @@
+movieId: 3760
+title: The Kentucky Fried Movie
+year: 1977
+url: https://www.imdb.com/title/tt0076257/
+ratingValue: 
+directors: John Landis
+actors: Marilyn Joi, Saul Kahan, David Zucker, Marcy Goldman, Dulcie Jordan, Gracia Lee, Sheila Rogers, Joseph G. Medalis, Barry Dennen
+
+synopsis:
+This movie is out of control. There aren't any spoilers in here because the movie doesn't actually have an ending. It can't because Kentucky Fried Movie is a collection of (I say) short films. Every one of them is Zucker-Abrahams-Zucker literal humor with a site gag to go along with every line. I loved it. I watch it frequently because you can watch a segment and watch another one later. I was surprised when I realized it came out in 1977. It's a potential stoner movie - I'm surprised it didn't come out in 1972.

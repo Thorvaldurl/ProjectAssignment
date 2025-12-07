@@ -1,0 +1,10 @@
+movieId: 3941
+title: Sorority House Massacre
+year: 1986
+url: https://www.imdb.com/title/tt0091990/
+ratingValue: 
+directors: Carol Frank
+actors: Angela O'Neill, Wendy Martel, Pamela Ross, Nicole Rio, John C. Russell, Marcus Vaughter, Vinnie Bilancio, Joe Nassi, Mary Anne, Gillian Frank
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

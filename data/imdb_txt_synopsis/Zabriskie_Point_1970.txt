@@ -1,0 +1,9 @@
+movieId: 26237
+title: Zabriskie Point
+year: 1970
+url: https://www.imdb.com/title/tt0066601/
+ratingValue: 
+directors: Michelangelo Antonioni
+actors: Mark Frechette, Daria Halprin, Paul Fix, G.D. Spradlin, Bill Garaway, Kathleen Cleaver, Rod Taylor, Martin Abrahams, Michael L. Davis
+
+synopsis:

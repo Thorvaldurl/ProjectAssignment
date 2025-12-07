@@ -1,0 +1,10 @@
+movieId: 26124
+title: Robinson Crusoe on Mars
+year: 1964
+url: https://www.imdb.com/title/tt0058530/
+ratingValue: 
+directors: Byron Haskin
+actors: Paul Mantee, Victor Lundin, Adam West, The Woolly Monkey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

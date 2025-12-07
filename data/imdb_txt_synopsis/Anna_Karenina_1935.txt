@@ -1,0 +1,10 @@
+movieId: 7092
+title: Anna Karenina
+year: 1935
+url: https://www.imdb.com/title/tt0026071/
+ratingValue: 
+directors: Clarence Brown
+actors: Greta Garbo, Fredric March, Freddie Bartholomew, Maureen O'Sullivan, May Robson, Basil Rathbone, Reginald Owen, Phoebe Foster, Reginald Denny, Gyles Isham
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

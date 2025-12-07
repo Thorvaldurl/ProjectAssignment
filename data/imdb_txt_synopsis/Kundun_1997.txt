@@ -1,0 +1,10 @@
+movieId: 1730
+title: Kundun
+year: 1997
+url: https://www.imdb.com/title/tt0119485/
+ratingValue: 
+directors: Martin Scorsese
+actors: Tenzin Thuthob Tsarong, Gyurme Tethong, Tulku Jamyang Kunga Tenzin, Tenzin Yeshi Paichang, Tencho Gyalpo, Tenzin Topjar, Tsewang Migyur Khangsar, Tenzin Lodoe, Geshi Yeshi Gyatso
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

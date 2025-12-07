@@ -1,0 +1,10 @@
+movieId: 4342
+title: Big Eden
+year: 2000
+url: https://www.imdb.com/title/tt0212815/
+ratingValue: 
+directors: Thomas Bezucha
+actors: Arye Gross, Eric Schweig, Tim DeKay, Louise Fletcher, George Coe, Nan Martin, O'Neal Compton, Corinne Bohrer, Veanne Cox, Douglas Sebern
+
+synopsis:
+Arye Gross plays an up-and-coming artist who foregoes the convenience of big-city life for the charms of Montana in this drama, writer-director Thomas Bezucha's debut feature. On the eve of his first show at the Whitney Museum, Henry (Gross) hears news that his grandfather back home has had a stroke. Upon returning to his idyllic birthplace, however, Henry realizes that the old man isn't the only thing he has to tend to: There's the semi-closeted issue of his sexuality, which he longs to reveal to his clan -- as well as to his old high-school crush, Dean (Tim DeKay). Amidst all the angst, Henry fails to notice the advances of the sensitive Pike (Eric Schweig), an espresso-brewing outdoorsman who owns the town's general store and cooks meals for the stroke-addled grandpa Sam (George Coe).

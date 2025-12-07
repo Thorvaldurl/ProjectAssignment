@@ -1,0 +1,10 @@
+movieId: 6967
+title: Dead of Night
+year: 1945
+url: https://www.imdb.com/title/tt0037635/
+ratingValue: 
+directors: Alberto Cavalcanti, Charles Crichton, Basil Dearden, Robert Hamer
+actors: Mervyn Johns, Roland Culver, Mary Merrall, Googie Withers, Frederick Valk, Anthony Baird, Sally Ann Howes, Robert Wyndham, Judy Kelly, Miles Malleson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

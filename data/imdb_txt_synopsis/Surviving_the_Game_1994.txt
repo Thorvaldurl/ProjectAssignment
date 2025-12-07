@@ -1,0 +1,10 @@
+movieId: 547
+title: Surviving the Game
+year: 1994
+url: https://www.imdb.com/title/tt0111323/
+ratingValue: 
+directors: Ernest R. Dickerson
+actors: Ice-T, Rutger Hauer, Charles S. Dutton, Gary Busey, F. Murray Abraham, John C. McGinley, William McNamara, Jeff Corey, Bob Minor, Lawrence C. McCoy
+
+synopsis:
+Ice-T, living a sweet, hobo lifestyle, is approached by some rich white dudes and offered a job "assisting" a bunch of other rich white dudes on a "hunting trip" in the Rockies. Failing to consider past relationships between poor black people and rich white people, he accepts their offer, only to find that by "assisting" the white dudes really meant "running for his life", and by "hunting trip" they really meant "hunting trip". It's a laugh-a-minute as we watch Ice-T use all of his street wiles and urban cunning to escape a gang of armed and gouty job-creators while running through the jungle.

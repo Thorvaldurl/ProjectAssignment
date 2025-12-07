@@ -1,0 +1,10 @@
+movieId: 3653
+title: The Endless Summer
+year: 1966
+url: https://www.imdb.com/title/tt0060371/
+ratingValue: 
+directors: Bruce Brown
+actors: Michael Hynson, Robert August, Lord James Blears, Bruce Brown, Terence Bullen, Lance Carson, Roy Crump, Chip Fitzwater, Chuck Gardner
+
+synopsis:
+Ils l'appellent l'Été Sans fin ..... L'aventure de surf ultime, en traversant la grosse goutte à la recherche du signe parfait.... Des eaux inexplorées de l'Afrique Ouest, aux mers remplies d'aigrefin de l'Australie, au paradis tropical de Tahiti et au-delà, ces surfeurs de Californie accomplissent en quelques mois ce que la plupart des personnes ne font jamais dans une vie... Ils vivent leur rêve. Le directeur Bruce Brown crée un film si puissant c'est devenu un chef-d'uvre sans âge qui continue à capturer l'imagination de chaque nouvelle génération. .... Quand il a d'abord été joué dans les théâtres, les audiences ont doublé jusqu'à le voir le à plusieurs reprises, ensorcelé par son excitation saisissante et photographie impressionnante. Mais en fait, ce qui est le plus fascinant du film est le sport de surf lui-même et dès que vous l'aurez vu, vous n'oublierez jamais pourquoi..........

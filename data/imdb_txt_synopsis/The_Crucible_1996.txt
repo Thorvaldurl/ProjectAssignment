@@ -1,0 +1,10 @@
+movieId: 1366
+title: The Crucible
+year: 1996
+url: https://www.imdb.com/title/tt0115988/
+ratingValue: 
+directors: Nicholas Hytner
+actors: Daniel Day-Lewis, Winona Ryder, Paul Scofield, Joan Allen, Bruce Davison, Rob Campbell, Jeffrey Jones, Peter Vaughan, Karron Graves, Charlayne Woodard
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

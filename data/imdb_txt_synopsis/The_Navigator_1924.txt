@@ -1,0 +1,10 @@
+movieId: 7074
+title: The Navigator
+year: 1924
+url: https://www.imdb.com/title/tt0015163/
+ratingValue: 
+directors: Donald Crisp, Buster Keaton
+actors: Buster Keaton, Kathryn McGuire, Frederick Vroom, Clarence Burton, H.N. Clugston, Noble Johnson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

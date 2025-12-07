@@ -1,0 +1,10 @@
+movieId: 1667
+title: Mad City
+year: 1997
+url: https://www.imdb.com/title/tt0119592/
+ratingValue: 
+directors: Costa-Gavras
+actors: John Travolta, Dustin Hoffman, Mia Kirshner, Alan Alda, Robert Prosky, Blythe Danner, William Atherton, Ted Levine, Tammy Lauren, William O'Leary
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

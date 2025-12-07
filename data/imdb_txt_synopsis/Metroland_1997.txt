@@ -1,0 +1,10 @@
+movieId: 2577
+title: Metroland
+year: 1997
+url: https://www.imdb.com/title/tt0119665/
+ratingValue: 
+directors: Philip Saville
+actors: Christian Bale, Emily Watson, Lee Ross, Elsa Zylberstein, John Wood, Rufus, Amanda Ryan, Jonathan Aris, Ifan Meredith, Boris Terral
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

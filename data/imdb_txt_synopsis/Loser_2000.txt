@@ -1,0 +1,10 @@
+movieId: 3616
+title: Loser
+year: 2000
+url: https://www.imdb.com/title/tt0217630/
+ratingValue: 
+directors: Amy Heckerling
+actors: Jason Biggs, Mena Suvari, Zak Orth, Thomas Sadoski, Jimmi Simpson, Greg Kinnear, Dan Aykroyd, Twink Caplan, Bobby Slayton, Robert Miano
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

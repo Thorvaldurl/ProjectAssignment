@@ -1,0 +1,10 @@
+movieId: 2106
+title: Swing Kids
+year: 1993
+url: https://www.imdb.com/title/tt0108265/
+ratingValue: 
+directors: Thomas Carter
+actors: Robert Sean Leonard, Christian Bale, Frank Whaley, Barbara Hershey, Tushka Bergen, David Tom, Julia Stemberger, Jayce Bartok, Noah Wyle, Johan Leysen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

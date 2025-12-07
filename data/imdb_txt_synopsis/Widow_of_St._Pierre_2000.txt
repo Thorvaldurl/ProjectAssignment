@@ -1,0 +1,10 @@
+movieId: 4160
+title: Widow of St. Pierre
+year: 2000
+url: https://www.imdb.com/title/tt0191636/
+ratingValue: 
+directors: Patrice Leconte
+actors: Juliette Binoche, Daniel Auteuil, Emir Kusturica, Michel Duchaussoy, Philippe Magnan, Christian Charmetant, Philippe du Janerand, Maurice Chevit, Catherine Lascault, Ghyslain Tremblay
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 460
+title: Getting Even with Dad
+year: 1994
+url: https://www.imdb.com/title/tt0109891/
+ratingValue: 
+directors: Howard Deutch
+actors: Macaulay Culkin, Ted Danson, Glenne Headly, Saul Rubinek, Gailard Sartain, Sam McMurray, Hector Elizondo, Sydney Walker, Kathleen Wilhoite, Dann Florek
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

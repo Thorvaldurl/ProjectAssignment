@@ -1,0 +1,10 @@
+movieId: 6552
+title: Dirty Pretty Things
+year: 2002
+url: https://www.imdb.com/title/tt0301199/
+ratingValue: 
+directors: Stephen Frears
+actors: Chiwetel Ejiofor, Kriss Dosanjh, Israel Oyelumade, Yemi Goodman Ajibade, Nizwar Karanj, Deobia Oparei, Jeffery Kissoon, Zlatko Buric, Audrey Tautou, Sophie Okonedo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

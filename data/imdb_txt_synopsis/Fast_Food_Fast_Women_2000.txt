@@ -1,0 +1,10 @@
+movieId: 4307
+title: Fast Food Fast Women
+year: 2000
+url: https://www.imdb.com/title/tt0206742/
+ratingValue: 
+directors: Amos Kollek
+actors: Anna Thomson, Jamie Harris, Louise Lasser, Robert Modica, Lonette McKee, Victor Argo, Angelica Page, Austin Pendleton, Sandrine Holt, Valerie Geffner
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

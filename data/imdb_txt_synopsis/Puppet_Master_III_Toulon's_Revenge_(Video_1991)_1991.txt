@@ -1,0 +1,10 @@
+movieId: 3662
+title: Puppet Master III: Toulon's Revenge (Video 1991)
+year: 1991
+url: https://www.imdb.com/title/tt0102728/
+ratingValue: 
+directors: David DeCoteau
+actors: Guy Rolfe, Richard Lynch, Ian Abercrombie, Kristopher Logan, Aron Eisenberg, Walter Gotell, Sarah Douglas, Matthew Faison, Michelle Bauer, Jasmine Totschek
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

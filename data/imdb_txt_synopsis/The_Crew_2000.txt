@@ -1,0 +1,10 @@
+movieId: 3884
+title: The Crew
+year: 2000
+url: https://www.imdb.com/title/tt0198386/
+ratingValue: 
+directors: Michael Dinner
+actors: Richard Dreyfuss, Burt Reynolds, Dan Hedaya, Seymour Cassel, Carrie-Anne Moss, Jennifer Tilly, Lainie Kazan, Miguel Sandoval, Jeremy Piven, Casey Siemaszko
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

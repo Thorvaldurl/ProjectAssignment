@@ -1,0 +1,10 @@
+movieId: 267
+title: Major Payne
+year: 1995
+url: https://www.imdb.com/title/tt0110443/
+ratingValue: 
+directors: Nick Castle
+actors: Damon Wayans, Michael Ironside, Bam Bam Bigelow, Joseph Blaire, Orlando Brown, Peyton Chesson-Fohl, Stephen Coleman, Mark Conway, David DeHart
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

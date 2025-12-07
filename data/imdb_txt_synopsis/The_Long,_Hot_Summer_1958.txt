@@ -1,0 +1,10 @@
+movieId: 6452
+title: The Long, Hot Summer
+year: 1958
+url: https://www.imdb.com/title/tt0051878/
+ratingValue: 
+directors: Martin Ritt
+actors: Paul Newman, Joanne Woodward, Anthony Franciosa, Orson Welles, Lee Remick, Angela Lansbury, Richard Anderson, Sarah Marshall, Mabel Albertson, J. Pat O'Malley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

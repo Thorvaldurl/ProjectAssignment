@@ -1,0 +1,10 @@
+movieId: 2926
+title: Hairspray
+year: 1988
+url: https://www.imdb.com/title/tt0095270/
+ratingValue: 
+directors: John Waters
+actors: Sonny Bono, Ruth Brown, Divine, Debbie Harry, Ricki Lake, Jerry Stiller, Vitamin C, Michael St. Gerard, Leslie Ann Powers, Clayton Prince
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

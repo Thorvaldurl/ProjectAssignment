@@ -1,0 +1,10 @@
+movieId: 4241
+title: Pokémon 3 the Movie: Spell of the Unown
+year: 2000
+url: https://www.imdb.com/title/tt0266860/
+ratingValue: 
+directors: 
+actors: Rica Matsumoto, Ikue Ôtani, Peter R. Bird, Amy Birnbaum, Madeleine Blaustein, Dan Green, Michael Haigney, Megumi Hayashibara, Inuko Inuyama, Unshô Ishizuka, Mayumi Izuka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

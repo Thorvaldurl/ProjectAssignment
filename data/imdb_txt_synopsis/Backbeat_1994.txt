@@ -1,0 +1,10 @@
+movieId: 346
+title: Backbeat
+year: 1994
+url: https://www.imdb.com/title/tt0106339/
+ratingValue: 
+directors: Iain Softley
+actors: Sheryl Lee, Stephen Dorff, Ian Hart, Gary Bakewell, Chris O'Neill, Scot Williams, Kai Wiesinger, Jennifer Ehle, Marcelle Duprey, John White
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

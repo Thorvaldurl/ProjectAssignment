@@ -1,0 +1,10 @@
+movieId: 8905
+title: 1492: Conquest of Paradise
+year: 1992
+url: https://www.imdb.com/title/tt0103594/
+ratingValue: 
+directors: Ridley Scott
+actors: Gérard Depardieu, Armand Assante, Sigourney Weaver, Loren Dean, Ángela Molina, Fernando Rey, Michael Wincott, Tchéky Karyo, Kevin Dunn, Frank Langella
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

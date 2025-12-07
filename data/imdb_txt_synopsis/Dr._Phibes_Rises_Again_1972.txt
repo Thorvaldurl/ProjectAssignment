@@ -1,0 +1,9 @@
+movieId: 26265
+title: Dr. Phibes Rises Again
+year: 1972
+url: https://www.imdb.com/title/tt0068503/
+ratingValue: 
+directors: Robert Fuest
+actors: Vincent Price, Robert Quarry, Valli Kemp, Peter Cushing, Beryl Reid, Terry-Thomas, Peter Jeffrey, Fiona Lewis, Hugh Griffith, John Cater
+
+synopsis:

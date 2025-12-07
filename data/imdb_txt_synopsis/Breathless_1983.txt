@@ -1,0 +1,10 @@
+movieId: 3584
+title: Breathless
+year: 1983
+url: https://www.imdb.com/title/tt0085276/
+ratingValue: 
+directors: Jim McBride
+actors: Richard Gere, Valérie Kaprisky, Art Metrano, John P. Ryan, William Tepper, Robert Dunn, Garry Goodrow, Lisa Jane Persky, James Hong, Waldemar Kalinowski
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

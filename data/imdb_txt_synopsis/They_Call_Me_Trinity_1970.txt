@@ -1,0 +1,10 @@
+movieId: 26249
+title: They Call Me Trinity
+year: 1970
+url: https://www.imdb.com/title/tt0067355/
+ratingValue: 
+directors: Enzo Barboni
+actors: Terence Hill, Bud Spencer, Steffen Zacharias, Dan Sturkie, Gisela Hahn, Elena Pedemonte, Farley Granger, Ezio Marano, Luciano Rossi, Ugo Sasso
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5947
+title: Evelyn
+year: 2002
+url: https://www.imdb.com/title/tt0298856/
+ratingValue: 
+directors: Bruce Beresford
+actors: Sophie Vavasseur, Niall Beagan, Hugh McDonagh, Pierce Brosnan, Mairead Devlin, Frank Kelly, Clare Mullen, Alvaro Lucchesi, Garrett Keogh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

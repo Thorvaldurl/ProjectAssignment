@@ -1,0 +1,10 @@
+movieId: 7051
+title: What's New Pussycat
+year: 1965
+url: https://www.imdb.com/title/tt0059903/
+ratingValue: 
+directors: Clive Donner
+actors: Peter Sellers, Peter O'Toole, Romy Schneider, Capucine, Paula Prentiss, Woody Allen, Ursula Andress, Eddra Gale, Katrin Schaake, Eléonore Hirt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

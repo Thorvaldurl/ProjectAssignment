@@ -1,0 +1,10 @@
+movieId: 3094
+title: Maurice
+year: 1987
+url: https://www.imdb.com/title/tt0093512/
+ratingValue: 
+directors: James Ivory
+actors: James Wilby, Hugh Grant, Rupert Graves, Denholm Elliott, Simon Callow, Billie Whitelaw, Barry Foster, Judy Parfitt, Phoebe Nicholls, Patrick Godfrey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

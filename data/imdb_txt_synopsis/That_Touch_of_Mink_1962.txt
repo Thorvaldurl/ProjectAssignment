@@ -1,0 +1,10 @@
+movieId: 7082
+title: That Touch of Mink
+year: 1962
+url: https://www.imdb.com/title/tt0056575/
+ratingValue: 
+directors: Delbert Mann
+actors: Cary Grant, Doris Day, Gig Young, Audrey Meadows, Alan Hewitt, John Astin, Dick Sargent, Joey Faye, Laurie Mitchell, John Fiedler
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

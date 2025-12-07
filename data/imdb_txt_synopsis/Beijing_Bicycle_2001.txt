@@ -1,0 +1,10 @@
+movieId: 5068
+title: Beijing Bicycle
+year: 2001
+url: https://www.imdb.com/title/tt0276501/
+ratingValue: 
+directors: Xiaoshuai Wang
+actors: Lin Cui, Bin Li, Xun Zhou, Yuanyuan Gao, Shuang Li, Yiwei Zhao, Yan Pang, Fangfei Zhou, Jian Xie
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

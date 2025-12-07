@@ -1,0 +1,10 @@
+movieId: 3946
+title: Get Carter
+year: 2000
+url: https://www.imdb.com/title/tt0208988/
+ratingValue: 
+directors: Stephen Kay
+actors: Sylvester Stallone, Miranda Richardson, Rachael Leigh Cook, Rhona Mitra, Johnny Strong, John C. McGinley, Alan Cumming, Michael Caine, John Cassini, Mickey Rourke
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

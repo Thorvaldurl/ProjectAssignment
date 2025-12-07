@@ -1,0 +1,10 @@
+movieId: 4174
+title: Avalon
+year: 1990
+url: https://www.imdb.com/title/tt0099073/
+ratingValue: 
+directors: Barry Levinson
+actors: Leo Fuchs, Eve Gordon, Lou Jacobi, Armin Mueller-Stahl, Elizabeth Perkins, Joan Plowright, Kevin Pollak, Aidan Quinn, Israel Rubinek, Elijah Wood
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

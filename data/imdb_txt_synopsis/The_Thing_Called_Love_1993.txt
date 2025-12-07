@@ -1,0 +1,10 @@
+movieId: 8024
+title: The Thing Called Love
+year: 1993
+url: https://www.imdb.com/title/tt0108327/
+ratingValue: 
+directors: Peter Bogdanovich
+actors: River Phoenix, Samantha Mathis, Dermot Mulroney, Sandra Bullock, K.T. Oslin, Anthony Clark, Webb Wilder, Earl Poole Ball, Deborah Allen, Jimmie Dale Gilmore
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

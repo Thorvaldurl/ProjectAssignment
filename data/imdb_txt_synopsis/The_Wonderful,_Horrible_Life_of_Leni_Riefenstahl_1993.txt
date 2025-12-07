@@ -1,0 +1,10 @@
+movieId: 363
+title: The Wonderful, Horrible Life of Leni Riefenstahl
+year: 1993
+url: https://www.imdb.com/title/tt0107472/
+ratingValue: 
+directors: Ray Müller
+actors: Leni Riefenstahl, Luis Trenker, Horst Kettner, Ray Müller, Georg Wilhelm Pabst, Arnold Fanck, Joseph Goebbels, Marlene Dietrich, Adolf Hitler, Ernst Röhm
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

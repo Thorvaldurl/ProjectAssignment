@@ -1,0 +1,10 @@
+movieId: 3765
+title: The Hot Spot
+year: 1990
+url: https://www.imdb.com/title/tt0099797/
+ratingValue: 
+directors: Dennis Hopper
+actors: Don Johnson, Virginia Madsen, Jennifer Connelly, Charles Martin Smith, William Sadler, Jerry Hardin, Barry Corbin, Leon Rippy, Jack Nance, Virgil Frye
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

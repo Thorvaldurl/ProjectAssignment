@@ -1,0 +1,10 @@
+movieId: 3700
+title: The Brother from Another Planet
+year: 1984
+url: https://www.imdb.com/title/tt0087004/
+ratingValue: 
+directors: John Sayles
+actors: Joe Morton, Rosanna Carter, Ray Ramirez, Yves Rene, Peter Richardson, Ginny Yang, Daryl Edwards, Steve James, Leonard Jackson, Bill Cobbs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

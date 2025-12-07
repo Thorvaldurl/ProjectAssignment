@@ -1,0 +1,10 @@
+movieId: 5136
+title: Wendigo
+year: 2001
+url: https://www.imdb.com/title/tt0275067/
+ratingValue: 
+directors: Larry Fessenden
+actors: Patricia Clarkson, Jake Weber, Erik Per Sullivan, John Speredakos, Christopher Wynkoop, Lloyd Oxendine, Brian Delate, Jennifer Wiltsie, Maxx Stratton, Richard Stratton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 5372
+title: Calamity Jane
+year: 1953
+url: https://www.imdb.com/title/tt0045591/
+ratingValue: 
+directors: David Butler
+actors: Doris Day, Howard Keel, Allyn Ann McLerie, Philip Carey, Dick Wesson, Paul Harvey, Chubby Johnson, Gale Robbins, Victor Adamson, Fred Aldrich
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

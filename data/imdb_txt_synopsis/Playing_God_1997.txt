@@ -1,0 +1,10 @@
+movieId: 1647
+title: Playing God
+year: 1997
+url: https://www.imdb.com/title/tt0119906/
+ratingValue: 
+directors: Andy Wilson
+actors: David Duchovny, Timothy Hutton, Angelina Jolie, Michael Massee, Peter Stormare, Andrew Tiernan, Gary Dourdan, John Hawkes, Will Stewart, Philip Moon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

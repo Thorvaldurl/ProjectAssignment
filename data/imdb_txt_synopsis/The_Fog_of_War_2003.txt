@@ -1,0 +1,10 @@
+movieId: 7156
+title: The Fog of War
+year: 2003
+url: https://www.imdb.com/title/tt0317910/
+ratingValue: 
+directors: Errol Morris
+actors: Robert McNamara, Fidel Castro, Barry Goldwater, Lyndon B. Johnson, John F. Kennedy, Nikita Khrushchev, Curtis LeMay, Errol Morris, Richard Nixon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

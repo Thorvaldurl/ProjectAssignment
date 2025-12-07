@@ -1,0 +1,10 @@
+movieId: 7390
+title: Prey for Rock & Roll
+year: 2003
+url: https://www.imdb.com/title/tt0307351/
+ratingValue: 
+directors: Alex Steyermark
+actors: Gina Gershon, Drea de Matteo, Lori Petty, Shelly Cole, Marc Blucas, Ivan Martin, Eddie Driscoll, Ashley Eckstein, Shakara Ledard, Texas Terri
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

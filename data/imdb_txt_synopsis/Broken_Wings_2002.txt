@@ -1,0 +1,10 @@
+movieId: 7349
+title: Broken Wings
+year: 2002
+url: https://www.imdb.com/title/tt0317842/
+ratingValue: 
+directors: Nir Bergman
+actors: Orly Silbersatz, Maya Maron, Daniel Magon, Nitai Gvirtz, Eliana Magon, Vladimir Friedman, Dana Ivgy, Yarden Bar-Kochba, Danny Niv, Orit Boger
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

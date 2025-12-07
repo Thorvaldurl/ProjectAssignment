@@ -1,0 +1,10 @@
+movieId: 7315
+title: Against the Ropes
+year: 2004
+url: https://www.imdb.com/title/tt0312329/
+ratingValue: 
+directors: Charles S. Dutton
+actors: Meg Ryan, Omar Epps, Charles S. Dutton, Tony Shalhoub, Tim Daly, Joe Cortese, Kerry Washington, Sean Bell, Dean McDermott, Skye McCole Bartusiak
+
+synopsis:
+Meg Ryan stars in a true story about Jackie Kallen, the first female boxing manager who successfully broke the gender barrier of the boxing world. The film focuses on the relationship she has with her first boxer, Luther Shaw (Omar Epps) and his successful rise to the boxing championship and the inside dealings of the boxing game. Jackie turns Luther into a prizefighter with the help of trainer Felix Reynolds (Charles Dutton). During the press conference after each boxing win, Jackie is put in the spotlight and she lets fame go to her head. Jackie begins to believe that she is the one who made the boxer what he is today, and that she is doing all the work. This causes trouble between Jackie and the boxer. The boxer wants and gets a new manager. Douglas Young (the-movie-guy)

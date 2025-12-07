@@ -1,0 +1,10 @@
+movieId: 5955
+title: Antwone Fisher
+year: 2002
+url: https://www.imdb.com/title/tt0168786/
+ratingValue: 
+directors: Denzel Washington
+actors: Derek Luke, Malcolm David Kelley, Cory Hodges, Denzel Washington, Joy Bryant, Salli Richardson-Whitfield, Leonard Earl Howze, Kente Scott, Kevin Connolly, Rainoldo Gooding
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

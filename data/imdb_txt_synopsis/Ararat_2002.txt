@@ -1,0 +1,12 @@
+movieId: 5817
+title: Ararat
+year: 2002
+url: https://www.imdb.com/title/tt0273435/
+ratingValue: 
+directors: Atom Egoyan
+actors: Simon Abkarian, Charles Aznavour, Christopher Plummer, Arsinée Khanjian, Setta Keshishian, David Alpay, Shant Srabian, Marie-Josée Croze, Elias Koteas
+
+synopsis:
+Brilliant Testimony to Legacy of Art and History On one level, Ararat is an extremely sophisticated movie about the painful lessons of history and the healing beauty of art. On another level, it is a kind of ghost story about the life and legacy of the great painter Arshile Gorky (Simon Akarian). Haunted himself by the atrocious reported massacre of Armenians in 1915, the spirit of Gorky, as portrayed in Ararat, takes the form of different things for different people following his suicide in 1948. In what we call the real world, Gorky emerged as a leading artist of the twentieth century. Along with such geniuses as Willem de Kooning, Jackson Pollock, and Mark Rothko, his work helped define the art movements known as Surrealism and Abstract Expressionism. For the director character within the movie Ararat, the painter is an inspirational cultural icon whose personal story embodies the larger tragic history of his people. To Ani (Arsinee Khanjian), an art historian, he is the fascinating subject of her latest book. To her stepdaughter Celia (Marie-Josee Croze), he is a painful reminder of her fathers questionable death; and to Raffi (David Alpay) he is an important piece to the puzzle of his own identity. How it all ties together is a testament to Atom Egoyans brilliant artistry as a writer and director. by Author-Poet Aberjhani,
+author of The Bridge of Silver Wings
+and Encyclopedia of the Harlem Renaissance

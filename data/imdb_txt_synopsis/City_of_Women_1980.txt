@@ -1,0 +1,10 @@
+movieId: 4289
+title: City of Women
+year: 1980
+url: https://www.imdb.com/title/tt0080539/
+ratingValue: 
+directors: Federico Fellini
+actors: Marcello Mastroianni, Anna Prucnal, Bernice Stegers, Jole Silvani, Donatella Damiani, Ettore Manni, Fiammetta Baralla, Hélène Calzarelli, Catherine Carrel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

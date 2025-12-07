@@ -1,0 +1,10 @@
+movieId: 3953
+title: Dr. T & the Women
+year: 2000
+url: https://www.imdb.com/title/tt0205271/
+ratingValue: 
+directors: Robert Altman
+actors: Richard Gere, Helen Hunt, Farrah Fawcett, Laura Dern, Shelley Long, Tara Reid, Kate Hudson, Liv Tyler, Robert Hays, Matt Malloy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

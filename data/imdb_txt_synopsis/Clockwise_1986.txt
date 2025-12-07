@@ -1,0 +1,10 @@
+movieId: 4981
+title: Clockwise
+year: 1986
+url: https://www.imdb.com/title/tt0090852/
+ratingValue: 
+directors: Christopher Morahan
+actors: John Cleese, Penny Leatherbarrow, Howard Lloyd-Lewis, Jonathan Bowater, Stephen Moore, Alison Steadman, Mark Bunting, Robert Wilkinson, John Bardon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

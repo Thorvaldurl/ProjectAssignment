@@ -1,0 +1,10 @@
+movieId: 6768
+title: Luther
+year: 2003
+url: https://www.imdb.com/title/tt0309820/
+ratingValue: 
+directors: Eric Till
+actors: Joseph Fiennes, Alfred Molina, Jonathan Firth, Claire Cox, Peter Ustinov, Bruno Ganz, Uwe Ochsenknecht, Mathieu Carrière, Benjamin Sadler, Jochen Horst
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

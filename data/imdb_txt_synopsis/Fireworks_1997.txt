@@ -1,0 +1,10 @@
+movieId: 1809
+title: Fireworks
+year: 1997
+url: https://www.imdb.com/title/tt0119250/
+ratingValue: 
+directors: Takeshi Kitano
+actors: Takeshi Kitano, Kayoko Kishimoto, Ren Ôsugi, Susumu Terajima, Tetsu Watanabe, Hakuryû, Yasuei Yakushiji, Tarô Itsumi, Ken'ichi Yajima, Makoto Ashikawa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

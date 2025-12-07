@@ -1,0 +1,10 @@
+movieId: 218
+title: Boys on the Side
+year: 1995
+url: https://www.imdb.com/title/tt0112571/
+ratingValue: 
+directors: Herbert Ross
+actors: Whoopi Goldberg, Mary-Louise Parker, Drew Barrymore, Matthew McConaughey, James Remar, Billy Wirth, Anita Gillette, Dennis Boutsikaris, Estelle Parsons, Amy Aquino
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

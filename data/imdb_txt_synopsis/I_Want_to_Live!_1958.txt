@@ -1,0 +1,10 @@
+movieId: 5384
+title: I Want to Live!
+year: 1958
+url: https://www.imdb.com/title/tt0051758/
+ratingValue: 
+directors: Robert Wise
+actors: Susan Hayward, Simon Oakland, Virginia Vincent, Theodore Bikel, Wesley Lau, Philip Coolidge, Lou Krugman, James Philbrook, Bartlett Robinson, Gage Clarke
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

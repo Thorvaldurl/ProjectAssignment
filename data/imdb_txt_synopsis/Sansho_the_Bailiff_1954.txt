@@ -1,0 +1,10 @@
+movieId: 8188
+title: Sansho the Bailiff
+year: 1954
+url: https://www.imdb.com/title/tt0047445/
+ratingValue: 
+directors: Kenji Mizoguchi
+actors: Kinuyo Tanaka, Yoshiaki Hanayagi, Kyôko Kagawa, Eitarô Shindô, Akitake Kôno, Masao Shimizu, Ken Mitsuda, Kazukimi Okuni, Yôko Kosono, Kimiko Tachibana
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

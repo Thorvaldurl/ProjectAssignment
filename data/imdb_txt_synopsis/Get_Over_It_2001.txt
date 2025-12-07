@@ -1,0 +1,10 @@
+movieId: 4168
+title: Get Over It
+year: 2001
+url: https://www.imdb.com/title/tt0192071/
+ratingValue: 
+directors: Tommy O'Haver
+actors: Kirsten Dunst, Ben Foster, Melissa Sagemiller, Sisqó, Shane West, Colin Hanks, Zoe Saldaña, Mila Kunis, Swoosie Kurtz, Ed Begley Jr.
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

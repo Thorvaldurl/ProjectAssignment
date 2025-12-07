@@ -1,0 +1,10 @@
+movieId: 5069
+title: Escaflowne: The Movie
+year: 2000
+url: https://www.imdb.com/title/tt0270933/
+ratingValue: 
+directors: Kazuki Akane, Yoshiyuki Takei
+actors: Maaya Sakamoto, Tomokazu Seki, Jôji Nakata, Mayumi Izuka, Minami Takayama, Kôji Tsujitani, Shin'ichirô Miki, Ikue Ôtani, Nobuyuki Hiyama
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

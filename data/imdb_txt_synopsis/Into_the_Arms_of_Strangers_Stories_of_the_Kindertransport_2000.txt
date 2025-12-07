@@ -1,0 +1,10 @@
+movieId: 4769
+title: Into the Arms of Strangers: Stories of the Kindertransport
+year: 2000
+url: https://www.imdb.com/title/tt0248912/
+ratingValue: 
+directors: Mark Jonathan Harris
+actors: Judi Dench, Lory Cahn, Kurt Fuchel, Eva Hayman, Ursula Rosenfeld, Lorraine Allard, Jack Hellman, Lore Segal, Robert Sugar
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

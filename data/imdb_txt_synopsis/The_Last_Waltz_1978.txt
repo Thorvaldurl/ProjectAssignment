@@ -1,0 +1,10 @@
+movieId: 5385
+title: The Last Waltz
+year: 1978
+url: https://www.imdb.com/title/tt0077838/
+ratingValue: 
+directors: Martin Scorsese
+actors: The Band, Rick Danko, Levon Helm, Garth Hudson, Richard Manuel, Robbie Robertson, Eric Clapton, Neil Diamond, Bob Dylan, Joni Mitchell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

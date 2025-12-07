@@ -1,0 +1,10 @@
+movieId: 1163
+title: Mina Tannenbaum
+year: 1994
+url: https://www.imdb.com/title/tt0110521/
+ratingValue: 
+directors: Martine Dugowson
+actors: Romane Bohringer, Elsa Zylberstein, Florence Thomassin, Jean-Philippe Écoffey, Eric Defosse, Nils Tavernier, Stéphane Slima, Chantal Krief, Jany Gastaldi, Dumitru Furdui
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

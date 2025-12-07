@@ -1,0 +1,10 @@
+movieId: 1171
+title: Bob Roberts
+year: 1992
+url: https://www.imdb.com/title/tt0103850/
+ratingValue: 
+directors: Tim Robbins
+actors: Tim Robbins, Giancarlo Esposito, Alan Rickman, Ray Wise, Brian Murray, Gore Vidal, Rebecca Jenkins, Harry Lennix, John Ottavino, Robert Stanton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

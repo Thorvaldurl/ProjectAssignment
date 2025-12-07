@@ -1,0 +1,10 @@
+movieId: 38
+title: It Takes Two
+year: 1995
+url: https://www.imdb.com/title/tt0113442/
+ratingValue: 
+directors: Andy Tennant
+actors: Kirstie Alley, Steve Guttenberg, Mary-Kate Olsen, Ashley Olsen, Philip Bosco, Jane Sibbett, Michelle Grisom, Desmond Robertson, Tiny Mills
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2385
+title: Home Fries
+year: 1998
+url: https://www.imdb.com/title/tt0119304/
+ratingValue: 
+directors: Dean Parisot
+actors: Drew Barrymore, Catherine O'Hara, Luke Wilson, Jake Busey, Shelley Duvall, Kim Robillard, Daryl Mitchell, Lanny Flaherty, Chris Ellis, Blue Deckert
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

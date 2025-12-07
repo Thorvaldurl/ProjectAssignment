@@ -1,0 +1,10 @@
+movieId: 435
+title: Coneheads
+year: 1993
+url: https://www.imdb.com/title/tt0106598/
+ratingValue: 
+directors: Steve Barron
+actors: Robert Knott, Jonathan Penner, Whip Hubley, Dan Aykroyd, Jane Curtin, Howard Napper, Michael Richards, Eddie Griffin, Sinbad, Phil Hartman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

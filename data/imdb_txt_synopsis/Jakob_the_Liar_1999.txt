@@ -1,0 +1,10 @@
+movieId: 2882
+title: Jakob the Liar
+year: 1999
+url: https://www.imdb.com/title/tt0120716/
+ratingValue: 
+directors: Peter Kassovitz
+actors: Robin Williams, Hannah Taylor Gordon, Éva Igó, István Bálint, Justus von Dohnányi, Kathleen Gati, Bob Balaban, Alan Arkin, Michael Jeter, Mark Margolis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

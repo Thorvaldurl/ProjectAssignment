@@ -1,0 +1,10 @@
+movieId: 5927
+title: The Best Little Whorehouse in Texas
+year: 1982
+url: https://www.imdb.com/title/tt0083642/
+ratingValue: 
+directors: Colin Higgins
+actors: Burt Reynolds, Dolly Parton, Dom DeLuise, Charles Durning, Jim Nabors, Robert Mandan, Lois Nettleton, Theresa Merritt, Noah Beery Jr., Raleigh Bond
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

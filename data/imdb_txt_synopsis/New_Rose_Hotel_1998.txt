@@ -1,0 +1,10 @@
+movieId: 2892
+title: New Rose Hotel
+year: 1998
+url: https://www.imdb.com/title/tt0133122/
+ratingValue: 
+directors: Abel Ferrara
+actors: Christopher Walken, Willem Dafoe, Asia Argento, Annabella Sciorra, John Lurie, Kimmy Suzuki, Miou, Yoshitaka Amano, Gretchen Mol, Phil Neilson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

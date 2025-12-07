@@ -1,0 +1,10 @@
+movieId: 8012
+title: Kikujiro
+year: 1999
+url: https://www.imdb.com/title/tt0199683/
+ratingValue: 
+directors: Takeshi Kitano
+actors: Takeshi Kitano, Yusuke Sekiguchi, Kayoko Kishimoto, The Great Gidayû, Rakkyo Ide, Akaji Maro, Yûko Daike, Fumie Hosokawa, Nezumi Imamura
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

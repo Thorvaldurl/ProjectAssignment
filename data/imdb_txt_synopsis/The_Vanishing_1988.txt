@@ -1,0 +1,10 @@
+movieId: 4546
+title: The Vanishing
+year: 1988
+url: https://www.imdb.com/title/tt0096163/
+ratingValue: 
+directors: George Sluizer
+actors: Bernard-Pierre Donnadieu, Gene Bervoets, Johanna ter Steege, Gwen Eckhaus, Bernadette Le Saché, Tania Latarjet, Lucille Glenn, Roger Souza, Caroline Appéré
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1111
+title: Microcosmos
+year: 1996
+url: https://www.imdb.com/title/tt0117040/
+ratingValue: 
+directors: Claude Nuridsany, Marie Pérennou
+actors: Jacques Perrin, Kristin Scott Thomas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2563
+title: Dangerous Beauty
+year: 1998
+url: https://www.imdb.com/title/tt0118892/
+ratingValue: 
+directors: Marshall Herskovitz
+actors: Catherine McCormack, Rufus Sewell, Oliver Platt, Fred Ward, Naomi Watts, Moira Kelly, Jacqueline Bisset, Jeroen Krabbé, Joanna Cassidy, Melina Kanakaredes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

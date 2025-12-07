@@ -1,0 +1,10 @@
+movieId: 54
+title: The Big Green
+year: 1995
+url: https://www.imdb.com/title/tt0112499/
+ratingValue: 
+directors: Holly Goldberg Sloan
+actors: Steve Guttenberg, Olivia d'Abo, Jay O. Sanders, John Terry, Chauncey Leopardi, Patrick Renna, Billy L. Sullivan, Yareli Arizmendi, Bug Hall, Jessica Robertson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

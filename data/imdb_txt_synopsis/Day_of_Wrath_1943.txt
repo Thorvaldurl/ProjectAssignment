@@ -1,0 +1,10 @@
+movieId: 25898
+title: Day of Wrath
+year: 1943
+url: https://www.imdb.com/title/tt0036506/
+ratingValue: 
+directors: Carl Theodor Dreyer
+actors: Kirsten Andreasen, Sigurd Berg, Albert Høeberg, Harald Holst, Emanuel Jørgensen, Sophie Knudsen, Preben Lerdorff Rye, Lisbeth Movin, Preben Neergaard
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

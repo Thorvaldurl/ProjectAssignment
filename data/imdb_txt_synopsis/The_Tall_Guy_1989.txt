@@ -1,0 +1,10 @@
+movieId: 4672
+title: The Tall Guy
+year: 1989
+url: https://www.imdb.com/title/tt0098436/
+ratingValue: 
+directors: Mel Smith
+actors: Jeff Goldblum, Emma Thompson, Rowan Atkinson, Geraldine James, Emil Wolk, Kim Thomson, Harold Innocent, Anna Massey, Joanna Kanska, Peter Kelly
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

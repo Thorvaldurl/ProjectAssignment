@@ -1,0 +1,10 @@
+movieId: 2260
+title: Wisdom
+year: 1986
+url: https://www.imdb.com/title/tt0092225/
+ratingValue: 
+directors: Emilio Estevez
+actors: Demi Moore, Emilio Estevez, Tom Skerritt, Veronica Cartwright, William Allen Young, Richard Minchenberg, Ernie Brown, Bill Henderson, Gene Ross, Liam Sullivan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

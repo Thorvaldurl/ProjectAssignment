@@ -1,0 +1,10 @@
+movieId: 7109
+title: Beyond the Clouds
+year: 1995
+url: https://www.imdb.com/title/tt0114086/
+ratingValue: 
+directors: Michelangelo Antonioni, Wim Wenders
+actors: Fanny Ardant, Chiara Caselli, Irène Jacob, John Malkovich, Sophie Marceau, Vincent Perez, Jean Reno, Kim Rossi Stuart, Inés Sastre, Peter Weller
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

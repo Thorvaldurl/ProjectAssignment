@@ -1,0 +1,10 @@
+movieId: 5437
+title: The Manhattan Project
+year: 1986
+url: https://www.imdb.com/title/tt0091472/
+ratingValue: 
+directors: Marshall Brickman
+actors: John Lithgow, Richard Council, Robert Schenkkan, Paul Austin, Adrian Sparks, Curt Dempster, Bran Ferren, Christopher Collet, Jill Eikenberry, Cynthia Nixon
+
+synopsis:
+The Manhattan Project tells of how 17 year-old Paul Stephens (Christopher Collet) and his girlfriend Jenny Anderman (Cynthia Nixon) an aspiring journalist, wants to alert their community a secret nuclear facility in their hometown of Ithaca, NY. While Dr John Mathewson (John Lithgow), supposedly a doctor in this "pharmaceutical research plant," the very same facility in reality a nuclear plant, becomes involved romatically with the Paul's mother Elizabeth (Jill Eikenberry) and friends with Paul. While Dr Mathewson is visiting Paul and Jenny steal the plutonium and construct their own atomic bomb for a science fair in New York city. The movie is funny, and at times, frightening, showing how what can really happen if a teenage genius, finding all things possible on the internet, in published books, and unclassified government papers, can really build himself a nuclear bomb, all for a first place or first prize in a science fair.

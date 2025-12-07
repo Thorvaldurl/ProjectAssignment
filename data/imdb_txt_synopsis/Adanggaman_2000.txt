@@ -1,0 +1,10 @@
+movieId: 4449
+title: Adanggaman
+year: 2000
+url: https://www.imdb.com/title/tt0262210/
+ratingValue: 
+directors: Roger Gnoan M'Bala
+actors: Rasmané Ouédraogo, Albertine N'Guessan, Ziable Honoré Goore Bi, Bintou Bakayoko, Nicole Suzis Menyeng, Mireille Andrée Boti, Patrick Dijian Tie, Lou Nadège Blagone, Anastasie Tode Bohi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

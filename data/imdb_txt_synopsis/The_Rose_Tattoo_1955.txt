@@ -1,0 +1,10 @@
+movieId: 8921
+title: The Rose Tattoo
+year: 1955
+url: https://www.imdb.com/title/tt0048563/
+ratingValue: 
+directors: Daniel Mann
+actors: Anna Magnani, Burt Lancaster, Marisa Pavan, Ben Cooper, Virginia Grey, Jo Van Fleet, Sandro Giglio, Mimi Aguglia, Florence Sundstrom, Albert Adkins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

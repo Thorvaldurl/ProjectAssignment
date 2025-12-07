@@ -1,0 +1,10 @@
+movieId: 8236
+title: While the City Sleeps
+year: 1956
+url: https://www.imdb.com/title/tt0049949/
+ratingValue: 
+directors: Fritz Lang
+actors: Dana Andrews, Rhonda Fleming, George Sanders, Howard Duff, Thomas Mitchell, Vincent Price, Sally Forrest, John Drew Barrymore, James Craig, Ida Lupino
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

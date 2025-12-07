@@ -1,0 +1,10 @@
+movieId: 4054
+title: Save the Last Dance
+year: 2001
+url: https://www.imdb.com/title/tt0206275/
+ratingValue: 
+directors: Thomas Carter
+actors: Julia Stiles, Sean Patrick Thomas, Kerry Washington, Fredro Starr, Terry Kinney, Bianca Lawson, Vince Green, Garland Whitt, Elisabeth Oas, Artel Great
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

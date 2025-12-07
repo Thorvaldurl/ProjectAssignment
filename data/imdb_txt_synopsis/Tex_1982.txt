@@ -1,0 +1,10 @@
+movieId: 2104
+title: Tex
+year: 1982
+url: https://www.imdb.com/title/tt0084783/
+ratingValue: 
+directors: Tim Hunter
+actors: Matt Dillon, Jim Metzler, Meg Tilly, Bill McKinney, Frances Lee McCain, Ben Johnson, Emilio Estevez, Jack Thibeau, Zeljko Ivanek, Tom Virtue
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

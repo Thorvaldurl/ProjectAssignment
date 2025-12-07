@@ -1,0 +1,10 @@
+movieId: 5548
+title: Down and Out in Beverly Hills
+year: 1986
+url: https://www.imdb.com/title/tt0090966/
+ratingValue: 
+directors: Paul Mazursky
+actors: Nick Nolte, Bette Midler, Richard Dreyfuss, Little Richard, Tracy Nelson, Elizabeth Peña, Evan Richards, Mike the Dog, Donald F. Muhich, Paul Mazursky
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

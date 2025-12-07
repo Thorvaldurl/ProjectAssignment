@@ -1,0 +1,10 @@
+movieId: 1613
+title: Star Maps
+year: 1997
+url: https://www.imdb.com/title/tt0120197/
+ratingValue: 
+directors: Miguel Arteta
+actors: Douglas Spain, Efrain Figueroa, Kandeyce Jorden, Martha Velez, Lysa Flores, Annette Murphy, Robin Thomas, Vincent Chandler, Al Vicente, Herbert Siguenza
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2983
+title: The Ipcress File
+year: 1965
+url: https://www.imdb.com/title/tt0059319/
+ratingValue: 
+directors: Sidney J. Furie
+actors: Michael Caine, Nigel Green, Guy Doleman, Sue Lloyd, Gordon Jackson, Aubrey Richards, Frank Gatliff, Thomas Baptiste, Oliver MacGreevy, Freda Bamford
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

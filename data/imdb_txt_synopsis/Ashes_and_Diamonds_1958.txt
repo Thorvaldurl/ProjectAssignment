@@ -1,0 +1,10 @@
+movieId: 7238
+title: Ashes and Diamonds
+year: 1958
+url: https://www.imdb.com/title/tt0052080/
+ratingValue: 
+directors: Andrzej Wajda
+actors: Zbigniew Cybulski, Ewa Krzyzewska, Waclaw Zastrzezynski, Adam Pawlikowski, Bogumil Kobiela, Jan Ciecierski, Stanislaw Milski, Artur Mlodnicki, Halina Kwiatkowska, Ignacy Machowski
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6857
+title: Ninja Scroll
+year: 1993
+url: https://www.imdb.com/title/tt0107692/
+ratingValue: 
+directors: Yoshiaki Kawajiri
+actors: Kôichi Yamadera, Emi Shinohara, Takeshi Aono, Osamu Saka, Daisuke Gôri, Ichirô Nagai, Ryûzaburô Ôtomo, Akimasa Ohmori, Gara Takashima
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

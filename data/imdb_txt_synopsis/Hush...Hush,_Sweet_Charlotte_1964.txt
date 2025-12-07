@@ -1,0 +1,10 @@
+movieId: 26116
+title: Hush...Hush, Sweet Charlotte
+year: 1964
+url: https://www.imdb.com/title/tt0058213/
+ratingValue: 
+directors: Robert Aldrich
+actors: Bette Davis, Olivia de Havilland, Joseph Cotten, Agnes Moorehead, Cecil Kellaway, Victor Buono, Mary Astor, Wesley Addy, William Campbell, Bruce Dern
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

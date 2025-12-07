@@ -1,0 +1,10 @@
+movieId: 6407
+title: Walk Don't Run
+year: 1966
+url: https://www.imdb.com/title/tt0061170/
+ratingValue: 
+directors: Charles Walters
+actors: Cary Grant, Samantha Eggar, Jim Hutton, John Standing, Miiko Taka, Ted Hartley, Ben Astar, George Takei, Teru Shimada, Lois Kiuchi
+
+synopsis:
+This movie is set during the 1964 Olympics in Tokyo, Japan. Sir William Rutland (played by Cary grant) is an elderly English Businessman who comes to tokyo on business. While in Tokyo, he is unable to find housing because of the Olympics, when he comes across a room vacant advertisement, which leads him to Christine Eastons (played by the lovely Samantha Eggars) flat. She was looking for a woman, but eventually gives in and lets Rultand stay. William Rutland meets an American Olmpyian, Steve Davis, who is himself looking for a place to stay. Rutland offers to let him stay with him much to the dismay of Christine. Steve starts falling for Christine, and she starts getting closer to him, but is confused as she is engaged to boring and vague British diplomat Julius P. Haversack ( played by John Standing). Rutland notices the attraction between the lovers and plays cupid to bring them together.

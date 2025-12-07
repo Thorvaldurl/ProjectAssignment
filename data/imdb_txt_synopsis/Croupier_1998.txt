@@ -1,0 +1,10 @@
+movieId: 3783
+title: Croupier
+year: 1998
+url: https://www.imdb.com/title/tt0159382/
+ratingValue: 
+directors: Mike Hodges
+actors: Clive Owen, Nick Reding, Nicholas Ball, Alexander Morton, Barnaby Kay, Gina McKee, John Radcliffe, Sheila Whitfield, David Hamilton, Carol Davis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

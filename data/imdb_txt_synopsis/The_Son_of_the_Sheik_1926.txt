@@ -1,0 +1,10 @@
+movieId: 3492
+title: The Son of the Sheik
+year: 1926
+url: https://www.imdb.com/title/tt0017416/
+ratingValue: 
+directors: George Fitzmaurice
+actors: Rudolph Valentino, Vilma Bánky, George Fawcett, Montagu Love, Karl Dane, Bull Montana, Bynunsky Hyman, Agnes Ayres, Harry Blassingame
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

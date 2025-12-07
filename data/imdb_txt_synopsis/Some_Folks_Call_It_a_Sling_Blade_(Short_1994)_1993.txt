@@ -1,0 +1,10 @@
+movieId: 678
+title: Some Folks Call It a Sling Blade (Short 1994)
+year: 1993
+url: https://www.imdb.com/title/tt0108181/
+ratingValue: 
+directors: George Hickenlooper
+actors: Billy Bob Thornton, Molly Ringwald, J.T. Walsh, Jefferson Mays, Suzanne Cryer, Abby Abernathy, Brent Briscoe, Otto Coelho, Abe Dalool, Ron Livingston
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

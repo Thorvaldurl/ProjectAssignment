@@ -1,0 +1,10 @@
+movieId: 4051
+title: Horrors of Spider Island
+year: 1960
+url: https://www.imdb.com/title/tt0056600/
+ratingValue: 
+directors: 
+actors: Harald Maresch, Helga Franck, Alexander D'Arcy, Helga Neuner, Rainer Brandt, Dorothee Parker, Gerry Sammer, Eva Schauland, Helma Vandenberg, Elfie Wagner, Barbara Valentin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

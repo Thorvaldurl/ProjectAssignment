@@ -1,0 +1,10 @@
+movieId: 5278
+title: Fraternity Vacation
+year: 1985
+url: https://www.imdb.com/title/tt0089167/
+ratingValue: 
+directors: James Frawley
+actors: Stephen Geoffreys, Sheree J. Wilson, Cameron Dye, Leigh McCloskey, Tim Robbins, Matt McCoy, Amanda Bearse, John Vernon, Nita Talbot, Barbara Crampton
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

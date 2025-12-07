@@ -1,0 +1,10 @@
+movieId: 2155
+title: Slums of Beverly Hills
+year: 1998
+url: https://www.imdb.com/title/tt0120831/
+ratingValue: 
+directors: Tamara Jenkins
+actors: Natasha Lyonne, Alan Arkin, Bryna Weiss, Marisa Tomei, Charlotte Stewart, Eli Marienthal, David Krumholtz, Kevin Corrigan, Brendan Burns, Harris Laskawy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

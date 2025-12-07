@@ -1,0 +1,10 @@
+movieId: 7562
+title: Dobermann
+year: 1997
+url: https://www.imdb.com/title/tt0118996/
+ratingValue: 
+directors: Jan Kounen
+actors: Vincent Cassel, Tchéky Karyo, Monica Bellucci, Antoine Basler, Dominique Bettenfeld, Pascal Demolon, Marc Duret, Romain Duris, François Levantal, Ivan Merat-Barboff
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

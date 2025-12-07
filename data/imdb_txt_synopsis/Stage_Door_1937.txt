@@ -1,0 +1,10 @@
+movieId: 25841
+title: Stage Door
+year: 1937
+url: https://www.imdb.com/title/tt0029604/
+ratingValue: 
+directors: Gregory La Cava
+actors: Katharine Hepburn, Ginger Rogers, Adolphe Menjou, Gail Patrick, Constance Collier, Andrea Leeds, Samuel S. Hinds, Lucille Ball, Franklin Pangborn, William Corson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

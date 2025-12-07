@@ -1,0 +1,10 @@
+movieId: 3663
+title: Puppet Master 4 (Video 1993)
+year: 1993
+url: https://www.imdb.com/title/tt0107899/
+ratingValue: 
+directors: Jeff Burr
+actors: Gordon Currie, Chandra West, Ash Adams, Teresa Hill, Guy Rolfe, Felton Perry, Stacie Randall, Michael Shamus Wiles, Dan Zukovic, Albert Band
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

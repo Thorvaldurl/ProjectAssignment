@@ -1,0 +1,10 @@
+movieId: 5297
+title: The Cat's Meow
+year: 2001
+url: https://www.imdb.com/title/tt0266391/
+ratingValue: 
+directors: Peter Bogdanovich
+actors: Kirsten Dunst, Edward Herrmann, Eddie Izzard, Cary Elwes, Joanna Lumley, Jennifer Tilly, Claudia Harrison, Victor Slezak, James Laurenson, Ronan Vibert
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

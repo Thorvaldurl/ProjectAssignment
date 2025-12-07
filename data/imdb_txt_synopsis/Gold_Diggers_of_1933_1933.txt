@@ -1,0 +1,10 @@
+movieId: 25797
+title: Gold Diggers of 1933
+year: 1933
+url: https://www.imdb.com/title/tt0024069/
+ratingValue: 
+directors: Mervyn LeRoy
+actors: Warren William, Joan Blondell, Aline MacMahon, Ruby Keeler, Dick Powell, Guy Kibbee, Ned Sparks, Ginger Rogers, Robert Agnew, Loretta Andrews
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

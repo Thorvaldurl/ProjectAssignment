@@ -1,0 +1,10 @@
+movieId: 325
+title: National Lampoon's Senior Trip
+year: 1995
+url: https://www.imdb.com/title/tt0113936/
+ratingValue: 
+directors: Kelly Makin
+actors: Matt Frewer, Valerie Mahaffey, Lawrence Dane, Tommy Chong, Jeremy Renner, Rob Moore, Eric Edwards, Kevin McDonald, Michael Blake, Tara Strong
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

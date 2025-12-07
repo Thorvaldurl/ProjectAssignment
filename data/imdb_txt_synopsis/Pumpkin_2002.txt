@@ -1,0 +1,10 @@
+movieId: 5451
+title: Pumpkin
+year: 2002
+url: https://www.imdb.com/title/tt0265591/
+ratingValue: 
+directors: Anthony Abrams, Adam Larson Broder
+actors: Christina Ricci, Hank Harris, Brenda Blethyn, Dominique Swain, Marisa Coughlan, Sam Ball, Harry Lennix, Nina Foch, Caroline Aaron, Lisa Banes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

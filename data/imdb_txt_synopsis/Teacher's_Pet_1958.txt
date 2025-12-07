@@ -1,0 +1,10 @@
+movieId: 26038
+title: Teacher's Pet
+year: 1958
+url: https://www.imdb.com/title/tt0052278/
+ratingValue: 
+directors: George Seaton
+actors: Clark Gable, Doris Day, Gig Young, Mamie Van Doren, Nick Adams, Peter Baldwin, Marion Ross, Charles Lane, Jack Albertson, Florenz Ames
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

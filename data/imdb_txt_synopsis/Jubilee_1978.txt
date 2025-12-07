@@ -1,0 +1,10 @@
+movieId: 6465
+title: Jubilee
+year: 1978
+url: https://www.imdb.com/title/tt0076240/
+ratingValue: 
+directors: Derek Jarman
+actors: Adam Ant, Richard O'Brien, Ian Charleson, Jayne County, Claire Davenport, Hermine Demoriane, Donald Dunham, Iris Fry, David Brandon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 341
+title: Double Happiness
+year: 1994
+url: https://www.imdb.com/title/tt0109655/
+ratingValue: 
+directors: Mina Shum
+actors: Claudette Carracedo, Greg Chan, Stephen Chang, Estelle Coppens, Lesley Ewen, Donald Fong, Nathan Fong, Dennis Foon, Kevin Kelly
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

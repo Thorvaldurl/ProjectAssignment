@@ -1,0 +1,10 @@
+movieId: 1310
+title: Hype!
+year: 1996
+url: https://www.imdb.com/title/tt0116589/
+ratingValue: 
+directors: Doug Pray
+actors: 7 Year Bitch, Valerie M. Agnew, Carrie Akre, Jeff Ament, Dawn Anderson, Michael Anderson, Paul Arkin, Mark Arm, James Atkins
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

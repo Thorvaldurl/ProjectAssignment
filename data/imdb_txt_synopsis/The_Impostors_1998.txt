@@ -1,0 +1,10 @@
+movieId: 2295
+title: The Impostors
+year: 1998
+url: https://www.imdb.com/title/tt0120823/
+ratingValue: 
+directors: Stanley Tucci
+actors: Oliver Platt, Stanley Tucci, Walker Jones, Jessica Walling, David Lipman, E. Katherine Kerr, George Guidall, William Hill, Alfred Molina, Michael Emerson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

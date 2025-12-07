@@ -1,0 +1,10 @@
+movieId: 1415
+title: Thieves
+year: 1996
+url: https://www.imdb.com/title/tt0118100/
+ratingValue: 
+directors: André Téchiné
+actors: Catherine Deneuve, Daniel Auteuil, Laurence Côte, Benoît Magimel, Fabienne Babe, Didier Bezace, Julien Rivière, Ivan Desny, Régis Betoule
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

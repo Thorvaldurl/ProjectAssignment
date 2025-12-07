@@ -1,0 +1,10 @@
+movieId: 1752
+title: Hard Rain
+year: 1998
+url: https://www.imdb.com/title/tt0120696/
+ratingValue: 
+directors: Mikael Salomon
+actors: Morgan Freeman, Christian Slater, Randy Quaid, Minnie Driver, Edward Asner, Michael A. Goorjian, Dann Florek, Ricky Harris, Mark Rolston, Peter Murnik
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

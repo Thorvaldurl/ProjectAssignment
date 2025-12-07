@@ -1,0 +1,10 @@
+movieId: 1829
+title: Chinese Box
+year: 1997
+url: https://www.imdb.com/title/tt0118851/
+ratingValue: 
+directors: Wayne Wang
+actors: Jeremy Irons, Maggie Cheung, Gong Li, Michael Hui, Emma Lucia, Ken Bennett, Rubén Blades, Chaplin Chang, Russell Cawthorne, Emotion Cheung
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

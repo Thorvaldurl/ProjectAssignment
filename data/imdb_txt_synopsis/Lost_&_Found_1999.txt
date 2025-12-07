@@ -1,0 +1,10 @@
+movieId: 2597
+title: Lost & Found
+year: 1999
+url: https://www.imdb.com/title/tt0120836/
+ratingValue: 
+directors: Jeff Pollack
+actors: David Spade, Ever Carradine, Stephanie Chang, Neal MacMillan, James Vincent, Mitchell Whitfield, Lloyd Garroway, Artie Lange, Coby, Sophie Marceau
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

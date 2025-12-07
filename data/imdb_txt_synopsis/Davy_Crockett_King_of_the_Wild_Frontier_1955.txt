@@ -1,0 +1,10 @@
+movieId: 1008
+title: Davy Crockett: King of the Wild Frontier
+year: 1955
+url: https://www.imdb.com/title/tt0047977/
+ratingValue: 
+directors: Norman Foster
+actors: Fess Parker, Buddy Ebsen, Basil Ruysdael, Hans Conried, William Bakewell, Kenneth Tobey, Pat Hogan, Helene Stanley, Nick Cravat, Don Megowan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

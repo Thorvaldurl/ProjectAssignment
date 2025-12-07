@@ -1,0 +1,10 @@
+movieId: 2264
+title: We're No Angels
+year: 1989
+url: https://www.imdb.com/title/tt0098625/
+ratingValue: 
+directors: Neil Jordan
+actors: Robert De Niro, Sean Penn, Demi Moore, Hoyt Axton, Bruno Kirby, Ray McAnally, James Russo, Wallace Shawn, John C. Reilly, Jay Brazeau
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

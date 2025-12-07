@@ -1,0 +1,10 @@
+movieId: 1571
+title: When the Cat's Away
+year: 1996
+url: https://www.imdb.com/title/tt0115856/
+ratingValue: 
+directors: Cédric Klapisch
+actors: Garance Clavel, Zinedine Soualem, Renée Le Calm, Olivier Py, Arapimou, Rambo, Simon Abkarian, Frédéric Aufray, Olivier Barny
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

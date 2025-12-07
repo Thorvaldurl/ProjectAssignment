@@ -1,0 +1,10 @@
+movieId: 5285
+title: Lucky Break
+year: 2001
+url: https://www.imdb.com/title/tt0246134/
+ratingValue: 
+directors: Peter Cattaneo
+actors: James Nesbitt, Olivia Williams, Timothy Spall, Bill Nighy, Lennie James, Ron Cook, Frank Harper, Raymond Waring, Christopher Plummer, Julian Barratt
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

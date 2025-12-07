@@ -1,0 +1,10 @@
+movieId: 2149
+title: House II: The Second Story
+year: 1987
+url: https://www.imdb.com/title/tt0093220/
+ratingValue: 
+directors: Ethan Wiley
+actors: Arye Gross, Jonathan Stark, Royal Dano, Bill Maher, John Ratzenberger, Lar Park-Lincoln, Amy Yasbeck, Gregory Walcott, Dwier Brown, Lenora May
+
+synopsis:
+In this sequel, a young man inherits a house and invites his friend to move in with him. A series of mysterious (and humorous) events leads him to his great-grandfather, who has been kept alive by a magical crystal skull. The skull is stolen, and mayhem ensues.

@@ -1,0 +1,10 @@
+movieId: 1963
+title: Take the Money and Run
+year: 1969
+url: https://www.imdb.com/title/tt0065063/
+ratingValue: 
+directors: Woody Allen
+actors: Woody Allen, Janet Margolin, Marcel Hillaire, Jacquelyn Hyde, Lonny Chapman, Jan Merlin, James Anderson, Howard Storm, Mark Gordon, Micil Murphy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

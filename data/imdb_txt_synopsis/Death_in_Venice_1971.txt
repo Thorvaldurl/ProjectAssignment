@@ -1,0 +1,10 @@
+movieId: 6684
+title: Death in Venice
+year: 1971
+url: https://www.imdb.com/title/tt0067445/
+ratingValue: 
+directors: Luchino Visconti
+actors: Dirk Bogarde, Romolo Valli, Mark Burns, Nora Ricci, Marisa Berenson, Carole André, Björn Andrésen, Silvana Mangano, Leslie French, Franco Fabrizi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

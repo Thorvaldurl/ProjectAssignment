@@ -1,0 +1,10 @@
+movieId: 1507
+title: Paradise Road
+year: 1997
+url: https://www.imdb.com/title/tt0119859/
+ratingValue: 
+directors: Bruce Beresford
+actors: Glenn Close, Frances McDormand, Pauline Collins, Cate Blanchett, Jennifer Ehle, Julianna Margulies, Wendy Hughes, Johanna ter Steege, Elizabeth Spriggs, Pamela Rabe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

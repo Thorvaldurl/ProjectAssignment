@@ -1,0 +1,10 @@
+movieId: 1441
+title: Benny & Joon
+year: 1993
+url: https://www.imdb.com/title/tt0106387/
+ratingValue: 
+directors: Jeremiah S. Chechik
+actors: Johnny Depp, Mary Stuart Masterson, Aidan Quinn, Julianne Moore, Oliver Platt, CCH Pounder, Dan Hedaya, Joe Grifasi, William H. Macy, Liane Curtis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

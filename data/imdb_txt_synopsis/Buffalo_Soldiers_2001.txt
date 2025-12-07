@@ -1,0 +1,10 @@
+movieId: 6567
+title: Buffalo Soldiers
+year: 2001
+url: https://www.imdb.com/title/tt0252299/
+ratingValue: 
+directors: Gregor Jordan
+actors: Joaquin Phoenix, Ed Harris, Scott Glenn, Anna Paquin, Elizabeth McGovern, Michael Peña, Leon, Gabriel Mann, Dean Stockwell, Brian Delate
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

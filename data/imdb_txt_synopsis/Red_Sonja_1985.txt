@@ -1,0 +1,10 @@
+movieId: 2373
+title: Red Sonja
+year: 1985
+url: https://www.imdb.com/title/tt0089893/
+ratingValue: 
+directors: Richard Fleischer
+actors: Arnold Schwarzenegger, Brigitte Nielsen, Sandahl Bergman, Paul L. Smith, Ernie Reyes Jr., Ronald Lacey, Pat Roach, Terry Richards, Janet Agren, Donna Osterbuhr
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

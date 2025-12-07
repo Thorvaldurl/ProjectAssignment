@@ -1,0 +1,10 @@
+movieId: 4526
+title: My Stepmother Is an Alien
+year: 1988
+url: https://www.imdb.com/title/tt0095687/
+ratingValue: 
+directors: Richard Benjamin
+actors: Dan Aykroyd, Kim Basinger, Jon Lovitz, Alyson Hannigan, Joseph Maher, Seth Green, Ann Prentiss, Wesley Mann, Tony Jay, Peter Bromilow
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

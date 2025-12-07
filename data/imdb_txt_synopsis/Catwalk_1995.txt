@@ -1,0 +1,10 @@
+movieId: 108
+title: Catwalk
+year: 1995
+url: https://www.imdb.com/title/tt0112646/
+ratingValue: 
+directors: Milton Moses Ginsberg, Robert Leacock
+actors: Christy Turlington, Azzedine Alaïa, Giorgio Armani, Nadja Auermann, Sandra Bernhard, Kate Betts, Brandi, Carla Bruni, Naomi Campbell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

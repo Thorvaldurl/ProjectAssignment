@@ -1,0 +1,10 @@
+movieId: 6020
+title: Alice Adams
+year: 1935
+url: https://www.imdb.com/title/tt0026056/
+ratingValue: 
+directors: George Stevens
+actors: Katharine Hepburn, Fred MacMurray, Fred Stone, Evelyn Venable, Frank Albertson, Ann Shoemaker, Charley Grapewin, Grady Sutton, Hedda Hopper, Jonathan Hale
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

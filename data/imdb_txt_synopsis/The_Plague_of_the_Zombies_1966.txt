@@ -1,0 +1,10 @@
+movieId: 7882
+title: The Plague of the Zombies
+year: 1966
+url: https://www.imdb.com/title/tt0060841/
+ratingValue: 
+directors: John Gilling
+actors: André Morell, Diane Clare, Brook Williams, Jacqueline Pearce, John Carson, Alexander Davion, Michael Ripper, Marcus Hammond, Dennis Chinnery, Louis Mahoney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4782
+title: Sidewalks of New York
+year: 2001
+url: https://www.imdb.com/title/tt0239986/
+ratingValue: 
+directors: Edward Burns
+actors: Penny Balfour, Edward Burns, Michael Leydon Campbell, Nadia Dajani, Rosario Dawson, Kathleen Doyle, Dennis Farina, Heather Graham, Leah Gray, Timothy Jerome
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

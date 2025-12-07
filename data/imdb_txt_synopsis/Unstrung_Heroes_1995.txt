@@ -1,0 +1,10 @@
+movieId: 205
+title: Unstrung Heroes
+year: 1995
+url: https://www.imdb.com/title/tt0114798/
+ratingValue: 
+directors: Diane Keaton
+actors: Andie MacDowell, John Turturro, Michael Richards, Maury Chaykin, Nathan Watt, Anne DeSalvo, Celia Weston, Jack McGee, Candice Azzara, Kendra Krull
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

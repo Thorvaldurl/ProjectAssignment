@@ -1,0 +1,10 @@
+movieId: 2766
+title: The Adventures of Sebastian Cole
+year: 1998
+url: https://www.imdb.com/title/tt0168449/
+ratingValue: 
+directors: Tod Williams
+actors: Adrian Grenier, Clark Gregg, Aleksa Palladino, Margaret Colin, John Shea, Marni Lustig, Joan Copeland, Tom Lacy, Gabriel Macht, Herbert Russell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

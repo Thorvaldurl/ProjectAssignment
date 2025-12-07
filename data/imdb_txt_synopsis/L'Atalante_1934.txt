@@ -1,0 +1,10 @@
+movieId: 25805
+title: L'Atalante
+year: 1934
+url: https://www.imdb.com/title/tt0024844/
+ratingValue: 
+directors: Jean Vigo
+actors: Dita Parlo, Jean Dasté, Gilles Margaritis, Louis Lefebvre, Maurice Gilles, Raphaël Diligent, Michel Simon, Claude Aveline, René Blech
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

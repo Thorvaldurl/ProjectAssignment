@@ -1,0 +1,10 @@
+movieId: 5651
+title: The Incredible Mr. Limpet
+year: 1964
+url: https://www.imdb.com/title/tt0058230/
+ratingValue: 
+directors: Arthur Lubin, Gerry Chiniquy, Robert McKimson, Hawley Pratt, Bill Tytla
+actors: Don Knotts, Carole Cook, Jack Weston, Andrew Duggan, Larry Keating, Oscar Beregi Jr., Charles Meredith, Elizabeth MacRae, Paul Frees, Peter Adams
+
+synopsis:
+Based on the novel by Theodore Pratt, this quaint fantasy leads the viewer from real-life to a spectacular animated deep-sea adventure. Henry Limpet (Don Knotts), a bespectacled, milquetoast bookkeeper, loves his pet fish so much that he longs to be one. When Henry's wish comes true and he's turned into a talking fish, the simple ocean life he'd envisioned proves more exciting than mundane. This is a campy, funfilled movie for all ages. :)

@@ -1,0 +1,10 @@
+movieId: 6853
+title: Campus Man
+year: 1987
+url: https://www.imdb.com/title/tt0092717/
+ratingValue: 
+directors: Ron Casden
+actors: John Dye, Steven Lyon, Kim Delaney, Kathleen Wilhoite, Miles O'Keeffe, Morgan Fairchild, John Welsh, Josef Rainer, Richard Alexander
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2943
+title: Indochine
+year: 1992
+url: https://www.imdb.com/title/tt0104507/
+ratingValue: 
+directors: Régis Wargnier
+actors: Catherine Deneuve, Vincent Perez, Linh-Dan Pham, Jean Yanne, Dominique Blanc, Henri Marteau, Carlo Brandt, Gérard Lartigau, Hubert Saint-Macary, Andrzej Seweryn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

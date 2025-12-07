@@ -1,0 +1,10 @@
+movieId: 1121
+title: Glory Daze
+year: 1995
+url: https://www.imdb.com/title/tt0116422/
+ratingValue: 
+directors: Rich Wilkes
+actors: Ben Affleck, Sam Rockwell, Megan Ward, French Stewart, Vien Hong, Vinnie DeRamus, Kristin Bauer, Alyssa Milano, John Rhys-Davies, Lance Wilson-White
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

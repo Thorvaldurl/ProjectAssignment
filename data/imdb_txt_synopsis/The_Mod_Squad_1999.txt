@@ -1,0 +1,10 @@
+movieId: 2568
+title: The Mod Squad
+year: 1999
+url: https://www.imdb.com/title/tt0120757/
+ratingValue: 
+directors: Scott Silver
+actors: Claire Danes, Giovanni Ribisi, Omar Epps, Dennis Farina, Josh Brolin, Steve Harris, Richard Jenkins, Larry Brandenburg, Lionel Mark Smith, Sam McMurray
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

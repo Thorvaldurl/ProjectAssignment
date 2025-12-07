@@ -1,0 +1,10 @@
+movieId: 5538
+title: The Care Bears Movie
+year: 1985
+url: https://www.imdb.com/title/tt0088885/
+ratingValue: 
+directors: Arna Selznick
+actors: Mickey Rooney, Jackie Burroughs, Georgia Engel, Sunny Besen Thrasher, Eva Almos, Patricia Black, Melleny Melody, Bob Dermer, Jayne Eastwood
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

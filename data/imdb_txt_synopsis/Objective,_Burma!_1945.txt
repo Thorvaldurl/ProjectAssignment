@@ -1,0 +1,10 @@
+movieId: 6434
+title: Objective, Burma!
+year: 1945
+url: https://www.imdb.com/title/tt0037954/
+ratingValue: 
+directors: Raoul Walsh
+actors: Errol Flynn, James Brown, William Prince, George Tobias, Henry Hull, Warner Anderson, John Alvin, Mark Stevens, Richard Erdman, Erville Alderson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

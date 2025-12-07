@@ -1,0 +1,10 @@
+movieId: 5668
+title: White Oleander
+year: 2002
+url: https://www.imdb.com/title/tt0283139/
+ratingValue: 
+directors: Peter Kosminsky
+actors: Amy Aquino, John Billingsley, Elisa Bocanegra, Darlene Bohorquez, Solomon Burke Jr., Scott Allan Campbell, Sam Catlin, Debra Christofferson, Billy Connolly, Marc Donato
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6270
+title: Dreams
+year: 1990
+url: https://www.imdb.com/title/tt0100998/
+ratingValue: 
+directors: Akira Kurosawa, Ishirô Honda
+actors: Akira Terao, Mitsuko Baishô, Toshie Negishi, Mieko Harada, Mitsunori Isaki, Toshihiko Nakano, Yoshitaka Zushi, Hisashi Igawa, Chôsuke Ikariya, Chishû Ryû
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1147
+title: When We Were Kings
+year: 1996
+url: https://www.imdb.com/title/tt0118147/
+ratingValue: 
+directors: Leon Gast
+actors: Muhammad Ali, George Foreman, Don King, James Brown, B.B. King, Mobutu Sese Seko, Spike Lee, Norman Mailer, George Plimpton, Thomas Hauser
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1770
+title: B. Monkey
+year: 1998
+url: https://www.imdb.com/title/tt0120594/
+ratingValue: 
+directors: Michael Radford
+actors: Asia Argento, Jared Harris, Rupert Everett, Jonathan Rhys Meyers, Julie T. Wallace, Ian Hart, Tim Woodward, Bryan Pringle, Clare Higgins, Simone Bowkett
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

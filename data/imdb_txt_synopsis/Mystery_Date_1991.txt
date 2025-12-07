@@ -1,0 +1,10 @@
+movieId: 6033
+title: Mystery Date
+year: 1991
+url: https://www.imdb.com/title/tt0102500/
+ratingValue: 
+directors: Jonathan Wacks
+actors: Ethan Hawke, Teri Polo, Brian McNamara, Fisher Stevens, BD Wong, Tony Rosato, Don S. Davis, James Hong, Victor Wong, Ping Wu
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

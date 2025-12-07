@@ -1,0 +1,10 @@
+movieId: 1844
+title: Live Flesh
+year: 1997
+url: https://www.imdb.com/title/tt0118819/
+ratingValue: 
+directors: Pedro Almodóvar
+actors: Javier Bardem, Francesca Neri, Liberto Rabal, Ángela Molina, José Sancho, Penélope Cruz, Pilar Bardem, Álex Angulo, Mariola Fuentes, Yael Be
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

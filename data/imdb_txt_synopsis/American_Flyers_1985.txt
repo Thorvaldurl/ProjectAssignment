@@ -1,0 +1,10 @@
+movieId: 3214
+title: American Flyers
+year: 1985
+url: https://www.imdb.com/title/tt0088707/
+ratingValue: 
+directors: John Badham
+actors: Kevin Costner, David Marshall Grant, Rae Dawn Chong, Alexandra Paul, Janice Rule, Luca Bercovici, Robert Townsend, John Amos, Doi Johnson, John Garber
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

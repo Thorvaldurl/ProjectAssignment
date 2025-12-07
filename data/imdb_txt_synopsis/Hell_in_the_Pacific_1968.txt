@@ -1,0 +1,10 @@
+movieId: 3143
+title: Hell in the Pacific
+year: 1968
+url: https://www.imdb.com/title/tt0063056/
+ratingValue: 
+directors: John Boorman
+actors: Lee Marvin, Toshirô Mifune
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

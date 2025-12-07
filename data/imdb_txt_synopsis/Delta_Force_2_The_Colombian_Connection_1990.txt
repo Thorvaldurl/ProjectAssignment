@@ -1,0 +1,10 @@
+movieId: 8118
+title: Delta Force 2: The Colombian Connection
+year: 1990
+url: https://www.imdb.com/title/tt0099399/
+ratingValue: 
+directors: Aaron Norris
+actors: Chuck Norris, Billy Drago, John P. Ryan, Richard Jaeckel, Begonya Plaza, Paul Perri, Héctor Mercado, Mark Margolis, Mateo Gómez, Ruth de Sosa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

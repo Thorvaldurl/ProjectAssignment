@@ -1,0 +1,10 @@
+movieId: 875
+title: Nothing to Lose
+year: 1994
+url: https://www.imdb.com/title/tt0110693/
+ratingValue: 
+directors: Izidore K. Musallam
+actors: Alexandra Paul, Youssef Abed-Alnour, Paul Gleason, Michael V. Gazzo, Juliano Mer-Khamis, David Campbell, Will Corno, Chris Leavins, Greg Locke, Mariliese Rizzardo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

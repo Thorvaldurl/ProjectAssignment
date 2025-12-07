@@ -1,0 +1,10 @@
+movieId: 4484
+title: Camille Claudel
+year: 1988
+url: https://www.imdb.com/title/tt0094828/
+ratingValue: 
+directors: Bruno Nuytten
+actors: Isabelle Adjani, Gérard Depardieu, Madeleine Robinson, Laurent Grévill, Philippe Clévenot, Katrine Boorman, Maxime Leroux, Danièle Lebrun, Jean-Pierre Sentier, Roger Planchon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

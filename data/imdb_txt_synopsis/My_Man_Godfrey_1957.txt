@@ -1,0 +1,10 @@
+movieId: 3096
+title: My Man Godfrey
+year: 1957
+url: https://www.imdb.com/title/tt0050738/
+ratingValue: 
+directors: Henry Koster
+actors: June Allyson, David Niven, Jessie Royce Landis, Robert Keith, Eva Gabor, Jay Robinson, Martha Hyer, Jeff Donnell, Herbert Anderson, Eric Sinclair
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

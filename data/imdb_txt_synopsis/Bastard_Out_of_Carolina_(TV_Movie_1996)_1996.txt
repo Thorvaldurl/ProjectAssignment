@@ -1,0 +1,10 @@
+movieId: 1397
+title: Bastard Out of Carolina (TV Movie 1996)
+year: 1996
+url: https://www.imdb.com/title/tt0115633/
+ratingValue: 
+directors: Anjelica Huston
+actors: Jennifer Jason Leigh, Ron Eldard, Glenne Headly, Lyle Lovett, Jena Malone, Dermot Mulroney, Christina Ricci, Michael Rooker, Diana Scarwid, Susan Traylor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2681
+title: Free Enterprise
+year: 1998
+url: https://www.imdb.com/title/tt0141105/
+ratingValue: 
+directors: Robert Meyer Burnett
+actors: Eric McCormack, Carl Bressler, Ethan Glazer, Phyllis Franklin, Brandon Kleyla, Thomas Hobson, Marilyn Kentz, Spencer Klein, Mickey Cassidy, Rafer Weigel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

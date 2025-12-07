@@ -1,0 +1,10 @@
+movieId: 4721
+title: American Outlaws
+year: 2001
+url: https://www.imdb.com/title/tt0244000/
+ratingValue: 
+directors: Les Mayfield
+actors: Colin Farrell, Scott Caan, Ali Larter, Gabriel Macht, Gregory Smith, Harris Yulin, Kathy Bates, Timothy Dalton, Will McCormack, Ronny Cox
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

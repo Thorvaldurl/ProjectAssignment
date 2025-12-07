@@ -1,0 +1,10 @@
+movieId: 3454
+title: Whatever It Takes
+year: 2000
+url: https://www.imdb.com/title/tt0202402/
+ratingValue: 
+directors: David Raynr
+actors: Jodi Lyn O'Keefe, Shane West, Marla Sokoloff, Manu Intiraymi, Aaron Paul, Julia Sweeney, James Franco, Kip Pardue, Scott Vickaryous, Colin Hanks
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

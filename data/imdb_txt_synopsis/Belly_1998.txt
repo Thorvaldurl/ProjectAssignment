@@ -1,0 +1,10 @@
+movieId: 2332
+title: Belly
+year: 1998
+url: https://www.imdb.com/title/tt0158493/
+ratingValue: 
+directors: Hype Williams
+actors: DMX, Nas, Hassan Johnson, Taral Hicks, Tionne 'T-Boz' Watkins, Oliver 'Power' Grant, Louie Rankin, Stan Drayton, James Parris, Method Man
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

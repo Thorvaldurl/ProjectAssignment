@@ -1,0 +1,10 @@
+movieId: 2824
+title: On the Ropes
+year: 1999
+url: https://www.imdb.com/title/tt0181733/
+ratingValue: 
+directors: Nanette Burstein, Brett Morgen
+actors: Sam Doumit, Martin Goldman, Harry Keitt, Randy Little, Tyrene Manson, Mickey Marcello, Eddie Mustafa Muhammad, Aida Santiago, Noel Santiago
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

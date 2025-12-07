@@ -1,0 +1,10 @@
+movieId: 25827
+title: Mr. Deeds Goes to Town
+year: 1936
+url: https://www.imdb.com/title/tt0027996/
+ratingValue: 
+directors: Frank Capra
+actors: Gary Cooper, Jean Arthur, George Bancroft, Lionel Stander, Douglass Dumbrille, Raymond Walburn, H.B. Warner, Ruth Donnelly, Walter Catlett, John Wray
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

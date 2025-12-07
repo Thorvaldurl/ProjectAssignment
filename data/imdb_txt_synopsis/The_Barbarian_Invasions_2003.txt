@@ -1,0 +1,10 @@
+movieId: 6954
+title: The Barbarian Invasions
+year: 2003
+url: https://www.imdb.com/title/tt0338135/
+ratingValue: 
+directors: Denys Arcand
+actors: Rémy Girard, Stéphane Rousseau, Marie-Josée Croze, Marina Hands, Dorothée Berryman, Johanne-Marie Tremblay, Pierre Curzi, Yves Jacques, Louise Portal, Dominique Michel
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

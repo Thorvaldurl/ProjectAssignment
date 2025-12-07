@@ -1,0 +1,10 @@
+movieId: 41
+title: Richard III
+year: 1995
+url: https://www.imdb.com/title/tt0114279/
+ratingValue: 
+directors: Richard Loncraine
+actors: Christopher Bowen, Edward Jewesbury, Ian McKellen, Bill Paterson, Annette Bening, Matthew Groom, John Wood, Nigel Hawthorne, Maggie Smith, Kate Steavenson-Payne
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 7303
+title: The Diary of Anne Frank
+year: 1959
+url: https://www.imdb.com/title/tt0052738/
+ratingValue: 
+directors: George Stevens
+actors: Millie Perkins, Joseph Schildkraut, Shelley Winters, Richard Beymer, Gusti Huber, Lou Jacobi, Diane Baker, Douglas Spencer, Dodie Heath, Ed Wynn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

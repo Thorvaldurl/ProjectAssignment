@@ -1,0 +1,10 @@
+movieId: 3325
+title: The Next Best Thing
+year: 2000
+url: https://www.imdb.com/title/tt0156841/
+ratingValue: 
+directors: John Schlesinger
+actors: Madonna, Rupert Everett, Benjamin Bratt, Illeana Douglas, Michael Vartan, Josef Sommer, Malcolm Stumpf, Lynn Redgrave, Neil Patrick Harris, Mark Valley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

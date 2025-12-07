@@ -1,0 +1,10 @@
+movieId: 2769
+title: The Yards
+year: 2000
+url: https://www.imdb.com/title/tt0138946/
+ratingValue: 
+directors: James Gray
+actors: Mark Wahlberg, Joaquin Phoenix, Charlize Theron, James Caan, Ellen Burstyn, Faye Dunaway, Steve Lawrence, Andy Davoli, Tony Musante, Victor Argo
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

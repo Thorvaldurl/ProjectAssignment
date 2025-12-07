@@ -1,0 +1,10 @@
+movieId: 4313
+title: The Man Who Cried
+year: 2000
+url: https://www.imdb.com/title/tt0206917/
+ratingValue: 
+directors: Sally Potter
+actors: Christina Ricci, Oleg Yankovskiy, Claudia Lander-Duke, Danny Scheinmann, Anna Tzelniker, Barry Davis, Thom Osborn, Frank Chersky, Daniel Hart, Peter Majer
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

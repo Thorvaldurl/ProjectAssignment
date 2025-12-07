@@ -1,0 +1,10 @@
+movieId: 1006
+title: The Chamber
+year: 1996
+url: https://www.imdb.com/title/tt0115862/
+ratingValue: 
+directors: James Foley
+actors: Chris O'Donnell, Gene Hackman, Faye Dunaway, Robert Prosky, Raymond J. Barry, Bo Jackson, Lela Rochon, David Marshall Grant, Nicholas Pryor, Harve Presnell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

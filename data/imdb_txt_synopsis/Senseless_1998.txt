@@ -1,0 +1,10 @@
+movieId: 1746
+title: Senseless
+year: 1998
+url: https://www.imdb.com/title/tt0120820/
+ratingValue: 
+directors: Penelope Spheeris
+actors: Marlon Wayans, Brad Dourif, Esther Scott, Debra Jo Rupp, Mark Christopher Lawrence, Matthew Lillard, David Spade, Tamara Taylor, John Ingle, Rip Torn
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

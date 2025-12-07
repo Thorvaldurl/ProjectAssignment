@@ -1,0 +1,16 @@
+movieId: 3693
+title: The Toxic Avenger
+year: 1984
+url: https://www.imdb.com/title/tt0090190/
+ratingValue: 
+directors: Michael Herz, Lloyd Kaufman
+actors: Andree Maranda, Mitch Cohen, Jennifer Babtist, Cindy Manion, Robert Prichard, Gary Schneider, Pat Ryan, Mark Torgl, Dick Martinsen
+
+synopsis:
+The film opens with Melvin Ferd, a scrawny janitor at the Tromaville Health Club, enduring constant harassment from the sadistic patrons Bozo, Slug, Wanda, and Julie. During a particularly cruel prank involving a pink tutu and a staged romantic encounter, Melvin crashes through a second-story window and falls into a drum of toxic waste. The chemicals transform him into a hideously deformed creature with superhuman strength and an insatiable desire for justice.
+Now calling himself the Toxic Avenger, Melvin begins systematically eliminating Tromaville's criminal element. His first victim is a drug dealer threatening children in a local park, whom Toxie dispatches by crushing his head with a barbell. This establishes his brutal methodology and unwavering moral code. He then targets a group of gang members terrorizing an elderly woman, demonstrating both his enhanced physical abilities and his commitment to protecting the innocent.
+Meanwhile, Toxie encounters Sarah, a blind librarian who cannot see his monstrous appearance. Their relationship develops naturally, with Sarah appreciating Melvin's gentle nature while remaining unaware of his vigilante activities. This romance provides emotional grounding as Toxie's body count rises and his methods become increasingly extreme.
+Mayor Belgoody, deeply corrupt and connected to various criminal enterprises, becomes alarmed by the Toxic Avenger's interference with his operations. He collaborates with crime boss Cigar Face and the original health club bullies to eliminate this threat to their profitable corruption. Their investigation leads them to discover Toxie's true identity and his relationship with Sarah.
+The climax occurs when Belgoody's forces kidnap Sarah to draw out the Toxic Avenger. The final confrontation takes place at the health club where Melvin's transformation began, creating a symbolic circle. Toxie systematically eliminates his enemies, with Bozo meeting his end in the same toxic waste that created the monster. Julie and Wanda are dispatched through various creative means involving gym equipment, while Slug faces a particularly gruesome fate involving a car.
+Mayor Belgoody attempts to escape but encounters Toxie in the town square, where his corruption is exposed before the assembled citizens. The mayor's death serves as both personal revenge and public justice, cleansing Tromaville of its most prominent source of decay. The film concludes with Toxie and Sarah embracing as the townspeople celebrate their new protector, establishing the monster as Tromaville's permanent guardian against crime and corruption.
+The resolution suggests that environmental disaster, rather than destroying society, has created the perfect antidote to urban decay, with Toxie representing nature's violent response to human negligence and moral failure.

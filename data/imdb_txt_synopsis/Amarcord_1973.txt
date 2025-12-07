@@ -1,0 +1,10 @@
+movieId: 7089
+title: Amarcord
+year: 1973
+url: https://www.imdb.com/title/tt0071129/
+ratingValue: 
+directors: Federico Fellini
+actors: Pupella Maggio, Armando Brancia, Magali Noël, Ciccio Ingrassia, Nando Orfei, Luigi Rossi, Bruno Zanin, Gianfilippo Carcano, Josiane Tanzilli, Maria Antonietta Beluzzi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

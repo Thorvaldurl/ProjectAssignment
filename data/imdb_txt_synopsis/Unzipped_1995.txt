@@ -1,0 +1,10 @@
+movieId: 206
+title: Unzipped
+year: 1995
+url: https://www.imdb.com/title/tt0114805/
+ratingValue: 
+directors: Douglas Keeve
+actors: Isaac Mizrahi, Roseanne Barr, Sandra Bernhard, Robert Best, Natane Boudreau, Carla Bruni, Naomi Campbell, Helena Christensen, Cindy Crawford
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 901
+title: Funny Face
+year: 1957
+url: https://www.imdb.com/title/tt0050419/
+ratingValue: 
+directors: Stanley Donen
+actors: Audrey Hepburn, Fred Astaire, Kay Thompson, Michel Auclair, Robert Flemyng, Dovima, Suzy Parker, Sunny Hartnett, Jean Del Val, Virginia Gibson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

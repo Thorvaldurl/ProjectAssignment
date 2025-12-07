@@ -1,0 +1,10 @@
+movieId: 612
+title: The Pallbearer
+year: 1996
+url: https://www.imdb.com/title/tt0117283/
+ratingValue: 
+directors: Matt Reeves
+actors: David Schwimmer, Gwyneth Paltrow, Michael Rapaport, Toni Collette, Carol Kane, Michael Vartan, Bitty Schram, Jean De Baer, Elizabeth Franz, Mark Margolis
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

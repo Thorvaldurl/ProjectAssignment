@@ -1,0 +1,10 @@
+movieId: 2693
+title: Trekkies
+year: 1997
+url: https://www.imdb.com/title/tt0120370/
+ratingValue: 
+directors: Roger Nygard
+actors: Denise Crosby, Barbara Adams, Denis Bourguignon, David Greenstein, Laurel Greenstein, Gabriel Köerner, Richard Koerner, Rich Kronfeld, Joyce Mason
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

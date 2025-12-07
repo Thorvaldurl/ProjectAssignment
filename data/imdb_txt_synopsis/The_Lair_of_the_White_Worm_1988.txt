@@ -1,0 +1,10 @@
+movieId: 4518
+title: The Lair of the White Worm
+year: 1988
+url: https://www.imdb.com/title/tt0095488/
+ratingValue: 
+directors: Ken Russell
+actors: Amanda Donohoe, Hugh Grant, Catherine Oxenberg, Peter Capaldi, Sammi Davis, Stratford Johns, Paul Brooke, Imogen Claire, Chris Pitt, Gina McKee
+
+synopsis:
+Angus Flint [Peter Calfoldi] is an archeologist come to dig at the Bed & Breakfast inn run by the Trent sisters, Mary [Sammi Davis] and Eve [Catherine Oxenberg. Flint discovers some Roman coins and a strange skull, and he learns the local legend of how the D'Ampton family slew the white "worm", actually a snake or dragon. Legend also has it that the lair of the white worm is in Stonerigg Cavern, where the watch of the Trent sisters' father shows up a year after both he and wife disappeared near the Temple Mansion. When Lady Sylvia Marsh [Amanda Donohue] moves into the Mansion, people begin to disappear. Agnus, Mary, Eve, and their friend Lord James d'Ampton [Hugh Grant] search the canyon; Sylvia abducts Eve and prepares to sacrifice her to the worm, whom she calls the God Dionin. Angus and Mary save Eve and sacrifice Lady Sylvia instead. Unfortunately, Angus was bitten by Sylvia and the antidote he took turns out to be for arthritis.

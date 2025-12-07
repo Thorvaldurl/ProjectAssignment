@@ -1,0 +1,10 @@
+movieId: 2442
+title: Hilary and Jackie
+year: 1998
+url: https://www.imdb.com/title/tt0150915/
+ratingValue: 
+directors: Anand Tucker
+actors: Emily Watson, Rachel Griffiths, James Frain, David Morrissey, Charles Dance, Celia Imrie, Rupert Penry-Jones, Bill Paterson, Auriol Evans, Keylee Jade Flanders
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

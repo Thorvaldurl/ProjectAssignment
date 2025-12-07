@@ -1,0 +1,10 @@
+movieId: 4741
+title: Together
+year: 2000
+url: https://www.imdb.com/title/tt0203166/
+ratingValue: 
+directors: Lukas Moodysson
+actors: Lisa Lindgren, Michael Nyqvist, Emma Samuelsson, Sam Kessel, Gustaf Hammarsten, Anja Lundqvist, Jessica Liedberg, Ola Rapace, Axel Zuber, Shanti Roney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

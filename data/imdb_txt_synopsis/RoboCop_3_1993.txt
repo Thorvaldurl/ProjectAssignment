@@ -1,0 +1,10 @@
+movieId: 519
+title: RoboCop 3
+year: 1993
+url: https://www.imdb.com/title/tt0107978/
+ratingValue: 
+directors: Fred Dekker
+actors: Robert John Burke, Mario Machado, Remy Ryan, Jodi Long, John Posey, Rip Torn, Mako, John Castle, S.D. Nemeth, Edith Ivey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

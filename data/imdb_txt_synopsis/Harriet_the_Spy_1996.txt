@@ -1,0 +1,10 @@
+movieId: 801
+title: Harriet the Spy
+year: 1996
+url: https://www.imdb.com/title/tt0116493/
+ratingValue: 
+directors: Bronwen Hughes
+actors: Michelle Trachtenberg, Gregory Smith, Vanessa Chester, Rosie O'Donnell, J. Smith-Cameron, Robert Joy, Eartha Kitt, Charlotte Sullivan, Teisha Kim, Cecilley Carroll
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

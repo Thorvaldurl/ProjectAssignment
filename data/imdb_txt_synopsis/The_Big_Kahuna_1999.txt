@@ -1,0 +1,10 @@
+movieId: 3566
+title: The Big Kahuna
+year: 1999
+url: https://www.imdb.com/title/tt0189584/
+ratingValue: 
+directors: John Swanbeck
+actors: Kevin Spacey, Danny DeVito, Peter Facinelli, Paul Dawson, Christopher Donahue, Spencer Kayden, Ron Komora, Frank L. Messina, George F. Miller
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4212
+title: Death on the Nile
+year: 1978
+url: https://www.imdb.com/title/tt0077413/
+ratingValue: 
+directors: John Guillermin
+actors: Peter Ustinov, Jane Birkin, Lois Chiles, Bette Davis, Mia Farrow, Jon Finch, Olivia Hussey, I.S. Johar, George Kennedy, Angela Lansbury
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

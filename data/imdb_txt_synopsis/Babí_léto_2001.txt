@@ -1,0 +1,10 @@
+movieId: 6688
+title: Babí léto
+year: 2001
+url: https://www.imdb.com/title/tt0286476/
+ratingValue: 
+directors: Vladimír Michálek
+actors: Vlastimil Brodský, Stella Zázvorková, Stanislav Zindulka, Ondrej Vetchý, Petra Spalková, Jirí Lábus, Zita Kabátová, Katerina Pindejová, Lubomír Kostelka, Juraj Johanides
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

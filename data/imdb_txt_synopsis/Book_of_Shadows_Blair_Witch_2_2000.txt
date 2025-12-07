@@ -1,0 +1,10 @@
+movieId: 3973
+title: Book of Shadows: Blair Witch 2
+year: 2000
+url: https://www.imdb.com/title/tt0229260/
+ratingValue: 
+directors: Joe Berlinger
+actors: Kurt Loder, Chuck Scarborough, Bruce D. Reed, Jeffrey Donovan, Joe Berlinger, Sara Phillips, Lynda Millard, Deb Burgoyne, Andrea Cox
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

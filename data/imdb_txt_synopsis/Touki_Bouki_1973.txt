@@ -1,0 +1,10 @@
+movieId: 773
+title: Touki Bouki
+year: 1973
+url: https://www.imdb.com/title/tt0070820/
+ratingValue: 
+directors: Djibril Diop Mambéty
+actors: Magaye Niang, Myriam Niang, Christoph Colomb, Moustapha Touré, Aminata Fall, Ousseynou Diop, Fernand Dalfin, Al Demba, Dieynaba Dieng, Assane Faye
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3303
+title: Black Tar Heroin: The Dark End of the Street
+year: 2000
+url: https://www.imdb.com/title/tt0221023/
+ratingValue: 
+directors: Steven Okazaki
+actors: Tracey Helton, Alice McMunn, Jessica Snow
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

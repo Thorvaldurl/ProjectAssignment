@@ -1,0 +1,10 @@
+movieId: 3070
+title: The Adventures of Buckaroo Banzai Across the 8th Dimension
+year: 1984
+url: https://www.imdb.com/title/tt0086856/
+ratingValue: 
+directors: W.D. Richter
+actors: Peter Weller, John Lithgow, Ellen Barkin, Jeff Goldblum, Christopher Lloyd, Lewis Smith, Rosalind Cash, Robert Ito, Pepe Serna, Ronald Lacey
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

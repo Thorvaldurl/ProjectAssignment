@@ -1,0 +1,10 @@
+movieId: 5456
+title: Wagons East
+year: 1994
+url: https://www.imdb.com/title/tt0111653/
+ratingValue: 
+directors: Peter Markle
+actors: Joe Bays, Abraham Benrubi, Jill Boyd, John Candy, Douglas Carlson, Melinda Culea, Ryan Cutrona, Bud Davis, Billy Daydoge, Thomas F. Duffy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

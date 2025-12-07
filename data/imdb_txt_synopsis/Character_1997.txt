@@ -1,0 +1,10 @@
+movieId: 1860
+title: Character
+year: 1997
+url: https://www.imdb.com/title/tt0119448/
+ratingValue: 
+directors: Mike van Diem
+actors: Jan Decleir, Fedja van Huêt, Betty Schuurman, Tamar van den Dop, Victor Löw, Hans Kesting, Lou Landré, Bernard Droog, Frans Vorstman, Fred Goessens
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

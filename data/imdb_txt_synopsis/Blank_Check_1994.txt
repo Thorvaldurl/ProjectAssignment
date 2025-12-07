@@ -1,0 +1,10 @@
+movieId: 2036
+title: Blank Check
+year: 1994
+url: https://www.imdb.com/title/tt0109287/
+ratingValue: 
+directors: Rupert Wainwright
+actors: Brian Bonsall, Karen Duffy, James Rebhorn, Jayne Atkinson, Michael Faustino, Chris Demetral, Miguel Ferrer, Michael Lerner, Tone Loc, Rick Ducommun
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

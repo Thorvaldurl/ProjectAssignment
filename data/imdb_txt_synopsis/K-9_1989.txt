@@ -1,0 +1,10 @@
+movieId: 4613
+title: K-9
+year: 1989
+url: https://www.imdb.com/title/tt0097637/
+ratingValue: 
+directors: Rod Daniel
+actors: Jim Belushi, Mel Harris, Kevin Tighe, Ed O'Neill, Rando, James Handy, Daniel Davis, Cotter Smith, John Snyder, Pruitt Taylor Vince
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

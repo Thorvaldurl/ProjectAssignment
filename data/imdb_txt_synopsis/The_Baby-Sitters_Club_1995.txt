@@ -1,0 +1,10 @@
+movieId: 343
+title: The Baby-Sitters Club
+year: 1995
+url: https://www.imdb.com/title/tt0112435/
+ratingValue: 
+directors: Melanie Mayron
+actors: Schuyler Fisk, Bre Blair, Rachael Leigh Cook, Larisa Oleynik, Tricia Joe, Stacy Linn Ramsower, Zelda Harris, Vanessa Zima, Christian Oliver, Brooke Adams
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

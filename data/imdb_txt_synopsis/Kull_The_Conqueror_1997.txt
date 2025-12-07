@@ -1,0 +1,10 @@
+movieId: 1606
+title: Kull: The Conqueror
+year: 1997
+url: https://www.imdb.com/title/tt0119484/
+ratingValue: 
+directors: John Nicolella
+actors: Kevin Sorbo, Tia Carrere, Thomas Ian Griffith, Litefoot, Roy Brocksmith, Harvey Fierstein, Karina Lombard, Edward Tudor-Pole, Douglas Henshall, Joe Shaw
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

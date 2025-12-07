@@ -1,0 +1,10 @@
+movieId: 2874
+title: The Pajama Game
+year: 1957
+url: https://www.imdb.com/title/tt0050814/
+ratingValue: 
+directors: George Abbott, Stanley Donen
+actors: Doris Day, John Raitt, Carol Haney, Eddie Foy Jr., Reta Shaw, Barbara Nichols, Thelma Pelish, Jack Straw, Ralph Dunn, Owen Martin
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

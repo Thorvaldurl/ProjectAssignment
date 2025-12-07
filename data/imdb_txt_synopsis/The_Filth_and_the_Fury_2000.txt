@@ -1,0 +1,10 @@
+movieId: 3539
+title: The Filth and the Fury
+year: 2000
+url: https://www.imdb.com/title/tt0236216/
+ratingValue: 
+directors: Julien Temple
+actors: Paul Cook, Steve Jones, John Lydon, Glen Matlock, Sid Vicious, Malcolm McLaren, David Bowie, Alice Cooper, Stewart Copeland, Ronnie Corbett
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

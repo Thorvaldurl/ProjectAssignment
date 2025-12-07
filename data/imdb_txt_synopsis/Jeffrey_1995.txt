@@ -1,0 +1,10 @@
+movieId: 171
+title: Jeffrey
+year: 1995
+url: https://www.imdb.com/title/tt0113464/
+ratingValue: 
+directors: Christopher Ashley
+actors: Steven Weber, Peter Jacobson, Tom Cayler, David Thornton, Lee Mark Nelson, John Ganun, Michael T. Weiss, Joe Dain, Jeffrey Ross, Irma St. Paule
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

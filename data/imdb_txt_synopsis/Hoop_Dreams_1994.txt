@@ -1,0 +1,10 @@
+movieId: 246
+title: Hoop Dreams
+year: 1994
+url: https://www.imdb.com/title/tt0110057/
+ratingValue: 
+directors: Steve James
+actors: William Gates, Arthur Agee, Emma Gates, Curtis Gates, Sheila Agee, Arthur 'Bo' Agee, Earl Smith, Gene Pingatore, Isiah Thomas
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

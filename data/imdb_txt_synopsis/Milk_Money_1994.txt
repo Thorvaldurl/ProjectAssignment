@@ -1,0 +1,10 @@
+movieId: 276
+title: Milk Money
+year: 1994
+url: https://www.imdb.com/title/tt0110516/
+ratingValue: 
+directors: Richard Benjamin
+actors: Melanie Griffith, Ed Harris, Michael Patrick Carter, Malcolm McDowell, Anne Heche, Casey Siemaszko, Philip Bosco, Brian Christopher, Adam LaVorgna, Kevin Scannell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

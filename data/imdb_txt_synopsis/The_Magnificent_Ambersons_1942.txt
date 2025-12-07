@@ -1,0 +1,10 @@
+movieId: 5177
+title: The Magnificent Ambersons
+year: 1942
+url: https://www.imdb.com/title/tt0035015/
+ratingValue: 
+directors: Orson Welles, Fred Fleck, Robert Wise
+actors: Joseph Cotten, Dolores Costello, Anne Baxter, Tim Holt, Agnes Moorehead, Ray Collins, Erskine Sanford, Richard Bennett, Orson Welles, Edwin August
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

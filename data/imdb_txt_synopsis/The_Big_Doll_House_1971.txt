@@ -1,0 +1,10 @@
+movieId: 5156
+title: The Big Doll House
+year: 1971
+url: https://www.imdb.com/title/tt0066830/
+ratingValue: 
+directors: Jack Hill
+actors: Judith Brown, Roberta Collins, Pam Grier, Brooke Mills, Pat Woodell, Sid Haig, Christiane Schmidtmer, Kathryn Loder, Jerry Franks, Gina Stuart
+
+synopsis:
+Female prisoners in a Phillippine jail are being subjected to sadistic torture. Five of the women--along with the help of two men--plot an escape. (Josiah Howard, "Blaxploitation Cinema: The Essential Reference Guide.")

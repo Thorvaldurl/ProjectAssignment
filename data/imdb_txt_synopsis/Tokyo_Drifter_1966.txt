@@ -1,0 +1,10 @@
+movieId: 26159
+title: Tokyo Drifter
+year: 1966
+url: https://www.imdb.com/title/tt0061101/
+ratingValue: 
+directors: Seijun Suzuki
+actors: Tetsuya Watari, Chieko Matsubara, Hideaki Nitani, Tamio Kawachi, Ryûji Kita, Eiji Gô, Isao Tamagawa, Eimei Esumi, Tomoko Hamakawa, Takeshi Yoshida
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

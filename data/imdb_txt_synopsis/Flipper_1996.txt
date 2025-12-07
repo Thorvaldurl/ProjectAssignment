@@ -1,0 +1,10 @@
+movieId: 711
+title: Flipper
+year: 1996
+url: https://www.imdb.com/title/tt0116322/
+ratingValue: 
+directors: Alan Shapiro
+actors: Elijah Wood, Paul Hogan, Jonathan Banks, Robert Deacon, Ann Carey, Mark Casella, Luke Halpin, Bill Kelley, Chelsea Field, Jason Fuchs
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 26158
+title: Closely Watched Trains
+year: 1966
+url: https://www.imdb.com/title/tt0060802/
+ratingValue: 
+directors: Jirí Menzel
+actors: Václav Neckár, Josef Somr, Vlastimil Brodský, Vladimír Valenta, Alois Vachek, Ferdinand Kruta, Jitka Scoffin, Jitka Zelenohorská, Nada Urbánková, Libuse Havelková
+
+synopsis:
+The time is the 1940s, sometime during the period of the Nazi Occupation in Czechoslovakia and Milos Hrma (Vaclav Neckar) is telling the viewer about his ancestors and their working history, many of them loafers and incompetents. Milos states that he desires a job in which he will not have to do any work. Milos tells the story of one of his uncles who worked as a mentalist, and as the army stormed into the Czech town he stood before them mentally holding them back, upon which time the army promptly crush the uncle under their wheels and moved on. Among some of the facts of life that Milos learns are the way that men behave around women, specifically how men and women mate. Milos watches as a train dispatcher Hubicka (Josef Somr) seduces a young woman who visits the station. Milos is approached by Masa (Marie Jezkova) a young beautiful train conductor and whisked away for a weekend of sex. Milos, young and unknowing about the ways of mating, doesnt perform and under emotional anxiety tries to commit suicide. Attending therapy and readjusting, Milos returns to the station where he gets involved in the Czech underground, an organization planning to bomb a Nazi munitions train. When Hubicka is called before a group because he has been caught in a tryst with Holy Zdenka (Jitka Zelenohorska) a young woman, Milos takes action against the occupying army.

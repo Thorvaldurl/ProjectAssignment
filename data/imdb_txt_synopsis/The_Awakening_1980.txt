@@ -1,0 +1,10 @@
+movieId: 4715
+title: The Awakening
+year: 1980
+url: https://www.imdb.com/title/tt0080402/
+ratingValue: 
+directors: Mike Newell
+actors: Charlton Heston, Susannah York, Jill Townsend, Stephanie Zimbalist, Patrick Drury, Bruce Myers, Nadim Sawalha, Ian McDiarmid, Ahmed Osman, Miriam Margolyes
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

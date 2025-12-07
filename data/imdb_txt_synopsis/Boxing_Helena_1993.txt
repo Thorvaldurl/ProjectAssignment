@@ -1,0 +1,10 @@
+movieId: 427
+title: Boxing Helena
+year: 1993
+url: https://www.imdb.com/title/tt0106471/
+ratingValue: 
+directors: Jennifer Lynch
+actors: Julian Sands, Sherilyn Fenn, Bill Paxton, Kurtwood Smith, Art Garfunkel, Betsy Clark, Nicolette Scorsese, Meg Register, Bryan Travis Smith, Marla Levine
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

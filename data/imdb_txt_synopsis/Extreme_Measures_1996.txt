@@ -1,0 +1,10 @@
+movieId: 1003
+title: Extreme Measures
+year: 1996
+url: https://www.imdb.com/title/tt0116259/
+ratingValue: 
+directors: Michael Apted
+actors: Hugh Grant, Gene Hackman, Sarah Jessica Parker, David Morse, Bill Nunn, John Toles-Bey, Paul Guilfoyle, Debra Monk, Shaun Austin-Olsen, André De Shields
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 6554
+title: Garage Days
+year: 2002
+url: https://www.imdb.com/title/tt0280696/
+ratingValue: 
+directors: Alex Proyas
+actors: Kick Gurry, Maya Stange, Pia Miranda, Russell Dykstra, Brett Stiller, Chris Sadrinna, Andy Anderson, Marton Csokas, Yvette Duncan, Tiriel Mora
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

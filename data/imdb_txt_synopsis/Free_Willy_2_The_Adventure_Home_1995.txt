@@ -1,0 +1,10 @@
+movieId: 169
+title: Free Willy 2: The Adventure Home
+year: 1995
+url: https://www.imdb.com/title/tt0113114/
+ratingValue: 
+directors: Dwight H. Little
+actors: Jason James Richter, Francis Capra, Mary Kate Schellhardt, August Schellenberg, Michael Madsen, Jayne Atkinson, Mykelti Williamson, Elizabeth Peña, Jon Tenney, Paul Tuerpe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

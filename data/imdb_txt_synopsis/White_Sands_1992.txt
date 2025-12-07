@@ -1,0 +1,10 @@
+movieId: 3810
+title: White Sands
+year: 1992
+url: https://www.imdb.com/title/tt0105813/
+ratingValue: 
+directors: Roger Donaldson
+actors: Willem Dafoe, Mary Elizabeth Mastrantonio, Mickey Rourke, Samuel L. Jackson, M. Emmet Walsh, James Rebhorn, Maura Tierney, Beth Grant, Alexander Nicksay, Fredrick Lopez
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

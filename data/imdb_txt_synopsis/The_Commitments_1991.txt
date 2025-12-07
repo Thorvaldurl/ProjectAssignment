@@ -1,0 +1,10 @@
+movieId: 3060
+title: The Commitments
+year: 1991
+url: https://www.imdb.com/title/tt0101605/
+ratingValue: 
+directors: Alan Parker
+actors: Robert Arkins, Michael Aherne, Angeline Ball, Maria Doyle Kennedy, Dave Finnegan, Bronagh Gallagher, Félim Gormley, Glen Hansard, Dick Massey, Johnny Murphy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 4217
+title: 4 Little Girls
+year: 1997
+url: https://www.imdb.com/title/tt0118540/
+ratingValue: 
+directors: Spike Lee
+actors: Maxine McNair, Chris McNair, Helen Pegues, Queen Nunn, Arthur Hanes Jr., Howell Raines, Harold McNair, Carole C. Smitherman, Wamo Reed Robertson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

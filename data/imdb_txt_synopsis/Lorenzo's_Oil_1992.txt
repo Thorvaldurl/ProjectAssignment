@@ -1,0 +1,10 @@
+movieId: 7009
+title: Lorenzo's Oil
+year: 1992
+url: https://www.imdb.com/title/tt0104756/
+ratingValue: 
+directors: George Miller
+actors: Nick Nolte, Susan Sarandon, Peter Ustinov, Kathleen Wilhoite, Gerry Bamman, Margo Martindale, James Rebhorn, Ann Hearn, Maduka Steady, Mary Wakio
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

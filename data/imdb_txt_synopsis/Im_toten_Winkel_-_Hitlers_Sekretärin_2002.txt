@@ -1,0 +1,10 @@
+movieId: 6042
+title: Im toten Winkel - Hitlers Sekretärin
+year: 2002
+url: https://www.imdb.com/title/tt0311320/
+ratingValue: 
+directors: André Heller, Othmar Schmiderer
+actors: Traudl Junge
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

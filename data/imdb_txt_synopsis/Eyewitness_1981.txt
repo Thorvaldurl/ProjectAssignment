@@ -1,0 +1,10 @@
+movieId: 5733
+title: Eyewitness
+year: 1981
+url: https://www.imdb.com/title/tt0082353/
+ratingValue: 
+directors: Peter Yates
+actors: William Hurt, Sigourney Weaver, Christopher Plummer, James Woods, Irene Worth, Kenneth McMillan, Pamela Reed, Albert Paulsen, Steven Hill, Morgan Freeman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

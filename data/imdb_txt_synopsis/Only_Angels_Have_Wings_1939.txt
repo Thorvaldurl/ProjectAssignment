@@ -1,0 +1,10 @@
+movieId: 2847
+title: Only Angels Have Wings
+year: 1939
+url: https://www.imdb.com/title/tt0031762/
+ratingValue: 
+directors: Howard Hawks
+actors: Cary Grant, Jean Arthur, Richard Barthelmess, Rita Hayworth, Thomas Mitchell, Allyn Joslyn, Sig Ruman, Victor Kilian, John Carroll, Don 'Red' Barry
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

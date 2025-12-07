@@ -1,0 +1,10 @@
+movieId: 8484
+title: The Human Condition I: No Greater Love
+year: 1959
+url: https://www.imdb.com/title/tt0053114/
+ratingValue: 
+directors: Masaki Kobayashi
+actors: Tatsuya Nakadai, Michiyo Aratama, Chikage Awashima, Ineko Arima, Keiji Sada, Sô Yamamura, Akira Ishihama, Kôji Nanbara, Seiji Miyaguchi, Tôru Abe
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

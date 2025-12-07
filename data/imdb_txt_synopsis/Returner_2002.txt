@@ -1,0 +1,10 @@
+movieId: 6882
+title: Returner
+year: 2002
+url: https://www.imdb.com/title/tt0339579/
+ratingValue: 
+directors: Takashi Yamazaki
+actors: Takeshi Kaneshiro, Anne Suzuki, Kirin Kiki, Gorô Kishitani, Yukiko Okamoto, Mitsu Murata, Kisuke Iida, Kazuya Shimizu, Chiharu Kawai, Dean Harrington
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

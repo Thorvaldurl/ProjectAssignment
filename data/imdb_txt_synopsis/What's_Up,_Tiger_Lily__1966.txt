@@ -1,0 +1,10 @@
+movieId: 6584
+title: What's Up, Tiger Lily?
+year: 1966
+url: https://www.imdb.com/title/tt0061177/
+ratingValue: 
+directors: Woody Allen, Senkichi Taniguchi
+actors: Woody Allen, The Lovin' Spoonful, Frank Buxton, Louise Lasser, Julie Bennett, Len Maxwell, Mickey Rose, Bryna Wilson, Tatsuya Mihashi
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

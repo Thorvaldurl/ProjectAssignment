@@ -1,0 +1,10 @@
+movieId: 7411
+title: Munchies
+year: 1987
+url: https://www.imdb.com/title/tt0093582/
+ratingValue: 
+directors: Tina Hirsch
+actors: Harvey Korman, Charlie Stratton, Nadine Van der Velde, Alix Elias, Charlie Phillips, Hardy Rawls, Jon Stafford, Robert Picardo, Wendy Schaal, Scott Sherk
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3989
+title: One Day in September
+year: 1999
+url: https://www.imdb.com/title/tt0230591/
+ratingValue: 
+directors: Kevin Macdonald
+actors: Michael Douglas, Ankie Spitzer, Jamal Al Gashey, Gerald Seymour, Gad Zahari, Shmuel Lalkin, Manfred Schreiber, Walter Troger, Ulrich K. Wegener
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

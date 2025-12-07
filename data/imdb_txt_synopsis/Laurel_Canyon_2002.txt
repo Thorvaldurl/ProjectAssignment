@@ -1,0 +1,10 @@
+movieId: 6215
+title: Laurel Canyon
+year: 2002
+url: https://www.imdb.com/title/tt0298408/
+ratingValue: 
+directors: Lisa Cholodenko
+actors: Frances McDormand, Christian Bale, Kate Beckinsale, Natascha McElhone, Alessandro Nivola, Lou Barlow, Russell Pollard, Imaad Wasif, Mickey Petralia, Melissa De Sousa
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1399
+title: Marvin's Room
+year: 1996
+url: https://www.imdb.com/title/tt0116999/
+ratingValue: 
+directors: Jerry Zaks
+actors: Meryl Streep, Leonardo DiCaprio, Diane Keaton, Robert De Niro, Hume Cronyn, Gwen Verdon, Hal Scardino, Dan Hedaya, Margo Martindale, Cynthia Nixon
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

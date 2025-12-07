@@ -1,0 +1,10 @@
+movieId: 668
+title: Pather Panchali
+year: 1955
+url: https://www.imdb.com/title/tt0048473/
+ratingValue: 
+directors: Satyajit Ray
+actors: Kanu Bannerjee, Karuna Bannerjee, Chunibala Devi, Uma Das Gupta, Subir Banerjee, Runki Banerjee, Reba Devi, Aparna Devi, Tulsi Chakraborty
+
+synopsis:
+(Previous content of this page was removed due to copyright concerns; the synopsis had been taken from Wikipedia. Please feel free to replace this notice with a legitimate synopsis of this film. Thanks.)

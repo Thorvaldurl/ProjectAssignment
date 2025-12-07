@@ -1,0 +1,10 @@
+movieId: 1140
+title: Entertaining Angels: The Dorothy Day Story
+year: 1996
+url: https://www.imdb.com/title/tt0116212/
+ratingValue: 
+directors: Michael Ray Rhodes
+actors: Moira Kelly, Martin Sheen, Lenny von Dohlen, Melinda Dillon, Paul Lieber, Heather Graham, Boyd Kestner, James Lancaster, Geoffrey Blake, Brian Keith
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

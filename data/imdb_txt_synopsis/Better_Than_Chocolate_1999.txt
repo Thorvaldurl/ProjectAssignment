@@ -1,0 +1,10 @@
+movieId: 2774
+title: Better Than Chocolate
+year: 1999
+url: https://www.imdb.com/title/tt0168987/
+ratingValue: 
+directors: Anne Wheeler
+actors: Wendy Crewson, Karyn Dwyer, Christina Cox, Ann-Marie MacDonald, Marya Delver, Kevin Mundy, Tony Nappo, Jay Brazeau, Beatrice Zeilinger, Peter Outerbridge
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

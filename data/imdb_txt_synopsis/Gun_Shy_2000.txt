@@ -1,0 +1,10 @@
+movieId: 3276
+title: Gun Shy
+year: 2000
+url: https://www.imdb.com/title/tt0171356/
+ratingValue: 
+directors: Eric Blakeney
+actors: Liam Neeson, Oliver Platt, José Zúñiga, Michael DeLorenzo, Andy Lauer, Richard Schiff, Paul Ben-Victor, Gregg Daniel, Ben Weber, Sandra Bullock
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

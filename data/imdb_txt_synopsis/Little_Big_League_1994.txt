@@ -1,0 +1,10 @@
+movieId: 569
+title: Little Big League
+year: 1994
+url: https://www.imdb.com/title/tt0110363/
+ratingValue: 
+directors: Andrew Scheinman
+actors: Luke Edwards, Timothy Busfield, John Ashton, Ashley Crow, Kevin Dunn, Billy L. Sullivan, Miles Feulner, Jonathan Silverman, Dennis Farina, Jason Robards
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

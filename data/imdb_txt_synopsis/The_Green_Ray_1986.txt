@@ -1,0 +1,10 @@
+movieId: 6644
+title: The Green Ray
+year: 1986
+url: https://www.imdb.com/title/tt0091830/
+ratingValue: 
+directors: Éric Rohmer
+actors: Marie Rivière, Amira Chemakhi, Sylvie Richez, María Luisa García, Basile Gervaise, Virginie Gervaise, René Hernandez, Dominique Rivière, Claude Jullien
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

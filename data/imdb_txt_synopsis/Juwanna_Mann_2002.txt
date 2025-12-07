@@ -1,0 +1,10 @@
+movieId: 5443
+title: Juwanna Mann
+year: 2002
+url: https://www.imdb.com/title/tt0247444/
+ratingValue: 
+directors: Jesse Vaughan
+actors: Miguel A. Núñez Jr., Vivica A. Fox, Kevin Pollak, Tommy Davidson, Kim Wayans, Jenifer Lewis, Ginuwine, Lil' Kim, Annie Corley, Tammi Reiss
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

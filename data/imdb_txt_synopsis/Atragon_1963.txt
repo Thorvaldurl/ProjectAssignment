@@ -1,0 +1,10 @@
+movieId: 6654
+title: Atragon
+year: 1963
+url: https://www.imdb.com/title/tt0057215/
+ratingValue: 
+directors: Ishirô Honda, Shûe Matsubayashi
+actors: Tadao Takashima, Yôko Fujiyama, Yû Fujiki, Kenji Sahara, Ken Uehara, Hiroshi Koizumi, Jun Tazaki, Yoshifumi Tajima, Akihiko Hirata, Hideyo Amamoto
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

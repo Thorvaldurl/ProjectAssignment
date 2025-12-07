@@ -1,0 +1,10 @@
+movieId: 3244
+title: The Goodbye Girl
+year: 1977
+url: https://www.imdb.com/title/tt0076095/
+ratingValue: 
+directors: Herbert Ross
+actors: Richard Dreyfuss, Marsha Mason, Quinn Cummings, Paul Benedict, Barbara Rhoades, Theresa Merritt, Michael Shawn, Patricia Pearcy, Gene Castle, Daniel Levins
+
+synopsis:
+Marsha Mason is known as "The Goodbye Girl" because of all the live-in boyfriends who have said ta-ta to her in the past few years. A former Broadway chorus dancer, the divorced Mason lives in the Manhattan apartment of her latest lost love with her daughter Quinn Cummings. Enter arrogant actor Richard Dreyfuss, who has subleased the apartment from Mason's former boyfriend and moves in bag and baggage in the middle of the night. Dreyfuss and Mason spend the next few weeks getting in each other's way and fighting like cats and dogs. The wind is taken out of Dreyfuss' sails when he opens in a production of Richard III, which has been sabotaged by the director (Paul Benjamin), who insists that Dreyfuss portrays Richard as a hip-swinging homosexual. The play closes after one performance, and the once-overconfident Dreyfuss goes on a self-pitying drunken binge. Touched by his vulnerability, Mason begins falling in love with Dreyfuss despite her lousy track record with men.

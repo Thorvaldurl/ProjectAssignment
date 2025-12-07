@@ -1,0 +1,10 @@
+movieId: 423
+title: Blown Away
+year: 1994
+url: https://www.imdb.com/title/tt0109303/
+ratingValue: 
+directors: Stephen Hopkins
+actors: Jeff Bridges, Tommy Lee Jones, Suzy Amis, Lloyd Bridges, Forest Whitaker, Stephi Lineburg, John Finn, Caitlin Clarke, Christofer de Oni, Loyd Catlett
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3091
+title: Kagemusha: The Shadow Warrior
+year: 1980
+url: https://www.imdb.com/title/tt0080979/
+ratingValue: 
+directors: Akira Kurosawa
+actors: Tatsuya Nakadai, Tsutomu Yamazaki, Ken'ichi Hagiwara, Jinpachi Nezu, Hideji Ôtaki, Daisuke Ryû, Masayuki Yui, Kaori Momoi, Mitsuko Baishô, Hideo Murota
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3099
+title: Shampoo
+year: 1975
+url: https://www.imdb.com/title/tt0073692/
+ratingValue: 
+directors: Hal Ashby
+actors: Warren Beatty, Julie Christie, Goldie Hawn, Lee Grant, Jack Warden, Tony Bill, George Furth, Jay Robinson, Ann Weldon, Luana Anders
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

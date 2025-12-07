@@ -1,0 +1,10 @@
+movieId: 1711
+title: Midnight in the Garden of Good and Evil
+year: 1997
+url: https://www.imdb.com/title/tt0119668/
+ratingValue: 
+directors: Clint Eastwood
+actors: John Cusack, Kevin Spacey, Jack Thompson, Irma P. Hall, Jude Law, Alison Eastwood, Paul Hipp, Lady Chablis, Dorothy Loudon, Anne Haney
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

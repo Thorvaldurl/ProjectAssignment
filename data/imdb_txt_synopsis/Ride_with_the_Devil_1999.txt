@@ -1,0 +1,10 @@
+movieId: 3117
+title: Ride with the Devil
+year: 1999
+url: https://www.imdb.com/title/tt0134154/
+ratingValue: 
+directors: Ang Lee
+actors: Tobey Maguire, Jeremy W. Auman, Scott Sener, Skeet Ulrich, Glenn Q. Pierce, Kathleen Warfel, David Darlow, Zan McLeod, John Whelan
+
+synopsis:
+A little-known band of Civil War fighters known as Bushwhackers, use guerrilla warfare to destroy Yankee targets.

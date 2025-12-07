@@ -1,0 +1,10 @@
+movieId: 2503
+title: The Apple
+year: 1998
+url: https://www.imdb.com/title/tt0156901/
+ratingValue: 
+directors: Samira Makhmalbaf
+actors: Massoumeh Naderi, Zahra Naderi, Ghorban Ali Naderi, Azizeh Mohamadi, Zahra Saghrisaz
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

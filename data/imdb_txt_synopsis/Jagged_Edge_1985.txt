@@ -1,0 +1,10 @@
+movieId: 3102
+title: Jagged Edge
+year: 1985
+url: https://www.imdb.com/title/tt0089360/
+ratingValue: 
+directors: Richard Marquand
+actors: Maria Mayenzet, Peter Coyote, Dave Austin, Richard Partlow, Lance Henriksen, William Allen Young, Ben Hammer, Jeff Bridges, James Karen, Sanford Jensen
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

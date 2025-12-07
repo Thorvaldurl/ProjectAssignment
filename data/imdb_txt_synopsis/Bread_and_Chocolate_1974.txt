@@ -1,0 +1,10 @@
+movieId: 615
+title: Bread and Chocolate
+year: 1974
+url: https://www.imdb.com/title/tt0070506/
+ratingValue: 
+directors: Franco Brusati
+actors: Nino Manfredi, Paolo Turco, Ugo D'Alessio, Tano Cimarosa, Gianfranco Barra, Giorgio Cerioni, Francesco D'Adda, Geoffrey Copleston, Federico Scrobogna
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

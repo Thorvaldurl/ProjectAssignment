@@ -1,0 +1,10 @@
+movieId: 6185
+title: Dark Blue
+year: 2002
+url: https://www.imdb.com/title/tt0279331/
+ratingValue: 
+directors: Ron Shelton
+actors: Kurt Russell, Scott Speedman, Michael Michele, Brendan Gleeson, Ving Rhames, Kurupt, Dash Mihok, Jonathan Banks, Lolita Davidovich, Khandi Alexander
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

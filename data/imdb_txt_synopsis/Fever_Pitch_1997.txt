@@ -1,0 +1,10 @@
+movieId: 2962
+title: Fever Pitch
+year: 1997
+url: https://www.imdb.com/title/tt0119114/
+ratingValue: 
+directors: David Evans
+actors: Luke Aikman, Bea Guard, Neil Pearson, Ruth Gemmell, Colin Firth, Richard Claxton, Ken Stott, Holly Aird, Mark Strong, Lorraine Ashbourne
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

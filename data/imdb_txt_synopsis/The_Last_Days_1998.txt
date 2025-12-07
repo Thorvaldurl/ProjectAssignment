@@ -1,0 +1,10 @@
+movieId: 2494
+title: The Last Days
+year: 1998
+url: https://www.imdb.com/title/tt0174852/
+ratingValue: 
+directors: James Moll
+actors: Bill Basch, Martin Basch, Randolph Braham, Alice Lok Cahana, Michael Cahana, Warren Dunn, Bernard Firestone, Renee Firestone, Dario Gabbai
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

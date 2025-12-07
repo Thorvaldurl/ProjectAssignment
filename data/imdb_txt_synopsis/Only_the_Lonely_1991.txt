@@ -1,0 +1,10 @@
+movieId: 7015
+title: Only the Lonely
+year: 1991
+url: https://www.imdb.com/title/tt0102598/
+ratingValue: 
+directors: Chris Columbus
+actors: John Candy, Maureen O'Hara, Ally Sheedy, Kevin Dunn, Milo O'Shea, Bert Remsen, Anthony Quinn, Jim Belushi, Joe Greco, Marvin J. McIntyre
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

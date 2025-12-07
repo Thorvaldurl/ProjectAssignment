@@ -1,0 +1,10 @@
+movieId: 45
+title: To Die For
+year: 1995
+url: https://www.imdb.com/title/tt0114681/
+ratingValue: 
+directors: Gus Van Sant
+actors: Nicole Kidman, Matt Dillon, Joaquin Phoenix, Casey Affleck, Illeana Douglas, Alison Folland, Dan Hedaya, Wayne Knight, Kurtwood Smith, Holland Taylor
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

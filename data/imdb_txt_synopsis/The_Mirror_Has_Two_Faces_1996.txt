@@ -1,0 +1,10 @@
+movieId: 1353
+title: The Mirror Has Two Faces
+year: 1996
+url: https://www.imdb.com/title/tt0117057/
+ratingValue: 
+directors: Barbra Streisand
+actors: Barbra Streisand, Jeff Bridges, Lauren Bacall, George Segal, Mimi Rogers, Pierce Brosnan, Brenda Vaccaro, Austin Pendleton, Elle Macpherson, Ali Marsh
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

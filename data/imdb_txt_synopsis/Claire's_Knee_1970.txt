@@ -1,0 +1,10 @@
+movieId: 26225
+title: Claire's Knee
+year: 1970
+url: https://www.imdb.com/title/tt0065772/
+ratingValue: 
+directors: Éric Rohmer
+actors: Jean-Claude Brialy, Aurora Cornu, Béatrice Romand, Laurence de Monaghan, Michèle Montel, Gérard Falconetti, Fabrice Luchini, Sandra Franchina
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

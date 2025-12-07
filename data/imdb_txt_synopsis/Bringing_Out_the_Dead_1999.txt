@@ -1,0 +1,10 @@
+movieId: 2976
+title: Bringing Out the Dead
+year: 1999
+url: https://www.imdb.com/title/tt0163988/
+ratingValue: 
+directors: Martin Scorsese
+actors: Nicolas Cage, Patricia Arquette, John Goodman, Ving Rhames, Tom Sizemore, Marc Anthony, Mary Beth Hurt, Cliff Curtis, Nestor Serrano, Aida Turturro
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 3046
+title: The Incredibly True Adventure of Two Girls in Love
+year: 1995
+url: https://www.imdb.com/title/tt0113416/
+ratingValue: 
+directors: Maria Maggenti
+actors: Laurel Holloman, Maggie Moore, Kate Stafford, Sabrina Artel, Toby Poser, Nelson Edwin Rodríguez, Dale Dickey, Nicole Ari Parker, Andrew Wright
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

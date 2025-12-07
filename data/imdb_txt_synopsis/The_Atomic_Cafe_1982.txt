@@ -1,0 +1,10 @@
+movieId: 5288
+title: The Atomic Cafe
+year: 1982
+url: https://www.imdb.com/title/tt0083590/
+ratingValue: 
+directors: Jayne Loader, Kevin Rafferty, Pierce Rafferty
+actors: Paul Tibbets, Harry S. Truman, W.H.P. Blandy, Brien McMahon, Lloyd Bentsen, Owen Brewster, Julius Rosenberg, Ethel Rosenberg, Val Peterson
+
+synopsis:
+A heartbreaking account of the true cost (in hindsight) of the US's cold war struggle to achieve parity with the Soviet Union (which achieved the first hydrogen bomb), through first-hand accounts from residents in southern Utah, intermixed with contemporary federal public service announcements which are truly disturbing to modern viewers. The secrecy surrounding the effects of nuclear pollution reaches even 30 years later. A heartbreaking exposé of 1950's US government decision to expose thousands of people to unknown risks, even to their third generation of descendants.

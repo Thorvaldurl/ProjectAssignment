@@ -1,0 +1,10 @@
+movieId: 7782
+title: Sniper
+year: 1993
+url: https://www.imdb.com/title/tt0108171/
+ratingValue: 
+directors: Luis Llosa
+actors: Tom Berenger, Billy Zane, J.T. Walsh, Aden Young, Kenneth Radley, Reynaldo Arenas, Gary Swanson, Hank Garrett, Frederick Miragliotta, Vanessa Steele
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

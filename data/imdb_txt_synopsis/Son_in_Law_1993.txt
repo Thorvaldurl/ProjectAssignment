@@ -1,0 +1,10 @@
+movieId: 542
+title: Son in Law
+year: 1993
+url: https://www.imdb.com/title/tt0108186/
+ratingValue: 
+directors: Steve Rash
+actors: Pauly Shore, Carla Gugino, Lane Smith, Cindy Pickett, Mason Adams, Patrick Renna, Dennis Burkley, Tiffani Thiessen, Dan Gauthier, Ria Pavia
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

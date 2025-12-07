@@ -1,0 +1,10 @@
+movieId: 7086
+title: Pygmalion
+year: 1938
+url: https://www.imdb.com/title/tt0030637/
+ratingValue: 
+directors: Anthony Asquith, Leslie Howard
+actors: Leslie Howard, Wendy Hiller, Wilfrid Lawson, Marie Lohr, Scott Sunderland, Jean Cadell, David Tree, Everley Gregg, Leueen MacGrath, Esme Percy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

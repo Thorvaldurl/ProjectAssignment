@@ -1,0 +1,10 @@
+movieId: 907
+title: The Gay Divorcee
+year: 1934
+url: https://www.imdb.com/title/tt0025164/
+ratingValue: 
+directors: Mark Sandrich
+actors: Fred Astaire, Ginger Rogers, Alice Brady, Edward Everett Horton, Erik Rhodes, Eric Blore, Lillian Miles, Charles Coleman, William Austin, Betty Grable
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

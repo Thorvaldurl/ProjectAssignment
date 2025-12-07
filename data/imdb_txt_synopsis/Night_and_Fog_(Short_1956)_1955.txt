@@ -1,0 +1,10 @@
+movieId: 26003
+title: Night and Fog (Short 1956)
+year: 1955
+url: https://www.imdb.com/title/tt0048434/
+ratingValue: 
+directors: Alain Resnais
+actors: Michel Bouquet, Reinhard Heydrich, Heinrich Himmler, Adolf Hitler, Julius Streicher
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

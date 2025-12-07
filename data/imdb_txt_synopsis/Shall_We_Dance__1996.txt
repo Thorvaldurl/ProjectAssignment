@@ -1,0 +1,10 @@
+movieId: 1537
+title: Shall We Dance?
+year: 1996
+url: https://www.imdb.com/title/tt0117615/
+ratingValue: 
+directors: Masayuki Suô
+actors: Kôji Yakusho, Tamiyo Kusakari, Naoto Takenaka, Eri Watanabe, Yû Tokui, Hiromasa Taguchi, Reiko Kusamura, Hideko Hara, Hiroshi Miyasaka
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

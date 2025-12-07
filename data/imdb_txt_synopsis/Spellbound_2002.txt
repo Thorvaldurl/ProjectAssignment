@@ -1,0 +1,10 @@
+movieId: 6331
+title: Spellbound
+year: 2002
+url: https://www.imdb.com/title/tt0334405/
+ratingValue: 
+directors: Jeffrey Blitz
+actors: Angela Arenivar, Ubaldo Arenivar, Jorge Arenivar, Scott McGarraugh, Lindy McGarraugh, Concepción Arenivar, Mrs. Slaughter, Neelima Marupudi, Nupur Lala
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

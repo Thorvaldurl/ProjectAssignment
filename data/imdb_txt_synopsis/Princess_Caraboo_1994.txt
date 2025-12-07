@@ -1,0 +1,10 @@
+movieId: 580
+title: Princess Caraboo
+year: 1994
+url: https://www.imdb.com/title/tt0110892/
+ratingValue: 
+directors: Michael Austin
+actors: Jim Broadbent, Phoebe Cates, Wendy Hughes, Kevin Kline, John Lithgow, Stephen Rea, Peter Eyre, Jacqueline Pearce, Roger Lloyd Pack, John Wells
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

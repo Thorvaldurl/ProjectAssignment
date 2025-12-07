@@ -1,0 +1,10 @@
+movieId: 5505
+title: The Good Girl
+year: 2002
+url: https://www.imdb.com/title/tt0279113/
+ratingValue: 
+directors: Miguel Arteta
+actors: Jennifer Aniston, Deborah Rush, Mike White, John Carroll Lynch, Jake Gyllenhaal, Zooey Deschanel, John C. Reilly, Tim Blake Nelson, Jacquie Barnbrook, Annie O'Donnell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

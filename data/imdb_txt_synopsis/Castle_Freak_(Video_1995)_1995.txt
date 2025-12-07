@@ -1,0 +1,10 @@
+movieId: 220
+title: Castle Freak (Video 1995)
+year: 1995
+url: https://www.imdb.com/title/tt0112643/
+ratingValue: 
+directors: Stuart Gordon
+actors: Jeffrey Combs, Barbara Crampton, Jonathan Fuller, Jessica Dollarhide, Massimo Sarchielli, Elisabeth Kaza, Luca Zingaretti, Helen Stirling, Alessandro Sebastian Satta, Raffaella Offidani
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

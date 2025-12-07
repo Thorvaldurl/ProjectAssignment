@@ -1,0 +1,10 @@
+movieId: 2493
+title: The Harmonists
+year: 1997
+url: https://www.imdb.com/title/tt0128133/
+ratingValue: 
+directors: Joseph Vilsmaier
+actors: Ben Becker, Heino Ferch, Ulrich Noethen, Heinrich Schafmeister, Max Tidof, Kai Wiesinger, Meret Becker, Katja Riemann, Noemi Fischer, Dana Vávrová
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

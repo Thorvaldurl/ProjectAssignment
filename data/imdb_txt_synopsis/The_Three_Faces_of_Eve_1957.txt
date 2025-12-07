@@ -1,0 +1,10 @@
+movieId: 7493
+title: The Three Faces of Eve
+year: 1957
+url: https://www.imdb.com/title/tt0051077/
+ratingValue: 
+directors: Nunnally Johnson
+actors: Joanne Woodward, David Wayne, Lee J. Cobb, Edwin Jerome, Alena Murray, Nancy Kulp, Douglas Spencer, Terry Ann Ross, Ken Scott, Mimi Gibson
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 1426
+title: Zeus and Roxanne
+year: 1997
+url: https://www.imdb.com/title/tt0120550/
+ratingValue: 
+directors: George Miller
+actors: Steve Guttenberg, Kathleen Quinlan, Arnold Vosloo, Dawn McMillan, Miko Hughes, Majandra Delfino, Jessica Howell, Duchess Tomasello, Shannon K. Foley, Jim R. Coleman
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

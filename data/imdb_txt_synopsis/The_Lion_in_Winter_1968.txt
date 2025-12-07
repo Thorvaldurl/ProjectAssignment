@@ -1,0 +1,10 @@
+movieId: 4427
+title: The Lion in Winter
+year: 1968
+url: https://www.imdb.com/title/tt0063227/
+ratingValue: 
+directors: Anthony Harvey
+actors: Peter O'Toole, Katharine Hepburn, Anthony Hopkins, John Castle, Nigel Terry, Timothy Dalton, Jane Merrow, Nigel Stock, Kenneth Ives, O.Z. Whitehead
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

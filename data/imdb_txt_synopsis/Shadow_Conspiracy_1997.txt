@@ -1,0 +1,10 @@
+movieId: 1055
+title: Shadow Conspiracy
+year: 1997
+url: https://www.imdb.com/title/tt0120107/
+ratingValue: 
+directors: George P. Cosmatos
+actors: Charlie Sheen, Donald Sutherland, Linda Hamilton, Stephen Lang, Ben Gazzara, Nicholas Turturro, Stanley Anderson, Theodore Bikel, Charles Cioffi, Paul Gleason
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

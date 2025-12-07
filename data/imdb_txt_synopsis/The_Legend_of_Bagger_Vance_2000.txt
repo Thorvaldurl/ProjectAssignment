@@ -1,0 +1,10 @@
+movieId: 3978
+title: The Legend of Bagger Vance
+year: 2000
+url: https://www.imdb.com/title/tt0146984/
+ratingValue: 
+directors: Robert Redford
+actors: Will Smith, Matt Damon, Charlize Theron, Bruce McGill, Joel Gretsch, J. Michael Moncrief, Peter Gerety, Lane Smith, Michael O'Neill, Thomas Jay Ryan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

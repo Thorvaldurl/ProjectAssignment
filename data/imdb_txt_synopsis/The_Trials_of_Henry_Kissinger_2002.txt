@@ -1,0 +1,10 @@
+movieId: 5619
+title: The Trials of Henry Kissinger
+year: 2002
+url: https://www.imdb.com/title/tt0326306/
+ratingValue: 
+directors: Eugene Jarecki
+actors: Brian Cox, Henry Kissinger, Anna Chennault, Daniel Davidson, Amy Goodman, Alexander Haig, Seymour Hersh, Christopher Hitchens, Barbara Howar
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

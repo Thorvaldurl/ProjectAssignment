@@ -1,0 +1,10 @@
+movieId: 947
+title: My Man Godfrey
+year: 1936
+url: https://www.imdb.com/title/tt0028010/
+ratingValue: 
+directors: Gregory La Cava
+actors: William Powell, Carole Lombard, Alice Brady, Gail Patrick, Eugene Pallette, Jean Dixon, Alan Mowbray, Mischa Auer, Pat Flaherty, Robert Light
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

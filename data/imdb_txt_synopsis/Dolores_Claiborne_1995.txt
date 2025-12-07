@@ -1,0 +1,10 @@
+movieId: 230
+title: Dolores Claiborne
+year: 1995
+url: https://www.imdb.com/title/tt0109642/
+ratingValue: 
+directors: Taylor Hackford
+actors: Kathy Bates, Jennifer Jason Leigh, Judy Parfitt, Christopher Plummer, David Strathairn, Eric Bogosian, John C. Reilly, Ellen Muth, Bob Gunton, Roy Cooper
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

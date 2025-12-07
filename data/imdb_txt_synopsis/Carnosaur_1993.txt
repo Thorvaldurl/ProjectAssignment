@@ -1,0 +1,10 @@
+movieId: 3572
+title: Carnosaur
+year: 1993
+url: https://www.imdb.com/title/tt0106521/
+ratingValue: 
+directors: Darren Patrick Moloney, Adam Simon
+actors: Diane Ladd, Raphael Sbarge, Jennifer Runyon, Harrison Page, Ned Bellamy, Clint Howard, Frank Novak, Ed Williams, Andrew Magarian, Brent Hinkley
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

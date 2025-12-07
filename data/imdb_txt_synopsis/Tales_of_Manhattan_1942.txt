@@ -1,0 +1,10 @@
+movieId: 25887
+title: Tales of Manhattan
+year: 1942
+url: https://www.imdb.com/title/tt0035415/
+ratingValue: 
+directors: Julien Duvivier
+actors: Charles Boyer, Rita Hayworth, Ginger Rogers, Henry Fonda, Charles Laughton, Edward G. Robinson, Paul Robeson, Ethel Waters, Eddie 'Rochester' Anderson, Thomas Mitchell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

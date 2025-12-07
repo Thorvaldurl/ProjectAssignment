@@ -1,0 +1,10 @@
+movieId: 1891
+title: The Ugly
+year: 1997
+url: https://www.imdb.com/title/tt0120401/
+ratingValue: 
+directors: Scott Reynolds
+actors: Paolo Rotondo, Paul Glover, Chris Graham, Darien Takle, Rebecca Hobbs, Roy Ward, Cath McWhirter, Carolyn Beaver, Caelem Pope
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

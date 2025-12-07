@@ -1,0 +1,10 @@
+movieId: 1867
+title: Tarzan and the Lost City
+year: 1998
+url: https://www.imdb.com/title/tt0120856/
+ratingValue: 
+directors: Carl Schenkel
+actors: Casper Van Dien, Jane March, Steven Waddington, Winston Ntshona, Rapulana Seiphemo, Ian Roberts, Sean Taylor, Gys de Villiers, Russel Savadier, Paul Buckby
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

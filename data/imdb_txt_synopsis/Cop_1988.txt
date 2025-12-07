@@ -1,0 +1,10 @@
+movieId: 4093
+title: Cop
+year: 1988
+url: https://www.imdb.com/title/tt0092783/
+ratingValue: 
+directors: James B. Harris
+actors: James Woods, Lesley Ann Warren, Charles Durning, Charles Haid, Raymond J. Barry, Randi Brooks, Steven Lambert, Christopher Wynne, Jan McGill, Vicki Wauchope
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

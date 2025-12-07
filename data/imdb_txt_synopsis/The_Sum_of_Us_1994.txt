@@ -1,0 +1,10 @@
+movieId: 324
+title: The Sum of Us
+year: 1994
+url: https://www.imdb.com/title/tt0111309/
+ratingValue: 
+directors: Geoff Burton, Kevin Dowling
+actors: Jack Thompson, Russell Crowe, John Polson, Deborah Kennedy, Joss Moroney, Mitch Mathews, Julie Herbert, Des James, Mick Campbell
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

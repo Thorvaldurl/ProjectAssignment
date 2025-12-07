@@ -1,0 +1,10 @@
+movieId: 4663
+title: She's Out of Control
+year: 1989
+url: https://www.imdb.com/title/tt0098308/
+ratingValue: 
+directors: Stan Dragoti
+actors: Tony Danza, Catherine Hicks, Wallace Shawn, Dick O'Neill, Ami Dolenz, Laura Mooney-Hubbert, Derek McGrath, Dana Ashbrook, Matthew Perry, Lance Wilson-White
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

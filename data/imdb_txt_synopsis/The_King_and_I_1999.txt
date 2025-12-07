@@ -1,0 +1,10 @@
+movieId: 2559
+title: The King and I
+year: 1999
+url: https://www.imdb.com/title/tt0160429/
+ratingValue: 
+directors: Richard Rich
+actors: Miranda Richardson, Christiane Noll, Martin Vidnovic, Ian Richardson, Darrell Hammond, Allen D. Hong, David Burnham, Armi Arabe Abiera, Tracy Venner Warren
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

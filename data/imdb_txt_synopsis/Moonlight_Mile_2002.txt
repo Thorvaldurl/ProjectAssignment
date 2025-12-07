@@ -1,0 +1,10 @@
+movieId: 5625
+title: Moonlight Mile
+year: 2002
+url: https://www.imdb.com/title/tt0179098/
+ratingValue: 
+directors: Brad Silberling
+actors: Jake Gyllenhaal, Dustin Hoffman, Susan Sarandon, Alexia Landeau, Richard Messing, Lev Friedman, Bob Clendenin, Jim Fyfe, Mary Ellen Trainor, Richard Fancy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

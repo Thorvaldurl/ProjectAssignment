@@ -1,0 +1,10 @@
+movieId: 4686
+title: Weekend at Bernie's II
+year: 1993
+url: https://www.imdb.com/title/tt0108539/
+ratingValue: 
+directors: Robert Klane
+actors: Andrew McCarthy, Jonathan Silverman, Terry Kiser, Troy Byer, Barry Bostwick, Tom Wright, Steve James, Novella Nelson, Phil Coccioletti, Gary Dourdan
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

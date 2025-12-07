@@ -1,0 +1,10 @@
+movieId: 2596
+title: SLC Punk!
+year: 1998
+url: https://www.imdb.com/title/tt0133189/
+ratingValue: 
+directors: James Merendino
+actors: Matthew Lillard, Michael A. Goorjian, Annabeth Gish, Jennifer Lien, Christopher McDonald, Devon Sawa, Jason Segel, Adam Pascal, Til Schweiger, James Duval
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.

@@ -1,0 +1,10 @@
+movieId: 2419
+title: Extremities
+year: 1986
+url: https://www.imdb.com/title/tt0091024/
+ratingValue: 
+directors: Robert M. Young
+actors: Farrah Fawcett, James Russo, Alfre Woodard, Diana Scarwid, Sandy Martin, Eddie Velez, Tom Everett, Donna Lynn Leavy, Enid Kent, Michael Hennessy
+
+synopsis:
+It looks like we don't have any synopsis for this title yet. Be the first to contribute.
